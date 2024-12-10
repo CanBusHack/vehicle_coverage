@@ -1,0 +1,416 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Bmw '4 Series' (2023)
+Signals:
+	Ambient Air Pressure
+	Ambient Air Temp
+	Auto Start Stop Off
+	Average Fuel Consumption Unit
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Cruise Control And Limiter Set Speed
+	Cruise Control Enabled
+	Cruise Control System On
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Distance Units Kilometers
+	Distance Units Miles Selected
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Open
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Drive Mode
+	Driver Seatbelt Buckled
+	Engine Cranking
+	Engine Load Alt
+	Engine Running
+	Engine Speed
+	Engine Speed Displayed
+	Engine Torque
+	Front End Collision Button Pressed
+	Front End Collision System Enabled
+	Fuel Level In Liters
+	Fuel Range
+	Hill Assist Active
+	Horn Active
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Recirculation
+	Ic Backlight Level
+	Ignition Button Pressed
+	Language Selected
+	Left Steering Wheel Cruise Button Pressed
+	Left Steering Wheel Follow Distance Less Pressed
+	Left Steering Wheel Follow More Button Pressed
+	Left Steering Wheel Lim Button Pressed
+	Left Steering Wheel Up Down Switch
+	Light Stock Bc Button State
+	Light Stock Position High Beam Momentary State
+	Light Stock Position High Beam State
+	Light Stock Position Lane Chang Left Signal State
+	Light Stock Position Lane Chang Right Signal State
+	Light Stock Position Left Turn Signal State
+	Light Stock Position Right Turn Signal State
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Parking Active
+	Lights Rear Fog Active
+	Limiter System On
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Prndl And Gear
+	Prndl And Gear Alt
+	Shifter Solenoid Voltage
+	Speed Limiter Enabled
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Temp Units Selected Celsius
+	Temp Units Selected Fahrenhei
+	Throttle Position Alt
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Time Format Selected 12H
+	Time Format Selected 24H
+	Traction Control Off
+	Transmission Temperature
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Brake Pressure
+	Coasting Mode Not Active
+	Cruise Control Set Speed
+	Door Driver Open State 1  True
+	Door Passenger Open State 1  True
+	Door Rear Left Open State 1  True
+	Door Rear Right Open State 1  True
+	Door Trunk Closed
+	Driver Seat Heated Seat Level
+	Eco Mode
+	Excess Speed Display
+	Fuel Sensor 1
+	Fuel Sensor 2
+	Hazards Active
+	Lane Departure Steering Intervention Active
+	Left Steering Wheel Up Down Switch State
+	Lights Auto Off
+	Lights Brake Active
+	Lights Fog Rear Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Indicator Left
+	Lights Indicator Right
+	Lights Indicators Active
+	Lights Low Beam Active
+	Lights Low Beam Off
+	Lights Off Off
+	Lights Side Active
+	Lights Side Off
+	Modes
+	Passenger Heated Seat
+	Pedal Brake Not Pressed
+	Pedal Brake Pressed
+	Sport Mode
+	Stalk Lights Auto Headlight Position
+	Stalk Lights Bc Button
+	Stalk Lights High Beam Flash Position
+	Stalk Lights High Beam Position
+	Stalk Lights Lane Change Left Signal Position
+	Stalk Lights Lane Change Right Signal Position
+	Stalk Lights Left Turn Signal Position
+	Stalk Lights Right Turn Signal Position
+	Steering Controls Disc Change Button Pressed
+	Steering Controls Down Button Pressed
+	Steering Controls End Call Button Pressed
+	Steering Controls Hvac System Active Button Pressed
+	Steering Controls Pick Up Call Button Pressed
+	Steering Controls Up Button Pressed
+	Steering Controls Volume Down Pressed
+	Steering Controls Volume Up Pressed
+	Steering Wheel Angle
+	Sun Sensor
+	Target Gear
+	Turn Signal States
+	Warn When Speeding Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Active Blind Spot Detection Level
+	Active Blind Spot Detection On
+	Air Conditioning Active
+	Ambient Air Pressure
+	Ambient Air Temp
+	Ambient Lighting Setting On
+	Auto Start Stop Off
+	Automatic Pdc Activation On
+	Average Mpg
+	Average Mph
+	Back Button Touched
+	Band Button Pressed
+	Car Moving Forward D
+	Car Moving In Reverse
+	Climate Control Starts When Car Is Remote Started Setting Active
+	Climate Control Starts When Car Is Remote Started Setting Inactive
+	Com Button Pressed
+	Com Button Touched
+	Comfort Access Setting Lock When Walking Away
+	Comfort Access Setting Unlock When Approaching Active
+	Consumption Units Setting
+	Cross Traffic Warning On
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Date Format
+	Defroster Rear Active
+	Display Driving Mode View Active
+	Distance Unit Set To Km
+	Distance Unit Set To Mi
+	Door Hood Closed
+	Door Lock Command
+	Door Unlock Command
+	Doors Vehicle Access Flash When Locking And Unlocking Active
+	Doors Vehicle Access Flash When Locking And Unlocking Inactive
+	Doors Vehicle Access Fold Mirrors In When Locked Active
+	Doors Vehicle Access Fold Mirrors In When Locked Inactive
+	Doors Vehicle Access Lock After Starting To Drive Active
+	Doors Vehicle Access Lock After Starting To Drive Inactive
+	Doors Vehicle Access Lock In A Few Minutes Active
+	Doors Vehicle Access Lock In A Few Minutes Inactive
+	Doors Vehicle Access Sound When Locking And Unlocking Active
+	Doors Vehicle Access Sound When Locking And Unlocking Inactive
+	Doors Vehicle Access Turn Off Vehicle After Opening Door Active
+	Doors Vehicle Access Turn Off Vehicle After Opening Door Inactive
+	Doors Vehicle Access Unlock At End Of Trip Active
+	Doors Vehicle Access Unlock At End Of Trip Inactive
+	Driver Heated Seat Button Pressed
+	Driving Dynamics Engine Comfort
+	Driving Dynamics Engine Sport
+	Driving Dynamics Steering Comfort
+	Driving Dynamics Steering Sport
+	Driving Dynamics Transmission Comfort
+	Driving Dynamics Transmission Sport
+	Eco Pro Functions Coasting Active
+	Eco Pro Individual Driver Dynamic Steering Comfort Active
+	Eco Pro Individual Driver Dynamic Steering Sport Active
+	Eco Pro Individual Eco Pro Speed Active
+	Eco Pro Individual Eco Pro Speed Notification At
+	Eco Pro Seat Climate Control Active
+	Eco Pro Seat Heating Active
+	Eco Pro Seat Light And Sight Active
+	Engine Speed Displayed
+	Engine Torque
+	Fatigue And Focus Alert Break Recommendation
+	Forward Collision Mitigation Setting
+	Fuel Lamp Low Active
+	Fuel Lamp Normal
+	Fuel Range
+	Fuel Used Average
+	Global Button Pressed
+	Global Button Touched
+	Heated Cooling Rear Seats Active
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Climate Control Sync Active
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temp
+	Hvac Driver Dash Baffle Open Percentage
+	Hvac Driver Floor Baffle Open Percentage
+	Hvac Driver Temperature Adjust Setting Neg Cold Pos Hot
+	Hvac Driver Windscreen Baffle Open Percentage
+	Hvac Front Defrost Active
+	Hvac Max Ac Active
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Set Temp
+	Hvac Passenger Temperature Adjustment Set Neg Cold Pos Hot
+	Hvac Rear Seat Temp
+	Hvac Rear Set To Automatic Active
+	Hvac Rear Set To Disable Controller Active
+	Hvac Recirculation
+	Hvac Recirculation Button Pressed
+	Hvac Sync Active
+	Hvac System Active
+	Idrive Button Pressed
+	Idrive Wheel Button Pressed
+	Instrument Panel Additional Information Active
+	Instrument Panel Converted Speed Active
+	Instrument Panel Reduced Mode Active
+	Interior Light Brightness Setting
+	Interior Light Dimmed For Night Driving Active
+	Interior Light Dynamic Light Active
+	Key Fob Tailgate Button Setting
+	Key Fob Unlock Button Setting All Doors Active
+	Key Fob Unlock Button Setting Drivers Door Only Active
+	Lane Departure Warning Level
+	Lane Departure Warning On
+	Language
+	Lighting Color Setting
+	Locked Button Pressed
+	Map Button Pressed
+	Map Button Touched
+	Media Button Pressed
+	Media Button Touched
+	Menu Ac Button Pressed
+	Mode Button Pressed
+	Nav Button Pressed
+	Nav Button Touched
+	Odometer
+	Option Button Pressed
+	Option Button Touched
+	Parking Brake Active
+	Passenger Heated Seat Button Pressed
+	Pedal Accelerator Position
+	Power Unit Set To Hp
+	Power Unit Set To Kw
+	Pressure Unit Setting
+	Radio Button 1 Pressed
+	Radio Button 1 Touched
+	Radio Button 2 Pressed
+	Radio Button 2 Touched
+	Radio Button 3 Pressed
+	Radio Button 3 Touched
+	Radio Button 4 Pressed
+	Radio Button 4 Touched
+	Radio Button 5 Pressed
+	Radio Button 5 Touched
+	Radio Button 6 Pressed
+	Radio Button 6 Touched
+	Radio Button 7 Pressed
+	Radio Button 7 Touched
+	Radio Button 8 Pressed
+	Radio Button 8 Touched
+	Radio Left Arrow Button Pressed
+	Radio Right Arrow Button Pressed
+	Seatbelt Driver Buckled
+	Seatbelt Passenger Buckled
+	Seatbelt Rear Left Buckled
+	Seatbelt Rear Right Buckled
+	Speed Limit Assistance Excess Speed Display Active
+	Speed Limit Assistance Speed Limits Adjusted Manually Active
+	Speed Limit Assistance Warn When Speeding Active
+	Speed Warning Active
+	Speed Warning Level
+	Steering Intervention On
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Feedback Vibration Intensity Setting
+	Sunroof Button Pushed Back Half
+	Sunroof Button Pushed Frw Half
+	Sunroof Button Pushed Full
+	Sunroof Button Pushed Up
+	Tailgate Setting Open With Foot Movement Active
+	Temperature Unit Set To C
+	Temperature Unit Set To F
+	Time Current Hour
+	Time Current Minute
+	Time Current Seconds
+	Time In 12H Format
+	Time In 24H Format
+	Torque Unit Setting
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Transmission Torque
+	Unlock Button Pressed
+	Vehicle Speed
+	Vin Part 3
+	Volume Knob Button Pressed
+	Volume Knob Clockwise
+	Window Driver Fully Open
+	Window Driver Moving Down
+	Window Driver Moving Up
+	Window Driver Open
+	Window Driver Partially Open
+	Window Lock Active
+	Window Passenger Fully Open
+	Window Passenger Moving Down
+	Window Passenger Moving Up
+	Window Passenger Open
+	Window Passenger Partially Open
+	Window Rear Left Fully Open
+	Window Rear Left Moving
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open
+	Window Rear Left Partially Open
+	Window Rear Right Fully Open
+	Window Rear Right Moving
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open
+	Window Rear Right Partially Open
+	Wiper Auto Set To 2
+	Wiper Auto Set To 3
+	Wiper Auto Set To 4
+	Wiper Front Single Wipe Active
+	Wiper Front Wash Active
+	Wiper Rear Active
+	Wiper Rear Wash Active
+	Wiper Speed
+	Write Pathway Lighting Setting
+	Write Pathway Lighting Setting
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Cruise Control Active
+	Cruise Control Not Active
+	Cruise Off Through Brake Request
+	Cruise Resume Cancel
+	Cruise Speed Controls

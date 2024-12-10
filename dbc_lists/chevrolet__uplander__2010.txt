@@ -1,0 +1,437 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Chevrolet 'Uplander' (2010)
+Signals:
+	 Sensor Fault Tell Tale
+	Air Conditioning Compressor Displacement
+	Air Conditioning Compressor Engine Run
+	Air Conditioning Compressor Failed On
+	Air Conditioning Compressor Mode
+	Air Conditioning Compressor Normal Load
+	Airbag Failed Tell Tale
+	Airbag Indication  Tell Tale
+	Airbag Indication  Tell Tale Flash Period
+	Airbag Indication Tell Tale Duty Cycle
+	Alarm Failure
+	Alarm Horn On
+	Alarm Shock Sensor Trigger
+	Alarm Status
+	Alarm System Enabled
+	Alarm System Horn
+	Alarm System Indication
+	Alarm System Lights
+	Alarm Triggered Battery Reconnected
+	Alarm Triggered Driver Door Ajar
+	Alarm Triggered Glass Breakage Sensor
+	Alarm Triggered Hood Ajar
+	Alarm Triggered Interior Movement Sensor
+	Alarm Triggered Mid Closure
+	Alarm Triggered Passenger Door Ajar
+	Alarm Triggered Power Mode
+	Alarm Triggered Rear Left Door Ajar
+	Alarm Triggered Rear Right Door Ajar
+	Alarm Triggered Tell Tale
+	Alarm Triggered Tilt Sensor
+	Alarm Triggered Trunk Ajar
+	Alarm Valid Person Detected
+	Antilock Brake System Active
+	Antilock Brake System Failed
+	Antilock Brake System Tell Tale
+	Apply Brake Pedal Tell Tale
+	Automatic Lights Active Tell Tale
+	Automatic Lights Inactive Tell Tale
+	Brake Boost System Failed
+	Brake Fluid Level Low
+	Brake Pedal Position
+	Brake Processing In Progress Tell Tale
+	Brakes Overheated
+	Cargo L Tell Tale
+	Central Locking Activating Function
+	Central Locking Driver Door
+	Central Locking Fuel Door
+	Central Locking Hood
+	Central Locking Passenger Door
+	Central Locking Rear Closure
+	Central Locking Rear Left Door
+	Central Locking Rear Right Door
+	Central Locking Unlock Lock
+	Climate Control Air Inlet
+	Climate Control Auxiliary Display
+	Climate Control Auxiliary Display Air Conditioning Tell Tale
+	Climate Control Auxiliary Display Automatic Mode Tell Tale
+	Climate Control Driver Blower
+	Climate Control Driver Set Temperature
+	Climate Control Front Blower Fan Set Speed
+	Climate Control Front Blower Fan Speed
+	Climate Rear Blower Fan Mode
+	Climate Rear Blower Fan Speed
+	Climate Rear Mode Status
+	Climate Rear Panel Mode
+	Climate Rear Temperature Control
+	Climate Rear Temperature Control Temperature
+	Coolant Heater Core Pump
+	Cruise Control Active
+	Cruise Control Cancel Switch Active
+	Cruise Control Driver Selected Speed
+	Cruise Control Driver Selected Speed Active
+	Cruise Control Enabled
+	Cruise Control Resume Switch Active
+	Cruise Control Set Switch Active
+	Cruise Control Speed Decrease Switch Active
+	Cruise Control Speed Increase Switch Active
+	Cruise Control Switch Active
+	Cruise Control Switch Data Integrity
+	Daytime Running Ls Active
+	Driver Door Light On
+	Driver Heated Cooled Seat Switch 1
+	Driver Heated Cooled Seat Switch 2
+	Driver Heated Cooled Seat Switch 3
+	Driver Seatbelt Attached
+	Engine Coolant Level Low
+	Fasten Driver Seatbelt Auxiliary Tell Tale
+	Fasten Driver Seatbelt Tell Tale
+	Fasten Driver Seatbelt Tell Tale Duty Cycle
+	Fasten Driver Seatbelt Tell Tale Flash Period
+	Fasten Passenger Seatbelt Auxiliary Tell Tale
+	Fasten Passenger Seatbelt Tell Tale
+	Fasten Passenger Seatbelt Tell Tale Duty Cycle
+	Fasten Passenger Seatbelt Tell Tale Flash Period
+	Fasten Second Row Center Passenger Seatbelt Tell Tale
+	Fasten Second Row Left Passenger Seatbelt Tell Tale
+	Fasten Second Row Right Passenger Seatbelt Tell Tale
+	Flash To Pass Switch Active
+	Fob Battery Low
+	Fob Function
+	Fob Number
+	Fob Programming Mode
+	Front Fog Ls Active
+	Front Middle Seatbelt Attached
+	Fuel Level Low Tell Tale
+	Glass Sensor Status
+	Hands Free Phone
+	Head Up Display Active
+	Headlight Washer
+	High Beam Active
+	High Beam Tell Tale
+	Hill Descent Control System Status
+	Hood Status
+	Ice Possible Tell Tale
+	Ignition Switch Fault Tell Tale
+	Interior Dimming Level
+	Interior Dimming Night
+	Intrusion Sensing Disabled
+	Intrusion Sensor Status
+	Key Present
+	Lane Departure Warning Disabled Tell Act
+	Lane Keep Assist Off Tell Tale Act
+	Left Lane Dep Warn State
+	Left Turn L Active
+	Low Beam Active
+	Mid Closure Ajar Switch
+	Occupant Compartment Rear Temp
+	Occupant Compartment Temperature
+	Outside Air Temperature Menu
+	Outside Air Temperature Value
+	Outside Ambient Light Status
+	Panic Brake Assist Failed Tell Tale
+	Park Brake Switch Active
+	Parking Assistance Clean Parking Assist Tell Tale
+	Parking Assistance Disabled Tell Tale
+	Parking Assistance Failed
+	Parking Assistance Front Sensor Blocked
+	Parking Assistance Rear 1 Status
+	Parking Assistance Rear 2 Status
+	Parking Assistance Rear 3 Status
+	Parking Assistance Rear 4 Status
+	Parking Assistance Rear Sensor Blocked
+	Parking Assistance Rear System Status
+	Parking Assistance Sensors Disturbed Tell Tale
+	Parking Assistance Status
+	Parking Lights Active
+	Passenger Airbag Suppression Off Tell Tale
+	Passenger Airbag Suppression On Tell Tale
+	Passenger Heated Cooled Seat Switch 1
+	Passenger Heated Cooled Seat Switch 2
+	Passenger Heated Cooled Seat Switch 3
+	Passenger Seat Occupancy Status
+	Passenger Seatbelt Attached
+	Passenger Window Motion
+	Pedestrian Protection System Deployed
+	Pedestrian Protection System Disabled
+	Phone Call Status
+	Power Steering Tell Tale
+	Power Take Off Remote Start Engine Start
+	Power Window Lockout Active
+	Rear Fog Light Request
+	Rear Fog Light Tell Tale
+	Rear Left Heated Cooled Seat Switch 1
+	Rear Left Heated Cooled Seat Switch 2
+	Rear Left Heated Cooled Seat Switch 3
+	Rear Left Seatbelt Attached
+	Rear Left Window Motion
+	Rear Middle Seatbelt Attached
+	Rear Right Heated Cooled Seat Switch 1
+	Rear Right Heated Cooled Seat Switch 2
+	Rear Right Heated Cooled Seat Switch 3
+	Rear Right Seatbelt Attached
+	Rear Right Window Motion
+	Rear Window Defog Inhibit
+	Rear Window Defog On
+	Remote Start Heated Seat Enable
+	Remote Start Status
+	Remote Vehicle Start
+	Right Lane Dep Warn State
+	Right Turn L Active
+	Serv Lane Departure Warning Sys Tell Tale Act
+	Service Air Conditioning System Tell Tale
+	Service Alarm System Tell Tale
+	Service Pedestrian Protection System Tell Tale
+	Soft Top Status
+	Steering Column Lock Failure Tell Tale
+	Steering Column Lock Status
+	Steering Wheel 1 Switch Status
+	Steering Wheel 2 Switch Status
+	Steering Wheel Angle
+	Steering Wheel Angle Mode
+	System Power Mode
+	Telematics Present
+	Third Row Left Seatbelt Attached
+	Third Row Middle Seatbelt Attached
+	Third Row Right Seatbelt Attached
+	Traction Control System Operating Mode
+	Traction Control System Operating Status
+	Turn Switch Activation
+	Valet Mode Active
+	Vehicle Dynamics Yaw Rate
+	Vehicle Odometer
+	Vehicle Stability Enhancement Mode
+	Vehicle Stability Enhancement Status
+	Washer Fluid Heater Active Tell Tale
+	Washer Fluid Low
+	Window Operation
+	Windshield Wiper Drive Active
+	Windshield Wiper Rain Sensor Control On
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	 Air Fuel Ratio
+	 Front Lighting System Fault Tel
+	Abs Active
+	Absolute Barometric Pressure
+	Absolute Barometric Pressure Val
+	Accelerator Actual Position
+	Adaptive Cruise Control Braking
+	Adaptive Cruise Control Driver S
+	Adaptive Cruise Control Enable
+	Adaptive Cruise Control Hea 0000
+	Adaptive Cruise Control Headway
+	Adaptive Cruise Control Object D
+	Adaptive Cruise Control Sensor C
+	Adaptive Cruise Control Speed
+	Adaptive Cruise Control Temporar
+	Air Conditioning Compressor Comm
+	Air Conditioning High Side Pres
+	Air Conditioning Off Tell Tale
+	All Wheel Drive System Status
+	Antilock Brake System Active
+	Antilock Brake System Failed
+	Automatic Transmission Commanded
+	Battery State Of Charge
+	Battery Voltage
+	Brake Before Cruise Tell Tale
+	Brake Fluid Level Low
+	Brake Lights On
+	Brake Pedal Position
+	Brake Pedal Position Acceleration
+	Center Differential
+	Check Trailer Tell Tale On
+	Clutch Pedal Actual Position
+	Clutch Start Switch Active
+	Cruise Control Active
+	Cruise Control Driver Selected S
+	Cruise Control Enabled
+	Current Fuel Consumption
+	Diesel Glow Plug Tell Tale
+	Driveline Ratio
+	Driver Door Ajar
+	Driver Shift Control Target Gear
+	Driver Throttle Override
+	Driver Throttle Override Tell Tale
+	Economy Mode Active Tell Tale
+	Elevated Idle Control Tell Tale O
+	Engine Auto Stop Enabled Tell Tale
+	Engine Auto Stop Status
+	Engine Boost Pressure Tell Tale
+	Engine Coast Fuel Cut Off Active
+	Engine Coolant Temperature
+	Engine Coolant Temperature Valid
+	Engine Cooling Fan Speed
+	Engine Cylinder Deactivation Eve
+	Engine Cylinder Deactivation Mod
+	Engine Hot  Stop Engine Tell Tale
+	Engine Hot Fuel Enrichment Tell
+	Engine Idle
+	Engine Intake Air Boost Pressure
+	Engine Intake Temperature
+	Engine Intake Temperature Validi
+	Engine Mil
+	Engine Non Emission Mil
+	Engine Oil Change Tell Tale
+	Engine Oil Level Low Tell Tale
+	Engine Oil Life Reset Performed
+	Engine Oil Pressure
+	Engine Oil Pressure Low Tell Tale
+	Engine Oil Remaining Life
+	Engine Oil Reset Request
+	Engine Oil Starvation Tell Tale
+	Engine Oil Temperature
+	Engine Recommended Upshift Tellt
+	Engine Run
+	Engine Shutdown
+	Engine Shutdown Tell Tale
+	Engine Speed
+	Engine Speed Limitation Mode Act
+	Engine Speed Maximum Limit
+	Engine Speed Status
+	Engine Torque
+	Engine Torque Maximum Range
+	Engine Torque Minimum Range
+	Engine Water In Fuel Tell Tale
+	Front Differential
+	Fuel Consumption Rate
+	Fuel Control System Fault Tellta
+	Fuel Delivery Pressure
+	Fuel Filler Cap Tell Tale
+	Fuel Filter Change Now Tell Tale
+	Fuel Filter Life Reset Performed
+	Fuel Flow Estimate
+	Fuel Injected Rolling Count
+	Fuel Injected Rolling Count Rese
+	Fuel Level Percent
+	Fuel Total Capacity
+	Generator Failed
+	Generator Field Duty Cycle
+	Generator Setpoint Duty Cycle Po
+	Glow Plugs On
+	Head Light Leveling Failure Tell
+	High Voltage Battery Maximum Temperature
+	High Voltage Battery Minimum Temperature
+	High Voltage Battery State Of Charge
+	Hill Hold Failure Tell Tale
+	Hood Open Tell Tale
+	Hybrid Eco Mode Tell Tale
+	Instantaneous Fuel Flow Estimate
+	Key Status
+	Lf Tire Pressure
+	Longitudinal Acceleration
+	Lr Tire Pressure
+	Mass Air Flow
+	Panic Brake Assist Failed Tellta
+	Park Brake On
+	Passenger Door Ajar
+	Pedestrian Protection System Dep
+	Pedestrian Protection System Dis
+	Power Steering Tell Tale
+	Power Take Off Disengage Cruise
+	Power Take Off Press And Re 0000
+	Power Take Off Press And Release
+	Power Take Off Reduce Engine Spe
+	Power Take Off Release Accelerat
+	Power Take Off Release Brake Ped
+	Power Take Off Release Clutch Pe
+	Power Take Off Set Park Braketel
+	Power Take Off Transmission In G
+	Powertrain Crank
+	Powertrain Exhaust Particle Filt
+	Powertrain Top Speed Limit Reduc
+	Rear Closure Ajar
+	Rear Differential
+	Rear Differential Malfunction Te
+	Rear Differential Maximum Differ
+	Rear Left Door Ajar
+	Rear Right Door Ajar
+	Reduced Power Tell Tale
+	Remote Vehicle Start Engine Runn
+	Rf Tire Pressure
+	Rr Tire Pressure
+	Secondary Axle Engaged
+	Service Adaptive Cruise Control
+	Service Hybrid Tell Tale
+	Service Pedestrian Protection Sy
+	Service Suspension System Tellta
+	Service Trailer Braking Tell Tale
+	Starting Disabled Tell Tale
+	Steering Wheel Angle
+	Steering Wheel Angle Gradient
+	Steering Wheel Angle Rolling Cou
+	Steering Wheel Angle Sensor Init
+	Steering Wheel Angle Sensor Mult
+	Steering Wheel Angle Sensor Pres
+	Steering Wheel Angle Timebase Ro
+	Throttle Position
+	Throttle Progression Status
+	Tirelfprsstat
+	Tirelrprsstat
+	Tirerfprsstat
+	Tirerrprsstat
+	Traction Control Status
+	Traction Control System Active
+	Traction Control System Enabled
+	Traction Control System Mode
+	Traction Control System Status
+	Trailer Braking Gain Setting Tel
+	Trailer Braking System Brake Lig
+	Trailer Connected Tell Tale On
+	Trailer Wiring Fault Tell Tale On
+	Transfer Case Axle Maximum 0000
+	Transfer Case Axle Maximum Diffe
+	Transfer Case Coupling
+	Transfer Case Coupling Type
+	Transfer Case Coupling Value
+	Transfer Case Mil
+	Transfer Case Mode
+	Transfer Case Non Emission Mil
+	Transfer Case Overheated Tell Tale
+	Transfer Case Range
+	Transmission Change Oil Now Tell
+	Transmission Creep Mode Active
+	Transmission Cruise Control Spee
+	Transmission Engaged State
+	Transmission Estimated Gear
+	Transmission Mil
+	Transmission Mil Non Emission
+	Transmission Neutral Status
+	Transmission Oil Temperature
+	Transmission Oil Temperature Sen
+	Transmission Output Rolling Cou
+	Transmission Output Rotati 0000
+	Transmission Output Rotati Rolli
+	Transmission Output Shaft A 0000
+	Transmission Output Shaft A 0001
+	Transmission Output Shaft Angula
+	Transmission Overall Torque Rat
+	Transmission Overall Torque Rati
+	Transmission Shift Lever Position
+	Transmission Shift Mode Status
+	Transmission Shifts Delayed
+	Transmission Skip Shift Tell Tale
+	Transmission Tap Up Tap Down Mod
+	Turbine Speed
+	Vehicle Ahead Alert Sensiti 0000
+	Vehicle Ahead Alert Sensitivity
+	Vehicle Ahead Alert Tell Tale Requ
+	Vehicle Deceleration Engine Torq
+	Vehicle Leveling Status
+	Vehicle Odo
+	Vehicle Overloaded Tell Tale
+	Vehicle Speed Average
+	Vehicle Stability Lateral Accele
+	Vehicle Top Speed Limit Arbitrat
+	Vehicle Top Speed Limit Mode Act
+	Vehicle Yaw Rate
+	Vin Digits 10 17
+	Vin Digits 2 9
+	Wheel Sensor Rough Road Magnitud
+	Wheel Slip
+	Wheel Spin Sensor Front Left
+	Wheel Spin Sensor Front Right
+	Wheel Spin Sensor Rear Left
+	Wheel Spin Sensor Rear Right

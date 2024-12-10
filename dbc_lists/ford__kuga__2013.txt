@@ -1,0 +1,825 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Ford 'Kuga' (2013)
+Signals:
+	 Fix Width Car Mode
+	Abs Fault
+	Abs Tell Tale
+	Ac Compressor
+	Ac Compressor Info
+	Ac Compressor Percent
+	Acc Brake Active
+	Acc Brake Light Requested
+	Acc Brake Precharge Active
+	Acc Brake Torque Min
+	Acc Brake Warm
+	Acc Follow Gap Size
+	Acc Time Gap Decrease
+	Acc Time Gap Increase
+	Accelerator Pedal Position
+	Adaptive Cruise Control
+	Adaptive Cruise Error Tell Tale
+	Adaptive Cruise Follow Vehicle
+	Adaptive Park Assist Act Side
+	Adaptive Park Assist Chime
+	Airbag Deployment Emergency Call
+	Airbag Deployment Event Type
+	Airbag Deployment Rollover Event
+	Airbag Driver Curtain
+	Airbag Driver Knee
+	Airbag Driver Seatbelt
+	Airbag Driver Side
+	Airbag Driver Steering Wheel
+	Airbag Passenger Belt
+	Airbag Passenger Curtain
+	Airbag Passenger Front
+	Airbag Passenger Side
+	All Wheel Drive Lock Torque Max
+	All Wheel Drive Lock Torque Min
+	Alternator Fault
+	Alternator Mechanical Fault
+	Alternator Temperature Fault
+	Auto High Beams Tell Tale State
+	Automatic High Beams On
+	Awd System Tell Tale On
+	Battery Power State
+	Brake Booster Vacuum Pressure
+	Brake Fluid Prs Tell Tale
+	Brake Light Inhibit
+	Brake Light Request Tsa
+	Brake Lights Status
+	Brake Pedal Info
+	Brake Pedal Movement
+	Brake Total Torque
+	Calendar Day
+	Calendar Month
+	Calendar Year
+	Change Oil Tell Tale
+	Change Oil Tell Tale On
+	Cluster Gear Display
+	Cluster Gear Tell Tale
+	Cluster Mode
+	Cluster Mode Tell Tale
+	Clutch Pedal Percent Rate
+	Clutch Pedal Position Percent
+	Coll Avoid Deny Button On
+	Collision Avoid Brake Precharge
+	Collision Avoidance Brake On
+	Collision Warn Service Tell Tale
+	Collision Warning Sys Message
+	Collision Warning Tell Tale
+	Coolant Fan Transmission Level
+	Cruise Control Message
+	Cruise Control Mode
+	Cruise Control Resume
+	Day Time On
+	Daytime Running Lights State
+	Deflate Detection System Init
+	Deflation Detection System Info
+	Doors Locked 1  True
+	Dpf Percent Regen
+	Dpf State
+	Driven Wheel Rear Torque Max
+	Driven Wheel Rear Torque Min
+	Driven Wheel Torque
+	Driven Wheel Torque Min
+	Driven Wheel Torque Min Rl Cntr
+	Driver Airbag Event
+	Driver Alert System On
+	Driver Seatbelt
+	Driver Seatbelt Status
+	Driver Slip Control On
+	Driver Slip Control Switch Hold
+	Econometer
+	Econometer High Resolution
+	Electronic Power Assist Info
+	Emergency Braking Event
+	Engine Idle Shutdown
+	Engine Idle Shutdown Text
+	Engine Message Text
+	Engine Oil Temperature
+	Engine Run State
+	Engine Speed
+	Engine Speed Max
+	Engine Torque Slow Delay
+	Eps Steering Angle
+	Eps Steering Angle Limit
+	Eps Steering Angle Status
+	Esc Test Mode On
+	Exterior Lights Switch Position
+	Front Passenger Detected
+	Front Passenger Window Closed
+	Front Passenger Window Open
+	Fuel Cutoff
+	Fuel Pump On
+	Gear Engaged State
+	Gear For Cluster Display
+	Gear Position
+	Gear Tell Tale
+	Glow Plug Tell Tale On
+	Head Light State
+	Headlamp Failure Mode
+	Headlight On
+	Headlights Low On
+	Hill Start Assist Road Gradient
+	Hill Start Assist Transmission Out Torque
+	Immobilizer Failure State
+	Impact Event
+	Lane Alert Actually Available
+	Lane Alert Actually Denied
+	Lane Alert Hands Off
+	Lane Assist Enabled
+	Lane Assist Sensor High Early
+	Lane Assist Values Valid
+	Lane Departure Warning
+	Lane Departure Warning Selected
+	Lane Keep Assist Selected
+	Left Front Door State Closed
+	Left Front Tire Pressure
+	Left Front Tpms State
+	Left Rear Center Park Aid Sensor
+	Left Rear Corner Park Aid Sensor
+	Left Rear Door State Closed
+	Left Rear Side Park Aid Sensor
+	Left Rear Tire Pressure
+	Left Rear Wheel Direction
+	Light Failure Tell Tale
+	Light Sensor State
+	Light Sensor Voltage
+	Main Fuel Sensor Resistance
+	Manual Trans Shift Tell Tale
+	Map Sensor
+	Max Delta Velocity
+	Mil Tell Tale
+	Mode Select Restricted
+	Multiple Deployment Events
+	Neutral Tow Info
+	Odometer Backup Abs
+	Oil Change Tell Tale And Text
+	Oil Life Percentage
+	Oil Pressure Tell Tale On
+	Outside Air Pressure
+	Park Aid Audio Mute On
+	Park Aid Button Pressed
+	Park Aid Error
+	Park Aid Message Text
+	Park Brake Info
+	Park Brake Red Tell Tale
+	Park Brake Yellow Tell Tale
+	Parking Brake Tell Tale On
+	Passenger Door Window Quickdrop
+	Passenger Occupant Sens
+	Passenger Seatbelt
+	Passenger Seatbelt
+	Passenger Seatbelt
+	Power Mode
+	Prndl Position
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt Airbag
+	Rear Fog Lights Tell Tale
+	Rear Left Wheel Speed
+	Rear Left Window State
+	Rear Middle Seatbelt
+	Rear Middle Seatbelt
+	Rear Park Aid On
+	Rear Park Assist Chime
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt Airbag
+	Rear Right Wheel Speed
+	Rear Right Window Closed
+	Rear Right Window Open
+	Rear Washer On
+	Right Front Door State Closed
+	Right Front Tire Pressure
+	Right Front Tpms State
+	Right Rear Center Park Aid Senso
+	Right Rear Corner Park Aid Snsr
+	Right Rear Door State Closed
+	Right Rear Park Aid Sensor Side
+	Right Rear Tire Pressure
+	Right Rear Wheel Direction
+	Row 1 Middle Belt Airbag
+	Row 1 Middle Buckle
+	Service Engine Tell Tale On
+	Shift In Progress
+	Shift Patern Mode
+	Side Mirror Defroster Status
+	Starter Control Message
+	Stop Light Request Abs
+	Stop Start Tell Tale On
+	Target Gear
+	Tcc Clutch Info
+	Tell Tale Illumination Day
+	Third Row Driver Seatbelt
+	Third Row Driver Seatbelt
+	Third Row Middle Seatbelt
+	Third Row Passenger Seatbelt
+	Third Row Passenger Seatbelt
+	Time Hour
+	Time Minute
+	Time Second
+	Tip In Inhibit
+	Tire Pressure Inside Left Rear
+	Tire Pressure Inside Right Rear
+	Tire Pressure Left Front
+	Tire Pressure Left Rear Outside
+	Tire Pressure Right Front
+	Tire Pressure Right Rear Outside
+	Tire Pressure System
+	Tire Pressure Tell Tale
+	Tmps Tell Tale
+	Torsion Bar Torque
+	Torsion Bar Torque Sign
+	Traction Control Tell Tale
+	Trailer Fog Lights On
+	Trailer Turn Signal Active
+	Transmission Engine Brake Allow
+	Transmission Error Tell Tale
+	Transmission Est Target Gear
+	Transmission Gear Ntm Allow
+	Transmission Gearbox Input Speed
+	Transmission Gearbox Rotation
+	Transmission In Control Speed Enabled
+	Transmission In Ctl Speed Max
+	Transmission In Ctl Speed Minimum
+	Transmission In Loss Torque Estimated
+	Transmission In Speed Request Max Percen
+	Transmission In Torque Request Fast Max
+	Transmission In Torque Request Slow Max
+	Transmission Input Torque
+	Transmission Input Torque Fast Min
+	Transmission Input Torque Info
+	Transmission Input Torque Slow Min
+	Transmission Kick Down
+	Transmission Loss Torque
+	Transmission Mode
+	Transmission Output Speed
+	Transmission Output Torque 2
+	Transmission Shift Point Memory
+	Transmission Tell Tale On
+	Transmission Torque Rot Roll Cnt
+	Transmission Torque Rotation
+	Turbo Boost Pressure
+	Turn Signals Hazards
+	Vehicle Cc Set Point
+	Vehicle Direction Info
+	Vehicle Stationary
+	Water In Fuel Tell Tale
+	Wheel Rotation Count
+	Wheel Rotation Pulse Count
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	 Fix Width Car Mode
+	Abs Active
+	Abs Tell Tale
+	Acc Brake Torque Min Active
+	Acc Engine Stat
+	Acc Follow Active
+	Accelerator Pedal Position
+	Actual Current
+	Airbag Deployment Emergency Call
+	Airbag Deployment Event Type
+	Airbag Deployment Rollover Event
+	Airbag Driver Curtain
+	Airbag Driver Knee
+	Airbag Driver Seatbelt
+	Airbag Driver Side
+	Airbag Driver Steering Wheel
+	Airbag Passenger Belt
+	Airbag Passenger Curtain
+	Airbag Passenger Front
+	Airbag Passenger Side
+	All Wheel Drive Lock Torque Max
+	All Wheel Drive Lock Torque Min
+	Autostart Not Working
+	Available Current
+	Available Current At Idle
+	Brake Booster Vacuum Pressure
+	Brake Lights On
+	Brake Pedal Info
+	Brake Torque
+	Brake Total Torque
+	Cc Override Active
+	Change Oil Tell Tale
+	Cluster Gear Tell Tale
+	Cluster Mode
+	Cluster Mode Tell Tale
+	Clutch Pedal Percent Rate
+	Clutch Pedal Position Percent
+	Coll Avoid Deny Button On
+	Coolant Fan Step
+	Coolant Fan Transmission Level
+	Cruise Control Message
+	Cruise Control Mode
+	Deflate Detection System Init
+	Deflation Detection System Info
+	Dpf Percent Regen
+	Dpf Percent State
+	Driven Wheel Rear Torque Max
+	Driven Wheel Rear Torque Min
+	Driven Wheel Torque
+	Driven Wheel Torque Min
+	Driven Wheel Torque Min Rl Cntr
+	Driver Airbag Event
+	Driver Alert System On
+	Driver Seatbelt
+	Driver Slip Control On
+	Driver Slip Control Switch Hold
+	Dyno Mode
+	Ecm Mil Tell Tale
+	Econometer High Resolution
+	Electrical Load Control State
+	Electronic Power Assist Info
+	Emergency Braking Event
+	Engine Air Intake Temperature
+	Engine Coolant Temperature
+	Engine Efficiency
+	Engine Exhaust Over Temperature On
+	Engine Load Percent
+	Engine Oil Level Tell Tale
+	Engine Oil Temperature
+	Engine Service Mil Tell Tale
+	Engine Service Required
+	Engine Speed
+	Engine Speed Max
+	Engine Torque
+	Engine Torque Minimum Active
+	Eps Steering Angle
+	Eps Steering Angle Limit
+	Eps Steering Angle Status
+	Esc Test Mode On
+	Exterior Lights Switch Position
+	Front Left Wheel Pulses
+	Front Passenger Detected
+	Front Right Wheel Pulses
+	Front Screen Whasher Active
+	Fuel Cutoff
+	Fuel Level
+	Fuel Level
+	Gear For Cluster Display
+	Gear Lever Park Interlock Button
+	Gear Position
+	Gear Tell Tale
+	Gearbox Oil Temperature
+	Hill Launch Assist Info
+	Hill Launch Assist Status Chime
+	Hill Start Assist In Neutral
+	Hill Start Assist Road Gradient
+	Hill Start Assist Transmission Out Torque
+	Hill Start State
+	Impact Event
+	Lane Alert Actually Available
+	Lane Alert Actually Denied
+	Lane Alert Hands Off
+	Lane Assist Enabled
+	Lane Assist Sensor High Early
+	Lane Assist Values Valid
+	Lane Departure Warning
+	Lane Departure Warning Selected
+	Lane Keep Assist Selected
+	Latitudinal Accel
+	Left Front Wheel Speed
+	Left Rear Wheel Direction
+	Left Rear Wheel Speed
+	Longitude Accel
+	Longitude Over Ground Accel
+	Manual Trans Shift Tell Tale
+	Max Delta Velocity
+	Max Engine Speed Allow
+	Max Wheel Acceleration Front Rig
+	Mechanical Sensor Check Stat
+	Mode Select Restricted
+	Multiple Deployment Events
+	Neutral Tow Info
+	No Alternator Response
+	Odometer Backup Abs
+	Oil Pressure Warning Tell Tale On
+	Outside Air
+	Outside Air Pressure
+	Outside Air Sensor State
+	Outside Air Temperature
+	Park Brake Info
+	Park Brake Red Tell Tale
+	Park Brake Yellow Tell Tale
+	Passenger Occupant Sens
+	Passenger Seatbelt
+	Passenger Seatbelt
+	Power Mode
+	Prndl Position
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt Airbag
+	Rear Left Wheel Pulses
+	Rear Middle Seatbelt
+	Rear Middle Seatbelt
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt Airbag
+	Rear Right Wheel Pulses
+	Right Front Wheel Speed
+	Right Rear Wheel Direction
+	Right Rear Wheel Speed
+	Row 1 Middle Belt Airbag
+	Row 1 Middle Buckle
+	Shift In Progress
+	Slip Control Mode
+	Slip Control Tell Tale
+	Stability Control Brake Active
+	Starter Control Message
+	Steering Angle
+	Steering Angle Sign
+	Steering Angle Status
+	Steering Wheel Angle
+	Steering Wheel Angle Raw
+	Steering Wheel Angle Sign
+	Stop Start Message
+	Stop Start Tell Tale
+	Target Gear
+	Tcc Clutch Info
+	Tell Tale Illumination Day
+	Third Row Driver Seatbelt
+	Third Row Driver Seatbelt
+	Third Row Middle Seatbelt
+	Third Row Passenger Seatbelt
+	Third Row Passenger Seatbelt
+	Tip In Inhibit
+	Tire Pressure Inside Left Rear
+	Tire Pressure Inside Right Rear
+	Tire Pressure Left Front
+	Tire Pressure Left Rear Outside
+	Tire Pressure Right Front
+	Tire Pressure Right Rear Outside
+	Tire Pressure System
+	Tire Pressure Tell Tale
+	Torsion Bar Torque
+	Torsion Bar Torque Sign
+	Traction Control Active
+	Traction Control Pt Active
+	Transmission Engine Brake Allow
+	Transmission Est Target Gear
+	Transmission Gear Ntm Allow
+	Transmission Gearbox Input Speed
+	Transmission Gearbox Rotation
+	Transmission In Control Speed Enabled
+	Transmission In Ctl Speed Max
+	Transmission In Ctl Speed Minimum
+	Transmission In Idle Speed Minimum
+	Transmission In Idle Torque
+	Transmission In Loss Torque Estimated
+	Transmission In Speed Request Max Percen
+	Transmission In Torque Estimated Max Lim
+	Transmission In Torque Max Shift
+	Transmission In Torque Request Fast Max
+	Transmission In Torque Request Slow Max
+	Transmission Input Torque Fast Min
+	Transmission Input Torque Info
+	Transmission Input Torque Slow Min
+	Transmission Loss Torque
+	Transmission Message Text
+	Transmission Mil Tell Tale
+	Transmission Output Speed
+	Transmission Output Torque 2
+	Transmission Service Requested
+	Transmission Shift Mode
+	Transmission Shift Point Memory
+	Transmission Torque Loss
+	Transmission Torque Rot Roll Cnt
+	Transmission Torque Rotation
+	Turbo Boost Pressure
+	Vehicle Cc Set Point
+	Vehicle Direction Info
+	Vehicle Speed
+	Vehicle Speed Estimated
+	Vehicle Speed From Abs
+	Vehicle Speed From Ecm
+	Vehicle Stationary
+	Water In Fuel Tell Tale On
+	Water Pump On
+	Wheel Rotation Count
+	Wheel Rotation Pulse Count
+	Wheel Rotation Sensor Ok
+	Yaw Rate
+	Yaw Rate
+	Yaw Rate Raw
+	Yaw Stability
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	 Fix Width Car Mode
+	 Reverse Gear Active
+	Abs Active
+	Abs Fault
+	Ac Compressor
+	Ac Compressor Info
+	Ac Compressor Percent
+	Acc Brake Active
+	Acc Brake Precharge Active
+	Acc Brake Torque Min
+	Acc Brake Warm
+	Acc Engine Stat
+	Acc Follow Active
+	Acc Time Gap Decrease
+	Acc Time Gap Increase
+	Accelerator Pedal Position
+	Actual Current
+	Adaptive Park Assist Act Side
+	Adaptive Park Assist Chime
+	Airbag Deployment Emergency Call
+	Airbag Deployment Event Type
+	Airbag Deployment Rollover Event
+	Airbag Driver Curtain
+	Airbag Driver Knee
+	Airbag Driver Seatbelt
+	Airbag Driver Side
+	Airbag Driver Steering Wheel
+	Airbag Passenger Belt
+	Airbag Passenger Curtain
+	Airbag Passenger Front
+	Airbag Passenger Side
+	All Wheel Drive Lock Torque Max
+	All Wheel Drive Lock Torque Min
+	Alternator Fault
+	Alternator Mechanical Fault
+	Alternator Temperature Fault
+	Auto High Beam Button
+	Auto High Beam Control Sensor
+	Auto Speed Lm Button On Off Cncl Prs
+	Auto Speed Lm Switch Pos
+	Autostart Not Working
+	Available Current
+	Awd System Tell Tale On
+	Battery Power State
+	Brake Booster Vacuum Pressure
+	Brake Light Inhibit
+	Brake Light Request Tsa
+	Brake Pedal Info
+	Brake Pedal Movement
+	Brake Pressure
+	Brake Switch
+	Brake Total Torque
+	Calendar Day
+	Calendar Month
+	Calendar Year
+	Cc Auto Speed Lm Button Res Inc Prs
+	Cc Override Active
+	Change Oil Tell Tale
+	Change Oil Tell Tale On
+	Child Lock Activated
+	Cluster Gear Display
+	Cluster Gear Tell Tale
+	Cluster Mode
+	Cluster Mode Tell Tale
+	Clutch Pedal Percent Rate
+	Clutch Pedal Position Percent
+	Coll Avoid Deny Button On
+	Collision Avoid Brake Precharge
+	Collision Avoidance Brake On
+	Continuous Control Damping Set
+	Coolant Fan Transmission Level
+	Cruise Control Display Speed
+	Cruise Control Message
+	Cruise Control Mode
+	Cruise Control Request Speed
+	Cruise Control Resume
+	Deflate Detection System Init
+	Deflation Detection System Info
+	Dpf Percent Regen
+	Dpf State
+	Driven Wheel Rear Torque Max
+	Driven Wheel Rear Torque Min
+	Driven Wheel Torque
+	Driven Wheel Torque Min
+	Driven Wheel Torque Min Rl Cntr
+	Driver Airbag Event
+	Driver Alert System On
+	Driver Door Window Quickdrop
+	Driver Seatbelt
+	Driver Slip Control On
+	Driver Slip Control Switch Hold
+	Ecm Mil Tell Tale
+	Econometer
+	Econometer High Resolution
+	Electrical Load Control State
+	Electronic Power Assist Info
+	Emergency Braking Event
+	Engine Exhaust Over Temperature On
+	Engine Idle Shutdown
+	Engine Idle Shutdown Text
+	Engine Load Percent
+	Engine Message Text
+	Engine Oil Temperature
+	Engine Run State
+	Engine Service Mil Tell Tale
+	Engine Speed
+	Engine Speed
+	Engine Speed Acceleration
+	Engine Speed Max
+	Engine Torque Minimum Active
+	Engine Torque Slow Delay
+	Eps Steering Angle
+	Eps Steering Angle Limit
+	Eps Steering Angle Status
+	Exterior Lights Switch Position
+	Flex Fuel Mixture
+	Forward Coll Warning Audio On Button
+	Forward Coll Warning Button
+	Forward Coll Warning Sensor
+	Forward Collision Warning Sensit
+	Front Fog Light Tell Tale
+	Front Left Wheel Pulses
+	Front Passenger Detected
+	Front Right Wheel Pulses
+	Fuel Cutoff
+	Fuel Pump On
+	Gear Engaged State
+	Gear For Cluster Display
+	Gear Lever Park Interlock Button
+	Gear Position
+	Gear Tell Tale
+	Gearbox Oil Temperature
+	Glow Plug Tell Tale On
+	Headlamp Failure Mode
+	Headlight On
+	Hill Start Assist In Neutral
+	Hill Start Assist Road Gradient
+	Hill Start Assist Transmission Out Torque
+	Hill Start State
+	Ignition Key Type
+	Impact Event
+	Lane Alert Actually Available
+	Lane Alert Actually Denied
+	Lane Alert Hands Off
+	Lane Assist Enabled
+	Lane Assist Sensor High Early
+	Lane Assist Values Valid
+	Lane Departure Alert Intensity Level Setting
+	Lane Departure Warning Setting Active
+	Lane Keep Assist Selected
+	Latitudinal Accel
+	Left Front Tpms State
+	Left Front Wheel Speed
+	Left Rear Center Park Aid Sensor
+	Left Rear Corner Park Aid Sensor
+	Left Rear Side Park Aid Sensor
+	Left Rear Wheel Direction
+	Left Rear Wheel Speed
+	Longitude Accel
+	Longitude Over Ground Accel
+	Low Speed Coll Avd On Off
+	Main Fuel Sensor Resistance
+	Manual Trans Shift Tell Tale
+	Map Sensor
+	Max Delta Velocity
+	Max Engine Speed Allow
+	Mil Tell Tale
+	Mode Select Restricted
+	Multiple Deployment Events
+	Neutral Tow Info
+	Odometer Backup Abs
+	Oil Change Tell Tale And Text
+	Oil Life Percentage
+	Oil Pressure Tell Tale On
+	Oil Pressure Warning Tell Tale On
+	Outside Air
+	Outside Air Pressure
+	Outside Air Sensor State
+	Outside Air Temperature
+	Park Aid Audio Mute On
+	Park Aid Button Pressed
+	Park Aid Error
+	Park Aid Message Text
+	Park Brake Info
+	Park Brake Red Tell Tale
+	Park Brake Yellow Tell Tale
+	Parking Brake Tell Tale On
+	Passenger Occupant Sens
+	Passenger Seatbelt
+	Passenger Seatbelt
+	Power Mode
+	Prndl Position
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt
+	Rear Driver Seatbelt Airbag
+	Rear Fog Light Tell Tale On
+	Rear Fog Lights Tell Tale
+	Rear Left Wheel Pulses
+	Rear Middle Seatbelt
+	Rear Middle Seatbelt
+	Rear Park Aid On
+	Rear Park Assist Chime
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt
+	Rear Passenger Seatbelt Airbag
+	Rear Right Wheel Pulses
+	Right Front Tpms State
+	Right Front Wheel Speed
+	Right Rear Center Park Aid Senso
+	Right Rear Corner Park Aid Snsr
+	Right Rear Park Aid Sensor Side
+	Right Rear Wheel Direction
+	Right Rear Wheel Speed
+	Row 1 Middle Belt Airbag
+	Row 1 Middle Buckle
+	Service Engine Tell Tale On
+	Shift In Progress
+	Shift Patern Mode
+	Side Indicator Lights
+	Stability Control Brake Active
+	Starter Control Message
+	Steering Angle
+	Steering Angle Sign
+	Steering Angle Status
+	Steering Wheel Angle
+	Steering Wheel Angle Raw
+	Steering Wheel Angle Sign
+	Stop Light Request Abs
+	Stop Start Message
+	Stop Start Tell Tale
+	Stop Start Tell Tale On
+	Tans Vehicle Speed Limit Req
+	Target Gear
+	Tcc Clutch Info
+	Tell Tale Illumination Day
+	Third Row Driver Seatbelt
+	Third Row Driver Seatbelt
+	Third Row Middle Seatbelt
+	Third Row Passenger Seatbelt
+	Third Row Passenger Seatbelt
+	Throttle Position Percent
+	Time Hour
+	Time Minute
+	Time Second
+	Tip In Inhibit
+	Tire Pressure Inside Left Rear
+	Tire Pressure Inside Right Rear
+	Tire Pressure Left Front
+	Tire Pressure Left Rear Outside
+	Tire Pressure Right Front
+	Tire Pressure Right Rear Outside
+	Tire Pressure System
+	Tire Pressure Tell Tale
+	Tmps Tell Tale
+	Torsion Bar Torque
+	Torsion Bar Torque Sign
+	Traction Control Active
+	Traction Control Pt Active
+	Traffic Sign Recognition Country
+	Traffic Sign Recognition On
+	Trailer Fog Lights On
+	Trailer Turn Signal Active
+	Transmission Engine Brake Allow
+	Transmission Est Target Gear
+	Transmission Gear Ntm Allow
+	Transmission Gearbox Input Speed
+	Transmission Gearbox Rotation
+	Transmission In Control Speed Enabled
+	Transmission In Ctl Speed Max
+	Transmission In Ctl Speed Minimum
+	Transmission In Idle Speed Minimum
+	Transmission In Idle Torque
+	Transmission In Loss Torque Estimated
+	Transmission In Speed Request Max Percen
+	Transmission In Torque Estimated Max Lim
+	Transmission In Torque Max Shift
+	Transmission In Torque Request Fast Max
+	Transmission In Torque Request Slow Max
+	Transmission Input Echo
+	Transmission Input Torque
+	Transmission Input Torque
+	Transmission Input Torque Fast Min
+	Transmission Input Torque Info
+	Transmission Input Torque Slow Min
+	Transmission Kick Down
+	Transmission Loss Torque
+	Transmission Message Text
+	Transmission Mil Tell Tale
+	Transmission Mode
+	Transmission Output Speed
+	Transmission Output Torque 2
+	Transmission Service Requested
+	Transmission Shift Mode
+	Transmission Shift Point Memory
+	Transmission Tell Tale On
+	Transmission Torque Loss
+	Transmission Torque Rot Roll Cnt
+	Transmission Torque Rotation
+	Turbo Boost Pressure
+	Vehicle Cc Set Point
+	Vehicle Direction Info
+	Vehicle Speed
+	Vehicle Speed Estimated
+	Vehicle Speed From Abs
+	Vehicle Speed From Ecm
+	Vehicle Speed Info
+	Vehicle Stationary
+	Water In Fuel Tell Tale On
+	Water Pump On
+	Wheel Rotation Count
+	Wheel Rotation Pulse Count
+	Wheel Rotation Sensor Ok
+	Windshield Washer Fluid Low
+	Yaw Rate
+	Yaw Rate
+	Yaw Rate Raw
+	Yaw Stability

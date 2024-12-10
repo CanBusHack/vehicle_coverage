@@ -1,0 +1,819 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Jeep 'Wrangler Unlimited' (2017)
+Signals:
+	Adas Lane Assist Alert Active
+	Alarm Status
+	Alternator Fault
+	Ambient Relative Humidity
+	Ambient Temperature Dew Point
+	Ambient Temperature Glass
+	Ambient Temperature Outside
+	Ambient Temperature Outside C
+	Ambient Temperature Outside F
+	Amp Can Error State
+	Battery State Extremely Low
+	Bcm Can Error State
+	Brake Light Status
+	Can Bus Error Centerstack
+	Can Bus Error Climate
+	Can Bus Error Telematic
+	Chime Rear Volume
+	Chime Volume
+	Current Fail Status Amp
+	Current Fail Status Centerstack
+	Current Fail Status Climate
+	Current Fail Status Telematic
+	Date Day Ones
+	Date Day Tens
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Lock Status
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Seat Driver Easy Exit Active
+	Door Trunk Handsfree Active
+	Door Trunk Hatch Closed
+	Door Trunk Open
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Speed
+	Engine Status
+	Eol Programming
+	Eol Programming Active
+	Eol Programming Centerstack
+	Eol Programming Climate
+	Eol Programming Telematic
+	Fob Function Requested
+	Fob Memory Request
+	Fob Memory Request Index
+	Fob Request
+	Fob Rf Index
+	Fob Trunk Button Active
+	Fuel Level
+	Fuel Level Low Tell Tale On
+	Generic Failure Status Amp
+	Generic Failure Status Bcm
+	Generic Failure Status Centersta
+	Generic Failure Status Climate
+	Generic Failure Status Telematic
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Pressure
+	Hvac Ac Request
+	Hvac Ac Tell Tale Status
+	Hvac Auto Tell Tale Status
+	Hvac Blower Control Status
+	Hvac Blower Direction Mode
+	Hvac Blower Speed
+	Hvac Button Defrost Pressed
+	Hvac Button Max Ac Pressed
+	Hvac Compressor Status
+	Hvac Defrost Window Rear Active
+	Hvac Defrost Window Rear Request
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Ac Request
+	Hvac Max Ac Tell Tale Status
+	Hvac Max Defrost Active
+	Hvac Mode Auto Request
+	Hvac Mode Floor Request
+	Hvac Mode Panel Request
+	Hvac Power On
+	Hvac Recirculation Request
+	Hvac Recirculation Status
+	Hvac Start Stop Climate Data
+	Hvac Synchronize Status
+	Hvac Synchronize Temperature Request
+	Hvac Temperature Driver
+	Hvac Temperature Passenger
+	Infotainment Audio Amp Muted
+	Infotainment Audio Amp Status
+	Infotainment Sound Surround Available
+	Infotainment System Sound Balance Level
+	Infotainment System Sound Bass Level
+	Infotainment System Sound Mid Frequency Level
+	Infotainment System Sound Surround On
+	Infotainment System Sound Treble Level
+	Infotainment System Sound Volume
+	Key Position
+	Language Selection
+	Left Side Parking Lamp Status
+	Left Side Turn Signal Status
+	Left Turn Signal Status
+	Lighting Cabin Level
+	Load Active In Master
+	Odometer
+	Panic Mode
+	Parking Brake Engaged
+	Power Distribution Mode
+	Power Mode Status
+	Power Mode Status Centerstack
+	Prndl Position
+	Radio Button 0 Pressed
+	Radio Button 1 Pressed
+	Radio Button 2 Pressed
+	Radio Button 3 Pressed
+	Radio Button 4 Pressed
+	Radio Knob 1 Direction
+	Radio Knob 1 Value
+	Radio Knob 2 Direction
+	Radio Knob 2 Value
+	Rear Fog Light Status
+	Right Side Parking Lamp Status
+	Right Side Turn Signal Status
+	Right Turn Signal Status
+	Seat Front Driver Heater Command
+	Seat Front Driver Heater Fault
+	Seat Front Driver Heater Status
+	Seat Front Driver Vented Command
+	Seat Front Driver Vented Fault
+	Seat Front Driver Vented Status
+	Seat Front Passenger Heater Command
+	Seat Front Passenger Heater Fault
+	Seat Front Passenger Heater Status
+	Seat Front Passenger Vented Command
+	Seat Front Passenger Vented Fault
+	Seat Front Passenger Vented Status
+	Seat Heated W Command
+	Seat Heater W Fault
+	Seat Heater W Status
+	Slave Load Active Amp
+	Slave Load Active Centerstack
+	Slave Load Active Climate
+	Slave Load Active Telematic
+	Start Mode Enabled
+	Start Remote Active
+	Start Stop System Engine Status
+	Start Stop System Switch Status
+	System Status Amp
+	System Status Centerstack
+	System Status Climate
+	System Status Telematic
+	System Wake Status
+	Telematics Audio Muted
+	Telematics Audio Status
+	Telematics Power Status
+	Time Hour Ones
+	Time Hour Tens
+	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
+	Warning Indication Mode
+	Wheel Front Left Sensor Fault
+	Wheel Front Right Sensor Fault
+	Wheel Rear Left Sensor Fault
+	Wheel Rear Right Sensor Fault
+	Windows Fob Control Active
+	Wiper Front Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Adas Lane Keep Alert On
+	Alternator Fault
+	Ambient Relative Humidity
+	Ambient Temperature Dew Point
+	Ambient Temperature Glass
+	Audio Player Audio Type 1
+	Audio Player Audio Type 2
+	Audio Player Balance Status
+	Audio Player Bass Setting
+	Audio Player Mids Setting
+	Audio Player Radio Button 0 Pressed
+	Audio Player Radio Button 1 Pressed
+	Audio Player Radio Button 2 Pressed
+	Audio Player Radio Button 3 Pressed
+	Audio Player Radio Button 4 Pressed
+	Audio Player Radio Knob 1 Direction
+	Audio Player Radio Knob 1 Value
+	Audio Player Radio Knob 2 Direction
+	Audio Player Radio Knob 2 Value
+	Audio Player Surround Sound Active
+	Audio Player Treble Setting
+	Audio Player Volume
+	Battery State Extremely Low
+	Bcm Can Error State
+	Brake Light Active
+	Cabin Light Level
+	Can Bus Error Centerstack
+	Can Bus Error Climate
+	Can Bus Error Telematic
+	Chime Rear Volume
+	Chime Volume
+	Current Fail Status Centerstack
+	Current Fail Status Climate
+	Current Fail Status Telematic
+	Date Day Ones
+	Date Day Tens
+	Door Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Lock State
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Hatch Open
+	Door Trunk Open
+	Driver Easy Exit On
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Running Status
+	Engine Speed
+	Engine Status
+	Eol Programming
+	Eol Programming Centerstack
+	Eol Programming Climate
+	Eol Programming Telematic
+	Fob Windows Control Active
+	Front Wiper Active
+	Fuel Level
+	Fuel Low Tell Tale Status
+	Fuel Rate Displayed
+	Generic Failure Status Bcm
+	Generic Failure Status Centersta
+	Generic Failure Status Climate
+	Generic Failure Status Telematic
+	Handsfree Liftgate
+	Heater Wheel Command
+	Hvac Ac Active
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Max Active
+	Hvac Ac Pressure
+	Hvac Ac Tell Tale Status
+	Hvac Auto Tell Tale Status
+	Hvac Blower Control Status
+	Hvac Blower Direction Mode
+	Hvac Blower Speed
+	Hvac Compressor Status
+	Hvac Defrost Front Active
+	Hvac Defrost Rear Active
+	Hvac Defroster Rear Request
+	Hvac Evaporator Temperature
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Ac Tell Tale Status
+	Hvac Max Defrost Active
+	Hvac Max Defrost Status
+	Hvac Mode Auto Active
+	Hvac Mode Floor
+	Hvac Mode Panel
+	Hvac Power On
+	Hvac Recirculation Active
+	Hvac Recirculation Status
+	Hvac Sync Temperature Request
+	Hvac Synchronize Status
+	Hvac Temperature Driver
+	Hvac Temperature Passenger
+	Ignition Off Time
+	Key Position Status
+	Language Selection
+	Left Side Parking Lamp Active
+	Left Side Turn Signal Active
+	Left Turn Signal Active
+	Lighting Ambient Level
+	Load Active In Master
+	Odometer
+	Outside Air Temperature
+	Outside Air Temperature In Deg C
+	Outside Air Temperature In Deg F
+	Panic Mode Active
+	Parking Brake Engaged
+	Precondition Cabin Status
+	Prndl Position
+	Rear Fog Light Active
+	Right Side Parking Lamp Active
+	Right Side Turn Signal Active
+	Right Turn Signal Active
+	Seat Heater Driver Command
+	Seat Heater Passenger Command
+	Seat Vent Driver Command
+	Seat Vent Passenger Command
+	Slave Load Active Centerstack
+	Slave Load Active Climate
+	Slave Load Active Telematic
+	Start Mode Enabled
+	Start Remote Active
+	Start Stop Climate Data
+	Start Stop Engine Status
+	Start Stop Tell Tale Status
+	System Status Centerstack
+	System Status Climate
+	System Status Telematic
+	System Wake Status
+	Time Hour Ones
+	Time Hour Tens
+	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
+	Warnings Delivery Mode
+	Wheel Front Left Sensor Fault
+	Wheel Front Right Sensor Fault
+	Wheel Rear Left Sensor Fault
+	Wheel Rear Right Sensor Fault
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Adas Blind Spot Chime Front Left Active
+	Adas Blind Spot Chime Front Right Active
+	Adas Blind Spot Chime Rear Left Active
+	Adas Blind Spot Chime Rear Right Active
+	Adas Blind Spot Sensor Active
+	Adas Blind Spot Sensor Request
+	Adas Seat Vibration Level
+	Chime Priority
+	Chime Repeat Rate
+	Chime Type
+	Lights Reverse Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Adas Blind Spot Chime Front Left Active
+	Adas Blind Spot Chime Front Right Active
+	Adas Blind Spot Chime Rear Left Active
+	Adas Blind Spot Chime Rear Right Active
+	Adas Blind Spot Sensor Active
+	Adas Blind Spot Sensor Request
+	Alarm Status
+	Ambient Temperature Outside
+	Ambient Temperature Outside Sensor Voltage
+	Bms Error Detected
+	Chime Priority
+	Chime Repeat Rate
+	Chime Type
+	Date Day Ones
+	Date Day Tens
+	Date Month Ones
+	Date Month Tens
+	Date Year Hundreds
+	Date Year Ones
+	Date Year Tens
+	Date Year Thousands
+	Display Infotainment Status
+	Display Navigation On
+	Fuel Level
+	Fuel Level Low Tell Tale On
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Impact Command Activate
+	Impact Verify Activate
+	Key In Ignition Status
+	Key Position
+	Lamp Indicator Left Active
+	Lamp Indicator Right Active
+	Lamp Parking Left Active
+	Lamp Parking Right Active
+	Lights Brake Active
+	Lights Fog Rear Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Odometer
+	Power Mode Status
+	Power Mode Status
+	Prndl Position
+	Seat Front Driver Button Memory Status
+	Seat Front Driver Heater Command
+	Seat Front Driver Memory Save Request
+	Seat Front Driver Vented Command
+	Seat Front Passenger Heater Command
+	Seat Front Passenger Occupant Sensor Fault
+	Seat Front Passenger Occupant Sensor Status
+	Seat Front Passenger Occupant Status
+	Seat Front Passenger Vented Command
+	Seat Heater W  Command
+	Seatbelt Front Driver Status
+	Seatbelt Front Passenger Status
+	Spin Direction Front Left
+	Spin Direction Front Right
+	Spin Direction Rear Left
+	Spin Direction Rear Right
+	Start Remote Status
+	Time Hour Ones
+	Time Hour Tens
+	Time Minute Ones
+	Time Minute Tens
+	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Accessory Drive System Enabled
+	Accessory Drive System Engaged
+	Accessory Drive System Fuel Cutoff Disabled
+	Accessory Drive System Request
+	Accessory Drive System Still Command
+	Adas Acceleration Request
+	Adas Brake Prefill Request
+	Adas Chime Left Front Request
+	Adas Chime Type
+	Adas Cruise Control Button Canc Pressed
+	Adas Cruise Control Button Decrease Pressed
+	Adas Cruise Control Button Increase Pressed
+	Adas Cruise Control Button On Pressed
+	Adas Cruise Control Button Res Pressed
+	Adas Cruise Control Cancel Request
+	Adas Cruise Control On
+	Adas Display Request
+	Adas Engine Torque Request Enabled
+	Adas Engine Torque Requested
+	Adas Fault Status
+	Adas Function Request
+	Adas Right Front Chime Request S
+	Adas Speed Limiter On
+	Adas Speed Set
+	Airbag System Fault
+	Airbag Tell Tale Flashing
+	Alarm Status
+	Alarm Status
+	All Doors Unlocked
+	Ambient Temperature Outside Sensor Voltage
+	Bms Error Detected
+	Brake Jerk Requested
+	Brake Oil Pressure
+	Crank Enabled
+	Crankshaft Torque Actual
+	Crankshaft Torque Actual
+	Date Current Day Ones
+	Date Current Day Tens
+	Date Current Month Ones
+	Date Current Month Tens
+	Date Current Year Hundreds
+	Date Current Year Ones
+	Date Current Year Tens
+	Date Current Year Thousands
+	Display Navigation On
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Engine Fan Status
+	Engine Limp Home Mode Active
+	Engine Speed
+	Engine Speed Over Rev
+	Engine Torque Actual
+	Engine Torque Driver Request
+	Engine Torque Driver Request Valid
+	Engine Torque Enabled Request Ad
+	Engine Torque Maximum
+	Engine Torque Maximum Valid
+	Engine Torque Minimum
+	Engine Torque Request Tcm
+	Engine Torque Request Tcm Slow
+	Fob Function Requested
+	Fob Request
+	Fob Rf Index
+	Fob Trunk Button Active
+	Fuel Level
+	Fuel Low Tell Tale Active
+	Fuel Rate Instantaneous
+	Fuel Sensor 1 Voltage
+	Fuel Sensor 2 Voltage
+	Gear Current
+	Gear Engaged
+	Gear Manual Engaged
+	Gear Target
+	Headlight High Beam Active
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Heater Wheel Command
+	Hvac Evaporator Temperature
+	Ignition Status
+	Impact Command Activate
+	Impact Verify Activate
+	Key In Ignition Status
+	Lamp Indicator Left Active
+	Lamp Indicator Right Active
+	Lamp Parking Left Active
+	Lamp Parking Right Active
+	Lights Brake Active
+	Lights Fog Rear Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Malfunction Lamp Active
+	Master Cylinder Pressure
+	Max Desired Torque
+	Mil Tell Tale Eobd Error
+	Neutral Safety Switch Status
+	Odometer
+	Outside Air Temperature
+	Parking Brake Engaged
+	Parking Brake Released
+	Pedal Accelerator Position
+	Pedal Accelerator Position Valid
+	Pedal Brake Pressed
+	Power Distribution Status
+	Power Mode Status
+	Precondition Cabin Status
+	Prndl Position Actual
+	Prndl Position Target
+	Safe Torque Off Torque Converter
+	Seat Front Driver Button Memory Status
+	Seat Front Driver Memory Save Request
+	Seat Heater Driver Command
+	Seat Heater Passenger Command
+	Seat Vent Driver Command
+	Seat Vent Passenger Command
+	Seatbelt Front Driver Status
+	Seatbelt Front Passenger Status
+	Spin Direction Front Left
+	Spin Direction Front Right
+	Spin Direction Rear Left
+	Spin Direction Rear Right
+	Start Remote Active
+	Steering Wheel Angle
+	Tcm Vehicle Hold Active Request
+	Tcm Vehicle Hold Request Valid
+	Throttle Position Sensor
+	Time Current Hour Ones
+	Time Current Hour Tens
+	Time Current Minute Ones
+	Time Current Minute Tens
+	Torque Amplitude Transmission
+	Torque Amplitude Transmission Valid
+	Torque Control Mode Request
+	Torque Control Mode Request Slow
+	Torque Converter Status
+	Traction Control Off
+	Transmission Disengaged
+	Transmission Electronically Modulated
+	Transmission Idle Request
+	Transmission Output Speed
+	Transmission Prompt Service Transmission Start In P To Continue
+	Transmission Prompt Service Transmission To Shift Vehicle Must Be Stopped
+	Transmission Prompt To Shift Vehicle Must Be Stopped
+	Transmission Ready For Engine Stop
+	Transmission Shift In Progress
+	Transmission Start Stop Fault
+	Transmission Temperature
+	Transmission Temperature Fault
+	Turbine Speed
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Accessory Drive System Enabled
+	Accessory Drive System Engaged
+	Accessory Drive System Fuel Cutoff Disabled
+	Accessory Drive System Request
+	Accessory Drive System Still Command
+	Adas Acceleration Request
+	Adas Adaptive Cruise Control Follow Distance Decrease Request
+	Adas Adaptive Cruise Control Follow Distance Increase Request
+	Adas Adaptive Cruise Control On
+	Adas Brake Prefill Request
+	Adas Chime Left Front Request
+	Adas Chime Type
+	Adas Cruise Control Cancel Request
+	Adas Cruise Control Fault
+	Adas Cruise Control On
+	Adas Cruise Control Resume Request
+	Adas Display Request
+	Adas Engine Torque Request Enabled
+	Adas Engine Torque Requested
+	Adas Fault Status
+	Adas Function Request
+	Adas Lane Keep Alert On
+	Adas Right Front Chime Request S
+	Adas Seat Vibration Request
+	Adas Speed Limiter On
+	Alarm Status
+	Alarm Status
+	Alternator Fault
+	Ambient Relative Humidity
+	Ambient Temperature Dew Point
+	Ambient Temperature Glass
+	Audio Player Amp Muted
+	Audio Player Amp Status
+	Audio Player Audio Type 1
+	Audio Player Audio Type 2
+	Audio Player Balance Status
+	Audio Player Bass Setting
+	Audio Player Mids Setting
+	Audio Player Radio Button 0 Pressed
+	Audio Player Radio Button 1 Pressed
+	Audio Player Radio Button 2 Pressed
+	Audio Player Radio Button 3 Pressed
+	Audio Player Radio Button 4 Pressed
+	Audio Player Radio Knob 1 Direction
+	Audio Player Radio Knob 1 Value
+	Audio Player Radio Knob 2 Direction
+	Audio Player Radio Knob 2 Value
+	Audio Player Surround Sound Active
+	Audio Player Treble Setting
+	Audio Player Volume
+	Battery State Extremely Low
+	Bms Error Detected
+	Bms Lateral Acceleration
+	Bms Longitudinal Acceleration
+	Bms Yaw Rate
+	Brake Booster Vacuum Voltage Obd
+	Brake Jerk Requested
+	Brake Light Active
+	Brake Light Status
+	Cabin Light Level
+	Can Bus Error State Ocm
+	Centerstack Display Status
+	Chime Rear Volume
+	Chime Volume
+	Crank Enabled
+	Current Fail Status Ocm
+	Date Current Day Ones
+	Date Current Day Tens
+	Date Current Month Ones
+	Date Current Month Tens
+	Date Current Year Hundreds
+	Date Current Year Ones
+	Date Current Year Tens
+	Date Current Year Thousands
+	Dog Clutch Engaged
+	Door Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Lock State
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Hatch Open
+	Door Trunk Open
+	Driver Easy Exit On
+	Engine Coolant Temperature
+	Engine Fan Status
+	Engine Limp Home Mode Active
+	Engine Off Timer
+	Engine Running Status
+	Engine Speed
+	Engine Speed Over Rev
+	Engine Speed Target Control
+	Engine Speed Target Control Active
+	Engine Status
+	Engine Torque Driver Request
+	Engine Torque Driver Request Valid
+	Engine Torque Enabled Request Ad
+	Engine Torque Maximum
+	Engine Torque Maximum Valid
+	Engine Torque Minimum
+	Engine Torque Request Tcm
+	Engine Torque Request Tcm Slow
+	Eol Programming Ocm
+	Fob Function Request
+	Fob Index
+	Fob Windows Control Active
+	Front Wiper Active
+	Fuel Level
+	Fuel Level
+	Fuel Low Tell Tale Active
+	Fuel Low Tell Tale Status
+	Fuel Sensor 1 Voltage
+	Fuel Sensor 2 Voltage
+	Gear Current
+	Gear Target
+	Generic Failure Status Ocm
+	Handsfree Liftgate
+	Heater Wheel Command
+	Heater Wheel Fault
+	Heater Wheel Status
+	High Beam Active
+	Hvac Ac Active
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Max Active
+	Hvac Ac Pressure
+	Hvac Compressor Status
+	Hvac Defrost Front Active
+	Hvac Defrost Rear Active
+	Hvac Defroster Rear Request
+	Hvac Evaporator Temperature
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Defrost Active
+	Hvac Max Defrost Status
+	Hvac Mode Auto Active
+	Hvac Mode Floor
+	Hvac Mode Panel
+	Hvac Power On
+	Hvac Recirculation Active
+	Hvac Sync Temperature Request
+	Ignition Off Time
+	Impact Command Activate
+	Impact Verify Activate
+	Key Position Status
+	Key Position Status
+	Language Selection
+	Left Side Parking Lamp Active
+	Left Side Parking Lamp Status
+	Left Side Turn Signal Active
+	Left Side Turn Signal Status
+	Left Turn Signal Active
+	Left Turn Signal Status
+	Lighting Ambient Level
+	Low Beam Status
+	Max Desired Torque
+	Mil Tell Tale Eobd Error
+	Navigation Displayed On Instrument Cluster
+	Neutral Safety Switch Status
+	Odometer
+	Odometer
+	Outside Air Temperature
+	Outside Air Temperature
+	Outside Air Temperature In Deg C
+	Outside Air Temperature In Deg F
+	Outside Air Temperature Sensor Voltage
+	Panic Mode Active
+	Parking Brake Engaged
+	Pedal Accelerator Position
+	Pedal Accelerator Position Valid
+	Pedal Accelerator Status
+	Pedal Brake Pressed
+	Power Distribution Status
+	Precondition Cabin Status
+	Prndl Position
+	Radio Frequency Requestor
+	Rear Fog Light Active
+	Rear Fog Light Status
+	Reverse Light Active
+	Right Side Parking Lamp Active
+	Right Side Parking Lamp Status
+	Right Side Turn Signal Active
+	Right Side Turn Signal Status
+	Right Turn Signal Active
+	Right Turn Signal Status
+	Safe Torque Off Torque Converter
+	Seat Driver Button Memory Position
+	Seat Driver Memory Save Request
+	Seat Heater Driver Command
+	Seat Heater Driver Fault
+	Seat Heater Driver Status
+	Seat Heater Passenger Command
+	Seat Heater Passenger Fault
+	Seat Heater Passenger Status
+	Seat Passenger Occupant Sensor F
+	Seat Passenger Occupant Sensor S
+	Seat Passenger Occupant Status
+	Seat Vent Driver Command
+	Seat Vent Driver Fault
+	Seat Vent Driver Status
+	Seat Vent Passenger Command
+	Seat Vent Passenger Fault
+	Seat Vent Passenger Status
+	Seatbelt Front Driver Status
+	Seatbelt Front Passenger Status
+	Spin Direction Front Left
+	Spin Direction Front Right
+	Spin Direction Rear Left
+	Spin Direction Rear Right
+	Start Mode Enabled
+	Start Remote Active
+	Start Remote Active
+	Start Stop Climate Data
+	Start Stop Engine Status
+	Start Stop Tell Tale Status
+	Tcm Vehicle Hold Active Request
+	Tcm Vehicle Hold Request Valid
+	Time Current Hour Ones
+	Time Current Hour Tens
+	Time Current Minute Ones
+	Time Current Minute Tens
+	Torque Amplitude Transmission
+	Torque Amplitude Transmission Valid
+	Torque Control Mode Request
+	Torque Control Mode Request Slow
+	Torque Converter Status
+	Transmission Disengaged
+	Transmission Electronically Modulated
+	Transmission Idle Request
+	Transmission Output Speed
+	Transmission Ready For Engine Stop
+	Transmission Shift In Progress
+	Transmission Start Stop Fault
+	Transmission Temperature
+	Transmission Temperature Fault
+	Trunk Button Active
+	Turbine Speed
+	Vehicle Speed
+	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
+	Warnings Delivery Mode
+	Wheel Front Left Sensor Fault
+	Wheel Front Right Sensor Fault
+	Wheel Rear Left Sensor Fault
+	Wheel Rear Right Sensor Fault

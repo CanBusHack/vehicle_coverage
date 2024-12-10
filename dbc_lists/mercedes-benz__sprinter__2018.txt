@@ -1,0 +1,120 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'Sprinter' (2018)
+Signals:
+	Abs Diagnostics Mode Active
+	Abs Tell Tale Active
+	Acceleration Lateral
+	Adas Cruise Control Button Resume Pressed
+	Adas Cruise Control Button Speed Down Request
+	Adas Cruise Control Button Speed Up Request
+	Adas Cruise Control Off
+	Adas Cruise Control Speed Set
+	Adas Prompt Crosswind Assist Intervention
+	Adblue Level
+	Ambient Cabin Temperature
+	Ambient Outside Temperature
+	Asr Off Button Pressed
+	Battery Voltage
+	Blind Spot Detection Button Pressed
+	Brake Active By Esp
+	Brake Force Distribution Diagnosis Rig Test Message Active
+	Brake Pressure Sensor
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Tell Tale Active
+	Brake Tell Tale Active
+	Coding Body Variant N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Coding Wheelbase N73 Electronic Ignition Lock Ezs Control Unit Ok From Scan Tool
+	Coding Wheels And Tires N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Collision Prevention Assist Button Pressed
+	Coolant Temperature
+	Door Cargo Open
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Sliding Right Open
+	Engine Oil Temperature
+	Engine On Time
+	Engine Speed
+	Engine Torque
+	Esp Prompt Deactivation Level Implausible
+	Fuel Level Volume
+	Fuel Prompt Change Filter
+	Fuel Prompt Water In Fuel
+	Fuel Rate
+	Gear Engaged Current
+	Gear Engaged Current
+	Gear Engaged Target
+	Gear Engaged Target
+	Glow Plug Tell Tale On
+	Headlight Stalk Position Turn Left
+	Headlight Stalk Position Turn Right
+	Headlights Active
+	Headlights High Beam Flash Active
+	Headlights Low Beam Active
+	Headlights Stalk Position Flash
+	Headlights Stalk Position High Beam
+	Horn Active
+	Hvac Refrigerant Pressure
+	Ignition Status On
+	Intake Air Temperature
+	Lane Keep Assist Button Pressed
+	Lights Fog Active
+	Lights Turn Indicator Left Active
+	Lights Turn Indicator Right Active
+	Lock Central Button Pressed
+	Lock Rear Button Pressed
+	Malfunction Lamp On
+	Mass Air Flow Calculated
+	Mass Air Flow Sensor Disconnected
+	Master Cylinder Pressure
+	Odometer Main Reading
+	Park Aid Off Button Pressed
+	Park Aid System Off
+	Parking Brake Engaged
+	Pedal Accelerator Kickdown Switch Active
+	Pedal Accelerator Position
+	Pedal Accelerator Released
+	Pedal Brake Switch 2 Active
+	Pedal Brake Switch Active
+	Prndl Park Or Neutral
+	Prndl Position
+	Prndl Position Displayed
+	Prompt Air Cleaner Dirty
+	Prompt Check Diesel Exhaust Fluid
+	Prompt Idle Mode
+	Prompt Start Engine Or System Will Shut Off
+	Sas Initialization Complete Not Set
+	Seatbelt Driver Unfastened
+	Service Tell Tale Flashing
+	Service Tell Tale On
+	Starter Active
+	Starter Motor Active
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Tachometer Request To Freeze
+	Throttle Wide Open
+	Time Current Hour
+	Time Current Minute
+	Time Current Second
+	Traction Control Tell Tale On
+	Transmission Turbine Speed
+	Vehicle Speed
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
+	Wheel Moving Front Left
+	Wheel Moving Front Right
+	Wheel Moving Rear Left
+	Wheel Moving Rear Right
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Front Driver Open
+	Wiper Front Single Wipe Button Pressed
+	Wiper Speed High
+	Wiper Speed Low
+	Wiper Speed Medium
+	Wiper Sprayer Active

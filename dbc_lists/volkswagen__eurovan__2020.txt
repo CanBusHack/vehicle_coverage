@@ -1,0 +1,331 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Volkswagen 'Eurovan' (2020)
+Signals:
+	Aag Trailer Recognized
+	Accelerator Pedal
+	Accelerator Pedal Let Off Sig
+	Accelerator Pedal Not Pressed
+	Air Path Active
+	Calculated Engine Load
+	Cold Start
+	Cruise Control On
+	Cruise Control On Check Bit
+	Dash Prompt Cruise Control System Is Unavailable
+	Dash Prompt Predictive Control Is Active Again
+	Dash Prompt Predictive Control Is Currently Unavailable
+	Dash Prompt Predictive Control Is Unavailable In This Country
+	Dash Prompt Speed Limiter
+	Dash Prompt Speed Limiter Is Unavailable
+	Display Engine Speed
+	Door Lock Status
+	Driving Cycle
+	Engine Speed
+	Fron Washer Active
+	Front Driver Door Open
+	Front Left Wheel Speed
+	Front Passenger Door Open
+	Front Right Wheel Speed
+	Front Wiper Active
+	High Beams Active
+	Left Blinker Active
+	Limit Activatable
+	Limiter Selected
+	Load Value
+	Looking To Down Shift
+	Manual Mode Engaged
+	Max Desired Speed Active
+	Max Desired Speed Rate
+	Min Desired Speed Active
+	Min Desired Speed Rate
+	Minimum Trip
+	Normalized Trip
+	Overrun Cutoff Active
+	Rear Driver Door Open
+	Rear Left Wheel Speed
+	Rear Passenger Door Open
+	Rear Right Wheel Speed
+	Release Delay Request
+	Right Blinker Active
+	Set Idle Speed
+	Speed Control
+	Speed Limit Ahead
+	Speed Limiter Ahead Displayed
+	Standby Request Active
+	Steering Wheel Rate Of Change
+	Steering Wheel Rate Of Change In Clockwise
+	Steering Wheel Turned To The Right
+	Target Gear
+	Vehicle Speed Limitation Active
+	Warm Up Cycle
+	Yaw Rate
+	Yaw Value Is Negative
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Ac Switch Active
+	Acc Button Pressed
+	Acc Key Position Active
+	Acc Selected
+	Active Safe Enabled
+	Adaptive Cruise Control Follow Distance
+	Adaptive Cruise Control System On
+	Adjustment Of Time Gap
+	Air Care Active
+	Airbag Actuator Test
+	Airbag Diagnostic Active
+	Airbag System Error
+	Airbag Tell Tale Active
+	Alarm Arm Request
+	Alarm Disarm Request
+	Ambient Air Temperature Sensor
+	Auto Hold Tell Tale Active
+	Auto Lights
+	Automatic Off Active
+	Automatic Off Deactivated
+	Automatic Stop Start System Off
+	Auxiliary Heater Active
+	Brake Lights Active
+	Brake Press
+	Cancel Button Pressed
+	Car Status For Auto Stop Start
+	Center Table Raised Up
+	Child Lock Button Pressed
+	Climate System Active
+	Console Lighting Group 2 Light Level
+	Consumption Units
+	Crank Key Position Active
+	Cruise Control Error
+	Cruise Control Set Speed
+	Current Gear
+	Cylinder Deactivation
+	Dahs Prompt Please Depress The Brake Pedal
+	Dash Prompt Acc Predictive Control Is Currently Unavailable
+	Dash Prompt Acc Predictive Control Is Unavailable In This Country
+	Dash Prompt Add Engine Oil
+	Dash Prompt Airbag Seatbelt Tensioner Deactivated
+	Dash Prompt Battery Almost Drained Limited Vehicle Performance
+	Dash Prompt Battery Drained Speed Restricted
+	Dash Prompt Button For Driver Assist Systems Is Faulty
+	Dash Prompt Charging High Voltage Battery Please Do Not Switch Off Engine
+	Dash Prompt Check The Coolant Level See Owners Manual
+	Dash Prompt Clutch Pedal Please Check Operation
+	Dash Prompt Clutch Temperature High You Can Continue Driving
+	Dash Prompt Electronic Parking Brake Transport Mode
+	Dash Prompt Engine Must Run Press Clutch Pedal
+	Dash Prompt Engine Over Heated Stop See Owners Manual
+	Dash Prompt Error Electrical System Service Vehicle
+	Dash Prompt Error Electronic Parking Brake
+	Dash Prompt Error Electronic Parking Brake Stop Vehicle Safely Workshop
+	Dash Prompt Error Hybrid System Stop
+	Dash Prompt Error Pedestrian Monitoring
+	Dash Prompt Error Radiator Shutter Function Limited
+	Dash Prompt Error Start Stop
+	Dash Prompt Oil Pressure Stop See Owners Manual
+	Dash Prompt Oil Sensor Please Service Vehicle
+	Dash Prompt Parking Brake Gradient Is Too Steep Please Consult Vehicle Wallet
+	Dash Prompt Particulate Filter See Owners Manual
+	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
+	Dash Prompt Please Check Fuel Cap
+	Dash Prompt Please Check Oil Level
+	Dash Prompt Please Check The Starter System
+	Dash Prompt Please Fold And Stow The Center Table
+	Dash Prompt Please Reduce Oil Level See Manual
+	Dash Prompt Read For Fueling Please Refuel
+	Dash Prompt Restart Not Possible Do Not Open Hood
+	Dash Prompt Start The Engine To Release The Parking Brake
+	Dash Prompt Steering Wheel Heating Off
+	Dash Prompt Steering Wheel Heating On
+	Dash Prompt Unable To Start Please Remove Charging Connector
+	Dash Tell Tale Cel
+	Dash Tell Tale Epc
+	Dates Units
+	Default Console Lighting Group 1 Light Level
+	Distance Units Km0 Mi1
+	Dpf Installed
+	Driver Detected In Driver Seat
+	Driver Heated Seat Level
+	Driver Seat Heating Balance Setting
+	Driver Seat Ventilation Balance Setting
+	Driver Seatbelt Buckled
+	Drl On
+	Emergency Call Gray Active
+	Emergency Call Yellow Active
+	Engine Coolant Temperature
+	Engine Liters
+	Error Electrical System Stop
+	Esc
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
+	Fog Light
+	Fog Lights
+	Front Left Door Child Lock State
+	Front Left Door Lock State
+	Front Left Door Open
+	Front Left Lock Button Pressed
+	Front Left Unlock Button Pressed
+	Front Left Window Auto Down Switch
+	Front Left Window Auto Up Switch
+	Front Left Window Down Switch
+	Front Left Window Moving Down
+	Front Left Window Moving Up
+	Front Left Window Open
+	Front Left Window Open Percentage
+	Front Left Window Over Heat
+	Front Left Window Up Switch
+	Front Left Window Upper And Lower Limit Switch
+	Front Mister Active
+	Front Or Rear Defrost Selected
+	Front Passenger Airbag Off
+	Front Passenger Door Lock Button Switch
+	Front Passenger Door Lock State
+	Front Passenger Door Open
+	Front Passenger Door Unlock Button Switch
+	Front Passenger Window Auto Down Switch
+	Front Passenger Window Auto Up Switch
+	Front Passenger Window Closed
+	Front Passenger Window Down Switch
+	Front Passenger Window Moving Down
+	Front Passenger Window Moving Up
+	Front Passenger Window Open Percentage
+	Front Passenger Window Over Heat
+	Front Passenger Window Safety Retraction Active
+	Front Passenger Window Up Switch
+	Front Passenger Window Upper And Lower Limit Switch
+	Fuel Cap Lock Engaged
+	Fuel Level Liters
+	Glow Plug Tell Tale Active
+	Head Light Settings
+	Heated Mirrors Active
+	Heated Mirrors Selected
+	Heated Steering Wheel Level
+	Heated Steering Wheel Toggled
+	High Beams
+	High Level Brake Light Faulty Message
+	Ignition Key Position Active
+	Infotainment Message The Electric Heating Power Is Too Low Please Switch To Hybrid Mode
+	Instrument Cluster Ambient Lighting
+	Instrument Cluster Backlight Level
+	Intake Air Temperature
+	Language Units
+	Lca Not Available Service Necessary
+	Left Brake Light Faulty Message
+	Left Brake Light Turn Signal Faulty Message
+	Left Brake Tail Lights Faulty Message
+	Left Rear Fog Tail Lights Faulty Message
+	Left Reversing Light Faulty Message
+	Left Tail Light Faulty Message
+	Left Turn Signal
+	Left Turn Signal Brake Tail Lights
+	Light Warning Tell Tale
+	Lights Active
+	Limiter Active
+	Low Beams
+	Low Fuel Light Active
+	Low Pressure Warning Active
+	Minus Button Pressed
+	Mirror Heater Selected
+	Mirror Selected For Adjustment
+	Mirrors Not Moving
+	Month
+	Motor Running Active
+	Night Display Active
+	Number Closed Cylinders
+	Number Of Cylinders
+	Number Plate Light Faulty Message
+	Odometer
+	Oil Level
+	Oil Temperature
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Door Front Mirror Folded In
+	Passenger Heated Seat Level
+	Passenger Hvac Fan Speed
+	Passenger Seat Heating Balance Setting
+	Passenger Seat Ventilation Balance Setting
+	Passenger Seatbelt Buckled
+	Phc Selected
+	Please Reduce Oil Level
+	Poor Weather Lights Active
+	Pressure Units
+	Prndl
+	Pulse Button Pressed
+	Range
+	Ready To Drive
+	Rear Crash
+	Rear Fog Light Fault Message
+	Rear Left Fog Light Faulty Message
+	Rear Left Turn Signal Faulty Message
+	Rear Mister Active
+	Rear Right Turn Signal Fualty Message
+	Rear Wiper Active
+	Recirculation Button Active
+	Release The Parking Brake
+	Remote Start Active
+	Res Button Pressed
+	Reverse Active
+	Reverse Active
+	Reversing Light Fault Message
+	Right Brake Light Faulty Message
+	Right Brake Light Turn Signal Faulty Message
+	Right Brake Tail Lights Faulty Message
+	Right Rear Fog Light Faulty Message
+	Right Rear Fog Tail Lights Faulty Message
+	Right Revering Light Faulty Message
+	Right Tail Light Faulty Message
+	Right Turn Signal
+	Right Turn Signal Brake Tail Lights Faulty Message
+	Rollover Crash
+	Rolls Front Windows Up To 90 Percent
+	Set Button Pressed
+	Shift Interlock Active
+	Side Lights
+	Side Mirror Adjustment Switch Down
+	Side Mirror Adjustment Switch Left
+	Side Mirror Adjustment Switch Right
+	Side Mirror Adjustment Switch Up
+	Side Mirrors Folded In Selected
+	Side Mirrors Folding In
+	Side Mirrors Folding Out
+	Speed Units 0Kmh 1Mph
+	Speed Warning Active
+	Start Stop Restart
+	Start Stop Stop Motor
+	State Of Charge
+	Steering Wheel Adjustment Being Made
+	Steering Wheel Buttons
+	Stop Confirmation
+	Stopping Process Acc Active
+	Sun Roof Cover Button State
+	Sun Roof Open Close Button State
+	Tell Tale Seatbelt Icon For Drive Active
+	Tell Tale Seatbelt Icon For Passenger Active
+	Temperature Units C0 F1
+	Throttle Wide Open Active
+	Time Day
+	Time Hours
+	Time Minutes
+	Time Seconds
+	Time Units 24Hour0 12Hour1
+	Tks Qbit Slope
+	Tks Qbit Vehicle Mass
+	Tks Slope
+	Tks Vehicle Mass
+	Transmission Over Temperature Warning
+	Trunk Button Being Pulled Up
+	Trunk Open
+	Upper Engine Speed Limit
+	Vehicle Speed
+	Vin Part1
+	Voltage Request
+	Volume Units
+	Wheel Direction Front Left
+	Wheel Direction Front Right
+	Wheel Direction Rear Left
+	Wheel Direction Rear Right
+	Wiper Right Stock Position 1X
+	Wiper Right Stock Position High
+	Wiper Right Stock Position Int
+	Wiper Right Stock Position Low
+	Wiper Speed Level
+	Year

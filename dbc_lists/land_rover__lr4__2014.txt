@@ -1,0 +1,501 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Land Rover 'Lr4' (2014)
+Signals:
+	Audio System Button Cd Eject Status
+	Brake Fluid Low 0 True
+	Car Clock Date Day
+	Car Clock Date Month
+	Car Clock Date Year
+	Car Clock Time Hours
+	Car Clock Time Minutes
+	Car Clock Time Seconds
+	Central Lock Applied
+	Dashboard Display Language
+	Dashboard Prompt Displaying
+	Dashboard Prompt Not Displaying
+	Dashboard Tell Tale High Beam On
+	Dashboard Tell Tale Low Beam On
+	Ddp Side Mirrors Controls Active
+	Ddp Window Front Right Button
+	Ddp Window Rear Right Button
+	Door Driver Panel Switch Active
+	Drive Away Locking Activated
+	Drive Away Locking Switch
+	Driving Special Program Changing
+	Driving Special Program Selected
+	Driving Special Program Set
+	Engine Coolant Level Low
+	Engine Coolant Temperature
+	Front Panel Ambient Light Sensor
+	Front Panel Button Audio Off Pressed
+	Front Panel Button Home Menu Hold
+	Front Panel Button Home Menu Pressed
+	Front Panel Button Mode Hold
+	Front Panel Button Mode Pressed
+	Front Panel Button Music Hold
+	Front Panel Button Music Pressed
+	Front Panel Button Next Hold
+	Front Panel Button Next Pressed
+	Front Panel Button Previous Hold
+	Front Panel Button Previous Pressed
+	Front Panel Wheel Mode Changing
+	Front Panel Wheel Volume Changing
+	Fuel Range
+	Fuel Warning Level Low
+	Headlight Delay
+	Headlights Status Off
+	Headlights Status On
+	Hvac Ac Clutch Engaged
+	Hvac Blower Direction Down
+	Hvac Blower Direction Front
+	Hvac Blower Direction Up
+	Hvac Blower Speed
+	Hvac Defroster Rear
+	Hvac Defroster Rear Relay Active
+	Hvac Recirculation
+	Hvac Recirculation Auto
+	Hvac Recirculation Status
+	Hvac System Active
+	Hvac Temperature Set Front Left
+	Hvac Temperature Set Front Left Hi
+	Hvac Temperature Set Front Right
+	Hvac Temperature Set Front Right Hi
+	Indicator Tell Tale Left
+	Indicator Tell Tale Left Trailer
+	Indicator Tell Tale Right
+	Indicator Tell Tale Right Trailer
+	Keyfob Last Command Sent
+	Keyfob Not Active
+	Lights Antifog Front On
+	Lights High Beam Auto Sensor Blocked
+	Lights Interior Auto
+	Lights Interior Off
+	Lock Unlock Command
+	Locking In 2 Stages Activated
+	Occupancy Sensor Front Right
+	Odometer
+	Odometer At Last Engine Start
+	Parking Brake Applied 1
+	Parking Brake Applied 2
+	Prompt Column Adjust Auto 0 True
+	Prompt Press Clutch When Starting
+	Reverse Dip Mirror Activated
+	Reverse Dip Mirror Switch
+	Seat Front Left Position Control Pressed
+	Seat Front Left Position Recalled
+	Seat Front Left Position Relay Active
+	Seat Front Right Position Recalled
+	Sensors Alarm Deactivated
+	Side Mirrors Status
+	Signal 2
+	Steering Wheel Angle Sensor 2
+	Tell Tale Trailer Engaged On
+	Temperature Displayed Dashboard
+	Touchscreen Language Set
+	Touchscreen Pressed
+	Touchscreen Pressed Position Horizontal Axis
+	Touchscreen Pressed Position Vertical Axis
+	Touchscreen Temperature Unit
+	Unlock Command
+	Valet Mode Active
+	Warning Brake Pads Worn
+	Window Front Left Position Sensor
+	Window Front Right Position Sensor
+	Window Rear Left Position Sensor
+	Window Rear Right Position Sensor
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Buzz On
+	Abs Fault
+	Abs In Action
+	Acceleration Lateral
+	Acceleration Longitudinal Sensor Input
+	Acceleration Longitudinal Value
+	Adas Cc Button Can Pressed
+	Adas Cc Button Decrease Pressed
+	Adas Cc Button Increase Pressed
+	Adas Cc Button Res Pressed
+	Adas Status
+	Alternator Load
+	Alternator Voltage Output
+	Battery Charging System Fault
+	Battery Voltage Output
+	Brake Hydraulic Pressure
+	Car Life Time
+	Charging System Active
+	Corner High Front Left
+	Corner High Front Right
+	Corner High Rear Left
+	Corner High Rear Right
+	Crash Event
+	Dash Prompt Service Required
+	Dash Prompt Smart Key Recognized
+	Dash Prompt Valet Mode
+	Dash Warning Engine Stop Button Pressed
+	Dash Warning Engine Systems Fault
+	Dash Warning Gearbox Not In Park
+	Dash Warning Ignition Is On
+	Dash Warning Press Brake When Starting
+	Dash Warning Smart Key Not Found
+	Dash Warning Steering Column Locked
+	Dash Warning Washer Fluid Low
+	Dashboard Beeping
+	Dashboard Gear Indicator Displayed
+	Distance To Next Service
+	Door Front Left Closed
+	Door Front Right Closed
+	Door Hood Closed
+	Door Rear Left Closed
+	Door Rear Right Closed
+	Door Trunk Closed
+	Dpf Warning Status
+	Dynamic Stability Control Not Available
+	Dynamic Stability Control Status
+	Electronic Traction Control In Action
+	Engine Acceleration
+	Engine Coolant Temperature Displayed
+	Engine Cranking
+	Engine Load
+	Engine Oil Level
+	Engine Speed
+	Engine Start Button Pressed
+	Engine Torque Net
+	Engine Torque Reference
+	Engine Torque Requested By Driver
+	Gearbox Automatic Position
+	Gearbox Manual Shift Down Request
+	Gearbox Manual Shift Up Request
+	Hill Descent Control System Status
+	Hill Descent System Prompt Status
+	Hvac Ac System Pressure
+	Hvac Compressor Motor Current
+	Intake Air Temperature
+	Lights Brake Lamps On
+	Lights High Beam
+	Lights Indicator Left Lamps On
+	Lights Indicator Right Lamps On
+	Lights Low Beam
+	Lights Side
+	Lights Tell Tale Antifog Front On
+	Lights Tell Tale Antifog Rear On
+	Lights Tell Tale Side On
+	Malfunction Lamp Due To Service Distance
+	Malfunction Lamp Flashing
+	Malfunction Lamp On
+	Oil Sump Temperature
+	Parking Aid Alert On
+	Parking Brake Applied
+	Parking Brake Fault Lamp On
+	Parking Brake Lamp Flashing
+	Parking Brake Lamp On
+	Parking Brake Switch Input Status
+	Parking Brake Warning Status
+	Pedal Accelerator Kickdown Switch
+	Pedal Accelerator Position
+	Pedal Brake Hydraulic Pressure 1
+	Pedal Brake Hydraulic Pressure 2
+	Pedal Brake Not Pressed
+	Pedal Brake Pressed
+	Power Mode
+	Power Mode Accessory On
+	Prompt Command Shift Selected
+	Prompt Restricted Performance
+	Prompt Transmission Fault
+	Prompt Transmission Overheating
+	Ride Level Button Down Pressed
+	Ride Level Button Up Pressed
+	Ride Level Command Decrease
+	Ride Level Command Increase
+	Ride Level Height Current
+	Ride Level Height Target
+	Ride Level Lowering
+	Ride Level Off Road 0 True
+	Ride Level Prompt Only Normal Height Available
+	Ride Level Raising
+	Ride Level Selected
+	Ride Level Status
+	Ride Level System Beep On
+	Ride Level System Buzz On
+	Ride Level Warning Suspension Fault
+	Ride Level Warning Vehicle Too Low
+	Seatbelt Front Left Fastened
+	Seatbelt Front Right Fastened
+	Stalk Left Pressed Down
+	Stalk Left Pressed Up
+	Steering Angle Sensor Status Calibrated
+	Steering Angle Sensor Status Ok
+	Steering Angle Sensor Status Trimmed
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Sensor 1
+	Tell Tale Airbag Flashing
+	Tell Tale Airbag On
+	Tell Tale Brake Pads Worn
+	Tell Tale Brakes Fault
+	Terrain Program Changing
+	Terrain Program Current
+	Terrain Program Rock Crawl Na Select Low Range
+	Terrain Program Set
+	Terrain Program Target
+	Traction Control Lamp Flashing
+	Traction Control Lamp On
+	Traction Control System Off
+	Transfer Case Changing To High
+	Transfer Case Changing To Low
+	Transfer Case High Range
+	Transfer Case High Range Switch On
+	Transfer Case Low Range
+	Transfer Case Range Changing
+	Transfer Case Range Mode
+	Transmission Gear Commanded
+	Transmission Gear Engaged
+	Transmission Gear Status
+	Transmission Input Shaft
+	Transmission Output Shaft
+	Transmission Shaft Torque
+	Vehicle Battery Current
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Warning Check Fuel Tank Cap
+	Warning Emergency Brake Assist Fault
+	Warning Emergency Brake Assist Not Available
+	Warning Engine Systems Fault
+	Warning Restricted Performance
+	Warning Speed Too High For Range Change
+	Warning Stability Control Not Available
+	Warning Transmission Overheating
+	Water In Diesel See Handbook
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wipers Front Status
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Fault Message Active
+	Abs Tell Tale Not Active
+	Accelerator Pedal Position
+	Airbag Tell Tale Active
+	Airbag Tell Tale Blinking Active
+	Alarm Sensor System Setting Changing
+	Alarm Sensor System Setting Set To Off
+	Ambient Air Temp
+	Aspc Message
+	Auto High Beam Sensitivity Setting Changing
+	Auto High Beam Sensitivity Setting Set To Test Mode
+	Auto High Beam Setting Driving On The Right System Setting Active
+	Auto High Beam Setting Driving On The Right System Setting Changing
+	Auto Off Button Pressed
+	Auto Off Not Active
+	Barometric Pressure
+	Brake Not Pressed
+	Brake Pressed
+	Brake Pressure
+	Break Tell Tale Active
+	Calculated Engine Load
+	Charging Fault Not Active
+	Check All Tire Pressures Message Active
+	Check Engine Light Tell Tale Active
+	Check Fuel Filter Cap Message Active
+	Check Spare Tire Pressure Message Active
+	Convenience Easy Entry Exit Setting Changing
+	Convenience Easy Entry Exit System Setting Set To On
+	Convenience Feature Auto High Beam System Setting Changing
+	Convenience Feature Auto High Beam System Setting Set To On
+	Current Gear
+	Downshift Paddle Pressed
+	Drive Away Locking System Setting Changing
+	Drive Away Locking System Setting Set To
+	Driver Door Closed
+	Ebd Fault Active
+	Eco Mode Off
+	Eco Mode On
+	Emergency Brake Assist Not Available Message Active
+	Engine Coolant Temperature
+	Engine Net Torque
+	Engine Oil Level
+	Engine Operational Time
+	Engine Reference Torque
+	Engine System Fault Message Active
+	Engine Torque Limit
+	Exhaust Filter Nearly Full Driving Above 40 Mph For 20 Min Will Clean Filter Message Active
+	Fog Lights Active
+	Front Left Low Tire Pressure Message Active
+	Front Left Tire Pressure
+	Front Left Tire Pressure Not Monitored Message Active
+	Front Right Low Tire Pressure Message Active
+	Front Right Tire Pressure
+	Front Right Tire Pressure Not Monitored Message Active
+	Gear Shift Paddles System Setting Changed
+	Gear Shift Paddles System Setting Set To S Only
+	Gearbox Error Messages
+	Gearbox Not In Park Message Active
+	Hazards Commanded On
+	Hdc Fault Messages
+	Hdc On
+	Headlamp Adjustment Blinking Tell Tale Active
+	Headlamp Adjustment Tell Tale Active
+	Headlight Delay System Setting Changed
+	Headlight Delay System Setting Set To
+	Hood Closed
+	Ignition Is On Message Active
+	Incorrect Diesel Exhaust Fluid Quality Detected Message Active
+	Instrument Cluster Backlight Level
+	Instrument Cluster Warning Chime Active
+	Int Wiper Setting
+	Interior Lights Off Message Active
+	Left Turn Signal Active
+	Low Speed Aeb Disabled Message Active
+	Low Speed Aeb System Was Activated Message Active
+	Lowbeam Tell Tale Active
+	Manual Gear
+	No Engine Restarts Possible In 32000Km Message Active
+	Odometer
+	Parking Brake Button State
+	Parking Brake Engaged
+	Parking Brake Engaging Or Disengaging
+	Passenger Airbag Off Message Active
+	Passenger Airbag System Setting Set To Off
+	Passenger Airbag System Setting Set To On
+	Passenger Door Closed
+	Passenger Seat Occupied
+	Power Mode
+	Press Brake When Starting Grey Ring Message Active
+	Press Brake When Starting White Ring Message Active
+	Prndl D
+	Prndl N
+	Prndl R
+	Prndl S
+	Progress Control Blinking Tell Tale Active
+	Progress Control Tell Tale Active
+	Rear Driver Door Closed
+	Rear Left Low Tire Pressure Message Active
+	Rear Left Seat Buckled
+	Rear Left Tire Pressure
+	Rear Left Tire Pressure Message Not Monitored Active
+	Rear Middle Seat Buckled
+	Rear Passenger Door Closed
+	Rear Right Low Tire Pressure Message Active
+	Rear Right Seat Buckled
+	Rear Right Tire Pressure
+	Rear Right Tire Pressure Not Monitored Message Active
+	Restricted Performance Message Active
+	Right Turn Signal Active
+	Security Feature 2 Stage Unlock System Setting Changing
+	Security Feature 2 Stage Unlock System Setting Set To On
+	Security Feature Audible Lock Warning System Setting Changing
+	Security Feature Audible Lock Warning System Setting Set To On
+	Select Neutral When Starting Message Active
+	Shift Up Icon Active
+	Shifting Into Park
+	Smart Key No Longer Within Vehicle Message Active
+	Smart Key Not Recognised Reposition And Press Start Button Message Active
+	Start Stop Switch Fault Message Active
+	Sump Oil Temperature
+	System Units Set To Mile Mph And Mpg
+	Torque Request Acknowledge
+	Tpm Load Setting Set To Heavy
+	Tpm Load Setting Set To Normal
+	Tpms Tell Tale Active
+	Transmission Oil Temperature
+	Transmission Output Shaft Speed
+	Transmission Turbine Speed
+	Trunk Closed
+	Upshift Paddle Pressed
+	Valet Mode Active
+	Water In Fuel Message Active
+	Window Global Close System Setting Changing
+	Window Global Close System Setting Set To On
+	Window Global Open System Setting Changing
+	Window Global Open System Setting Set To On
+	Wiper Setting Auto Wipe System Setting Changed
+	Wiper Setting Auto Wipe System Setting Set To On
+	Wiper Setting Winter Wiper Park System Setting Changed
+	Wiper Setting Winter Wiper Park System Setting Set To On
+	Wipers Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac Active
+	Engine Oil Level Critically Low Dash Prompt
+	Engine Oil Level Low Add 1 L Dash Prompt
+	Hvac Auto Active
+	Hvac Blower Position Driver Side
+	Hvac Blower Position Passenger Side
+	Hvac Driver Recirculation Active
+	Hvac Driver Temperature
+	Hvac Fan Speed
+	Hvac Passenger Recirculation Active
+	Hvac Passenger Temperature
+	Hvac Sync Active
+	Hvac System Active
+	Please Wait Cold Start In Progress
+	Rear Defrost Active
+	Temperature Units Set To Fahrenheit
+	Tire Pressure Unit Setting
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ambient Air Temperature
+	Child Lock Active
+	Child Lock Button Engaged
+	Child Lock Not Active
+	Driver Buttons Passenger Window Button Status
+	Driver Buttons Rear Driver Side Passenger Window Button Status
+	Driver Buttons Rear Passenger Side Passenger Window Button Status
+	Driver Door Locked
+	Driver Door Open
+	Driver Seatbelt Buckled
+	Driver State Changing To Closed
+	Driver Window Status
+	Global Real Time
+	Key Fob Rolling Code
+	Lane Keep Assist Button Pressed
+	Last Pressed Key Fob Button
+	No New Button Pressed
+	Passenger Door Locked
+	Passenger Mirror Folded In
+	Passenger Mirror Folded Out
+	Passenger Seatbelt Buckled
+	Passenger Window Status
+	Range
+	Rear Driver Child Lock Active
+	Rear Driver Door Locked
+	Rear Driver Window Status
+	Rear Passenger Child Lock Active
+	Rear Passenger Door Locked
+	Rear Passenger Window Status
+	Reverse Active
+	Right Mirror Movement Direction
+	Sun Roof Open
+	Trunk Unlatching
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Aeb System Set To Off
+	Auto Start Stop Button Pressed
+	Clock Day
+	Clock Hours 24 Hour Format
+	Clock Minutes
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Cruise Control Active
+	Cruise Control Cancel Button Pressed
+	Cruise Control Limit Button Pressed
+	Cruise Control Negative Button Pressed
+	Cruise Control Pulse Button Pressed
+	Cruise Control Resume Button Pressed
+	Drive Mode
+	Forward Alert System Set To Off
+	Headlight Stock Position
+	Mode Selection Left Arrow Pressed
+	Mode Selection Right Arrow Pressed
+	Steering Angel Rate Of Change
+	Steering Wheel Angle
+	Stock Position Forward D Back
+	Traction Control Off Button Not Pressed
+	Traction Control Off Button Pressed
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right

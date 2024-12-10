@@ -1,0 +1,485 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Tesla 'Model 3' (2024)
+Signals:
+	Bms Energybuffer
+	Bms Energycounter
+	Bms Energytochargecomplete
+	Bms Expectedenergyremaining
+	Bms Idealenergyremaining
+	Bms Isensormajorversion
+	Bms Isensorminorversion
+	Bms Isensorprotocolnumber
+	Bms Isensorreleaseversion
+	Bms Isensorserialnumber
+	Bms Kwhchargetotal
+	Bms Kwhdischargetotal
+	Bms Maxdischargepower
+	Bms Maxregenpower
+	Bms Nominalenergyremaining
+	Bms Nominalfullpackenergy
+	Chg Nmgoingtosleep
+	Chg Nmkeepawakereason
+	Chg Nmwakeupbus
+	Chg Nmwakeupreason
+	Chg W001 Hwbuck
+	Chg W002 Hwboost
+	Chg W003 Hwbiasboost
+	Chg W004 Hwbiasbuck
+	Chg W005 Hwxfrmroc
+	Chg W006 Hwboost1Oc
+	Chg W007 Hwboost2Oc
+	Chg W008 Hwthermal1
+	Chg W009 Hwfcweld
+	Chg W010 Hwillegalfcrequest
+	Chg W011 Hwvinov
+	Chg W012 Hwfastchargedriver
+	Chg W013 Hwillegalinletrequest
+	Chg W014 Hwthermal2
+	Chg W015 Hwantispark
+	Chg W016 Hwvoutov
+	Chg W017 Hwintermediatebus
+	Chg W018 Hwlineoc
+	Chg W019 Hwibatoc
+	Chg W020 Hwhvil
+	Chg W021 15V
+	Chg W022 Hw12Vuv
+	Chg W023 Hwreset
+	Chg W024 Vlineovpk
+	Chg W025 Vlineuv
+	Chg W026 Voutov
+	Chg W027 Voutuv
+	Chg W028 Igbtot
+	Chg W029 Ambientot
+	Chg W030 Vlinefreqof
+	Chg W031 Vlinefrequf
+	Chg W032 Pllsyncloss
+	Chg W033 Pilotfaulted
+	Chg W034 Swhvil
+	Chg W035 Pilotrationality
+	Chg W036 Hvjb Disconnected
+	Chg W037 Recot
+	Chg W038 Buckot
+	Chg W039 12V
+	Chg W040 Lostcommsgtw
+	Chg W041 Lostcommsbms
+	Chg W042 Lostcommscp
+	Chg W043 Canrationality
+	Chg W044 Lostcommsvi
+	Chg W045 Invalidstate
+	Chg W046 Movingincharge
+	Chg W047 Hvjb Groundloss
+	Chg W048 Fcweldcheckstate
+	Chg W049 Invalidchargereq
+	Chg W050 Invalidstatechng
+	Chg W051 Fcstatefault
+	Chg W052 Memoryerror
+	Chg W053 Networkmanagement
+	Chg W054 Interrupttime
+	Chg W055 Vlinedischarge
+	Chg W056 5Vpower
+	Chg W057 Vlineov
+	Chg W058 Watchdogreset
+	Chg W059 Swcanerror
+	Chg W060 Fccntrvcheck
+	Chg W061 Fcauxcntrrationality
+	Chg W062 Fcposcntrwelded
+	Chg W063 Fcnegcntrwelded
+	Chg W064 Prechargerelaywelded
+	Chg W065 Fccntrrationalitycheck
+	Chg W066 Unexpectedvintbehavior
+	Chg W067 Line2Ov
+	Chg W068 Heatsinktempslope
+	Chg W069 Igbttempslope
+	Chg W070 Heatsinkot
+	Chg W071 Chargethermallimit
+	Chg W072 Assertion
+	Chg W073 Unexpectedvoutbehavior
+	Chg W074 Cpldfaulted
+	Chg W075 Statetransitiondenied
+	Chg W076 Ilineocpk
+	Chg W077 Ilineocrms
+	Chg W078 Boostprechargefail
+	Chg W079 Gfci
+	Chg W080 Vintoutofrange
+	Chg W081 Iacregulation
+	Chg W082 Vintregulation
+	Chg W083 Allphasesfaulted
+	Chg W084 Voutregulation
+	Chg W085 Adcreference
+	Chg W086 Cpldinhibevseaccept
+	Chg W087 Inputrelayrationalty
+	Chg W088 Lostcommschgrly
+	Chg W089 Ilinerationality
+	Chg W090 Vlinerationality
+	Chg W091 Proximityrationality
+	Chg W092 Voutrationality
+	Chg W093 Vintrationality
+	Chg W094 Igbttemprationality
+	Chg W095 Htsinktemprationality
+	Chg W096 Ambienttemprationality
+	Chg W097 Hvilrationality
+	Chg W098 Ioutrationality
+	Chg W099 Noflowdetected
+	Chg W100 Hw15Vuv
+	Chg W101 Lostcommsphase
+	Chg W102 Lostcommsmaster
+	Chg W103 Lostcommsslave
+	Chg W104 Magneticsot
+	Chg W105 Magtemprationality
+	Chg W106 Gfcirationality
+	Chg W107 Cpldrationality
+	Chg W108 Cpcoveropen
+	Chg W109 Resetattemptinenable
+	Chg W110 Busoff
+	Chg W111 Attempttofastcharge
+	Chg W112 Packconfig
+	Chg W113 Eepromerror
+	Chg W114 Phenrationality
+	Chg W115 Chargerconfig
+	Chg W116 Hvjbot
+	Chg W117 Hvjbotfault
+	Chg W118 Vdiffhwrationality
+	Chg W119 Fcnotclosed
+	Chg W120 Hvjb Powerfault
+	Chg W121 Crashdetected
+	Chg W122 Diorationality
+	Chg W123 Unused
+	Chg W124 Ph3Versionmismatch
+	Chg W125 Leakagetestfailure
+	Chg W126 Allphasesmia
+	Chg W127 Unused
+	Chg W128 Unused
+	Cmp Currentsensorcal
+	Cmp Failedstart
+	Cmp Hvovervoltage
+	Cmp Hvundervoltage
+	Cmp Invertertemperature
+	Cmp Motorvoltagesat
+	Cmp Overcurrent
+	Cmp Overtemperature
+	Cmp Ready
+	Cmp Repeatovercurrent
+	Cmp Shortcircuit
+	Cmp Speedduty
+	Cmp Speedrpm
+	Cmp State
+	Cmp Thcccantimeout
+	Cmp Undertemperature
+	Cp Nmgoingtosleep
+	Cp Nmkeepawakereason
+	Cp Nmwakeupbus
+	Cp Nmwakeupreason
+	Das Accelmax
+	Das Accelmin
+	Das Accholdstate
+	Das Accstate
+	Das Aebevent
+	Das Autolanechangestate
+	Das Autoparked
+	Das Autoparkready
+	Das Autopilothandsonstate
+	Das Autopilotstate
+	Das Blindspotrearleft
+	Das Blindspotrearright
+	Das Controlcounter
+	Das Csastate
+	Das Forward Dcollisionwarning
+	Das Fusedspeedlimit
+	Das Hazardlightrequest
+	Das Heaterstate
+	Das Highlowbeamdecision
+	Das Jerkmax
+	Das Jerkmin
+	Das Lanedeparturewarning
+	Das Redlightstopsign
+	Das Setspeed
+	Das Sidecollisionavoid
+	Das Sidecollisioninhibit
+	Das Sidecollisionwarning
+	Das Statuscounter
+	Das Summonavailable
+	Das Summonclearedgate
+	Das Summonobstacle
+	Das Suppressspeedwarning
+	Das Visiononlyspeedlimit
+	Dcdc Biasfault
+	Dcdc Calfactorcrcfault
+	Dcdc Coolantrequest
+	Dcdc Currentthermallylimited
+	Dcdc Heateropenfault
+	Dcdc Heatershortfault
+	Dcdc Inlettemperature
+	Dcdc Inputnotok
+	Dcdc Inputpower
+	Dcdc Outputcurrent
+	Dcdc Outputcurrentlimited
+	Dcdc Outputovervoltage
+	Dcdc Outputundervoltage
+	Dcdc Outputvoltage
+	Dcdc Outputvregulationerror
+	Dcdc Overtemperature
+	Di Aebstate
+	Di Analogspeed
+	Di Aps12V
+	Di Autoparkstate
+	Di Brakecommandtype
+	Di Brakepedal
+	Di Brakepedalstate
+	Di Braketorquecommand
+	Di Btcstate
+	Di Cruisecontrolengaged
+	Di Cruiseset
+	Di Cruisestate
+	Di Digitalspeed
+	Di Dissipation
+	Di Drivepowermax
+	Di Driverailkeepalive
+	Di Driveready
+	Di Enabledriveunit
+	Di Epbinterfaceready
+	Di Epbparkrequest
+	Di Espcontrolcounter
+	Di Gear
+	Di Gearrequest
+	Di Immobilizerstate
+	Di Launching
+	Di Limitbasespeed
+	Di Limitdccaptemp
+	Di Limitdeltafluidtemp
+	Di Limitdiff
+	Di Limitdischargepower
+	Di Limitdrivetorque
+	Di Limitgracefulpoweroff
+	Di Limitibat
+	Di Limitigbtjuncttemp
+	Di Limitinvertertemp
+	Di Limitlimpmode
+	Di Limitmotorcurrent
+	Di Limitmotorspeed
+	Di Limitmotorvoltage
+	Di Limitpcbtemp
+	Di Limitpoletemp
+	Di Limitregenpower
+	Di Limitregentorque
+	Di Limitshift
+	Di Limitstatortemp
+	Di Limittcdrive
+	Di Limittcregen
+	Di Limitvbathigh
+	Di Limitvbatlow
+	Di Limitvehiclespeed
+	Di Maxpowerrequest
+	Di Mechpower
+	Di Motorcurrent
+	Di Motorrpm
+	Di Parkbrakestate
+	Di Pedalpos
+	Di Pmmstatus
+	Di Proximity
+	Di Ptcactive
+	Di Ptcstate
+	Di Regenlight
+	Di Regenpowermax
+	Di Regentcactive
+	Di Reversegear
+	Di Slavecommandcounter
+	Di Slavepowerdrive
+	Di Slavepowerlimit
+	Di Slaveslipindicator
+	Di Slavetclimit
+	Di Slavetcmax
+	Di Slavetcmin
+	Di Slavetorquecmd
+	Di Soptstate
+	Di Speedunits
+	Di State
+	Di State2Counter
+	Di Statecounter
+	Di Statorcurrent
+	Di Systemstate
+	Di Tclampflashrequest
+	Di Torque1Counter
+	Di Torque2Counter
+	Di Torquedriver
+	Di Torqueestimate
+	Di Torqueinterfacefailure
+	Di Torquemotor
+	Di Tractioncontrolmode
+	Di Vbat
+	Di Vehicleholdstate
+	Di Vehiclespeed
+	Di Vehiclestandstillrqst
+	Dis Aps12V
+	Dis Dccaptmax
+	Dis Dissipation
+	Dis Drivepowermax
+	Dis Inletpassivetargett
+	Dis Invertertmax
+	Dis Limitbasespeed
+	Dis Limitdccaptemp
+	Dis Limitdeltafluidtemp
+	Dis Limitdiff
+	Dis Limitdischargepower
+	Dis Limitgracefulpoweroff
+	Dis Limitigbtjuncttemp
+	Dis Limitinvertertemp
+	Dis Limitlimpmode
+	Dis Limitmotorcurrent
+	Dis Limitmotorspeed
+	Dis Limitmotorvoltage
+	Dis Limitpcbtemp
+	Dis Limitpoletemp
+	Dis Limitstatortemp
+	Dis Limittcdrive
+	Dis Limittcregen
+	Dis Mechpower
+	Dis Motorcurrent
+	Dis Noflowneeded
+	Dis Pcbtmax
+	Dis Statorcurrent
+	Dis Statortmax
+	Dis Vbat
+	Epb Brakeapplied
+	Epb Brakelight
+	Epb Ignorecan
+	Epb Requestuserconfirmation
+	Epb Selfparkenabled
+	Epb Selfparkstate
+	Epb State
+	Epb Statepending
+	Epb Staterequest
+	Epb Statuscounter
+	Epb Substatel
+	Epb Substater
+	Epb Tell Tale
+	Epb Towmodeenabled
+	Epb Tsapply
+	Epb Tsrelease
+	Esp 135Hcounter
+	Esp Absbrakeevent
+	Esp Absfaultlamp
+	Esp Blsactive
+	Esp Brakecommandresponse
+	Esp Brakediscwipingactive
+	Esp Brakelamp
+	Esp Braketorquetarget
+	Esp Ccounter
+	Esp Driverbrakeapply
+	Esp Espfaultlamp
+	Esp Esplampflash
+	Esp Espofflamp
+	Esp Hillstartassistactive
+	Esp Hydraulicboostenabled
+	Esp Latacceloffsetcomp
+	Esp Longacceloffsetcomp
+	Esp Mastercyloffsetcomp
+	Esp Messagedynomodeactive
+	Esp Messageebdfailure
+	Esp Messagepumpfailure
+	Esp Messagepumpservice
+	Esp Offsetscounter
+	Esp Parkbrakerequest
+	Esp Stabilitycontrolsts
+	Esp Tcdisabledbyfault
+	Esp Tclampflash
+	Esp Tcofflamp
+	Esp Wheel Speedfrl Hs
+	Esp Wheel Speedfrr Hs
+	Esp Wheel Speedrel Hs
+	Esp Wheel Speedrer Hs
+	Esp Wheel Speedscounter
+	Esp Wheelrotationfrl
+	Esp Wheelrotationfrr
+	Esp Wheelrotationrel
+	Esp Wheelrotationrer
+	Esp Yawrate
+	Esp Yawrate Lr
+	Esp Yawrateoffsetcomp
+	Esp Yawrateqf Lr
+	Gtw Airsuspensioninstalled
+	Gtw Autopilot
+	Gtw Bodycontrolstype
+	Gtw Chassistype
+	Gtw Country
+	Gtw Dashw
+	Gtw Epastype
+	Gtw Euvehicle
+	Gtw Foldingmirrorsinstalled
+	Gtw Forward Dradarhw
+	Gtw Fourwheeldrive
+	Gtw Frontcornerradarhw
+	Gtw Parkassistinstalled
+	Gtw Parksensorgeometrytype
+	Gtw Performanceconfig
+	Gtw Radarposition
+	Gtw Rearcornerradarhw
+	Gtw Rearseatcontrollermask
+	Gtw Rhd
+	Gtw Vehicleimpact
+	Gtw Wheeltype
+	Pms Aebrequest
+	Pms Checkstate
+	Pms Cruiserequest
+	Pms Cruisestate
+	Pms Limprequest
+	Pms Shiftstate
+	Pms Soptstate
+	Pms Statecounter
+	Pms Torquemeasured
+	Sc Driverfrontdooropenstatus
+	Sc Driverreardooropenstatus
+	Sc Fronttrunkstatus
+	Sc Passfrontdooropenstatus
+	Sc Passreardooropenstatus
+	Sc Reartrunkstatus
+	Sdm Buckledriverstatus
+	Thc Acnpressure Hpa
+	Thc Aconbtnstate Flag
+	Thc Aconmnl Flag
+	Thc Ambientrecircoff
+	Thc Autobtnstate Flag
+	Thc Batheaterstartupstate
+	Thc Batteryheaterreq
+	Thc Batteryheaterstate
+	Thc Batteryheatertemp
+	Thc Blowermotormnl Flag
+	Thc Blowermotormnlset Seg
+	Thc Compoperpermission Flag
+	Thc Compready Flag
+	Thc Controlmodeset Flag
+	Thc Controlmodeset Flag Beta
+	Thc Coolingfanspeed Perc
+	Thc Defogbtnstate Flag
+	Thc Dualbtnstate Flag
+	Thc Evready Flag
+	Thc Faultcoderequest Flag
+	Thc Htronbtnstate Flag
+	Thc Htronmnl Flag
+	Thc Hvpowerlimit
+	Thc Intakeactmnl Flag
+	Thc Intakebtnstate Flag
+	Thc Keyofftime Min
+	Thc Keystate Flag
+	Thc Lefttempsetpoint Degc
+	Thc Limitedbatteryheater
+	Thc Limitedcompressor
+	Thc Limitedptcheater
+	Thc Limitedptcrheater
+	Thc Modeactmnl Flag
+	Thc Modeactmnlset Flag
+	Thc Offbtnstate Flag
+	Thc Ptcallowoperation Flag
+	Thc Ptcmaxpowerallowed W
+	Thc Ptcnoripple Flag
+	Thc Ptcoperpermission Flag
+	Thc Ptcready Flag
+	Thc Ptctargetduty Perc
+	Thc Rccmcompspeedlimit Rpm
+	Thc Rccmptcconfig
+	Thc Righttempsetpoint Degc
+	Thc Stateofcharge Perc Beta
+	Thc Testmodeset Flag
+	Thc Testmodeset Flag Beta
+	Thc Totalpowerconsumed12V
+	Thc Totalpowerconsumedhv
+	Thc Vehiclespeed Mph

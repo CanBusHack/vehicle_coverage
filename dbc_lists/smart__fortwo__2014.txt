@@ -1,0 +1,172 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Smart 'Fortwo' (2014)
+Signals:
+	Abs Active
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Adas Cruise Control Active
+	Adas Sl Or Cc Speed Set
+	Adas Sp Or Cc Active
+	Adas Speed Limiter On And Not Active
+	Airbag Passenger Off
+	Ambient Temperature
+	Battery Hv Charger Plugged
+	Battery Hv Empty
+	Battery Hv Gauge Indication
+	Battery Lv Voltage
+	Battery State Of Charge
+	Car Lifetime
+	Car Moving
+	Car Not Moving
+	Center Display Language
+	Clock Hours
+	Clock Minutes
+	Computer After Ignition Present
+	Coolant Temperature
+	Dash Bright Mode Dimmed
+	Dash Chime
+	Dash Indication Eco Off
+	Dash Indication Eco On
+	Dash Lights Antifog Front
+	Dash Lights Antifog Rear
+	Dash Lights High Beam
+	Dash Lights Indicator Left
+	Dash Lights Indicator Right
+	Dash Lights Low Beam
+	Dash Speedometer Indication
+	Dash Speedometer Indication
+	Dash Tell Tale Abs Flashing
+	Dash Tell Tale Airbag Fault
+	Dash Tell Tale Airbag Warning
+	Dash Tell Tale Battery Fault
+	Dash Tell Tale Parking Brake Fault
+	Dash Tell Tale Tract Cont
+	Dash Tell Tale Tract Cont Flashing
+	Dash Tell Tale Tyre Pressure Front Left
+	Dash Tell Tale Tyre Pressure Front Right
+	Dash Tell Tale Tyre Pressure Rear Left
+	Dash Tell Tale Tyre Pressure Rear Right
+	Dash Warning Tyre Pressure Low Front Left
+	Dash Warning Tyre Pressure Low Front Right
+	Dash Warning Tyre Pressure Low Rear Left
+	Dash Warning Tyre Pressure Low Rear Right
+	Dc Dc Converter Output
+	Distance Remaining Until Charging
+	Door Front Left Closed
+	Door Front Left Open
+	Door Front Right Closed
+	Door Front Right Open
+	Door Hood Closed
+	Door Hood Open
+	Door Open Tell Tale Front Left
+	Door Open Tell Tale Front Right
+	Door Open Tell Tale Trunk
+	Door Trunk Closed
+	Door Trunk Open
+	Driving Mode Eco Off
+	Driving Mode Eco On
+	Eco Mode Active
+	Eco Mode Not Active
+	Eco Score Current Trip Anticipation
+	Eco Score Current Trip Energy Consumption Average
+	Eco Score Current Trip Odometer
+	Eco Score Current Trip Speed
+	Eco Score Current Trip Speed Average
+	Eco Score Trip Computer Resetting
+	Electric Motor Speed
+	Engine Immobilizer Active
+	Evaporator Sensor Temperature
+	Gear Position Park Or Neutral
+	Gear Range Engaged
+	Gear Range Engaged
+	Gear Reverse Not Engaged
+	Hv Ptc Heater And Refrigerant Compressor Power Consumption
+	Hv Ptc Heater Heat Output
+	Hv Ptc Heater Power Consumption
+	Hvac A C Active
+	Hvac A C Off And Fan Active
+	Hvac A C On
+	Hvac Air Direction Bottom
+	Hvac Air Direction Front
+	Hvac Available Output
+	Hvac Fan Active
+	Hvac Fan Speed
+	Hvac Fan Speed Higher Than 1
+	Hvac Fan Speed Off Or 1
+	Hvac Heater Rear Off
+	Hvac Heater Side Mirror On
+	Hvac Mode
+	Hvac Mode Auto Off
+	Hvac Mode Auto On
+	Hvac Mode Max Active
+	Hvac Mode Max Not Active
+	Hvac Recirculation Active
+	Hvac Recirculation Not Active
+	Hvac Request Through Buttons
+	Hvac Temperature Set
+	Hvac Window Heater Rear On
+	Immobilizer Injection Code Allocated
+	Immobilizer Injection Code Blank
+	Inlet Air Temperature
+	Key Button Unlock Held
+	Key Locking Or Unlocking
+	Key Unlocking Or Button Lock Held
+	Lights Hazards On
+	Lights High Beam On
+	Lights Indicator Left
+	Lights Indicator Right
+	Lights Low Beam On
+	Lights Position Off
+	Lights Position On
+	Locking System Automatic
+	Locking System Locked By Key
+	Odometer
+	Parking Brake Applied
+	Parking Brake Not Applied
+	Pedal Accelerator Position With Switch
+	Pedal Accelerator Position Without Switch
+	Pedal Brake Booster Vacuum Pressure
+	Pedal Brake Position Intermediate
+	Pedal Brake Position Pressed
+	Pedal Brake Position Released
+	Pedal Brake Pressure
+	Power Electronics Component Input
+	Power Mode
+	Power Mode Ignition Or Ready
+	Power Mode In Accessory
+	Power Mode Off Or Accessory
+	Power Mode Ready
+	Power Net
+	Power Requested
+	Power Used Gauge Indication
+	Refrigerant Compressor Speed Specified
+	Refrigerant Pressure
+	Seatbelt Unfastened Front Left Tell Tale
+	Seatbelt Unfastened Front Right Occupied
+	Seatbelt Warning Front Left
+	Seatbelt Warning Front Right
+	Speed Limiter Speed Set Exceeded
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Traction Control System Status
+	Tyre Pressure Front Left
+	Tyre Pressure Front Right
+	Tyre Pressure Low Front Left
+	Tyre Pressure Low Front Right
+	Tyre Pressure Low Rear Left
+	Tyre Pressure Low Rear Right
+	Tyre Pressure Rear Left
+	Tyre Pressure Rear Right
+	Vehicle Acceleration
+	Vehicle Speed
+	Vehicle Speed Only Over 10 Km H
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Rear Heater Active
+	Windshield Sprayer Active
+	Windshield Sprayer Not Active
+	Wipe Rear With Reverse Auto
+	Wipe Rear With Reverse Off
+	Yaw Rate

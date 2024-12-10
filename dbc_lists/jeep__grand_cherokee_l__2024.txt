@@ -1,0 +1,220 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Jeep 'Grand Cherokee L' (2024)
+Signals:
+	Stalk Lights Headlight Position
+	Stalk Lights Position High Beam Flash Pulled
+	Stalk Lights Position High Beam Pressed
+	Stalk Lights Position Indicator Left
+	Stalk Lights Position Indicator Right
+	Stalk Lights Position Locked In Indicator Left Or Right
+	Wiper Front Position Mist
+	Wiper Front Position Not Intermittent
+	Wiper Front Speed
+	Wiper Front Washer Active
+	Wiper Rear Status
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Adas Adaptive Cruise Control Front Distance Setting
+	Adas Lane Assist Active
+	Door Driver Closed
+	Door Passenger Closed
+	Door Rear Left Closed
+	Door Rear Right Closed
+	Engine Speed
+	Front Cruise Control Distance Sensor 1 Part Number
+	Front Cruise Control Distance Sensor 2 Part Number
+	Fuel Consumption Current Unit
+	Hill Descent Control Button Pressed
+	Lights Brake Active
+	Lights Fog Button Pressed
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Park Brake Auto Active
+	Pedal Accelerator Position
+	Pedal Accelerator Rate
+	Pedal Brake Pressed
+	Radio Mode
+	Seatbelt Front Driver Unfastened
+	Seatbelt Front Passenger Unfastened
+	Steering Wheel Angle
+	Terrain Mode
+	Throttle Wide Open
+	Tpms Front Left Low Pressure Warning
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Low Pressure Warning
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Low Pressure Warning
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Low Pressure Warning
+	Tpms Rear Right Tire Pressure
+	Transfer Case 4Wd Button Down Pressed
+	Transfer Case 4Wd Button Low Pressed
+	Transfer Case 4Wd Button Up Pressed
+	Units Imperial
+	Units Metric
+	Vin
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Door Driver Button 1 Pressed
+	Door Driver Button 2 Pressed
+	Door Driver Button S Pressed
+	Door Passenger Button 1 Pressed
+	Door Passenger Button 2 Pressed
+	Door Passenger Button S Pressed
+	Key Fob Button Command
+	Key Fob Button Pressed
+	Seat Passenger Button Massage Pressed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Auto Shutoff Active
+	Cabin Lighting Inactive
+	Cameras Screen Front And Back Active
+	Car In Reverse
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Display Brightness Headlight Off Level
+	Display Dashboard Brightness
+	Display Dashboard Brightness Set To Max
+	Display Infotainment Button Auto Pressed
+	Display Infotainment Button Defrost Front Pressed
+	Display Infotainment Button Defrost Rear Pressed
+	Display Infotainment Button Max Ac Pressed
+	Display Infotainment Button Max Vent Pressed
+	Display Infotainment Button Mute Pressed
+	Display Infotainment Button Off Pressed
+	Display Infotainment Button Recirculation Pressed
+	Display Infotainment Button Screen Off Pressed
+	Display Infotainment Button Sync Pressed
+	Display Infotainment Button Temperature Adjustment
+	Display Infotainment Button Vent Direction Lower Pressed
+	Display Infotainment Button Vent Direction Upper Pressed
+	Display Infotainment Knob Tune Pressed
+	Display Infotainment Knob Tune Speed
+	Display Infotainment Knob Tune Turn Clockwise
+	Display Infotainment Knob Volume Pressed
+	Display Infotainment Knob Volume Speed
+	Display Infotainment Knob Volume Turn Clockwise
+	Display Mode Manual
+	Door Driver Button Lock Pressed
+	Door Driver Button Unlock Pressed
+	Door Trunk Button Open Pressed
+	Door Trunk Open
+	Doors Locked
+	Famcam Active
+	Hvac Button Ac Pressed
+	Hvac Button Auto Pressed
+	Hvac Button Auto Rear Pressed
+	Hvac Button Climate Mode Rear Pressed
+	Hvac Button Fan Side Driver Pressed
+	Hvac Button Fan Side Passenger Pressed
+	Hvac Button Fan Speed Down Pressed
+	Hvac Button Fan Speed Rear Decrease Pressed
+	Hvac Button Fan Speed Rear Increase Pressed
+	Hvac Button Fan Speed Up Pressed
+	Hvac Button Max Climate Pressed
+	Hvac Button Off Rear Pressed
+	Hvac Button Recirculation Pressed
+	Hvac Button Temperature Decrease Front Driver Pressed
+	Hvac Button Temperature Decrease Front Passenger Pressed
+	Hvac Button Temperature Decrease Rear Left Pressed
+	Hvac Button Temperature Decrease Rear Right Pressed
+	Hvac Button Temperature Increase Front Driver Pressed
+	Hvac Button Temperature Increase Front Passenger Pressed
+	Hvac Button Temperature Increase Rear Left Pressed
+	Hvac Button Temperature Increase Rear Right Pressed
+	Hvac Climate Control Button Off Pressed
+	Hvac Climate Control Front Driver Temperature
+	Hvac Climate Control Front Passenger Temperature
+	Hvac Climate Control Rear Left Temperature
+	Hvac Climate Control Rear Right Temperature
+	Hvac Defrost Rear Button Pressed
+	Hvac Fan Speed
+	Hvac Front Vent Direction Front
+	Hvac Front Vent Direction Lower
+	Hvac Front Vent Direction Upper
+	Hvac Rear Climate Control Unlock Active
+	Hvac Rear Fan Speed
+	Hvac Rear Vent Direction Lower
+	Hvac Rear Vent Direction Upper
+	Hvac Recirculation Enabled
+	Infotainment Adjustment Volume Speed
+	Infotainment Balance Fade Front To Back
+	Infotainment Balance Fade Right To Left
+	Infotainment Setting Bass
+	Infotainment Setting Mid
+	Infotainment Setting Treble
+	Infotainment Surround Sound Active
+	Infotainment Volume Level
+	Lighting Cabin Brightness
+	Lightning Ambient Color Lower
+	Lightning Ambient Color Upper
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Mirror Central Dimmer Active
+	Mirror Right Switch Adjustment Down Pressed
+	Mirror Right Switch Adjustment Left Pressed
+	Mirror Right Switch Adjustment Up Pressed
+	Mirror Side Right Switch Adjustment Right Pressed
+	Mirrors Folding In Active
+	Mirrors Folding Out Active
+	Odometer
+	Parking Brake Engaged
+	Parksense Front Volume
+	Parksense Rear Volume
+	Pedal Accelerator Pressed
+	Prndl
+	Seat 3Rd Row Headrest Fold Active
+	Seat Driver Button Massage Pressed
+	Seat Heater Driver Button Pressed
+	Seat Heater Passenger Button Pressed
+	Seat Heater Rear Left Button Pressed
+	Seat Heater Rear Right Button Pressed
+	Seat Massage Intensity High
+	Seat Massage Intensity Med
+	Seat Massage Intensity Off
+	Seat Massage Type
+	Seat Passenger Button Massage Pressed
+	Steering Wheel Back Left Side Button Center Pressed
+	Steering Wheel Back Left Side Button Down Pressed
+	Steering Wheel Back Left Side Button Up Pressed
+	Steering Wheel Back Right Side Button Center Pressed
+	Steering Wheel Back Right Side Down Pressed
+	Steering Wheel Back Right Side Up Pressed
+	Steering Wheel Button Down Arrow Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Left Arrow Pressed
+	Steering Wheel Button Menu Pressed
+	Steering Wheel Button Ok Pressed
+	Steering Wheel Button Phone Pressed
+	Steering Wheel Button Right Arrow Pressed
+	Steering Wheel Button Up Arrow Pressed
+	Steering Wheel Heater Button Pressed
+	Sync Active
+	Time Current Hour
+	Time Current Minute
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
+	Window Child Lock Active
+	Window Front Driver Open
+	Window Front Passenger Auto Active
+	Window Front Passenger Position
+	Window Front Passenger Switch Down Pressed
+	Window Front Passenger Switch Up Pressed
+	Window Rear Driver Auto Active
+	Window Rear Driver Position
+	Window Rear Driver Switch Down Pressed
+	Window Rear Driver Switch Up Pressed
+	Window Rear Passenger Auto Active
+	Window Rear Passenger Position
+	Window Rear Passenger Switch Down Pressed
+	Window Rear Passenger Switch Up Pressed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Vin

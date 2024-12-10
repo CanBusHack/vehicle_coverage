@@ -1,0 +1,199 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Renault 'Laguna' (2011)
+Signals:
+	Abs Active
+	Acceleration Lateral
+	Adas System Cruise Control Limiter Setting
+	Adas System Limiter Set Speed Exceeded
+	Adas System Speed Setting
+	Alternator Load
+	Alternator Power Requested
+	Ambient Air Temperature
+	Auto Door Lock On
+	Battery Voltage
+	Blower Active
+	Brake Park Disengaged
+	Brake Park Engaged
+	Car Lifetime
+	Crash Event Hazards On  Lock  Unlock Active
+	Crash Event Lock Unlocked Active
+	Distance Remaining Until Refuelling
+	Distance Remaining Until Service Required
+	Door Driver Open  Instrument Cluster Warning Apply Park Brake
+	Door Front Right Passenger Open
+	Engine Coolant Temperature
+	Engine Immobiliser Active
+	Engine Rpm Low Resolution
+	Engine Speed
+	Engine Speed Idling Reference
+	Engine Stalled
+	Engine Status
+	Engine Torque Actual
+	Engine Torque Requested
+	Flow Rate Function Status Low
+	Flow Rate Function Status Okay
+	Fuel Level Displayed
+	Fuel Rail Pressure Sensor Open Circuit Disconnected
+	Gear In Neutral Position
+	Gear Lever Position Indicator
+	Heater Pump Command On
+	Hvac System Ac On
+	Hvac System Compressor Status
+	Hvac System Front And Rear Defroster On
+	Hvac System On
+	Hvac System Power Requested
+	Hvac System Rear Window Heater Active
+	Instrument Cluster Brightness Setting
+	Instrument Cluster Primary Chime Active
+	Instrument Cluster Prompt Adjust Tyre Pressure Front Left
+	Instrument Cluster Prompt Adjust Tyre Pressure Front Right
+	Instrument Cluster Prompt Adjust Tyre Pressure Rear Left
+	Instrument Cluster Prompt Adjust Tyre Pressure Rear Right
+	Instrument Cluster Prompt Check Airbag
+	Instrument Cluster Prompt Check Airbag
+	Instrument Cluster Prompt Check Anti Pollution System
+	Instrument Cluster Prompt Check Anti Theft Steering Lock
+	Instrument Cluster Prompt Check Braking System
+	Instrument Cluster Prompt Check Braking System
+	Instrument Cluster Prompt Check Child Safety Device
+	Instrument Cluster Prompt Check Esp
+	Instrument Cluster Prompt Check Esp
+	Instrument Cluster Prompt Check Injection System
+	Instrument Cluster Prompt Check Park Brake
+	Instrument Cluster Prompt Check Parking Sensor
+	Instrument Cluster Prompt Check Vehicle
+	Instrument Cluster Prompt Clean Diesel Filter
+	Instrument Cluster Prompt Keycard Battery Low
+	Instrument Cluster Prompt Press Brake Pedal Also
+	Instrument Cluster Prompt Release Parking Brake Manually
+	Instrument Cluster Prompt Steering Wheel Not Locked
+	Instrument Cluster Prompt Traction Control Indicator Active
+	Instrument Cluster Prompt Welcome Message
+	Instrument Cluster Secondary Chime Active
+	Instrument Cluster Tell Tale  Warning Braking System Fault
+	Instrument Cluster Tell Tale  Warning Park Brake Active
+	Instrument Cluster Tell Tale Abs On
+	Instrument Cluster Tell Tale Abs On Flashing 2 X Per Second
+	Instrument Cluster Tell Tale Abs On Flashing Every Second
+	Instrument Cluster Tell Tale Diesel Particulate Filter Fault
+	Instrument Cluster Tell Tale Engine Malfunction
+	Instrument Cluster Tell Tale Engine Malfunction Indicator Flashing
+	Instrument Cluster Tell Tale Glow Plug On
+	Instrument Cluster Tell Tale Park Brake Active
+	Instrument Cluster Tell Tale Park Brake Flashing Active
+	Instrument Cluster Tell Tale Stop Left Front Tyre Fault
+	Instrument Cluster Tell Tale Stop Left Rear Tyre Fault
+	Instrument Cluster Tell Tale Stop Right Front Tyre Fault
+	Instrument Cluster Tell Tale Stop Right Rear Tyre Fault
+	Instrument Cluster Warning Apply Park Brake
+	Instrument Cluster Warning Door Driver Open
+	Instrument Cluster Warning Door Front Right Open
+	Instrument Cluster Warning Door Rear Left Open
+	Instrument Cluster Warning Door Rear Right Open
+	Instrument Cluster Warning Engine Overheating
+	Instrument Cluster Warning Injection System Fault
+	Instrument Cluster Warning Park Brake Fault Stop Vehicle
+	Instrument Cluster Warning Passenger Airbag Off
+	Instrument Cluster Warning Passenger Airbag Off
+	Instrument Cluster Warning Puncture Front Left Tyre
+	Instrument Cluster Warning Puncture Front Right Tyre
+	Instrument Cluster Warning Puncture Rear Left Tyre
+	Instrument Cluster Warning Puncture Rear Right Tyre
+	Instrument Cluster Warning Risk Of Steering Locking
+	Instrument Cluster Warning Stop Vehicle
+	Instrument Cluster Warning Trunk Open
+	Key Fob Lock Request
+	Lights Front Foglights On
+	Lights High Beams On
+	Lights Lowbeam On
+	Lights Sidelights On
+	Lights Stalk Left Front Antifog Lights On
+	Lights Stalk Left High Beams On
+	Lights Stalk Left Indicator Left Turn Signal Active
+	Lights Stalk Left Indicator Right Turn Signal Active
+	Lights Stalk Left Lowbeam On
+	Lights Stalk Left Rear Antifog Lights On
+	Lights Stalk Left Sidelights On
+	Master Cylinder Pressure
+	Mirrors Closed
+	Mirrors Opened
+	Mirrors Right Side Mirror Adjustment
+	Motor Driven Fan Active
+	Motor Driven Fan Inactive
+	Odometer
+	Oil Change Interval
+	Oil Change Interval Displayed
+	Parking Sensor Rear Off
+	Parking Sensor Rear On
+	Pedal Accelerator Position
+	Pedal Accelerator Switch Pressed
+	Pedal Brake Fully Pressed
+	Pedal Brake Pressed
+	Pedal Brake Released
+	Pedal Brake Released
+	Pedal Brake Slightly Pressed
+	Pedal Clutch Engaged
+	Pedal Clutch Fully Engaged
+	Pedal Clutch Not Engaged
+	Pedal Clutch Not Fully Engaged
+	Power Mode Accessory
+	Power Mode Engine Off
+	Power Mode Engine Running
+	Power Mode Ignition
+	Power Mode Ignition Off
+	Power Mode Ignition On
+	Power Mode Ignition On Or Engine Running
+	Power Mode Switching To Ignition
+	Radio Mute Active
+	Radio Mute Decrease
+	Refrigerant Pressure
+	Reverse Gear Engaged
+	Seatbelt Rear Centre Fastened
+	Seatbelt Rear Centre Unfastened
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Left Unfastened
+	Seatbelt Rear Right Fastened
+	Seatbelt Rear Right Unfastened
+	Stalk Right Downwards Button At End Of Stalk Pressed
+	Stalk Right Upwards Button At End Of Stalk Pressed
+	Steering Wheel Angle
+	Steering Wheel Rate
+	Sun Sensor Centre
+	Sun Sensor Level Left Side
+	Sun Sensor Level Right Side
+	Tell Tale Instrument Cluster Check Auto Lighting
+	Tell Tale Instrument Cluster Door Driver Open
+	Tell Tale Instrument Cluster Door Front Right Open
+	Tell Tale Instrument Cluster Door Rear Left Open
+	Tell Tale Instrument Cluster Door Rear Right Open
+	Tell Tale Seatbelt Front Left Unfastened
+	Tell Tale Seatbelt Front Left Unfastened  Intermittent Beeping
+	Tell Tale Seatbelt Front Right Unfastened
+	Tell Tale Seatbelt Front Right Unfastened  Intermittent Beeping
+	Tpms Front Left Tyre Pressure
+	Tpms Front Right Tyre Pressure
+	Tpms Rear Left Tyre Pressure
+	Tpms Rear Right Tyre Pressure
+	Traction Control System Off
+	Traction Control System On
+	Vehicle Acceleration
+	Vehicle Speed
+	Vehicle Speed Unit
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheels Front Average Speed
+	Window Driver  Side Mirrors In Motion
+	Window Driver  Side Mirrors Stationary
+	Window Front Right Passenger Switch Status
+	Window Rear Left Switch Status
+	Window Rear Right Switch Status
+	Windows Locked
+	Windscreen Front Wipers In Motion
+	Windscreen Front Wipers Not In Motion
+	Windscreen Front Wipers Setting On Speed 2
+	Windscreen Front Wipers Speed 1
+	Windscreen Front Wipers Speed 2
+	Windscreen Front Wipers Speed Auto
+	Yaw Angle

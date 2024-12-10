@@ -1,0 +1,352 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'B-Class' (2015)
+Signals:
+	Ac Active
+	Accelerator Pedal Position
+	Air Pressure Outside
+	Air Temperature Outside
+	Battery Voltage
+	Brake Pressure1
+	Brake Pressure2
+	Brake Switch Active
+	Calculated Ice Engine Load
+	Cruise Set Speed
+	Cruise Stock Down Decel
+	Cruise Stock Pull Resume
+	Cruise Stock Push Cancel
+	Cruise Stock Up Accel
+	Current Fuel Consumption
+	Current Gear
+	Drive Mode
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Starting After Auto Start
+	Front Driver Window Closed
+	Front Driver Window Completely Open
+	Front Driver Window Open Length
+	Front Left Wheel Speed
+	Front Passenger Window Closed
+	Front Passenger Window Completely Open
+	Front Passenger Window Open Length
+	Fuel Level
+	Fuel Pressure
+	Fuel Pump Duty Cycle
+	Fuel System Mil Tell Tale Request
+	Hazard Lights Active
+	Ice Engine Speed
+	Ice Engine Torque
+	Ignition Button Pressed
+	Ignition Power Mode
+	Intake Air Temperature
+	Left Rear Wheel Speed
+	Manual Gear Shifting Not Selected
+	Master Brake Pressure
+	Odometer
+	Paddle Shifter Down Pressed
+	Paddle Shifter Up Pressed
+	Park Brake Disengage Request
+	Park Brake Disengaged
+	Park Brake Engage Request
+	Park Brake Engaged
+	Park Button Pressed
+	Prndl
+	Rear Driver Window Completely Open
+	Rear Driver Window Open Length
+	Rear Driver Window Window Closed
+	Rear Left Wheel Speed
+	Rear Passenger Window Closed
+	Rear Passenger Window Completely Open
+	Rear Passenger Window Open Length
+	Right Rear Wheel Speed
+	Sport Mode Active
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Traction Control Active
+	Traction Control Off
+	Trunk Open
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Driver Seatbelt Unlatched
+	Front Seatbelt Status Not Changed
+	Goes Up When Half The Car Was Going Onto Rollers
+	Passenger Seatbelt Unlatched
+	Traction Control Related
+	Traction Control Related
+	Traction Control Related This Triggered When The Cars Right Side Was Onto Rollers
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Air Temperature Outside
+	Battery Voltage
+	Brake Pressure
+	Cruise Set Speed
+	Current Gear
+	Down Paddle Shifter Pressed
+	Engine Off Timer
+	Engine Speed
+	Engine Starting After Auto Start
+	Engine Torque
+	Front Driver Window Closed
+	Front Driver Window Completely Open
+	Front Driver Window Open Length
+	Front Left Wheel Speed
+	Front Passenger Window Closed
+	Front Passenger Window Completely Open
+	Front Passenger Window Open Length
+	Fuel Pressure
+	Fuel Pump Duty Cycle
+	Fuel System Mil Tell Tale Request
+	Fuel Tank Level
+	Fuel Temperature
+	Ignition Power Mode
+	Left Rear Wheel Speed
+	Manual Mode Active
+	Odometer
+	Park Brake Disengage Request
+	Park Brake Disengaged
+	Park Brake Engage Request
+	Park Brake Engaged
+	Park Button Pressed
+	Rear Driver Window Completely Open
+	Rear Driver Window Open Length
+	Rear Driver Window Window Closed
+	Rear Left Wheel Speed
+	Rear Passenger Window Closed
+	Rear Passenger Window Completely Open
+	Rear Passenger Window Open Length
+	Right Rear Wheel Speed
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Up Paddle Shifter Pressed
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Active Brake Assist Setting
+	All Front Doors Closed
+	Attention Assist Setting
+	Audio Fade For Warn Tones Active
+	Auto Off Button Pressed
+	Blind Spot Assist System On
+	Camera And Parking Setting Change Active
+	Camera Angle Selected
+	Car Button Pressed
+	Center Console Main Dial Pressed
+	Center Console Star Icon Button Pressed Favorites
+	Dynamic Down Button Pressed
+	Dynamic Up Button Pressed
+	Earn Eary All Around Active
+	Earn Eary All Around Not Active
+	Front Left Bumper Parking Sensor Level
+	Front Left Center Bumper Sensor Level
+	Front Left Quarter Panel Parking Sensor Level
+	Front Right Bumper Parking Sensor Level
+	Front Right Center Bumper Parking Sensor Level
+	M Button Pressed
+	Maneuvering Assistance Active
+	Maneuvering Assistance Not Active
+	Navi Map Button Pressed
+	Park Assist Camera Views
+	Parking Assist Active
+	Parking Assist Button Pressed
+	Parking Assist Inactive
+	Power Button Pressed
+	Radio Media Button Pressed
+	Real Left Quarter Panel Parking Sensor Level
+	Rear Left Bumper Parking Sensor Quarter Panel
+	Rear Left Center Bumper Parking Sensor Level
+	Rear Radar Alarm Active
+	Rear Radar Distance Alarm Level
+	Rear Right Bumper Parking Sensor Level
+	Rear Right Center Bumper Parking Sensor Level
+	Rear Right Quarter Panel Parking Sensor Level
+	Right Front Quarter Panel Parking Sensor Level
+	Tel Button Pressed
+	Throttle Pedal Position Percentage
+	Time Since Start In Minutes
+	Time Since Trip Reset In Minutes
+	Tpms Tier Pressure Front Left
+	Tpms Tier Pressure Front Right
+	Tpms Tier Pressure Rear Left
+	Tpms Tier Pressure Rear Right
+	Traction Control Button Pressed
+	Volume Button Pressed
+	Volume Scroll Up Active
+	Warning Tone Pitch
+	Warning Tone Volume
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Auto Head Lights Switch Position Active
+	Center Dome Light Active
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Cruise Control Active
+	Cruise Control Standby
+	Daytime Running Lights Setting Active
+	Driver Reading Light Active
+	Fog Light Button Pressed Active
+	Fog Lights Active
+	Font Wipers Movement Speed
+	Front Wipers Setting
+	Head Lights Switch Position Active
+	Heated Steering Wheel Down Knob Position Active
+	Heated Steering Wheel Up Knob Position Active
+	High Beam
+	Hood Closed
+	Hood Open
+	Int Wiper Active
+	Left Turn Signal Active
+	Low Beams Active
+	Parking Light Left Switch Position Active
+	Parking Light Right Switch Position Active
+	Parking Lights Switch Position Active
+	Passenger Reading Light Active
+	Passenger Seat Buckled
+	Rear Int Wiper Active
+	Rear Reading Lights Active
+	Rear Wiper In Motion
+	Rear Wiper On
+	Rear Wiper Wash Active
+	Right Mirror Button Press Down Active
+	Right Mirror Button Press Left Active
+	Right Mirror Button Press Right Active
+	Right Mirror Button Press Up Active
+	Right Mirror Folding In Automatically Active
+	Right Mirror Folding Out Automatically
+	Right Turn Signal Active
+	Seatbelt Adjustment Setting Active
+	Steering Column Adjustment Shaft Position
+	Steering Left Side Back Home Button Selected
+	Steering Left Side Mute Button Selected
+	Steering Right Side Answer Call Button Pressed
+	Steering Right Side Back Home Button Pressed
+	Steering Right Side Hang Up Button Pressed
+	Steering Right Side Home Button Pressed
+	Steering Right Side Start Button Pressed
+	Steering Right Side Voice Command Button Pressed
+	Steering Right Side Volume Control Up Pressed
+	Turn Signal Active
+	Wipers In Motion
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac Active
+	Acoustic Lock Setting Active
+	Back Button Button Pressed
+	Back Button Touch Active
+	Blend Position Switched Up Or Down Pressed
+	Brake Switch Pressed
+	Center Touch Pad Active
+	Center Touch Pad Button Pressed
+	Climate Sync Active
+	Driver Door Lock Button Pressed
+	Driver Door State Change
+	Driver Door Unlock Button Pressed
+	Driver Door Unlock Or Lock Button Pressed
+	Driver Heated Seat Level
+	Driver Mirror Setting Buttons
+	Driver Reading Light Brightness
+	Driver Seat Back
+	Driver Seat Back Going Back
+	Driver Seat Back Going Forward D
+	Driver Seat Down
+	Driver Seat Extender Going Back
+	Driver Seat Extender Going Forward D
+	Driver Seat Font Angle Down
+	Driver Seat Font Angle Up
+	Driver Seat Forward D
+	Driver Seat Head Rest Down
+	Driver Seat Head Rest Up
+	Driver Seat Or 1 3 And M Buttons Being Pressed Active
+	Driver Seat Up
+	Driver Side Mirror Selected
+	Driver Side Temperature In F
+	Driver Temperature Switch Up Or Down Pressed
+	Driver Window Controls Front Driver Window Button State
+	Driver Window Controls Front Passenger Window Button State
+	Driver Window Controls Rear Driver Window Button State
+	Driver Window Controls Rear Passenger Window Button State
+	Driver Window Moving
+	Driver Window Open
+	East Entry And Exit Seat Setting Active
+	East Entry And Exit Steering Wheel Setting Active
+	Exterior Lighting Delay
+	Fan Speed Driver Side
+	Fan Speed Passenger Side
+	Fan Speed Switched Up Or Down Pressed
+	Forwar Back Play Touch Active
+	Front Driver Door Open
+	Front Passenger Door Open
+	Hazard Lights Active
+	Hazards Active
+	Home Button Button Pressed
+	Home Button Touch Active
+	Hvac Blower Position Driver Side
+	Hvac Blower Position Passenger Side
+	Hvac Max Active
+	Infotainment System Active
+	Infotainment System Inactive
+	Infotainment User Engagement In Progress
+	Instrument Cluster Brightness Level
+	Interior Illumination On Door Ajar Off
+	Key Fob Commands
+	Locator Lighting Setting Active
+	Menu Switched Up Or Down Pressed
+	Mirror States
+	Passenger Door State Change
+	Passenger Door Unlock Or Lock Button Pressed
+	Passenger Heated Seat Level
+	Passenger Lock Button Pressed
+	Passenger Reading Light Brightness
+	Passenger Seat Back
+	Passenger Seat Back Going Back
+	Passenger Seat Back Going Forward D
+	Passenger Seat Down
+	Passenger Seat Extender Going Back
+	Passenger Seat Extender Going Forward D
+	Passenger Seat Font Angle Down
+	Passenger Seat Font Angle Up
+	Passenger Seat Forward D
+	Passenger Seat Head Rest Down
+	Passenger Seat Head Rest Up
+	Passenger Seat In Motion
+	Passenger Seat Up
+	Passenger Side Mirror Selected
+	Passenger Side Temperature In F
+	Passenger Temperature Switch Up Or Down Pressed
+	Passenger Unlock Button Pressed
+	Passenger Window Controls Front Passenger Window Button State
+	Passenger Window Moving
+	Passenger Window Open
+	Percentage Open Sun Cover
+	Percentage Open Sun Roof
+	Power Mode
+	Rear Brightness Zone Level
+	Rear Driver Door Open
+	Rear Driver Window Controls Rear Driver Window Button State
+	Rear Passenger Door Open
+	Rear Passenger Window Moving
+	Rear Passenger Window Moving
+	Rear Passenger Window Open
+	Rear Passenger Window Open
+	Recirculation Status Active
+	Shit Lever Position
+	Steering Wheel Angle
+	Steering Wheel Turned Right Of Center
+	Sun Cover In Motion
+	Sun Roof Open
+	Trunk Close Request
+	Trunk Open Request
+	Windows Child Lock Not Active

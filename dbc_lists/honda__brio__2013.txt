@@ -1,0 +1,268 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Honda 'Brio' (2013)
+Signals:
+	A C Off
+	A C On
+	Amperage To Low Active
+	Auto Light Position Active
+	Blind Spot Info Off
+	Blind Spot Information System Off
+	Blind Spot Information System On
+	Blind Spot System Not Available Dash Prompt
+	Blind Spots Both Active
+	Cabin Air Recirculation Off
+	Cabin Air Recirculation On
+	Cabin Fan Speed Auto Active
+	Change Keyless Remote Battery Dash Prompt
+	Check Blind Spot System Dash Prompt
+	Check Drl System Dash Prompt
+	Check Keyless Access System Dash Prompt
+	Check Left Sliding Door Dash Prompt
+	Check Parking System Dash Prompt
+	Check Power Tailgate Dash Prompt
+	Check Rear Center Parking System Dash Prompt
+	Check Right Sliding Door Dash Prompt
+	Chime Active
+	Climate Control Change Not Active
+	Command Left Mirror Down For Reversing
+	Compass Direction Deg Off N
+	Dash Dim Active
+	Dash Dimming Being Displayed On Infotainment System Active
+	Door Open Warn On Mid Active
+	Drive Active
+	Driver Climate Zone Temp
+	Driver Climate Zone Temperature Set Hi
+	Driver Climate Zone Temperature Set Lo
+	Driver Door Button 1 Pressed
+	Driver Door Button 2 Pressed
+	Driver Door Button Set Pressed
+	Driver Door Locked
+	Driver Door Open Switch Active
+	Driver Door Unlocked
+	Driver Heated Seat Level
+	Driver Lock Button Pressed
+	Driver Memory
+	Driver Sun Sensor
+	Driver Unlock Button Pressed
+	Engine Speed Displayed
+	Fog Lights Active Command
+	Fog Lights Position Active
+	Forward Collision Warning Setting Change Active
+	Front Cabin Fan Speed
+	Front Cabin Fan Vent Mode Active
+	Front Corner Orange Approaching Object
+	Front Corner Red Approaching Object
+	Front Corner Yellow Approaching Object
+	Front Left Warning Orange Approaching Object Dash Prompt
+	Front Left Warning Red Approaching Object Dash Prompt
+	Front Left Warning Yellow Approaching Object Dash Prompt
+	Front Passenger Door Open Switch Active
+	Front Right Warning Red Approaching Object Dash Prompt
+	Front Right Warning Yellow Approaching Object Dash Prompt
+	Front Wiper In Motion
+	Fuel Door Open
+	Hazard Lights Active
+	High Beams Active Command
+	High Beams Position Active
+	Hood Open
+	Hvac Sync
+	Immobilizer Active
+	Infotainment Brightness
+	Infotainment Brightness Set To Max
+	Instrument Cluster Brightness
+	Instrument Cluster Brightness Set To Max
+	Key And Remote Unlock Mode For Driver Door Set
+	Keyless Entry Used To Unlock Door
+	Keyless Remote Not Detected Dash Prompt
+	Left 3 Blink Turn Signal Timer
+	Left Blinker Position Active
+	Left Sliding Door Has Started To Move
+	Left Sliding Door Has Started To Move
+	Left Turn Signal Active
+	Low Active
+	Low Beam Active Command
+	Low Beams Position Active
+	Neutral Active
+	No Objects In Front Of The Car
+	Park Active
+	Parking Assist Sensor On
+	Passenger Climate Zone Temp
+	Passenger Climate Zone Temperature Set Hi
+	Passenger Climate Zone Temperature Set Lo
+	Passenger Door Lock Button Pressed
+	Passenger Door Unlock Button Pressed
+	Passenger Door Unlocked
+	Passenger Heated Seat Level
+	Passenger Sun Sensor
+	Passing Lights Position Active
+	Range
+	Read Setting Blind Spot Info
+	Read Setting Door Unlock Mode All Doors
+	Read Setting Headlight Auto Off Timer
+	Read Setting Interior Light Dimming Time
+	Read Setting Keyless Open Mode When Unlocked
+	Read Setting Memory Position Link Off
+	Read Setting Power Slide Door Keyless Open Mode When Unlocked
+	Rear Cabin Fan Speed
+	Rear Cabin Fan Vent Mode Active
+	Rear Center Left Warning Red Approaching Object Dash Prompt
+	Rear Center Left Warning Yellow Approaching Object Dash Prompt
+	Rear Center Right Warning Red Approaching Object Dash Prompt
+	Rear Center Right Warning Yellow Approaching Object Dash Prompt
+	Rear Center Warning Approaching Object Orange Dash Prompt
+	Rear Center Warning Approaching Object Red Dash Prompt
+	Rear Center Warning Approaching Object Yellow Dash Prompt
+	Rear Climate Control Active
+	Rear Climate Control Locked
+	Rear Climate Off
+	Rear Climate Zone Temp
+	Rear Corner Warning Approaching Object Orange Dash Prompt
+	Rear Corner Warning Approaching Object Red Dash Prompt
+	Rear Corner Warning Approaching Object Yellow Dash Prompt
+	Rear Driver Side Door Open Switch Active
+	Rear Left Door Locked
+	Rear Passenger Door Open Switch Active
+	Rear Window Defroster
+	Rear Wiper Set To Int
+	Rear Wiper Set To On
+	Rear Wiper Wash Active
+	Reverse Active
+	Right 3 Blink Turn Signal Timer
+	Right Blinker Position Active
+	Right Rear Door Unlocked
+	Right Sliding Door Starting To Move
+	Right Sliding Error Alarm Active
+	Right Sliding Error Door Is Open Car Is Driving Alarm Active
+	Right Turn Signal Active
+	Side Lights Stock Position Active
+	Sliding Door Keyless Open Mode When Unlocked Set
+	Sport Mode Active
+	Start Stop Mode
+	Trip A Average Mpg
+	Trip A Average Speed
+	Trip A Driven Distance
+	Trip A Selected
+	Trip A Timer
+	Trip B Average Mpg
+	Trip B Average Speed
+	Trip B Driven Distance
+	Trip B Selected
+	Trip B Timer
+	Units In Imperial Active
+	Vehicle Speed Displayed
+	Vin Part 1
+	Window Lock Not Active
+	Wiper Stock Set Int Speed Set To
+	Wiper Stock Set To High
+	Wiper Stock Set To Int
+	Wiper Stock Set To Low
+	Wiper Stock Set To Mist
+	Wiper Stock Set To Wash
+	Write Setting Blind Spot Info
+	Write Setting Door Unlock Mode All Doors
+	Write Setting Headlight Auto Off Timer
+	Write Setting Interior Light Dimming Time
+	Write Setting Keyless Open Mode When Unlocked
+	Write Setting Memory Position Link Off
+	Write Setting Power Slide Door Keyless Open Mode When Unlocked
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac Compressor Active
+	Acc Active
+	Accelerator Pedal Applied
+	Accelerator Pedal Position
+	Accelerator Pedal Position
+	Air Intake Temp
+	Ambient Light Sensor
+	Average Battery Voltage
+	Average Front Wheel Speed
+	Average Rear Wheel Speed
+	Battery Amperage
+	Battery Voltage
+	Brake Hold Active
+	Brake Hold System On
+	Brake Pressed
+	Brake Pressure
+	Brake Pressure Alternate
+	Brake Switch Active
+	Brake Switch Active Alt
+	Computer Braking Active
+	Cruise Control Button Engaged
+	Cruise Control Buttons
+	Cruise Control On
+	Cruise Control Set Speed
+	Current Gear
+	Displayed Vehicle Speed In Kph
+	Displayed Vehicle Speed In Kph Alt
+	Displayed Vehicle Speed In Mph
+	Displayed Vehicle Speed In Mph Alt
+	Door Open Front Left
+	Door Open Front Right
+	Door Open Rear Left
+	Door Open Rear Right
+	Drive Lamp Seatbelt
+	Driver Seatbelt Buckled
+	Driver Seatbelt Not Buckled
+	Driver Seatbelt Unbuckled
+	Engine Speed
+	Engine Speed Alt
+	Engine Speed From Ecm
+	Engine Torque
+	Engine Torque Request
+	Esp Disabled
+	Forward Collision Warning Distance
+	Fuel Gauge 1
+	Fuel Gauge 2
+	Fuel Level
+	Head Light State
+	Head Light State
+	Instrument Cluster Backlight Level
+	Left Blinker
+	Low Brake Fluid Warning
+	Manifold Pressure Sensor
+	Mass Air Flow
+	Odometer
+	Park Brake Active
+	Parking Brake Active
+	Passenger Airbag Off
+	Passenger Airbag On
+	Passenger Seat Belt Tell Tale
+	Passenger Seatbelt Buckled
+	Passenger Seatbelt Unbuckled
+	Prndl Position 1
+	Prndl Position 2
+	Prndl Position D
+	Prndl Position D3
+	Prndl Position N
+	Prndl Position P
+	Prndl Position R
+	Relative Throttle Opening Sensor
+	Relative Throttle Opening Sensor Alt
+	Request For Additional Voltage Active
+	Reverse Active
+	Right Blinker
+	Rough Wheel Speed Front Left
+	Rough Wheel Speed Front Right
+	Rough Wheel Speed Rear Left
+	Rough Wheel Speed Rear Right
+	Slip Control Off Button Depressed
+	Steering Wheel Angel From Start
+	Steering Wheel Cruise Control Buttons
+	Target Gear
+	Tpms Reset Comand
+	Tpms Tell Tale
+	Traction Control Button Pressed
+	Traction Control System Change Bit
+	Transmission Speed
+	Trip Fuel Used
+	Trunk Open
+	Vehicle Menu Active
+	Vin Part 1 01
+	Vin Part 2 02
+	Vin Part 3 03
+	Water Temp
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Speed

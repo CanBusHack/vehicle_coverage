@@ -1,0 +1,257 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Honda 'Accord' (2014)
+Signals:
+	Ac Off
+	Acc Active
+	Acc Alerts
+	Acc Problem
+	Accelerator Pedal Applied
+	Accelerator Pedal Percentage
+	Accelerator Pedal Position
+	Accelerator Pedal Position
+	Accelerator Pedal Pressed
+	Additional Voltage Not Required From Alternator
+	Air Intake Temp
+	Ambient Light Sensor
+	Average Battery Voltage
+	Average Front Wheel Speed
+	Average Rear Wheel Speed
+	Battery Amperage
+	Battery Voltage
+	Beep
+	Brake Applied Cancel
+	Brake Hold Active
+	Brake Hold Button Pressed
+	Brake Hold System On
+	Brake Pressed
+	Brake Pressure
+	Brake Switch
+	Cam Temperature High Warning Active
+	Car Turning Off
+	Change Speed And Distance Units Imperial Active
+	Chime Active
+	Clean Windshield Warning Active
+	Cmbs Button
+	Computer Braking Active
+	Controlled Standstill
+	Cruise Control Button Engaged
+	Cruise Control Buttons
+	Cruise Control Buttons Pressed
+	Cruise Control Label
+	Cruise Control On
+	Cruise Control Set Speed
+	Cruise Control Setting
+	Cruise Control Speed
+	Current Gear
+	Current Gear
+	Dash Prompt Neutral Hold Mode On Shift To P When Done
+	Dash Prompt To Exit Vehicle In Neutral Press N Again And Hold For 2Sec
+	Dash Prompt To Shift Apply Brake Pedal
+	Dashed Lanes Active
+	Diagnostic Mode Active
+	Display Gear
+	Displayed Vehicle Speed In Kph
+	Door Open Front Left
+	Door Open Front Right
+	Door Open Rear Left
+	Door Open Rear Right
+	Drive Active
+	Drive Lamp Seatbelt
+	Driver Seatbelt Buckled
+	Driver Seatbelt Unbuckled
+	Dtc Active
+	Engine Not Running
+	Engine Requested Torque
+	Engine Running
+	Engine Speed
+	Engine Speed From Ecm
+	Engine Torque
+	Engine Torque
+	Engine Torque Request
+	Epb Active
+	Epb Brake And Pull
+	Epb Status
+	Esp Disabled
+	Fcm Off
+	Fcm Off 2
+	Fcm Problem
+	Forward Collision Warning Distance
+	Fuel Level
+	Gear Shift In Progress
+	Gears Shifting
+	Head Light State
+	High Beams Active
+	Hud Distance
+	Hud Distance 3
+	Hud Lead
+	Imperial Units Active
+	Lane Departure Warning Problem Active
+	Lane Departure Warning Right Active
+	Lane Departure Warning System Off
+	Lane Departure Warning System On
+	Left Blinker
+	Left Blinker
+	Lkas Off
+	Lkas Problem Active
+	Low Beams Active
+	Low Brake Fluid Warning
+	Low Display Active
+	Main On
+	Metric Units Active
+	Mil Lamp 1
+	Mil Lamp 2
+	Mil Tell Tale
+	Mini Car Enabled
+	Neutral Display Active
+	Odometer
+	Park Brake Active
+	Park Display Active
+	Parking Lights Active
+	Passenger Airbag Off
+	Passenger Airbag On
+	Passenger Seat Belt Tell Tale
+	Passenger Seatbelt Buckled
+	Passenger Seatbelt Unbuckled
+	Prdnl
+	Prndl
+	Prndl Position 1
+	Prndl Position 2
+	Prndl Position D
+	Prndl Position D3
+	Prndl Position N
+	Prndl Position P
+	Prndl Position R
+	Radar Obstructed
+	Relative Throttle Opening Sensor
+	Request For Additional Voltage Active
+	Resume Instruction
+	Reverse Active
+	Reverse Display Active
+	Reverse Light
+	Right Blinker
+	Right Blinker
+	Rough Wheel Speed Front Left
+	Rough Wheel Speed Front Right
+	Rough Wheel Speed Rear Left
+	Rough Wheel Speed Rear Right
+	Slip Control Off Button Depressed
+	Solid Lanes Active
+	Sport Display Active
+	Steering Required Active
+	Steering Wheel Angel From Start
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate
+	Steering Wheel Configuration Index
+	Steering Wheel Control Active
+	Steering Wheel Cruise Control Buttons
+	Steering Wheel Status
+	Steering Wheel Torque
+	Target Gear
+	Target Gear
+	Tpms Reset Button Pressed
+	Tpms Reset Comand
+	Tpms Tell Tale
+	Traction Control Button Pressed
+	Traction Control Off Button Pressed
+	Traction Control System Change Bit
+	Transmission Speed Alternative Supported On All Cars
+	Transmission Torque
+	Transmission Torque2
+	Trip Fuel Used
+	Trunk Open
+	Valid Steering Configuration
+	Vehicle Menu Active
+	Vin Part 1 01
+	Vin Part 2 02
+	Vin Part 3 03
+	Voltage Not Required From Alternator
+	Water Temp
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheels Moving
+	Wiper Speed
+	Wiper State
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac System Off
+	Ac System On
+	Acc Forward D Vehicle Detect Beep Off
+	Acc Forward D Vehicle Detect Beep On
+	Blind Spot Information System Off
+	Blind Spot Information System On
+	Blower Position
+	Change Bit 16304D18
+	Collision Mitigation Braking System Off
+	Driver Door Button 1 Pressed
+	Driver Door Button 2 Pressed
+	Driver Door Button Set Pressed
+	Driver Heated Seat Level
+	Driver Heated Seat State Changed
+	Driver Memory
+	Forward Collision Warning Distance Level
+	Front Climate Blower Position
+	Front Climate Control Sync Active
+	Front Climate Fan Speed
+	Front Left Window Closed
+	Front Right Window Closed
+	Hazards Active
+	High Precision Battery Voltage
+	Key Fob Commands
+	Lane Keep Assist Suspend Beep Off
+	Lane Keep Assist Suspend Beep On
+	Left Sliding Door Latching Unlatching
+	Left Sliding Door Moving
+	Left Sliding Door Starting To Move
+	Left Stock Fog Lights Active Position
+	Left Stock Position Away From Driver
+	Left Stock Position Down
+	Left Stock Position Toward Driver
+	Left Stock Position Up
+	Left Turn Signal Activating
+	Left Turn Signal Active
+	Liftgate Closing
+	Liftgate Opening
+	Outside Air Temperature Display
+	Passenger Door Changed To Closed
+	Passenger Heated Seat Level
+	Passenger Heated Seat State Changed
+	Radio Scan Active
+	Radio Seek Active
+	Read Setting Auto Interior Illumination Sensitivity
+	Read Setting Auto Interior Illumination Sensitivity
+	Read Setting Blind Spot Information Only Visual Alert
+	Read Setting Door Unlock Mode Setting All Doors
+	Read Setting Driving Position Setup Seat Position Movement At Entry And Exit Off
+	Read Setting Power Slide Door Keyless Open Mode When Unlocked
+	Read Setting Power Slide Door Keyless Open Mode When Unlocked
+	Read Setting Power Tailgate Keyless Open Mode When Unlocked
+	Rear Climate Auto Active
+	Rear Climate Fan Speed
+	Rear Climate Lock Active
+	Rear Defrost Active
+	Rear Left Window Closed
+	Rear Left Window Half Open
+	Rear Right Window Closed
+	Rear Right Window Half Open
+	Recirculation Off
+	Right Sliding Door Latching Unlatching
+	Right Sliding Door Moving
+	Right Sliding Door Starting To Move
+	Right Turn Signal Activating
+	Right Turn Signal Active
+	Road Departure Mitigation Setting
+	Trip A Average Mpg
+	Trip A Average Speed
+	Trip A Selected
+	Trip B Average Mpg
+	Trip B Average Speed
+	Trip B Selected
+	Write Setting Adjust Outside Temperature Display Offset Setting
+	Write Setting Blind Spot Information Only Visual Alert
+	Write Setting Door Unlock Mode Setting All Doors
+	Write Setting Driving Position Setup Seat Position Movement At Entry And Exit Off
+	Write Setting Power Tailgate Keyless Open Mode When Unlocked
+	Write Setting Traffic Sign Recognition Off

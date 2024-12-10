@@ -1,0 +1,302 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Volkswagen 'Kombi' (2013)
+Signals:
+	Auto Lights
+	Automatic Headlight Icon Active
+	Charging Indicator Tell Tale Active
+	Dash Backlight Brightness Output
+	Dash Backlight Brightness Setting
+	Driver Door Left Rear Window Lock Off
+	Driver Door Lock State
+	Driver Door Lock Switch
+	Driver Door Open State
+	Driver Door Right Rear Window Lock Off
+	Driver Door Trunk Release Switch
+	Driver Door Unlock Switch
+	Driver Door Window Closed State
+	Driver Door Window Moving Down
+	Driver Door Window Moving Up
+	Driver Door Window Open Percent
+	Driver Door Window Overheat Timeout
+	Driver Door Window Safety Retraction Active
+	Driver Door Window Upper And Lower Limit Switch
+	Driver Heated Seat Level
+	Exterior Light Fault Tell Tale Active
+	Fault Light Assist Message On Ic Active
+	Front Left Door Open Switch
+	Front Passenger Door Lock State
+	Front Passenger Door Lock Switch
+	Front Passenger Door Open State
+	Front Passenger Door Unlock Switch
+	Front Passenger Door Window Closed State
+	Front Passenger Door Window Moving Down
+	Front Passenger Door Window Moving Up
+	Front Passenger Door Window Open Percent
+	Front Passenger Door Window Overheat Timeout
+	Front Passenger Door Window Safety Retraction Active
+	Front Passenger Door Window Switch Auto Down
+	Front Passenger Door Window Switch Auto Up
+	Front Passenger Door Window Switch Down
+	Front Passenger Door Window Switch Up
+	Front Passenger Door Window Up And Lower Limit Switch
+	Front Passenger Heated Seat Level
+	Front Right Door Open Switch
+	Gauge Cluster Light Sensor
+	Hazard Lights
+	Hazards Active
+	High Beams
+	Hood Open Switch
+	Horn Active
+	Language
+	Left Turn Signal
+	Left Turn Signal Indicator Active
+	Light Assist Clean Windshield Message On Ic Active
+	Low Beams
+	Move Selector Lever To Position P N Message On Ic Active
+	Odometer
+	Park Lights
+	Radio Power On
+	Rear Defrost Active
+	Rear Left Door Open Switch
+	Rear Left Door Window Lock Active
+	Rear Left Door Window Open Percent Open
+	Rear Left Door Window Switch Auto Down
+	Rear Left Door Window Switch Auto Up
+	Rear Left Door Window Switch Down
+	Rear Left Door Window Switch Up
+	Rear Right Door Open Switch
+	Rear Right Door Window Lock Active
+	Rear Right Door Window Open Percent Open
+	Rear Right Door Window Switch Auto Down
+	Rear Right Door Window Switch Auto Up
+	Rear Right Door Window Switch Down
+	Rear Right Door Window Switch Up
+	Recirculation Active
+	Renew Key Battery Message On Ic Active
+	Reversing Light Active
+	Right Stock Pulled Forward D Flash To Pass Active
+	Right Turn Signal
+	Right Turn Signal Indicator Active
+	Side Lights
+	Side Mirror Deicer On
+	Time Hours
+	Time Minutes
+	Time Seconds
+	Trailer Indicator Tell Tale Active
+	Trunk Open Switch
+	Turn Signals Active
+	Under Voltage
+	Vin Part 1
+	Windscreen Washer Motor
+	Wiper In Parked Position
+	Wiper Movement Speed High
+	Wiper Movement Speed Low
+	Wiper Moving
+	Wiper Stock 1X Switch
+	Wiper Stock Intermittent Speed Level Switch
+	Wiper Stock Intermittent Switch
+	Wiper Stock Speed High Switch
+	Wiper Stock Speed Low Switch
+	Wiper Stock Wash Switch
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac Compressor Active
+	Actual Acceleration
+	Alternator Generator Output
+	Brake Intervention Release Active
+	Brake Pressed
+	Brake Temperature Warning
+	Cancel Button Pressed
+	Cruise Control Error
+	Instant Torque For Gear
+	Key Fob Commands
+	Longitudinal Acceleration
+	Main Switch Oi Button Pressed
+	Minus Button Pressed
+	Mkb Safe
+	Oil Temperature Protection Active
+	Plus Button Pressed
+	Res Button Pressed
+	Reverse Direction Active Rear Left Tire
+	Reverse Direction Active Rear Right Tire
+	Set Button Pressed
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Signed
+	Steering Wheel Turned Clockwise
+	Target Torque For Gear
+	Wheel Front Left Free
+	Wheel Front Right Free
+	Wheel Rear Left Free
+	Wheel Rear Right Free
+	Wheel Speed Sensor Front Left
+	Wheel Speed Sensor Front Right
+	Wheel Speed Sensor Rear Left
+	Wheel Speed Sensor Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Abs In Diagnostic Mode Active
+	Abs Tell Tale Active
+	Accel Pedal Raw Signal
+	Accelerator Pedal Application Rate
+	Accelerator Pedal Changing Towards Closed
+	Accelerator Pedal Not Pressed
+	Accelerator Pedal Position
+	Accelerator Pedal Value Inaccurate
+	Accelerator Pedal Value Inaccurate
+	Air Conditioning Compressor Off Request From Transmission
+	Air Intake Temp
+	Airbag Actuator Test Active
+	Airbag Diagnostic Active
+	Airbag Disabled Active
+	Airbag System Error Active
+	Airbag Tell Tale Active
+	Atm Temp
+	Audio Reduction For Radio Started
+	Battery Voltage
+	Battery Voltage
+	Brake Boost Active
+	Brake Light Ecd Active
+	Brake Lights Active
+	Brake Message Time Out
+	Brake Pedal Switch
+	Brake Pressure
+	Brake Pressure Invalid
+	Brake Pressure Signed
+	Brake Tell Tale Active
+	Brake Torque Input Error
+	Button For Driver Assistant System Defective Message On Ic
+	Car In Gear
+	Car In Park Or Neutral
+	Car In Reverse
+	Charge Control Tell Tale Active
+	Check Engine Tell Tale Active
+	Child Seat Detected Active
+	Clutch Switch Active
+	Combination In Actuator Test
+	Converter Torque Loss
+	Coolant Temp
+	Crash Intensity
+	Cruise Control And Speed Limiter Target Speed
+	Current Gear
+	Display Engine Coolant
+	Displayed Vehicle Speed
+	Distance Impulses Front Axle
+	Driver Requested Torque
+	Driver Side Crash
+	Driving Resistance Index
+	Dynamic Oil Pressure Warning Active
+	Egs Request Active
+	Engine Coolant Warning Tell Tale Active
+	Engine Cooling Fan Rate
+	Engine Idle Target Speed
+	Engine Speed
+	Engine Speed Gradient
+	Engine Speed Max Warning Active
+	Engine Speed Override
+	Engine Torque
+	Engine Tq Wint
+	Epc Tell Tale Active
+	Esp Tell Tale Active
+	Fog Lights Active
+	Front Crash
+	Front Driver Seatbelt Switch Not Active
+	Front Driver Seatbelt Warning Not Active
+	Front Passenger Seatbelt Switch Not Active
+	Front Passenger Seatbelt Warning Not Active
+	Front Wipers Active
+	Fuel Cap Tell Tale Active
+	Fuel Consumption
+	Fuel Consumption Overflow
+	Fuel Cut Off Support Active
+	Fuel Stop Warning Active
+	Fuel Tank Error Active
+	Fuel Tank Level
+	Glow Plug Active
+	Hazards Active
+	Headlight Range Adjustment Active
+	Heated Exterior Mirrors Switch Off Active
+	High Beam Stock Forward D Active
+	High Beams Active
+	Hood Open
+	Hot Lights Warning Active
+	Ic Message With Starting System
+	Ideal Target Speed Set To Max
+	Intake Air Temperature Error Active
+	Intermediate Gas Flag
+	Internal Target Engine Torque
+	Invalid Yaw Rate
+	Kickdown Switch Active
+	Lateral Acceleration Rate
+	Lateral Acceleration Timer Tic
+	Left Turn Stock Signal Active
+	Low Beams Active
+	Low Coolant Tell Tale Active
+	Low Fuel Tank Tell Tale Active
+	Low Fuel Warning Active
+	Mean Wheel Speed
+	Motor Desired Speed Priority Active
+	Motor Running
+	Motor Torque Loss
+	Obstacle Detected Front Active
+	Obstacle Detected Rear Active
+	Offset Yaw Rate
+	Oil Pressure Tell Tale Active
+	Oil Temp
+	Outside Temperature Filtered
+	Overtemperature Protection For Motor Active
+	Parking Assist Active
+	Parking Assist Active Front
+	Parking Assist Active Rear
+	Parking Assist Beep Active Front
+	Parking Assist Beep Active Rear
+	Parking Assist Beep Frequency Rear
+	Parking Assist Beep Muted
+	Parking Assist Beep Volume Level Front
+	Parking Assist Beep Volume Level Rear
+	Parking Assist Interrupted
+	Parking Assist Malfunction
+	Parking Brake Engaged
+	Passenger Side Crash
+	Pre Heat Message Active
+	Prnd
+	Rear Crash
+	Remote Start Active
+	Right Turn Stock Signal Active
+	Rollover Crash Active
+	Rotating Yaw Axis Clockwise
+	Seatbelt Tell Tale Inactive
+	Set Target Speed
+	Shift Active
+	Shift Lock Tell Tale Active
+	Sign Engine Speed Gradient
+	Signed Wheel Desired Moment
+	Source Vehicle Speed Signal Active
+	Speed Limit Active
+	Speed Limit Status Bit
+	Status Brake Pressure Through Esp System
+	Status Transmission And Converter Protection Active
+	Steering Wheel Buttons
+	Steering Wheel Buttons
+	Sunroof Open Per
+	Sunroof Sliding Back Open
+	Sunroof Window Safety Reaction Active
+	Switch Off Heated Window Active
+	Target Idle Speed Increase Active
+	Throttle Angle Inaccurate
+	Tire Pressure Tell Tale Active
+	Torque Information Inaccurate
+	Trailer Tell Tale Active
+	Trans Overheated Stop See Owners Manual Message Active On Ic
+	Transmission Torque Error
+	Trigger Image Activation
+	Trunk Open On Display
+	Turbo Boost
+	Turn Off Heated Rear Window Active
+	Turn Off Heated Seats Active
+	Vehicle Speed
+	Vehicle Speed
+	Water In Fuel Filter See Owners Manual Message On Ic Active
+	Wheel Desired Moment
+	Yaw Rate

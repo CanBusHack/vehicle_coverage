@@ -1,0 +1,633 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Ford 'Ka' (2020)
+Signals:
+	Acc Braking Active
+	Acc Braking Temperature Warm
+	Acc Disengage From Brake
+	Acc Distance Decrease Button Pressed
+	Acc Distance Increase Button Pressed
+	Acc Pre Fill Brake
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Adas Cruise Control Mode
+	Adas Cruise Control Mode
+	Adas Cruise Control Override
+	Adas Cruise Control Speed Set
+	Adas Cruise Control Status
+	Adas Cruise Engine
+	Adas Cruise Stop Mode
+	Adas Sp Button Can Res Pressed
+	Adas Sp Button Decrease Speed Pressed
+	Adas Sp Button Increase Speed Pressed
+	Adas Sp Button Lim Or Off Pressed
+	Adas Speed Limiter On And Active
+	Adas Speed Limiter On And Not Active
+	Adas Speed Limiter Warning Chime
+	Adas Speed Set
+	Adas Speed Set Display
+	Air Conditioning Compressor Commanded State
+	Airbag Curtain Front Left
+	Airbag Curtain Front Right
+	Airbag Deployment Event Type
+	Airbag Front Left
+	Airbag Front Left Event
+	Airbag Front Right
+	Airbag Knee Front Left
+	Airbag Seatbelt Front Left
+	Airbag Seatbelt Front Right
+	Ambient Temperature
+	Auto Start Active
+	Barometric Pressure
+	Battery Charge Voltage
+	Battery Soc
+	Battery State Of Charge Very Low
+	Battery Temperature Scaling
+	Battery Voltage
+	Blower Motor Rear
+	Body Systems Service Required
+	Camera Rear Overlay On
+	Camera Split View Button Pressed
+	Camera Zoom Level
+	Center Screen Display Status
+	Chime Alarm
+	Chime Lights On
+	Chime Parking Brake
+	Collision Avoid Brake Disengaged
+	Collision Avoid Brake Equipped
+	Collision Avoid Brake Not Allowed
+	Collision Avoid Pre Fill Brake
+	Collision Avoidance Braking
+	Compass Calibrate
+	Compass Calibration Icon On
+	Compass Direction
+	Compass Display On
+	Compass Segment Lsd
+	Compass Segment Msd
+	Compass Zone Change
+	Compass Zone Icon On
+	Compass Zone Preferred
+	Coolant Fan Speed
+	Coolant Temperature
+	Cross Traffic Alert
+	Cross Traffic Left
+	Cross Traffic Right
+	Cross Traffic Sensor Left
+	Cross Traffic Sensor Right
+	Dash Indication Shift Down
+	Dash Indication Shift Up
+	Dash Tachometer Indication
+	Dash Tell Tale Mil Flashing
+	Dash Tell Tale Mil On
+	Dash Tell Tale Parking Brake On
+	Dash Tell Tale Service Required
+	Day Dimming Level
+	Daytime Running Lamp
+	Deck Lid Power Request
+	Diesel Manual Regen Requested
+	Dimming Mode Level
+	Door Child Lock Rear Left
+	Door Child Lock Rear Right
+	Door Front Left Open
+	Door Front Left Open
+	Door Front Left State Error Condition
+	Door Front Right Open
+	Door Hood Open
+	Door Latch Switch Fault Front Left
+	Door Latch Switch Fault Front Right
+	Door Latch Switch Fault Rear Left
+	Door Latch Switch Fault Rear Right
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Sliding Power Request Left
+	Door Sliding Power Request Right
+	Door Trunk Open
+	Doors All Closed
+	Doors Lock
+	Driver Alert System On
+	Driver Door Status
+	Driver Profile Info
+	Driving Eco Mode Request
+	Driving Mode
+	Emergency Assistant
+	Emergency Call Notification
+	Engine Acceleration
+	Engine Exhaust Mode
+	Engine Idle Shutdown Inhibit
+	Engine Last Time Off
+	Engine Load
+	Engine Oil Life Reset Request
+	Engine Oil Temperature
+	Engine Overheat State
+	Engine Running
+	Engine Speed
+	Engine Status
+	Engine Torque Output
+	Engine Torque Which Not In St 
+	Engine Turning Off
+	Esp Abs Active
+	Esp Abs Fault
+	Esp Abs Tell Tale Flashing
+	Esp Abs Tell Tale On
+	Esp Abs Tell Tale Status
+	Esp Tc System Off
+	Esp Tc Tell Tale
+	Esp Traction Control Active
+	Esp Traction Control Active
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
+	Fob Passive Entry State
+	Fuel Level Scale
+	Fuel Pump Enabled
+	Fuel Pump State
+	Gear Manual Position
+	Guard Alarm Reduced
+	Headlights Switch
+	Hill Descent Info Lamp
+	Hill Descent Mode
+	Hill Descent Switch
+	Hill Descent System State
+	Hill Descent Tell Tale
+	Hill Descent Tell Tale Control Msg
+	Hvac A C Enabled
+	Hvac A C Pressure Sensor
+	Hvac Evaporator Temperature
+	Hvac Fan Active
+	Hvac Max A C Active
+	Hvac Max A C Not Active
+	Hvac Recirculation Air Percentage
+	Intake Air Temperature
+	Key In Accessory Position
+	Key Type
+	Lane Assist Button Fault
+	Lane Assist Button Pressed
+	Lane Departure Warning Status
+	Liftgate Power Request
+	Light Foglamp Front
+	Lights Blinker Left
+	Lights Blinker Left Illumination Percentage
+	Lights Blinker Right
+	Lights Blinker Right Illumination Percentage
+	Lights Blinker Right State1
+	Lights Blinker Right State2
+	Lights Brake On
+	Lights Foglamp Rear
+	Lights Hazards Active
+	Lights High Beam Allowed
+	Lights High Beam Off
+	Lights High Beam On
+	Lights Low Beam Left Lamp On
+	Lights Low Beam Off
+	Lights Position On
+	Lights Reverse On
+	Lock Child
+	Lock Child Tell Tale
+	Lock Indicator Lamp
+	Lock Prevention
+	Metric Units Selected
+	Mode Valley Active
+	Obstacle Detected Left
+	Obstacle Detected Right
+	Obstacle Sensor State Left
+	Obstacle Sensor State Right
+	Odometer
+	Oil Level
+	Oil Life Remaining
+	Oil Pressure
+	Oil Temperature
+	Park Aid Button
+	Park Aid Switch
+	Park Assist Advanced Button
+	Parking Break Applied
+	Passenger Door Status
+	Pedal Accelerator Gradient
+	Pedal Accelerator Position
+	Pedal Brake Not Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Signal Integrity
+	Pedal Brake Vacuum Pressure
+	Pedal Clutch Position
+	Pedal Clutch Potentiometer Voltage Scale 
+	Performance Mode
+	Power Mode Accessory
+	Power Mode Engine Cranking
+	Power Mode Ignition Or Engine Running
+	Power Mode Off
+	Power Mode State
+	Power Steering Control Module Voltage
+	Rear Driver Door Status
+	Rear Passenger Door Status
+	Remote State Mode Quite
+	Roll Rate
+	Roll Sensor State
+	Seat Front Passenger Empty
+	Seat Front Passenger Occupied
+	Seatbelt Airbag Front Middle
+	Seatbelt Airbag Passenger Tell Tale
+	Seatbelt Airbag Rear Left
+	Seatbelt Airbag Rear Right
+	Seatbelt Front Left Fastened
+	Seatbelt Front Left Unfastened
+	Seatbelt Front Middle
+	Seatbelt Front Right Fastened
+	Seatbelt Front Right Unfastened
+	Seatbelt Passenger Tell Tale
+	Seatbelt Rear Left
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Left Unfastened
+	Seatbelt Rear Middle
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Middle Unfastened
+	Seatbelt Rear Right
+	Seatbelt Rear Right Fastened
+	Seatbelt Rear Right Unfastened
+	Seatbelt Third Row Left
+	Seatbelt Third Row Middle
+	Seatbelt Third Row Right
+	Shift Interlock
+	Shift Interlock Control Message
+	Ss Related Check
+	Stability Control Braking Available
+	Start Remote Request
+	Start Remote Request Cancel
+	Start Stop Off Button Pressed
+	Start Stop System Off
+	Steering Front Lock Active Test
+	Steering Wheel Angle
+	Steering Wheel Rotating
+	Steering Wheel Rotation Speed
+	Steering Wheel Torque
+	Tell Tale Battery On
+	Tell Tale Brake Fluid Low
+	Tell Tale Frost Warning
+	Tell Tale Fuel Level Extremely Low
+	Tell Tale Fuel Level Low
+	Tell Tale Lights High Beam On
+	Tell Tale Lights Low Beam On
+	Tell Tale Oil Pressure
+	Tire Pressure Front Left
+	Tire Pressure Front Left Low
+	Tire Pressure Front Left Normal
+	Tire Pressure Front Left Warning
+	Tire Pressure Front Right
+	Tire Pressure Front Right Low
+	Tire Pressure Front Right Normal
+	Tire Pressure Front Right Warning
+	Tire Pressure Rear Left
+	Tire Pressure Rear Left Low
+	Tire Pressure Rear Left Normal
+	Tire Pressure Rear Left Warning
+	Tire Pressure Rear Right
+	Tire Pressure Rear Right Low
+	Tire Pressure Rear Right Normal
+	Tire Pressure Rear Right Warning
+	Tire Pressure Tell Tale Flashing
+	Tire Pressure Tell Tale On
+	Tow Bar Zoom On
+	Tow Mode Haul
+	Tow Neutral Mode
+	Traffic Jam Assist Button Pressed
+	Trailer Brake Request
+	Trailer Light Hitch
+	Trailer Sway Event
+	Trans And Steering Interlock
+	Trans Shifter Interlock Shift Act
+	Transmission Input Shaft Torque
+	Vehicle Not Moving
+	Vehicle Speed
+	Vin Part 1
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheel Travel Direction Front Left
+	Wheel Travel Direction Front Right
+	Wheel Travel Direction Rear Left
+	Wheel Travel Direction Rear Right
+	Window Front Left
+	Window Front Right
+	Window Heater Rear Active
+	Window Lock Rear Differential Requested
+	Window Lockout Switch
+	Window Rear Defrost
+	Window Rear Left
+	Window Rear Right
+	Wiper Heater
+	Yaw Rate
+	Yaw Sensor State
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acc Braking Active
+	Acc Braking Temperature Warm
+	Acc Disengage From Brake
+	Acc Distance Decrease Button Pressed
+	Acc Distance Increase Button Pressed
+	Acc Pre Fill Brake
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Adas Cruise Control Mode
+	Adas Cruise Control Mode
+	Adas Cruise Control Override
+	Adas Cruise Control Speed Set
+	Adas Cruise Control Status
+	Adas Cruise Engine
+	Adas Cruise Stop Mode
+	Adas Sp Button Can Res Pressed
+	Adas Sp Button Decrease Speed Pressed
+	Adas Sp Button Increase Speed Pressed
+	Adas Sp Button Lim Or Off Pressed
+	Adas Speed Limiter On And Active
+	Adas Speed Limiter On And Not Active
+	Adas Speed Limiter Warning Chime
+	Adas Speed Set
+	Adas Speed Set Display
+	Air Conditioning Compressor Commanded State
+	Airbag Curtain Front Left
+	Airbag Curtain Front Right
+	Airbag Deployment Event Type
+	Airbag Front Left
+	Airbag Front Left Event
+	Airbag Front Right
+	Airbag Knee Front Left
+	Airbag Seatbelt Front Left
+	Airbag Seatbelt Front Right
+	Ambient Temperature
+	Auto Start Active
+	Barometric Pressure
+	Battery Charge Voltage
+	Battery Soc
+	Battery State Of Charge Very Low
+	Battery Temperature Scaling
+	Battery Voltage
+	Blower Motor Rear
+	Body Systems Service Required
+	Camera Rear Overlay On
+	Camera Split View Button Pressed
+	Camera Zoom Level
+	Center Screen Display Status
+	Chime Alarm
+	Chime Lights On
+	Chime Parking Brake
+	Collision Avoid Brake Disengaged
+	Collision Avoid Brake Equipped
+	Collision Avoid Brake Not Allowed
+	Collision Avoid Pre Fill Brake
+	Collision Avoidance Braking
+	Compass Calibrate
+	Compass Calibration Icon On
+	Compass Direction
+	Compass Display On
+	Compass Segment Lsd
+	Compass Segment Msd
+	Compass Zone Change
+	Compass Zone Icon On
+	Compass Zone Preferred
+	Coolant Fan Speed
+	Coolant Temperature
+	Cross Traffic Alert
+	Cross Traffic Left
+	Cross Traffic Right
+	Cross Traffic Sensor Left
+	Cross Traffic Sensor Right
+	Dash Indication Shift Down
+	Dash Indication Shift Up
+	Dash Tachometer Indication
+	Dash Tell Tale Mil Flashing
+	Dash Tell Tale Mil On
+	Dash Tell Tale Parking Brake On
+	Dash Tell Tale Service Required
+	Day Dimming Level
+	Daytime Running Lamp
+	Deck Lid Power Request
+	Diesel Manual Regen Requested
+	Dimming Mode Level
+	Door Child Lock Rear Left
+	Door Child Lock Rear Right
+	Door Front Left Open
+	Door Front Left Open
+	Door Front Left State Error Condition
+	Door Front Right Open
+	Door Hood Open
+	Door Latch Switch Fault Front Left
+	Door Latch Switch Fault Front Right
+	Door Latch Switch Fault Rear Left
+	Door Latch Switch Fault Rear Right
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Sliding Power Request Left
+	Door Sliding Power Request Right
+	Door Trunk Open
+	Doors All Closed
+	Doors Lock
+	Driver Alert System On
+	Driver Door Status
+	Driver Profile Info
+	Driving Eco Mode Request
+	Driving Mode
+	Emergency Assistant
+	Emergency Call Notification
+	Engine Acceleration
+	Engine Exhaust Mode
+	Engine Idle Shutdown Inhibit
+	Engine Last Time Off
+	Engine Load
+	Engine Oil Life Reset Request
+	Engine Oil Temperature
+	Engine Overheat State
+	Engine Running
+	Engine Speed
+	Engine Status
+	Engine Torque Output
+	Engine Torque Which Not In St 
+	Engine Turning Off
+	Esp Abs Active
+	Esp Abs Fault
+	Esp Abs Tell Tale Flashing
+	Esp Abs Tell Tale On
+	Esp Abs Tell Tale Status
+	Esp Tc System Off
+	Esp Tc Tell Tale
+	Esp Traction Control Active
+	Esp Traction Control Active
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
+	Fob Passive Entry State
+	Fuel Level Scale
+	Fuel Pump Enabled
+	Fuel Pump State
+	Gear Manual Position
+	Guard Alarm Reduced
+	Headlights Switch
+	Hill Descent Info Lamp
+	Hill Descent Mode
+	Hill Descent Switch
+	Hill Descent System State
+	Hill Descent Tell Tale
+	Hill Descent Tell Tale Control Msg
+	Hvac A C Enabled
+	Hvac A C Pressure Sensor
+	Hvac Evaporator Temperature
+	Hvac Fan Active
+	Hvac Max A C Active
+	Hvac Max A C Not Active
+	Hvac Recirculation Air Percentage
+	Intake Air Temperature
+	Key In Accessory Position
+	Key Type
+	Lane Assist Button Fault
+	Lane Assist Button Pressed
+	Lane Departure Warning Status
+	Liftgate Power Request
+	Light Foglamp Front
+	Lights Blinker Left
+	Lights Blinker Left Illumination Percentage
+	Lights Blinker Right
+	Lights Blinker Right Illumination Percentage
+	Lights Blinker Right State1
+	Lights Blinker Right State2
+	Lights Brake On
+	Lights Foglamp Rear
+	Lights Hazards Active
+	Lights High Beam Allowed
+	Lights High Beam Off
+	Lights High Beam On
+	Lights Low Beam Left Lamp On
+	Lights Low Beam Off
+	Lights Position On
+	Lights Reverse On
+	Lock Child
+	Lock Child Tell Tale
+	Lock Indicator Lamp
+	Lock Prevention
+	Metric Units Selected
+	Mode Valley Active
+	Obstacle Detected Left
+	Obstacle Detected Right
+	Obstacle Sensor State Left
+	Obstacle Sensor State Right
+	Odometer
+	Oil Level
+	Oil Life Remaining
+	Oil Pressure
+	Oil Temperature
+	Park Aid Button
+	Park Aid Switch
+	Park Assist Advanced Button
+	Parking Break Applied
+	Passenger Door Status
+	Pedal Accelerator Gradient
+	Pedal Accelerator Position
+	Pedal Brake Not Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Signal Integrity
+	Pedal Brake Vacuum Pressure
+	Pedal Clutch Position
+	Pedal Clutch Potentiometer Voltage Scale 
+	Performance Mode
+	Power Mode Accessory
+	Power Mode Engine Cranking
+	Power Mode Ignition Or Engine Running
+	Power Mode Off
+	Power Mode State
+	Power Steering Control Module Voltage
+	Rear Driver Door Status
+	Rear Passenger Door Status
+	Remote State Mode Quite
+	Roll Rate
+	Roll Sensor State
+	Seat Front Passenger Empty
+	Seat Front Passenger Occupied
+	Seatbelt Airbag Front Middle
+	Seatbelt Airbag Passenger Tell Tale
+	Seatbelt Airbag Rear Left
+	Seatbelt Airbag Rear Right
+	Seatbelt Front Left Fastened
+	Seatbelt Front Left Unfastened
+	Seatbelt Front Middle
+	Seatbelt Front Right Fastened
+	Seatbelt Front Right Unfastened
+	Seatbelt Passenger Tell Tale
+	Seatbelt Rear Left
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Left Unfastened
+	Seatbelt Rear Middle
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Middle Unfastened
+	Seatbelt Rear Right
+	Seatbelt Rear Right Fastened
+	Seatbelt Rear Right Unfastened
+	Seatbelt Third Row Left
+	Seatbelt Third Row Middle
+	Seatbelt Third Row Right
+	Shift Interlock
+	Shift Interlock Control Message
+	Ss Related Check
+	Stability Control Braking Available
+	Start Remote Request
+	Start Remote Request Cancel
+	Start Stop Off Button Pressed
+	Start Stop System Off
+	Steering Front Lock Active Test
+	Steering Wheel Angle
+	Steering Wheel Rotating
+	Steering Wheel Rotation Speed
+	Steering Wheel Torque
+	Tell Tale Battery On
+	Tell Tale Brake Fluid Low
+	Tell Tale Frost Warning
+	Tell Tale Fuel Level Extremely Low
+	Tell Tale Fuel Level Low
+	Tell Tale Lights High Beam On
+	Tell Tale Lights Low Beam On
+	Tell Tale Oil Pressure
+	Tire Pressure Front Left
+	Tire Pressure Front Left Low
+	Tire Pressure Front Left Normal
+	Tire Pressure Front Left Warning
+	Tire Pressure Front Right
+	Tire Pressure Front Right Low
+	Tire Pressure Front Right Normal
+	Tire Pressure Front Right Warning
+	Tire Pressure Rear Left
+	Tire Pressure Rear Left Low
+	Tire Pressure Rear Left Normal
+	Tire Pressure Rear Left Warning
+	Tire Pressure Rear Right
+	Tire Pressure Rear Right Low
+	Tire Pressure Rear Right Normal
+	Tire Pressure Rear Right Warning
+	Tire Pressure Tell Tale Flashing
+	Tire Pressure Tell Tale On
+	Tow Bar Zoom On
+	Tow Mode Haul
+	Tow Neutral Mode
+	Traffic Jam Assist Button Pressed
+	Trailer Brake Request
+	Trailer Light Hitch
+	Trailer Sway Event
+	Trans And Steering Interlock
+	Trans Shifter Interlock Shift Act
+	Transmission Input Shaft Torque
+	Vehicle Not Moving
+	Vehicle Speed
+	Vin Part 1
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheel Travel Direction Front Left
+	Wheel Travel Direction Front Right
+	Wheel Travel Direction Rear Left
+	Wheel Travel Direction Rear Right
+	Window Front Left
+	Window Front Right
+	Window Heater Rear Active
+	Window Lock Rear Differential Requested
+	Window Lockout Switch
+	Window Rear Defrost
+	Window Rear Left
+	Window Rear Right
+	Wiper Heater
+	Yaw Rate
+	Yaw Sensor State

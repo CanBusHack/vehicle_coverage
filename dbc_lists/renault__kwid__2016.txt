@@ -1,0 +1,157 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Renault 'Kwid' (2016)
+Signals:
+	Abs Active
+	Abs Not Available
+	Abs Warning Fault
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Adas Speed Limiter Active
+	Adas Speed Limiter Speed Exceeded
+	Adas Speed Limiter Speed Set
+	Adas Speed Limiter Standby
+	Adas Tell Tale Cruise On
+	Airbag Fault Warning Lamp On
+	Airbag Passenger Off
+	Airbag Tell Tale On
+	Alternator Duty Cycle
+	Ambient Temperature
+	Battery Voltage
+	Car Lifetime
+	Central Lock Activated By Key
+	Command Unlock And Hazards On
+	Command Unlock Doors
+	Coolant Temperature
+	Coolant Temperature Warning On
+	Dashboard Center Display Lighting Level
+	Dashboard Chime On
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Front Driver Open
+	Door Front Driver Warning Open
+	Door Front Passenger Closed
+	Door Front Passenger Open
+	Door Front Passenger Open
+	Door Front Passenger Warning Open
+	Door Hood Closed
+	Door Hood Open
+	Door Rear Left Closed
+	Door Rear Left Open
+	Door Rear Left Open
+	Door Rear Left Warning Open
+	Door Rear Right Closed
+	Door Rear Right Open
+	Door Rear Right Open
+	Door Rear Right Warning Open
+	Door Trunk Closed
+	Door Trunk Open
+	Door Trunk Warning Open
+	Eco Mode Off
+	Eco Mode On
+	Eco Mode Tell Tale On
+	Engine Running
+	Engine Speed
+	Engine Speed Idling Reference
+	Engine Status
+	Engine Torque Net
+	Engine Torque Reference
+	Esp Abs Tell Tale Flashing Fast
+	Esp Abs Tell Tale Flashing Slow
+	Esp Abs Tell Tale On
+	Esp Abs Warning Chime On
+	Esp Traction Control System Status
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
+	Fuel Low Level Info Status Low
+	Fuel Low Level Info Status Ok
+	Fuel Pump Powered
+	Fuel Pump Unavailable
+	Fuel Tank Level
+	Gear Reverse Not Engaged
+	Headlight Status High Beam
+	Headlight Status Low Beam
+	Headlights Status On
+	Hvac Heater Rear Active
+	Ignition On
+	Immobilizer Active
+	Immobilizer Injection Code Allocated
+	Immobilizer Injection Code Blank
+	Injection Protection Inactive
+	Inlet Air Temperature
+	Key Button Unlock Held
+	Key Locking Or Unlocking
+	Key Unlocking Or Button Lock Held
+	Lamp Exhaust Particulate Filter On
+	Lamp Malfunction Flashing
+	Lamp Malfunction On
+	Lamp Misfire On Orange
+	Lamp Misfire On Red
+	Lamp Oil Pressure Warning On
+	Lamp Service Required On
+	Lights Hazards On
+	Lights Indicator Left On
+	Lights Indicator Right On
+	Lights Tell Tale Fog Front On
+	Lights Tell Tale Fog Rear On
+	Lights Tell Tale High Beam On
+	Lights Tell Tale Indicator Left On
+	Lights Tell Tale Indicator Right On
+	Lights Tell Tale Low Beam On
+	Lights Tell Tale Side On
+	Lock System Auto Active
+	Lock System Status On
+	Master Cylinder Pressure
+	Odometer
+	Oil Change Distance
+	Parking Brake Applied
+	Parking Brake Not Applied
+	Parking Brake Warning Fault
+	Pedal Accelerator Kickdown Switch
+	Pedal Accelerator Pos With Kickdown
+	Pedal Accelerator Pos Without Kickdown
+	Pedal Accelerator Release
+	Pedal Brake Signal Intermediate
+	Pedal Brake Signal Missing
+	Pedal Brake Signal Present
+	Power Mode
+	Power Mode Accessory Or Off
+	Power Mode Ignition Or Engine Running
+	Power Mode Ignition Or Engine Running
+	Prompt Press Clutch
+	Prompt Put In Neutral
+	Refrigerant Pressure
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Left Unfastened
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Middle Unfastened
+	Seatbelt Rear Right Fastened
+	Seatbelt Rear Right Unfastened
+	Seatbelt Tell Tale Front Driver On
+	Seatbelt Tell Tale Front Passenger On
+	Seatbelt Warning Driver On
+	Seatbelt Warning Front Passenger On
+	Shift Indication Status
+	Start Stop Button Not Pressed
+	Start Stop Button Pressed
+	Steering Wheel Tell Tale Service Required
+	Steering Wheel Warning Fault
+	Stop Start System Tell Tale Flashing
+	Tell Tale Battery Flashing
+	Tpms Resetting Values
+	Tpms Service Required
+	Tpms Tell Tale On
+	Trip A Computer Reset
+	Trip A Distance
+	Trip A Fuel Consumption Average
+	Trip A Fuel Used Total
+	Trip A Speed Average
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Vehicle Speed Units
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Windshield Sprayer Active
+	Windshield Sprayer Not Active
+	Yaw Rate

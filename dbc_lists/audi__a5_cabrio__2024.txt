@@ -1,0 +1,1098 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Audi 'A5 Cabrio' (2024)
+Signals:
+	A Front Overhead Interior Light Is On
+	Abs Active
+	Abs Lamp Active
+	Acc Display Active
+	Accelerator Pedal
+	Accelerator Pedal Let Off Sig
+	Accelerator Pedal Not Pressed
+	Account Selected
+	Actuator Test Active
+	Airbag Actuator Test
+	Airbag Diagnostics Active
+	Airbag Lamp Active
+	Airbag System Error
+	Airbag Tell Tale Active
+	Automatic Off Active
+	Automatic Off Deactivate
+	Automatic Stop Start System Off
+	Brake Initial Travel
+	Brake Lamp Active
+	Brake Pedal
+	Calculated Engine Load
+	Car Status For Auto Stop Start
+	Car Wakeup
+	Center Dash Menu Tab
+	Cold Start
+	Consumption Units
+	Cylinder Deactivation
+	Dash Prompt Airbag Seatbelt Tensioner Deactivated
+	Dash Prompt Error Pedestrian Monitoring
+	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
+	Dash Prompt Please Check The Starter System
+	Dates Units
+	Display And Brightness Cockpit Dimming Per
+	Distance Units Km0 Mi1
+	Drive System Mode 1
+	Drive System Mode 2
+	Driver Door Lock Button
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Rear Hatch Switch
+	Driver Door Recent Unlock
+	Driver Door Unlock Button
+	Driver Seat Heat Setting
+	Driver Window Auto Down Switch
+	Driver Window Auto Up Switch
+	Driver Window Closed
+	Driver Window Down Switch
+	Driver Window Moving Down
+	Driver Window Moving Up
+	Driver Window Open
+	Driver Window Up Switch
+	Driving Cycle
+	Driving Mode
+	Driving Mode Change In Progress
+	Drl On
+	Electric Parking Break
+	Engine Coolant Temp
+	Engine Speed
+	Esc
+	Esp Lamp Active
+	Fob Being Pressed
+	Fob Not Being Pressed
+	Fog Light
+	Front Passenger Air Bag Off
+	Front Wiper High Switch
+	Front Wiper Intermittent Switch
+	Front Wiper Low Switch
+	Front Wiper Mist Switch
+	Front Wipers Wash Switch
+	Fuel Tank Warning Lamp Active
+	Glowplug Lamp Active
+	Handbrake Active
+	Hard Brake Press
+	Head Light Settings
+	Heated Mirrors Selected
+	Heated Steering Wheel Toggled
+	Intake Air Temp
+	Interior Lighting Brightness 1
+	Interior Lighting Brightness 2
+	Interior Lighting Brightness 3
+	Key Fob Lock Pressed
+	Key Fob Panic Pressed
+	Key Fob Trunk Pressed
+	Key Fob Unlock Pressed
+	Lane Change Assist Active
+	Language Units
+	Left Child Lock Active
+	Left Child Lock Button
+	Left Mirror Indicator Faulty Message
+	Left Side Mirror Selected For Adjustment
+	Lift Gate Close Button Pressed
+	Lights Active
+	Load Value
+	Looking To Down Shift
+	Low Pressure Warning Active
+	Minimum Trip
+	Mode Change In Progress
+	Month
+	Motor Running Active
+	Night Display Active
+	Normalized Trip
+	Number Closed Cyl
+	Odometer
+	Oil Pressure Switch
+	Oil Pressure Warning Active
+	Oil Temp
+	Overrun Cutoff Active
+	Passenger Seat Heat Setting
+	Personalization Activated
+	Press Length On Center Screen
+	Pressure Units
+	Ready To Drive
+	Rear Crash
+	Rear Wiper Switch
+	Rear Wiper Washer Switch
+	Remote Start Active
+	Right Child Lock Active
+	Right Child Lock Button
+	Right Child Lock Not Active
+	Right Side Mirror Selected For Adjustment
+	Right Turn True
+	Rollover Crash
+	Rolls Front Windows Up To 90 Percent
+	Set Idle Speed
+	Settings Speed Mph
+	Shift Interlock Active
+	Side Mirror Adjustment Switch Down
+	Side Mirror Adjustment Switch Left
+	Side Mirror Adjustment Switch Right
+	Side Mirror Adjustment Switch Up
+	Side Mirrors Folded In Selected
+	Side Mirrors Folding In
+	Side Mirrors Folding Out
+	Side Mirrors Out State
+	Speed Units 0Kmh 1Mph
+	Speed Warning Active
+	Start Stop Restart
+	Start Stop Stop Motor
+	Steering Mode
+	Steering Wheel Adjustment Being Made
+	Steering Wheel Angle
+	Steering Wheel Lamp Active
+	Stop Confirmation
+	Stopping Process Acc Active
+	Target Gear
+	Tell Tale Seatbelt Icon For Drive Active
+	Tell Tale Seatbelt Icon For Passenger Active
+	Temp Units C0 F1
+	Throttle Wide Open Active
+	Time Day
+	Time Hours
+	Time Minutes
+	Time Seconds
+	Time Units 24Hour0 12Hour1
+	Transmission Over Temperature Warning
+	Unlock Command With Blinker Flash
+	Upper And Lower Limit Switch
+	Upper Engine Speed Limit
+	Vehicle Speed
+	Vin Part1
+	Voice Command Button On Left Stock Active
+	Voltage Request
+	Volume Units
+	Warm Up Cycle
+	Wheel Direction Front Left
+	Wheel Direction Front Right
+	Wheel Direction Rear Left
+	Wheel Direction Rear Right
+	Wheel Speed Back Left
+	Wheel Speed Back Right
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wiper Intermittent Speed
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Abs Lamp Active
+	Absolute Load Value
+	Absolute Throttle Position
+	Acc Display Active
+	Accelerator Pedal
+	Accelerator Pedal Gradient
+	Accelerator Pedal Gradient Not Reported
+	Accelerator Pedal Let Off Sig
+	Accelerator Pedal Not Pressed
+	Actuator Test Active
+	Air Care Active
+	Air Compressor Active
+	Airbag Actuator Test
+	Airbag Diagnostic Active
+	Airbag Lamp Active
+	Airbag System Error
+	Airbag Tell Tale Active
+	Asr Active
+	Audio Reduction For Radio Started
+	Belt Tensioner Mode
+	Brake Lamp Active
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Calculated Load Value
+	Clock Hours
+	Clock Minutes
+	Clock Seconds
+	Clutch Switch Active
+	Cold Start Active
+	Consumption Units
+	Current Gear
+	Cylinder Deactivation
+	Dash Prompt Add Engine Oil
+	Dash Prompt Airbag Seatbelt Tensioner Deactivated
+	Dash Prompt Battery Almost Drained Limited Vehicle Performance
+	Dash Prompt Battery Drained Speed Restricted
+	Dash Prompt Charging High Voltage Battery Please Do Not Switch Off Engine
+	Dash Prompt Check The Coolant Level See Owners Manual
+	Dash Prompt Engine Must Run Press Clutch Pedal
+	Dash Prompt Engine Over Heated Stop See Owners Manual
+	Dash Prompt Error Electrical System Service Vehicle
+	Dash Prompt Error Hybrid System Stop
+	Dash Prompt Error Pedestrian Monitoring
+	Dash Prompt Error Radiator Shutter Function Limited
+	Dash Prompt Error Start Stop
+	Dash Prompt Oil Pressure Stop See Owners Manual
+	Dash Prompt Oil Sensor Please Service Vehicle
+	Dash Prompt Particulate Filter See Owners Manual
+	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
+	Dash Prompt Please Check Fuel Cap
+	Dash Prompt Please Check Oil Level
+	Dash Prompt Please Check The Starter System
+	Dash Prompt Please Reduce Oil Level See Manual
+	Dash Prompt Restart Not Possible Do Not Open Hood
+	Dash Prompt Unable To Start Please Remove Charging Connector
+	Dash Tell Tale Epc
+	Dash Tell Tale Mil
+	Dates Units
+	Displayed Engine Speed
+	Distance Units Km0 Mi1
+	Door Front Passenger Door Lock Switch Pressed
+	Door Front Passenger Door Locked
+	Door Front Passenger Door Unlock Switch Pressed
+	Door Front Passenger Open
+	Door Rear Left Child Lock Active
+	Door Rear Left Closed
+	Door Rear Left Lock Button Pressed
+	Door Rear Left Locked
+	Door Rear Left Open
+	Door Rear Left Unlock Button Pressed
+	Door Rear Right Child Lock Active
+	Door Rear Right Closed
+	Door Rear Right Lock Button Pressed
+	Door Rear Right Locked
+	Door Rear Right Open
+	Door Rear Right Unlock Button Pressed
+	Dpf Installed
+	Drive System Mode Surface
+	Driver Door Lock Button
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Rear Hatch Switch
+	Driver Door Recent Unlock
+	Driver Door Unlock Button
+	Driver Heated Seat Level
+	Driver Seat Cooling Setting
+	Driver Seat Heating Balance Setting
+	Driver Seat Heating Setting
+	Driver Seat Ventilation Balance Setting
+	Driver Window Auto Down Switch
+	Driver Window Auto Up Switch
+	Driver Window Closed
+	Driver Window Down Switch
+	Driver Window Moving Down
+	Driver Window Moving Up
+	Driver Window Open
+	Driver Window Up Switch
+	Driving Cycle Active
+	Driving Mode Changing
+	Electric Parking Break
+	Electronic Brake Force Distribution Active
+	Electronic Differential Lock Active
+	Engine Actual Torque Sum
+	Engine And Transmission Mode
+	Engine Coolant Temp
+	Engine Coolant Temperature
+	Engine Inertia Torque Sum
+	Engine Liters
+	Engine Maximum Desired Rpm
+	Engine Minimum Desired Rpm
+	Engine Normal Operation Active
+	Engine Speed
+	Engine Speed Limiter Active
+	Engine Speed Warning Active
+	Engine Target Torque Filtered
+	Engine Target Torque Raw
+	Engine Thrust Torque
+	Engine Torque Inaccuracy Error Active
+	Engine Torque Limitation Dynamic
+	Engine Torque Limitation Static
+	Error Electrical System Stop
+	Esc
+	Esp Anti Skid Active
+	Esp Intervention Active
+	Esp Lamp Active
+	Esp System Not Active
+	Esp Timeout
+	Exhaust Button Active
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
+	Front Driver Side Cabin Temp
+	Front Passenger Air Bag Off
+	Front Passenger Cabin Temp
+	Fuel Auto Compensation Control Active
+	Fuel Economy Hint Acknowledged
+	Fuel Level
+	Fuel Level Low Light Active
+	Fuel Parking Heater Control Active
+	Fuel Tank Capacity
+	Fuel Tank Level Percent
+	Fuel Tank Warning Lamp Active
+	Gearbox Shifting Mode Manual
+	Glow Plug Tell Tale Active
+	Glowplug Lamp Active
+	Handbrake Active
+	Head Light Settings
+	Heated Steering Wheel Level
+	Heated Steering Wheel Toggled
+	High Precision Fuel Level
+	Instantaneous Fuel Consumption
+	Intake Air Temp
+	Key Position Acc
+	Key Position Crank
+	Key Position Ignition
+	Language Units
+	Left Child Lock Active
+	Left Child Lock Button
+	Left Mirror Indicator Faulty Mes
+	Lift Gate Close Button Pressed
+	Low Pressure Warning Active
+	Lowering Vehicle
+	Max Engine Speed
+	Mirror Door Passenger Folded In
+	Mirrors Lane Change Assist Not Available
+	Mode Change In Progress
+	Month
+	Motor Running Active
+	Motor Slip Regulator Active
+	Night Display Active
+	Normalized Trip Active
+	Number Of Cylinders
+	Number Of Deactivated Cylinders
+	Obstacle Detected Front Active
+	Obstacle Detected Rear Active
+	Odometer
+	Odometer
+	Oil Level
+	Oil Pressure Switch
+	Oil Pressure Warning Active
+	Oil Temp
+	Outside Air Temperature
+	Overrun Cutoff Active
+	Parking Assist Active
+	Parking Assist Active Front
+	Parking Assist Active Rear
+	Parking Assist Beep Active Front
+	Parking Assist Beep Active Rear
+	Parking Assist Beep Frequency Rear
+	Parking Assist Beep Muted
+	Parking Assist Beep Volume Level Front
+	Parking Assist Beep Volume Level Rear
+	Parking Assist Interrupted
+	Parking Assist Malfunction
+	Passenger Heated Seat Level
+	Passenger Hvac Fan Speed
+	Passenger Seat Cooling Setting
+	Passenger Seat Heating Balance Setting
+	Passenger Seat Heating Setting
+	Passenger Seat Ventilation Balance Setting
+	Please Reduce Oil Level
+	Press Length On Center Screen
+	Pressure Units
+	Prndl
+	Raising Vehicle
+	Range
+	Ready To Drive
+	Rear Crash
+	Rear Driver Heated Seat Setting
+	Rear Driver Side Cabin Temp
+	Rear Passenger Heated Seat Setting
+	Rear Passenger Side Cabin Temp
+	Recirculation Button Active
+	Refueling Recognized
+	Remote Start Active
+	Right Child Lock Active
+	Right Child Lock Button
+	Right Child Lock Not Active
+	Rollover Crash
+	Rolls Front Windows Up To 90 Percent
+	Scr System Error Active
+	Seatbelt Front Driver Buckled
+	Seatbelt Front Passenger Buckled
+	Set Idle Speed
+	Settings Speed Mph
+	Shift Interlock Active
+	Side Mirrors Out State
+	Speed Units 0Kmh 1Mph
+	Start Stop Reset
+	Start Stop Status
+	Start Stop Stop Motor
+	Steering Mode
+	Steering Wheel Adjustment Being
+	Steering Wheel Angle
+	Steering Wheel Angle Negative
+	Steering Wheel Lamp Active
+	Stop Confirmation
+	Stopping Process Acc Active
+	Tell Tale Seatbelt For Driver Icon Active
+	Tell Tale Seatbelt For Passenger Icon Active
+	Temp Units C0 F1
+	Throttle Wide Open Active
+	Time Day
+	Time Hours
+	Time Ideling
+	Time Minutes
+	Time Seconds
+	Time Units 24Hour0 12Hour1
+	Transmission Over Temperature Warning
+	Transmission Warning Active
+	Trigger Image Activation
+	Unit Distance Km
+	Unit Distance Miles
+	Unlock Command With Blinker Flas
+	Upper And Lower Limit Switch
+	Usa Variant
+	Usa Variant
+	Vehicle Coasting Active
+	Vehicle Front Left Being Adjusted
+	Vehicle Front Right Being Adjusted
+	Vehicle Rear Left Being Adjusted
+	Vehicle Rear Right Being Adjusted
+	Vehicle Speed
+	Vehicle Speed
+	Vin Part1
+	Vin Part2
+	Vin Part3
+	Voltage Request
+	Volume Units
+	Warm Up Cycle Active
+	Water In Fuel Filter Active
+	Wheel Direction Front Left
+	Wheel Direction Front Right
+	Wheel Direction Rear Left
+	Wheel Direction Rear Right
+	Window Front Passenger Fully Closed
+	Window Front Passenger Moving Down
+	Window Front Passenger Open Position
+	Window Front Passenger Overheat Timeout
+	Window Front Passenger Position Limit Switch Active
+	Window Front Passenger Safety Retraction Active
+	Window Front Passenger Switch Auto Down
+	Window Front Passenger Switch Auto Up
+	Window Front Passenger Switch Down
+	Window Front Passenger Switch Up
+	Window Rear Left Auto Down Command
+	Window Rear Left Auto Up Command
+	Window Rear Left Down Command
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open
+	Window Rear Left Open Position
+	Window Rear Left Overheat Timeout Active
+	Window Rear Left Position Limit Active
+	Window Rear Left Safety Retraction Active
+	Window Rear Left Switch Auto Down
+	Window Rear Left Switch Auto Up
+	Window Rear Left Switch Down
+	Window Rear Left Switch Up
+	Window Rear Left Up Command
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open
+	Window Rear Right Open Position
+	Window Rear Right Overheat Timeout Active
+	Window Rear Right Position Limit Active
+	Window Rear Right Safety Retraction Active
+	Window Rear Right Switch Auto Down
+	Window Rear Right Switch Auto Up
+	Window Rear Right Switch Down
+	Window Rear Right Switch Up
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	A Front Overhead Interior Light Is On
+	Abs Active
+	Abs Active Alt
+	Abs Lamp Active
+	Absolute Load Value
+	Absolute Throttle Position
+	Acc Desired Speed Achieved Alt
+	Acc Display Active
+	Acc Display Time Gap Alt
+	Acc Not Possible While Stationary Dash Prompt Alt
+	Acc Optical Driver Notice Alt
+	Acc Pedal Position Alt
+	Acc Relevant Object Alt
+	Acc Set Time Gap Alt
+	Acc Status Display Alt
+	Acc Volume Level Alt
+	Accelerator Pedal
+	Accelerator Pedal Gradient
+	Accelerator Pedal Gradient Not Reported
+	Accelerator Pedal Let Off Sig
+	Accelerator Pedal Not Pressed
+	Active System On
+	Actuator Test Active
+	Air Care Active
+	Air Compressor Active
+	Air Flow Setting
+	Airbag Actuator Test
+	Airbag Diagnostic Active
+	Airbag Lamp Active
+	Airbag System Error
+	Airbag Tell Tale Active
+	Asr Active
+	Audio Reduction For Radio Started
+	Auto Lights
+	Autohold Active
+	Autohold In Standby
+	Automatic Stop Start System Off
+	Blindspot Detection Active
+	Blindspot Detection Not Available
+	Blindspot Detection System Error
+	Blindspot System On
+	Blindspot Warning Left
+	Blindspot Warning Right
+	Brake And Acc Pressed Simultaneously Alt
+	Brake Lamp Active
+	Brake Pressure
+	Brake Switch
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Calculated Load Value
+	Clock Day
+	Clock Hours
+	Clock Minutes
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Clutch Switch Active
+	Cold Start Active
+	Consumption Units
+	Controlled From Driver Side Passenger Seat Back Angle Declining Active
+	Controlled From Driver Side Passenger Seat Back Angle Inclining Active
+	Controlled From Driver Side Passenger Seat Backward Active
+	Controlled From Driver Side Passenger Seat Extender Backward Active
+	Controlled From Driver Side Passenger Seat Extender Foward Active
+	Controlled From Driver Side Passenger Seat Forward D Active
+	Controlled From Driver Side Passenger Seat Height Lowering Active
+	Controlled From Driver Side Passenger Seat Height Raising Active
+	Controlled From Driver Side Passenger Seat Lumbar Support Down Active
+	Controlled From Driver Side Passenger Seat Lumbar Support Moving Back Active
+	Controlled From Driver Side Passenger Seat Lumbar Support Moving Forawrd Active
+	Controlled From Driver Side Passenger Seat Lumbar Support Up Active
+	Controlled From Driver Side Passenger Seat Seat Angle Inclining Active
+	Current Gear
+	Current Gear
+	Cylinder Deactivation
+	Dash Prompt Airbag Seatbelt Tensioner Deactivated
+	Dash Prompt Error Pedestrian Monitoring
+	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
+	Dash Prompt Please Check The Starter System
+	Dates Units
+	Delay Electronic Parking Brake Active
+	Delay Electronic Parking Brake Available
+	Distance Units Km0 Mi1
+	Door Driver Seat Memory Button 1 Pressed
+	Door Driver Seat Memory Button 2 Pressed
+	Door Driver Seat Memory Button 3 Pressed
+	Door Driver Seat Memory Button Set Pressed
+	Door Front Passenger Closed
+	Door Front Passenger Door Lock Switch Pressed
+	Door Front Passenger Door Locked
+	Door Front Passenger Door Unlock Switch Pressed
+	Door Front Passenger Open
+	Door Front Passenger Open
+	Door Rear Left Child Lock Active
+	Door Rear Left Closed
+	Door Rear Left Lock Button Pressed
+	Door Rear Left Locked
+	Door Rear Left Open
+	Door Rear Left Unlock Button Pressed
+	Door Rear Right Child Lock Active
+	Door Rear Right Closed
+	Door Rear Right Lock Button Pressed
+	Door Rear Right Locked
+	Door Rear Right Open
+	Door Rear Right Unlock Button Pressed
+	Door Unlock Command
+	Dpf Installed
+	Drive Mode
+	Drive Select Down Arrow Pressed
+	Drive Select Up Arrow Pressed
+	Driver Door Lock Button
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Rear Hatch Switch
+	Driver Door Recent Unlock
+	Driver Door Unlock Button
+	Driver Heated Seat Level
+	Driver Profile Index
+	Driver Profile Options
+	Driver Seat Heating Balance Setting
+	Driver Seat In Motion
+	Driver Seat Lumbar Support Down Active
+	Driver Seat Lumbar Support Moving Back Active
+	Driver Seat Lumbar Support Moving Forawrd Active
+	Driver Seat Lumbar Support Up Active
+	Driver Seat Ventilation Balance Setting
+	Driver Window Auto Down Switch
+	Driver Window Auto Up Switch
+	Driver Window Closed
+	Driver Window Down Switch
+	Driver Window Moving Down
+	Driver Window Moving Up
+	Driver Window Open
+	Driver Window Up Switch
+	Driving Cycle Active
+	Drl On
+	Ecd Not Available
+	Electric Parking Break
+	Electronic Brake Force Distribution Active
+	Electronic Differential Lock Active
+	Emergency Flashers Active 1
+	Emergency Flashers Active 2
+	Engine Coolant Temperature
+	Engine Coolant Temperature Alt
+	Engine Liters
+	Engine Speed
+	Engine Speed Alt
+	Engine Torque Limitation Dynamic
+	Engine Torque Limitation Static
+	Esc
+	Esp Anti Skid Active
+	Esp Intervention Active
+	Esp Lamp Active
+	Esp System Not Active
+	Esp Timeout
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
+	Exterior Lights Fadeout Setting
+	Fog Light
+	Fog Lights
+	Fog Lights Active
+	Front Driver Window Button Down Full Press
+	Front Driver Window Button Down Half Press
+	Front Driver Window Button Up Full Press
+	Front Driver Window Button Up Half Press
+	Front Passenger Air Bag Off
+	Front Passenger Window Button Down Full Press
+	Front Passenger Window Button Down Half Press
+	Front Passenger Window Button Up Full Press
+	Front Passenger Window Button Up Half Press
+	Front Wiper High Switch
+	Front Wiper Intermittent Switch
+	Front Wiper Low Switch
+	Front Wiper Mist Switch
+	Front Wipers Wash Switch
+	Fuel Auto Compensation Control Active
+	Fuel Economy Hint Acknowledged
+	Fuel Level
+	Fuel Level Low Light Active
+	Fuel Parking Heater Control Active
+	Fuel Tank Capacity
+	Fuel Tank Level Percent
+	Fuel Tank Warning Lamp Active
+	Glowplug Lamp Active
+	Handbrake Active
+	Head Light Settings
+	Heated Mirrors Selected
+	Heated Steering Wheel Active
+	Heated Steering Wheel Level
+	Heated Steering Wheel Toggled
+	High Beams
+	High Precision Fuel Level
+	Hill Descent Control Active
+	Hill Descent Control In Standby
+	Hood Open
+	Hood Open
+	Hood Partially Open
+	Hood Staying Open
+	Horn Command
+	Hydraulic Brake Assist Active
+	Inline Accel Alt
+	Intake Air Temperature
+	Interior Lighting Brightness 1
+	Interior Lighting Brightness 2
+	Interior Lighting Brightness 3
+	Key Assignment Selected Automatic 1 Manual 0
+	Key Fob Alarm Light In Driver Door Blink
+	Key Fob Alarm Light In Driver Door Solid
+	Key Fob Folding Mirrors Command
+	Key Fob Lock Driver Door Command
+	Key Fob Lock Passenger Door Command
+	Key Fob Lock Pressed
+	Key Fob Lock Rear Left Door Command
+	Key Fob Lock Rear Right Door Command
+	Key Fob Panic Pressed
+	Key Fob Passenger Window Down Command
+	Key Fob Passenger Window Up Command
+	Key Fob Rear Left Window Down Command
+	Key Fob Rear Left Window Up Command
+	Key Fob Rear Right Window Down Command
+	Key Fob Rear Right Window Up Command
+	Key Fob Trunk Pressed
+	Key Fob Unlock Driver Door Command
+	Key Fob Unlock Passenger Door Command
+	Key Fob Unlock Pressed
+	Key Fob Unlock Rear Left Door Command
+	Key Fob Unlock Rear Right Door Command
+	Key Position Acc
+	Key Position Crank
+	Key Position Ignition
+	Lane Change Assist Active
+	Language Units
+	Lateral Accel Alt
+	Left Blinker Tell Tale Command
+	Left Brake Light Faulty Message
+	Left Child Lock Active
+	Left Child Lock Button
+	Left Front Blinker Command
+	Left Mirror Indicator Faulty Mes
+	Left Mirror Selected
+	Left Reversing Light Faulty Message
+	Left Tail Light Faulty Message
+	Left Turn Signal
+	Left Turn Signal Active
+	Left Turn Signal Light State 1
+	Left Turn Signal Light State 2
+	Lift Gate Close Button Pressed
+	Light Warning Tell Tale
+	Lights Active
+	Looking To Down Shift
+	Low Beams
+	Low Pressure Warning Active
+	Lowering Vehicle
+	Mil Tell Tale
+	Mirror Door Passenger Folded In
+	Mirror Down Button Pressed
+	Mirror Left Button Pressed
+	Mirror Right Button Pressed
+	Mirror Up Button Pressed
+	Mirrors Lane Change Assist Not Available
+	Month
+	Motor Running Active
+	Motor Slip Regulator Active
+	Normalized Trip Active
+	Number Of Cylinders
+	Obstacle Detected Front Active
+	Obstacle Detected Rear Active
+	Odometer
+	Odometer Alt
+	Off Road Mode
+	Oil Pressure Switch
+	Oil Pressure Warning Active
+	Oil Temperature
+	Outside Air Temperature
+	Overrun Cutoff Active
+	Parking Assist Active
+	Parking Assist Active Front
+	Parking Assist Active Rear
+	Parking Assist Beep Active Front
+	Parking Assist Beep Active Rear
+	Parking Assist Beep Frequency Rear
+	Parking Assist Beep Muted
+	Parking Assist Beep Volume Level Front
+	Parking Assist Beep Volume Level Rear
+	Parking Assist Interrupted
+	Parking Assist Malfunction
+	Parking Brake Active Alt
+	Parking Brake State Change In Progress Alt
+	Passenger Door 1 Button Pressed
+	Passenger Door 2 Button Pressed
+	Passenger Door 3 Button Pressed
+	Passenger Door Set Button Pressed
+	Passenger Heated Seat Level
+	Passenger Hvac Fan Speed
+	Passenger Seat Cooling Setting
+	Passenger Seat Heating Balance Setting
+	Passenger Seat Heating Setting
+	Passenger Seat Inmotion
+	Passenger Seat Occupied
+	Passenger Seat Seat Angle Declining Active
+	Passenger Seat Ventilation Balance Setting
+	Poor Weather Lights Active
+	Pressure Units
+	Prndl
+	Raising Vehicle
+	Ready To Drive
+	Rear Crash
+	Rear Defrost Button Pressed
+	Rear Driver Window Button Down Full Press
+	Rear Driver Window Button Down Half Press
+	Rear Driver Window Button Up Full Press
+	Rear Driver Window Button Up Half Press
+	Rear Left Fog Light Faulty Message
+	Rear Passenger Window Button Down Full Pres
+	Rear Passenger Window Button Down Half Press
+	Rear Passenger Window Button Up Full Press
+	Rear Passenger Window Button Up Half Press
+	Rear Wiper Switch
+	Rear Wiper Washer Switch
+	Rear Wiper While Reversing Active
+	Recirculation Button Active
+	Refueling Recognized
+	Remote Start Active
+	Right Blinker Tell Tale Command
+	Right Child Lock Active
+	Right Child Lock Button
+	Right Child Lock Not Active
+	Right Front Blinker Command
+	Right Mirror Selected
+	Right Turn Signal
+	Right Turn Signal Active
+	Right Turn Signal Light State 1
+	Right Turn Signal Light State 2
+	Roll Window Up With Slight Opening Command
+	Rollover Crash
+	Rolls Front Windows Up To 90 Percent
+	Scr System Error Active
+	Seat Driver Memory Position Adjusting
+	Seat Driver Memory Position Reached
+	Seat Driver Motion Status
+	Seat Driver Position Adjusting
+	Seat Passenger Position Adjusting By Driver
+	Seatbelt Front Driver Buckled
+	Seatbelt Front Passenger Buckled
+	Seatbelt Rear Driver Buckled
+	Seatbelt Rear Middle Buckled
+	Seatbelt Rear Passenger Buckled
+	Set Idle Speed
+	Set Point Limit
+	Settings Speed Mph
+	Several Rear Lights Faulty Message
+	Shift Interlock Active
+	Shift Lever Position
+	Side Lights
+	Side Mirrors Folded In Selected
+	Side Mirrors Folding In
+	Side Mirrors Folding Out
+	Side Mirrors Out State
+	Speed Units 0Kmh 1Mph
+	Speed Warning Active
+	Start Assist Active
+	Start Stop Reset
+	Start Stop Stop Motor
+	Steering Assist Button Pressed
+	Steering Intervention By Adas
+	Steering Wheel Adjustment Being
+	Steering Wheel Angle
+	Steering Wheel Angle Negative
+	Steering Wheel Button Pressed
+	Steering Wheel Lamp Active
+	Steering Wheel Paddle Shifter Down
+	Steering Wheel Paddle Shifter Up
+	Steering Wheel Rate Of Change Alt
+	Stop Confirmation
+	Stopping Process Acc Active
+	Sun Roof Cover Button State
+	Sun Roof Cover In Motion
+	Sun Roof Cover Open
+	Sun Roof Cover Safety Retraction
+	Sun Roof Open
+	Sun Roof Open Close Button State
+	Sun Roof Safety Retraction
+	Sun Sensor
+	Switching Profile
+	Tell Tale Seatbelt For Driver Icon Active
+	Tell Tale Seatbelt For Passenger Icon Active
+	Temp Units C0 F1
+	Throttle Wide Open Active
+	Tilt Driver Seat Back Command
+	Tilt Driver Seat Forward D Command
+	Tilt Passenger Forward D Command 1
+	Tilt Passenger Forward D Command 2
+	Time Day
+	Time Hours
+	Time Idling
+	Time Minutes
+	Time Seconds
+	Time Units 24Hour0 12Hour1
+	Traction Control Active Alt
+	Traction Control Off
+	Traction Control Off Alt
+	Traction Control Off Button Pressed
+	Transmission Over Temperature Warning
+	Trigger Image Activation
+	Turn On Interior Lights Command
+	Turn Signal And Hazard State
+	Turn Signal Momentary Active
+	Unlock Command With Blinker Flas
+	Upper And Lower Limit Switch
+	Upper Engine Speed Limit
+	Usa Variant
+	Vehicle Front Left Being Adjusted
+	Vehicle Front Right Being Adjusted
+	Vehicle Rear Left Being Adjusted
+	Vehicle Rear Right Being Adjusted
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Speed High Resolution Alt
+	Vehicle Speed Max Limitation Active
+	Vin Part1
+	Vin Part2
+	Vin Part3
+	Voice Command Button On Left Steering
+	Voltage Request
+	Volume Units
+	Warm Up Cycle Active
+	Water In Fuel Filter Active
+	Wheel Direction Front Left
+	Wheel Direction Front Right
+	Wheel Direction Rear Left
+	Wheel Direction Rear Right
+	Wheel Speed Back Left
+	Wheel Speed Back Right
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Window Front Passenger Fully Closed
+	Window Front Passenger Moving Down
+	Window Front Passenger Open Position
+	Window Front Passenger Overheat Timeout
+	Window Front Passenger Position Limit Switch Active
+	Window Front Passenger Safety Retraction Active
+	Window Front Passenger Switch Auto Down
+	Window Front Passenger Switch Auto Up
+	Window Front Passenger Switch Down
+	Window Front Passenger Switch Up
+	Window Lock Button Pressed Driver Side
+	Window Lock Button Pressed Passenger Side
+	Window Rear Left Auto Down Command
+	Window Rear Left Auto Up Command
+	Window Rear Left Down Command
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open
+	Window Rear Left Open Position
+	Window Rear Left Overheat Timeout Active
+	Window Rear Left Position Limit Active
+	Window Rear Left Safety Retraction Active
+	Window Rear Left Switch Auto Down
+	Window Rear Left Switch Auto Up
+	Window Rear Left Switch Down
+	Window Rear Left Switch Up
+	Window Rear Left Up Command
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open
+	Window Rear Right Open Position
+	Window Rear Right Overheat Timeout Active
+	Window Rear Right Position Limit Active
+	Window Rear Right Safety Retraction Active
+	Window Rear Right Switch Auto Down
+	Window Rear Right Switch Auto Up
+	Window Rear Right Switch Down
+	Window Rear Right Switch Up
+	Wiper Intermittent Speed
+	Yaw Rate Alt
+	Yaw Value Is Negative Alt
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Gearbox Shifting Mode Manual
+	Hvac Ctrl Front Driver Temp
+	Hvac Ctrl Front Passenger Temp
+	Hvac Ctrl Rear Temp
+	Unit Distance Km
+	Unit Distance Miles
+	Vin Character 1 To 3
+	Vin Character 11 To 14
+	Vin Character 4 To 10
+	Vin Index
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ambient Temperature Outside
+	Door Driver Seat Memory Button 1 Pressed
+	Door Driver Seat Memory Button 2 Pressed
+	Door Driver Seat Memory Button 3 Pressed
+	Door Driver Seat Memory Button Set Pressed
+	Door Front Passenger Closed
+	Door Front Passenger Door Lock Switch Pressed
+	Door Front Passenger Door Locked
+	Door Front Passenger Door Unlock Switch Pressed
+	Door Front Passenger Open
+	Door Front Passenger Open
+	Door Rear Left Child Lock Active
+	Door Rear Left Closed
+	Door Rear Left Lock Button Pressed
+	Door Rear Left Locked
+	Door Rear Left Open
+	Door Rear Left Unlock Button Pressed
+	Door Rear Right Child Lock Active
+	Door Rear Right Closed
+	Door Rear Right Lock Button Pressed
+	Door Rear Right Locked
+	Door Rear Right Open
+	Door Rear Right Unlock Button Pressed
+	Fuel Auto Compensation Control Active
+	Fuel Level
+	Fuel Level Low Light Active
+	Fuel Parking Heater Control Active
+	Hvac Ac Compressor Active
+	Lights Brake Left Fault
+	Lights Fog Active
+	Lights Fog Rear Left Fault
+	Lights Hazard Active
+	Lights Indicator Change Lane Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Lights Prompt Several Rear Lights Fault
+	Lights Reverse Left Fault
+	Lights Stalk Position Left Turn
+	Lights Stalk Position Right Turn
+	Lights Tail Left Fault
+	Lights Warning Tell Tale Active
+	Mirror Door Passenger Folded In
+	Mirrors Lane Change Assist Not Available
+	Seat Driver Memory Position Adjusting
+	Seat Driver Memory Position Reached
+	Seat Driver Motion Status
+	Seat Driver Position Adjusting
+	Seat Passenger Adjust Back Angle Decline Driver Switch Pressed
+	Seat Passenger Adjust Back Angle Incline Driver Switch Pressed
+	Seat Passenger Adjust Backward Driver Switch Pressed
+	Seat Passenger Adjust Backward Extender Driver Switch Pressed
+	Seat Passenger Adjust Forward D Driver Switch Pressed
+	Seat Passenger Adjust Forward D Extender Driver Switch Pressed
+	Seat Passenger Adjust Height Down Driver Switch Pressed
+	Seat Passenger Adjust Height Up Driver Switch Pressed
+	Seat Passenger Adjust Lumbar Backward Driver Switch Pressed
+	Seat Passenger Adjust Lumbar Down Driver Switch Pressed
+	Seat Passenger Adjust Lumbar Forward D Driver Switch Pressed
+	Seat Passenger Adjust Lumbar Up Driver Switch Pressed
+	Seat Passenger Adjust Seat Angle Decline Driver Switch Pressed
+	Seat Passenger Adjust Seat Angle Incline Driver Switch Pressed
+	Seat Passenger Position Adjusting By Driver
+	Seatbelt Front Driver Buckled
+	Seatbelt Front Passenger Buckled
+	Steering Wheel Button Pressed
+	Steering Wheel Paddle Shifter Down
+	Steering Wheel Paddle Shifter Up
+	Sunroof Cover Open Position
+	Sunroof Cover Safety Retraction Active
+	Sunroof Open Position
+	Sunroof Safety Retraction Active
+	Vehicle Height Front Left Adjusting
+	Vehicle Height Front Right Adjusting
+	Vehicle Height Lowering
+	Vehicle Height Raising
+	Vehicle Height Rear Left Adjusting
+	Vehicle Height Rear Right Adjusting
+	Vin Part1
+	Window Front Passenger Fully Closed
+	Window Front Passenger Moving Down
+	Window Front Passenger Open Position
+	Window Front Passenger Overheat Timeout
+	Window Front Passenger Position Limit Switch Active
+	Window Front Passenger Safety Retraction Active
+	Window Front Passenger Switch Auto Down
+	Window Front Passenger Switch Auto Up
+	Window Front Passenger Switch Down
+	Window Front Passenger Switch Up
+	Window Rear Left Auto Down Command
+	Window Rear Left Auto Up Command
+	Window Rear Left Down Command
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open
+	Window Rear Left Open Position
+	Window Rear Left Overheat Timeout Active
+	Window Rear Left Position Limit Active
+	Window Rear Left Safety Retraction Active
+	Window Rear Left Switch Auto Down
+	Window Rear Left Switch Auto Up
+	Window Rear Left Switch Down
+	Window Rear Left Switch Up
+	Window Rear Left Up Command
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open
+	Window Rear Right Open Position
+	Window Rear Right Overheat Timeout Active
+	Window Rear Right Position Limit Active
+	Window Rear Right Safety Retraction Active
+	Window Rear Right Switch Auto Down
+	Window Rear Right Switch Auto Up
+	Window Rear Right Switch Down
+	Window Rear Right Switch Up

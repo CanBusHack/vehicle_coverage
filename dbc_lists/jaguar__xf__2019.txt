@@ -1,0 +1,771 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Jaguar 'Xf' (2019)
+Signals:
+	Abs Fault
+	Abs In Action
+	Acceleration Lateral S1
+	Acceleration Longitudinal
+	Acceleration Longitudinal Low Resolution
+	Accelerator Pedal Position
+	Aeb Enabled
+	Air Suspension Active
+	Air Suspension Down Button Pressed
+	Air Suspension Up Button Pressed
+	Airbag Passenger Off
+	Airbag Passenger On
+	Airbag Tell Tale Flashing
+	Airbag Tell Tale On
+	Aspc Button Not Pressed Alt
+	Aspc Button Pressed Alt
+	Auto Stop Start Button Pressed Alt
+	Brake Fluide Line Pressure
+	Brake Pedal At Rest
+	Brake Pedal Pressed
+	Brake Pressure Pad Front Left
+	Brake Pressure Pad Front Right
+	Brake Pressure Pad Rear Left
+	Brake Pressure Pad Rear Right
+	Brake System Service Required
+	Brake System Tell Tale Orange
+	Brake System Tell Tale Red
+	Brake System Warning Fault
+	Brake System Warning Not Available
+	Cancel Button Pressed
+	Chime Door Open Engine On
+	Chime Seatbelt Unfastened
+	Commanded Throttle Actuator
+	Cruise Control Active
+	Dashboard Menu Changing
+	Dashboard Menu Scrolling Down
+	Dashboard Menu Scrolling Left
+	Dashboard Menu Scrolling Right
+	Dashboard Menu Scrolling Up
+	Dashboard Speed Bar Green
+	Dashboard Speed Bar Grey
+	Driver Door Closed
+	Dsc On
+	Dsc On Auto Terrain Response Selected
+	Dsc Trac
+	Engine Acceleration
+	Engine Speed
+	Engine Speed Loss
+	Engine Torque Net
+	Engine Torque Reference
+	Gear Current
+	Gear Requested
+	Hdc Fault
+	Hdc Not Available System Fault
+	Hdc Off
+	Hdc On
+	Hdc Service Required
+	Hill Descent Button Not Pressed Alt
+	Hill Descent Button Pressed Alt
+	Hood Closed
+	Lane Detection Left
+	Lane Detection Right
+	Lane Detection System On
+	Lane Keep Assist Button Pressed
+	Left Side Gap Button Pressed
+	Lights High Beam On
+	Lights Low Beam On
+	Lights Turn Left On
+	Lights Turn Right On
+	Low Range Request Switch Pressed Alt
+	Lower Ride Height Switch Pressed Alt
+	Minus Button Pressed
+	Odometer
+	Parking Brake Button State
+	Parking Brake Fault Tell Tale Yellow On
+	Parking Brake Prompt Automatic Application Not Available
+	Parking Brake Prompt Requires Calibration
+	Parking Brake Status
+	Parking Brake Tell Tale Flashing
+	Parking Brake Tell Tale Off
+	Parking Brake Warning Cannot Apply Park Brake
+	Parking Brake Warning Caution Parking Brake Applied Cruise Control Not Available
+	Passenger Door Closed
+	Pedal Accelerator Position
+	Pitch Angle
+	Power Mode
+	Prndl Status
+	Raise Ride Height Switch Pressed Alt
+	Rear Left Door Closed
+	Rear Passenger Door Closed
+	Resume Button Pressed
+	Right Side Gap Button Pressed
+	Seatbelt Front Left Fastened
+	Seatbelt Front Right Fastened
+	Set Button Pressed
+	Set Speed Limit Or Cruise Control Set Speed
+	Settings Driver Assistance Avoidance Emergency Brake Off
+	Settings Driver Assistance Blind Spot Monitor Off
+	Settings Driver Assistance Blind Spot Monitor On
+	Settings Driver Assistance Cross Traffic Detection Reverse Off
+	Settings Driver Assistance Cross Traffic Detection Reverse On
+	Speed Limiter Button Pressed Alt
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Maximum Angle Reached
+	Tell Tale Hill Descent Flashing
+	Tell Tale Hill Descent On
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Tire Pressure Recommended Displayed
+	Tire Pressure Recommended Front
+	Tire Pressure Recommended Rear
+	Tpms Prompt Check All Tire Pressures
+	Tpms Prompt Check Spare Tire Pressure
+	Tpms Prompt Front Left Low Check All Tire Pressures
+	Tpms Prompt Front Left Tire Pressure Not Monitored
+	Tpms Prompt Front Right Low Check All Tire Pressures
+	Tpms Prompt Front Right Tire Pressure Not Monitored
+	Tpms Prompt Rear Left Low Check All Tire Pressures
+	Tpms Prompt Rear Left Tire Pressure Not Monitored
+	Tpms Prompt Rear Right Low Check All Tire Pressures
+	Tpms Prompt Rear Right Tire Pressure Not Monitored
+	Tpms Prompt Tire Pressure Monitoring Not Available
+	Tpms Prompt Tire Pressure Monitoring System Fault
+	Tpms Set For Heavy Load
+	Tpms Set For Light Load
+	Tpms Tell Tale On
+	Traction Control Button Not Pressed Alt
+	Traction Control Button Pressed Alt
+	Traction Control Not Sensing Slipping
+	Traction Control Off Tell Tale On
+	Traction Control Tell Tale Flashing
+	Traction Control Tell Tale On
+	Transmission Shaft Input
+	Transmission Shaft Output
+	Trunk Closed
+	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Warning Brakes Overheating
+	Warning Steering Vibration Activated Drive With Care
+	Wiper Front Single Swipe
+	Wiper Front Speed
+	Wiper Rear Int
+	Wiper Rear On
+	Yaw Rate S1
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acceleration Lateral S2
+	Adas Speed Limiter Active
+	Adas Speed Limiter And Cruise Control Speed Set
+	Adas Speed Limiter Status
+	Adas Status
+	Clock Date Day
+	Clock Date Month
+	Clock Date Year
+	Clock Time Hour
+	Clock Time Minutes
+	Clock Time Seconds
+	Coolant Temperature
+	Fuel Range
+	Fuel Rate
+	Fuel Tank
+	Gear Manual S1
+	Gear Manual S2
+	Gear Manual S3
+	Gear Manual S4
+	Gear Manual S5
+	Gear Manual S6
+	Gear Manual S7
+	Gear Not Engaged
+	Global Real Time
+	Hvac Ac On
+	Hvac Blower Speed Output
+	Hvac Defroster Front Command
+	Hvac Defroster Front Off
+	Hvac Defroster Front On
+	Hvac Defroster Rear Command
+	Hvac Defroster Rear On
+	Hvac Defroster Rear Relay Active
+	Hvac Left Side Air Direction Down
+	Hvac Left Side Air Direction Front
+	Hvac Left Side Air Direction Up
+	Hvac Left Side Blower Speed
+	Hvac Left Side Mode Auto
+	Hvac Left Side Temperature Set
+	Hvac Max Ac Mode Off
+	Hvac Max Defroster Mode Off
+	Hvac Max Defroster Mode On
+	Hvac Recirculation On
+	Hvac Right Side Air Direction Down
+	Hvac Right Side Air Direction Front
+	Hvac Right Side Air Direction Up
+	Hvac Right Side Blower Speed
+	Hvac Right Side Mode Auto
+	Hvac Right Side Temperature Set
+	Hvac System Active
+	Light Auto Delay Status
+	Lights Brake Command
+	Lights Fog Rear On
+	Lights High Beam On
+	Lights Low Beam On
+	Lights Side On
+	Odometer
+	Oil Life Remaining
+	Oil Temperature
+	Parking Brake Changing Status
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Pedal Brake Pressed
+	Prnds Changing To P
+	Prnds Position D
+	Prnds Position N
+	Prnds Position P
+	Prnds Position R
+	Prnds Position S
+	Prompt Dipped Beam Fault
+	Prompt Factory Mode
+	Prompt Press Brake And Start Stop
+	Prompt Press Brake When Starting
+	Prompt Select Neutral When Starting
+	Prompt Sos System Limited Functionality
+	Prompt Sos System Not Available
+	Prompt Start Stop Switch Fault
+	Prompt Steering Column Locked Rotate Steering Wheel
+	Prompt Valet Mode
+	Prompt Washer Fluid Low
+	Seat Heater Front Left Active
+	Seat Heater Front Right Active
+	Seat Heater Left Status
+	Seat Heater Rear Left Active
+	Seat Heater Rear Left Status
+	Seat Heater Rear Right Active
+	Seat Heater Rear Right Status
+	Seat Heater Right Status
+	Seatbelt Front Left Fastened
+	Seatbelt Front Right Fastened
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Right Fastened
+	Settings Vehicle 2 Stage Unlocking On
+	Settings Vehicle Alarm Sensor Off
+	Settings Vehicle Alarm Sensor Off
+	Settings Vehicle Audible Lock Warning On
+	Settings Vehicle Drive Away Locking
+	Start Stop Button Pressed
+	Steering Column Adjust Auto Off
+	Temperature Outside Displayed
+	Temperature Outside On
+	Terrain Mode Changing
+	Terrain Mode Not Changing
+	Terrain Program Selected
+	Warning Engine Stop Button Pressed
+	Warning Ignition On
+	Warning Steering Column Locked
+	Warning Transmission Not In Park
+	Warning Vehicle Is Immobilized
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Yaw Rate S2
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Battery Voltage
+	Car Ecu Run Time
+	Car Locked
+	Cruise Control Cancel Button Not Pressed
+	Cruise Control Cancel Button Pressed
+	Cruise Control Decrease Button Not Pressed
+	Cruise Control Decrease Button Pressed
+	Cruise Control Increase Button Not Pressed
+	Cruise Control Increase Button Pressed
+	Cruise Control Resume Button Not Pressed
+	Cruise Control Resume Button Pressed
+	Door Front Left Closed
+	Door Front Left Closing
+	Door Front Left Lock Button Pressed
+	Door Front Left Open
+	Door Front Left Unlock Button Pressed
+	Door Front Right Closed
+	Door Front Right Closing
+	Door Front Right Lock Button Pressed
+	Door Front Right Locked
+	Door Front Right Open
+	Door Rear Left Child Lock Active
+	Door Rear Left Closed
+	Door Rear Left Lock Button Pressed
+	Door Rear Left Lock Relay Active
+	Door Rear Left Locked
+	Door Rear Left Unlock Button Pressed
+	Door Rear Left Unlock Relay Active
+	Door Rear Right Child Lock Active
+	Door Rear Right Closed
+	Door Rear Right Lock Button Pressed
+	Door Rear Right Lock Relay Active
+	Door Rear Right Locked
+	Door Rear Right Unlock Button Pressed
+	Door Rear Right Unlock Relay Active
+	Door Trunk Closed
+	Engine Cranking
+	Engine Running
+	Headlight Status
+	Illumination Level Door Front Left Buttons
+	Illumination Level Interior
+	Keyfob Last Command Sent
+	Lamp Last Command Sent
+	Lamp Turn Left On
+	Lamp Turn Right On
+	Lights Fog Rear On
+	Memory Button Front Left 1 Pressed
+	Memory Button Front Left 2 Pressed
+	Memory Button Front Left 3 Pressed
+	Memory Button Front Left M Pressed
+	Memory Button Front Right 1 Pressed
+	Memory Button Front Right 2 Pressed
+	Memory Button Front Right 3 Pressed
+	Memory Front Left Record Active
+	Memory Front Right N Button Pressed
+	Memory Front Right Record Active
+	Mirror Right Movement Direction
+	Mirror Right Moving
+	Park Aid Active
+	Power Mode Accessory On
+	Power Mode Ignition On
+	Prompt Smart Key Not Recognized
+	Seatbelt Front Left Fastened
+	Seatbelt Front Right Fastened
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Right Fastened
+	Steering Column Moving
+	Warning Smart Key Deactivated Unable To Start Engine
+	Warning Smart Key No Longer Within Vehicle
+	Window And Child Locks Active
+	Window Front Left Status
+	Window Front Right Status
+	Window Rear Left Status
+	Window Rear Right Status
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Fault
+	Abs In Action
+	Acceleration Lateral S1
+	Acceleration Longitudinal
+	Acceleration Longitudinal Low Resolution
+	Aeb Enabled
+	Airbag Passenger Off
+	Airbag Passenger On
+	Airbag Tell Tale Flashing
+	Airbag Tell Tale On
+	Aspc Button Not Pressed
+	Aspc Button Pressed
+	Auto Stop Start Button Pressed
+	Brake Pressure Pad Front Left
+	Brake Pressure Pad Front Right
+	Brake Pressure Pad Rear Left
+	Brake Pressure Pad Rear Right
+	Brake System Service Required
+	Brake System Tell Tale Orange
+	Brake System Tell Tale Red
+	Brake System Warning Fault
+	Brake System Warning Not Available
+	Chime Door Open Engine On
+	Chime Seatbelt Unfastened
+	Dashboard Menu Changing
+	Dashboard Menu Scrolling Down
+	Dashboard Menu Scrolling Left
+	Dashboard Menu Scrolling Right
+	Dashboard Menu Scrolling Up
+	Dashboard Speed Bar Green
+	Dashboard Speed Bar Grey
+	Dsc On
+	Dsc On Auto Terrain Response Selected
+	Dsc Trac
+	Engine Acceleration
+	Engine Speed
+	Engine Speed Loss
+	Engine Torque Net
+	Engine Torque Reference
+	Gear Commanded
+	Gear Engaged
+	Hdc Fault
+	Hdc Not Available System Fault
+	Hdc Off
+	Hdc On
+	Hdc Service Required
+	Hill Descent Button Not Pressed
+	Hill Descent Button Pressed
+	Lane Keep Assist Button Pressed
+	Lights High Beam On
+	Lights Low Beam On
+	Lights Turn Left On
+	Lights Turn Right On
+	Parking Brake Button State
+	Parking Brake Fault Tell Tale Yellow On
+	Parking Brake Prompt Automatic Application Not Available
+	Parking Brake Prompt Requires Calibration
+	Parking Brake Status
+	Parking Brake Tell Tale Flashing
+	Parking Brake Tell Tale Off
+	Parking Brake Warning Cannot Apply Park Brake
+	Parking Brake Warning Caution Parking Brake Applied Cruise Control Not Available
+	Pedal Accelerator Position
+	Pitch Angle
+	Prndl Status
+	Seatbelt Front Left Fastened
+	Seatbelt Front Right Fastened
+	Settings Driver Assistance Avoidance Emergency Brake Off
+	Settings Driver Assistance Blind Spot Monitor Off
+	Settings Driver Assistance Blind Spot Monitor On
+	Settings Driver Assistance Cross Traffic Detection Reverse Off
+	Settings Driver Assistance Cross Traffic Detection Reverse On
+	Speed Limiter Button Pressed
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Maximum Angle Reached
+	Tell Tale Hill Descent Flashing
+	Tell Tale Hill Descent On
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Tire Pressure Recommended Displayed
+	Tire Pressure Recommended Front
+	Tire Pressure Recommended Rear
+	Tpms Prompt Check All Tire Pressures
+	Tpms Prompt Check Spare Tire Pressure
+	Tpms Prompt Front Left Low Check All Tire Pressures
+	Tpms Prompt Front Left Tire Pressure Not Monitored
+	Tpms Prompt Front Right Low Check All Tire Pressures
+	Tpms Prompt Front Right Tire Pressure Not Monitored
+	Tpms Prompt Rear Left Low Check All Tire Pressures
+	Tpms Prompt Rear Left Tire Pressure Not Monitored
+	Tpms Prompt Rear Right Low Check All Tire Pressures
+	Tpms Prompt Rear Right Tire Pressure Not Monitored
+	Tpms Prompt Tire Pressure Monitoring Not Available
+	Tpms Prompt Tire Pressure Monitoring System Fault
+	Tpms Set For Heavy Load
+	Tpms Set For Light Load
+	Tpms Tell Tale On
+	Traction Control Button Not Pressed
+	Traction Control Button Pressed
+	Traction Control Off Tell Tale On
+	Traction Control Tell Tale Flashing
+	Traction Control Tell Tale On
+	Transmission Shaft Input
+	Transmission Shaft Output
+	Vehicle Speed
+	Warning Brakes Overheating
+	Warning Steering Vibration Activated Drive With Care
+	Wiper Front Single Swipe
+	Wiper Front Speed
+	Wiper Rear Int
+	Wiper Rear On
+	Yaw Rate S1
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Brake Not Pressed
+	Brake Pressed
+	Transmission Input Speed
+	Transmission Output Speed
+	Transmission Overheating Dash Prompt
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ac Active
+	Accelerator Pedal Position
+	Accelerator Pedal Pressed
+	Auto Light Delay Off
+	Auto Light Delay Time
+	Auto Stop Start Not Available Dash Prompt
+	Auto Tell Tale Active
+	Blower Position Button Pressed
+	Brake Fluid Not Low Active
+	Brake Pads Worn Dash Prompt
+	Cd Eject Button
+	Charging System Is Operating Normally
+	Check Fuel Tank Cap Dash Prompt
+	Column Auto Adjust Not Active
+	Coolant Level Low Dash Prompt
+	Cruise Control Active
+	Cruise Control Canceled Dash Prompt
+	Current Engine Operational Time
+	Date Format Set To Mm Dd Yyyy Instead Of Dd Mm Yyyy
+	Days On Instrument Cluster
+	Diesel Exhaust Fluid Low Range X Km Refill X Liters Dash Prompt
+	Dipped Beam Fault Dash Prompt 1
+	Dipped Beam Fault Dash Prompt 1
+	Dipped Beam Fault Dash Prompt 2
+	Dipped Beam Fault Dash Prompt 2
+	Display Changing To Blower Position Seat
+	Display Changing To Heated Seat
+	Display Engine Coolant Temperature
+	Drive Active
+	Drive Mode
+	Driver Seat Buckled
+	Driver Seat Moving
+	Driver Side Heated Seat Active
+	Driver Side Heated Seat Level
+	Driver Side Hvac Temperature
+	Engine Oil Level Critically Low Dash Prompt
+	Engine Oil Level Low Add 1 L Dash Prompt
+	Engine Speed
+	Engine System Fault Dash Prompt
+	Factory Mode Dash Prompt
+	Fog Light Tell Tale Active
+	Fog Light Tell Tale Active
+	Front Vent Blower Position Active
+	Front Windshield Electric Defrost Active
+	Gear 1
+	Gear 2
+	Gear 3
+	Gear 4
+	Gear 5
+	Gear 6
+	Gear 7
+	Glow Plug Tell Tale Active
+	Green Cruise Control Tell Tale Active
+	Heated Seat Button Pressed
+	High Beam Tell Tale Active
+	Hours On Instrument Cluster
+	Hvac Fan Off
+	Hvac Fan Speed
+	Hvac Recirculation Active
+	Ice Tell Tale Active
+	Incorrect Diesel Exhaust Fluid Quality Detected Dash Prompt
+	Infotainment Display Setting Theme Set To Light
+	Kick Down Switch Active
+	Low Friction Launch Off
+	Lower Vent Blower Position Active
+	Max Ac Active
+	Minutes On Instrument Cluster
+	Month On Instrument Cluster
+	Near Maximum Tow Assist Speed Dash Prompt
+	Neutral Active
+	No Engine Restarts Possible In X Km Dash Prompt
+	Odometer
+	Park Active
+	Parking Brake Engaged
+	Parking Brake Engaging Or Disengaging
+	Passenger Heated Seat Active
+	Passenger Heated Seat Level
+	Passenger Seat Buckled
+	Passenger Side Hvac Temperature
+	Passenger Window Status
+	Please Wait Cold Start In Progress
+	Power Mode
+	Press Brake When Starting Dash Prompt
+	Range
+	Rear Camera Angle Changing
+	Rear Child Lock Off
+	Rear Child Lock On
+	Rear Driver Side Seat Buckled
+	Rear Middle Seat Buckled
+	Rear Passenger Seat Buckled
+	Rear Windshield Electric Defrost Active
+	Refill Def Liters Refill X Liters
+	Reverse Active
+	Running Lights Tell Tale Active
+	Seconds On Instrument Cluster
+	Select Neutral When Starting Dash Prompt
+	Shift Up Tell Tale
+	Smart Key Deactivated Unable To Start Engine Dash Prompt
+	Snow Drive Mode Icon Active
+	Sos System Limited Functionality Dash Prompt
+	Sos System Not Available Dash Prompt
+	Speed Limiter Set To Or Cruise Control Set Speed Set To
+	Speed Limiter Tell Tale With Info Icon Active
+	Speed Limtier Active
+	Sport Active
+	Sync Active
+	System Setting Convenience Features Auto High Beam Setting Changing
+	System Setting Convenience Features Auto High Beam Setting On
+	System Setting Convenience Features Window Global Close On
+	System Setting Convenience Features Window Global Close Setting Changing
+	System Setting Convenience Features Window Global Open On
+	System Setting Convenience Features Window Global Open Setting Changing
+	System Setting Drive Away Locking Speed Setting
+	System Setting Gear Shift Paddles Active In Sport Only
+	System Setting Gear Shift Paddles Setting Changing
+	System Setting Headlight Delay Setting Time
+	System Setting Security Features 2 Stage Unlocking Active
+	System Setting Security Features Audible Lock Warning Active
+	System Setting Wiper Setting Auto Wiper On
+	System Setting Wiper Setting Auto Wiper Setting Changing
+	The Km Value In The No Engine Restart Or Diesel Exhaust Fluid Low Range
+	Time Set To 12Hr Format
+	Tire Pressure Unit Setting
+	Too Fast To Resume Dash Prompt
+	Tow Assist Canceled Maximum Speed Exceeded Dash Prompt
+	Trailer Jackknifed Tow Assist Canceled Drive Forward Ds With Car Dash Prompt
+	Transmission Fault Dash Prompt
+	Transmission Not In Park Dash Prompt
+	Transmission Overheating Dash Prompt
+	Turning Volume Knob To The Right
+	Units Set To Imperial
+	Upper Vent Blower Position Active
+	Valet Mode Dash Prompt
+	Volume Changing
+	Volume Knob Pressed
+	Wake On Test Active
+	Washer Fluid Low Dash Prompt
+	Water In Fuel See Handbook Dash Prompt
+	Year On Instrument Cluster
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Auto Start Stop System Off
+	Auto Start Stop System On
+	Car Ecu Run Time
+	Curies Control Cancel Button Not Pressed
+	Curies Control Cancel Button Pressed
+	Curies Control Negative Button Not Pressed
+	Curies Control Negative Button Pressed
+	Curies Control Pulse Button Not Pressed
+	Curies Control Pulse Button Pressed
+	Curies Control Reset Button Not Pressed
+	Curies Control Reset Button Pressed
+	Day
+	Down Paddle Shifter Pressed
+	Driver Memory 1 Button Pressed
+	Driver Memory 2 Button Pressed
+	Driver Memory 3 Button Pressed
+	Driver Memory M Button Pressed
+	Driver Memory Record Active
+	Driver Seat Buttons Pushed
+	Driver Seat Moving
+	Driver Window Status
+	Front Left Driver Door Closed
+	Hood Closed
+	Hours
+	Instrument Cluster Brightness Level
+	Key Fob Rolling Code
+	Last Pressed Key Fob Button
+	Left Stock Forward D Back Position
+	Lock Button Driver Side Pressed
+	Minutes
+	Month
+	No New Command From Key Fob
+	Passenger Door Closed
+	Passenger Door Lock Button Pressed
+	Passenger Door Locked
+	Passenger Memory 1 Button Pressed
+	Passenger Memory 2 Button Pressed
+	Passenger Memory 3 Button Pressed
+	Passenger Memory Active
+	Passenger Memory N Button Pressed
+	Passenger Window Status
+	Rear Driver Door Closed
+	Rear Left Child Lock Active
+	Rear Left Door Lock Button Pushed
+	Rear Left Door Locked
+	Rear Left Window Status
+	Rear Passenger Door Closed
+	Rear Right Child Lock Active
+	Rear Right Door Lock Button Pushed
+	Rear Right Door Locked
+	Rear Right Window Status
+	Right Mirror Movement Direction
+	Right Mirror Moving
+	Right Stock Pulled In
+	Seconds
+	Smart Key Deactivated Unable To Start Engine Dash Prompt
+	Smart Key No Longer Within Vehicle Dash Prompt
+	Smart Key Not Recognized Reposition Or Place As Shown And Press Start Button Dash Prompt
+	Steering Wheel Moving
+	System Setting Reverse Dip Mirror On
+	Trunk Closed
+	Trunk Unlatching
+	Unlock Button Driver Side Pressed
+	Up Paddle Shifter Pressed
+	Window And Child Locks Active
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Adaptive Dynamics Fault Dash Prompt Active
+	Aspc Button Not Pressed
+	Aspc Button Pressed
+	Auto Park Active
+	Auto Park Button Pressed
+	Auto Start Stop Button Pressed
+	Back Left Tire Not Monitored Dash Prompt
+	Back Right Tire Not Monitored Dash Prompt
+	Blink Signal Active
+	Brake Light Auto
+	Brake Pedal Feel Reduced Dash Prompt
+	Brake Performance Reduced Dash Prompt
+	Cannot Apply Parking Brake Dash Prompt Message
+	Caution Parking Brake Applied Cruise Control Not Available Dash Prompt
+	Check All Tire Pressure Back Right Low Dash Prompt
+	Check All Tire Pressures Back Left Low Dash Prompt
+	Check All Tire Pressures Dash Prompt
+	Check All Tire Pressures Front Left Low Dash Prompt
+	Check All Tire Pressures Front Right Low Dash Prompt
+	Check Spare Tire Pressure Dash Prompt
+	Display Recommended Tire Pressure Active
+	Engine Coolant Temperature
+	Fixed High Beam Active
+	Front Left Tire Not Monitored Dash Prompt
+	Front Left Tire Pressure
+	Front Right Tire Not Monitored Dash Prompt
+	Front Right Tire Pressure
+	Front Tire Pressure Recommended
+	Head Light Switch Position
+	High Beam Active
+	Lane Detection Left
+	Lane Detection Right
+	Lane Detection System On
+	Lane Keep Assist Button Pressed
+	Lane Keep Assist System Changing State
+	Left Arrow Button To Change Drive Mode
+	Left Blink Active
+	Left Turn Position Active
+	Lka Setting Steering Assist Active When Not Active It Is Set To Vibrate
+	Parallel Park Select R And Wait Dash Prompt
+	Park Assist Active
+	Parking Brake Automatic Application Not Available Dash Prompt
+	Parking Brake Button State
+	Parking Brake Requires Calibration Dash Prompt
+	Parking Brake Tell Tale Blinking
+	Parking Brake Tell Tale Not Active
+	Perpendicular Park Select R And Wait Dash Prompt
+	Prndl
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+	Rear Tire Pressure Recommended
+	Right Arrow Button To Change Drive Mode
+	Right Blink Active
+	Right Turn Position Active
+	Speed Limiter Active
+	Speed Limiter On Standby
+	Steering Torque
+	Steering Wheel Angle
+	Steering Wheel Rate Of Change
+	Suspension Fault Dash Prompt
+	System Setting Auto High Beam Sensitivity Change
+	System Setting Auto High Beam Sensitivity Test Mode On
+	System Setting Auto High Beam Setting Drive On Right Side On
+	System Setting Auto High Beam Setting Drive Side Change
+	System Setting Blind Spot Monitor System Off
+	System Setting Blind Spot Monitor System On
+	System Setting Collision Avoidance Aeb System Off
+	System Setting Cross Traffic Detection Reverse Off
+	System Setting Cross Traffic Detection Reverse On
+	System Setting Driver Condition Monitor System On
+	System Setting Driver Condition Monitor System Setting Changed
+	System Setting Information Tpm Load Settings Changing
+	System Setting Information Tpm Load Settings Set To Light Load
+	System Setting Information Tpm Load Settings Set To Normal Load
+	Tire Pressure Monitoring Not Available Dash Prompt
+	Tire Pressure Monitoring Set For Light Load
+	Tire Pressure Monitoring Set For Normal Load
+	Tire Pressure Monitoring System Fault Dash Prompt
+	Tire Pressure Tell Tale Active
+	Torque Applied High
+	Traction Control Button Not Pressed
+	Traction Control Button Pressed
+	Traction Control Not Sensing Slipping
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wipers Active
+	Wipers On High
+	Yellow Brake Tell Tale Active

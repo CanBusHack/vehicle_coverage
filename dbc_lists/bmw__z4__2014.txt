@@ -1,0 +1,537 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Bmw 'Z4' (2014)
+Signals:
+	Adas Cruise Control On Off Button Pressed
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
+	Adas Stalk Cruise Control Position Down
+	Adas Stalk Cruise Control Position Up
+	Battery Voltage
+	Door Hood Open
+	Door Trunk Open
+	Gearbox Shifter Lockout
+	Gearbox Shifter Park Button Left Switch
+	Gearbox Shifter Park Button Right Switch
+	Gearbox Shifter Position
+	Gearbox Shifter Unlock Button Pressed
+	Key Position Ignition
+	Lights Hazards Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Odometer
+	Power Mode Change Request
+	Power Mode Ignition Active
+	Power Mode Initiate Start
+	Power Mode Recently Changed
+	Power Mode Start Button Pressed
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Single Wipe Active
+	Wiper Front Speed 2
+	Wiper Front Speed 3
+	Wiper Front Speed 4
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acceleration Lateral
+	Acceleration Lateral
+	Acceleration Latitude
+	Adad Stalk Cruise Control Position
+	Adas Adaptive Cruise Control Follow Distance
+	Adas Cruise Control Active
+	Adas Cruise Control Shaft Position State Change
+	Adas Cruise Control Speed Change Request
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
+	Adas Cruise Control Speed Set
+	Ambient Air Temperature
+	Baro Challenge
+	Battery Voltage
+	Brake Active
+	Brake Emergency Active
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Pressure Wheel Rear Left
+	Brake Pressure Wheel Rear Right
+	Coolant Temperature
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Open
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driving Mode Eco Active
+	Engine Oil Level
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed
+	Engine Speed Alt
+	Engine Torque
+	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off
+	Esp Traction Control On
+	Fuel Level In Liters
+	Fuel Range
+	Gearbox Shift In Progress
+	Gearbox Shifter Knob Between States
+	Gearbox Shifter Knob Unlock Button Pressed
+	Gearbox Shifter Knob Unlock Button Released
+	Gearbox Shifter Position
+	Gesture Count
+	Gesture Input
+	Hill Hold Active
+	Hvac System Active
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Lighting Interior Dome Active
+	Lighting Interior Rear Dome Active
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Parking Active
+	Lights Rear Fog Active
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Pedal Accelerator Position
+	Pedal Accelerator Position Kickdown
+	Pedal Accelerator Pressed
+	Pedal Brake Position
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Power Mode Acc
+	Power Mode Change Request
+	Power Mode Crank Active
+	Power Mode Key In
+	Power Mode Key Out
+	Power Mode Recently Changed
+	Power Mode Run
+	Power Mode Start Button Pressed
+	Prndl And Gear
+	Seat Heater Passenger Level
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Target Idle Speed
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Torque Dynamic Cruise Control Demand
+	Torque Max Available
+	Torque Minimum Available
+	Torque Spark Negative Available
+	Torque Spark Positive Available
+	Traction Control Off Button State Pressed
+	Transmission Temperature
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Moving
+	Vehicle Speed
+	Vin Part 3
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Rear Right Fully Open
+	Window Rear Right Locked
+	Window Rear Right Partially Open
+	Window Rear Right Position
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+	Yaw Rate
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	A B S Active
+	Acc Pedal Position
+	Acc Pedal Pressed
+	Adaptive Cruise Follow Distan
+	Auto Start Stop Button State
+	Auto Start Stop Malfunction
+	Auto Start Stop State Active
+	Average Fuel Consumption Rate
+	Average Fuel Consumption Unit
+	Average Speed
+	Baro Challenge
+	Battery Voltage
+	Brake Active
+	Brake Lights Active
+	Brake Pedal Position
+	Brake Pressed
+	Brake Switch Pressed
+	Car Moving
+	Cruise Control Active
+	Cruise Control Set Speed
+	Cruise Control Shaft Position
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Cruise Speed Change Request
+	Current Date Day
+	Current Date Day
+	Current Date Month
+	Current Date Month
+	Current Date Year
+	Current Date Year
+	Current Time Hours
+	Current Time Hours
+	Current Time Minutes
+	Current Time Minutes
+	Current Time Seconds
+	Dash Brightness Value
+	Displayed Engine Speed
+	Distance Units Kilometers 0000
+	Distance Units Kilometers Sel
+	Distance Units Miles Selected
+	Distance Units Miles Selected
+	Dome Light Button State Pres
+	Drive Seat Warmer Button Pre
+	Driver Climate Control Temp
+	Driver Door Ajar
+	Driver Or Passenger Light Act
+	Driver Seat Adjust Back 0000
+	Driver Seat Adjust Back Rest
+	Driver Seat Adjust Backwards
+	Driver Seat Adjust Down
+	Driver Seat Adjust Forward D
+	Driver Seat Adjust Tilt Back
+	Driver Seat Adjust Tilt Forw
+	Driver Seat Adjust Up
+	Driver Seat Belt Buckled
+	Driver Seat Warmer Level
+	Driver Side Driver Window Co
+	Driver Side Passenger Window
+	Driver Side Rear Driver Wind
+	Driver Side Rear Passenger W
+	Driver Window In Motion Down
+	Driver Window In Motion Up
+	Driver Window Position
+	Eco Pro Mode
+	Emergency Brake Active
+	Emergency Brake Tell Tale
+	Engine Speed
+	Engine Torque
+	Engine Torque Request
+	Fan Blower Level
+	Fog Light Button Not Pressed
+	Fog Light Button Pressed
+	Fog Lights Active
+	Front Right Window Fully Ope
+	Front Right Window In Mo 0000
+	Front Right Window In Motion
+	Front Right Window Partially
+	Front Right Window Percent O
+	Front Right Window Safety Re
+	Fuel Level Sensor 1
+	Fuel Level Sensor 2
+	Hatch Button Pressed
+	Hatch Latch Closed
+	Hazards Active
+	High Beams Active
+	Hill Decent Control Active
+	Hill Hold State Active
+	Hvac A C Active
+	Hvac Auto Active
+	Hvac Front Defrost Active
+	Hvac Lower Blower Percenta
+	Hvac Mid Blower Percentage
+	Hvac Recirculation Auto
+	Hvac Recirculation Manual
+	Hvac Upper Blower Percenta
+	Infotainment Brightness
+	Interior Dome Light Active
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Kickdown Button Pressed
+	Language Selected
+	Light Stock Bc Button State
+	Light Stock Position High Beam Momentary State
+	Light Stock Position High Beam State
+	Light Stock Position Lane Chang Left Signal State
+	Light Stock Position Lane Chang Right Signal State
+	Light Stock Position Left Turn Signal State
+	Light Stock Position Right Turn Signal State
+	Lock And Window Request
+	Lock Unlock Button Malfunctio
+	Low Beams Active
+	Object Obstructing Driver Win
+	Passenger Belt Buckled
+	Passenger Climate Control Temp
+	Passenger Door Ajar
+	Passenger Seat Heater Level
+	Passenger Seat Warmer Button
+	Rear Fog Lights Active
+	Rear Interior Dome Light Act
+	Rear Left Door Ajar
+	Rear Left Window Fully Open
+	Rear Left Window Locked
+	Rear Left Window Partially O
+	Rear Left Window Percent Ope
+	Rear Right Door Ajar
+	Rear Right Window Fully Open
+	Rear Right Window Locked
+	Rear Right Window Partially
+	Rear Right Window Percent Op
+	Seat Position Memory Button
+	Seat Position Memory Recall
+	Seat Position Memory States
+	Sidelights Active
+	Steering Angle
+	Steering Speed
+	Sun Roof Fully Open
+	Sun Roof In Motion
+	Sun Roof Interior Cover Full
+	Sun Roof Interior Cover Part
+	Sun Roof Partially Open
+	Sun Roof Position Contro 0000
+	Sun Roof Position Contro 0001
+	Sun Roof Position Control St
+	Sun Sensor
+	Temp Units Selected Celsius
+	Temp Units Selected Fahrenhei
+	Time Format Selected 12H
+	Time Format Selected 24H
+	Tpms Front Left Tire Pres
+	Tpms Front Right Tire Pre
+	Tpms Rear Left Tire Press
+	Tpms Rear Right Tire Pres
+	Traction Control Active
+	Traction Control State Off
+	Vehicle Speed
+	Water Temperature
+	Window Lock Button Pressed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Current Gear
+	Displayed Gear
+	Eco Mode Active
+	Engine Speed
+	Fog Lights Active
+	Front Windshield Wipers Front
+	High Beams Active
+	Hvac System Active
+	Interior Dome Light Active
+	Lateral Acceleration
+	Low Beams Active
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Parking Lights Active
+	Shift In Progress
+	Shifter Knob Between States
+	Shifter Knob Unlock Button N
+	Shifter Knob Unlock Button P
+	Shifter Position
+	Vehicle Speed
+	Windshield Wiper Front Fine
+	Windshield Wiper Front Moment
+	Windshield Wiper Front Spray
+	Windshield Wiper Rear Active
+	Windshield Wiper Rear Spray
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Adas Adaptive Cruise Control Follow Distance
+	Adas Cruise Control Active
+	Adas Cruise Control Shaft Position State Change
+	Adas Cruise Control Speed Change Request
+	Adas Cruise Control Speed Set
+	Average Speed
+	Baro Challenge
+	Battery Voltage
+	Brake Active
+	Brake Emergency Active
+	Brake Emergency Tell Tale On
+	Central Lock Button Malfunction
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Dashboard Brightness Value
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Ddp Window Front Driver Switch
+	Ddp Window Front Passenger Switch
+	Ddp Window Rear Left Switch
+	Ddp Window Rear Right Switch
+	Display Infotainment Brightness
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Rear Driver Open
+	Door Rear Right Open
+	Door Trunk Button Pressed
+	Door Trunk Latch Closed
+	Driving Mode Eco Pro Active
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Speed Displayed
+	Engine Torque
+	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off
+	Esp Traction Control On
+	Fuel Consumption Average
+	Fuel Level Sensor1
+	Fuel Level Sensor2
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Headlights Sidelights Active
+	Hill Decent Control Active
+	Hill Hold Active
+	Hvac Ac Active
+	Hvac Auto Active
+	Hvac Blower Level
+	Hvac Blower Lower Percentage
+	Hvac Blower Mid Percentage
+	Hvac Blower Upper Percentage
+	Hvac Climate Control Driver Temperature
+	Hvac Climate Control Passenger Temperature
+	Hvac Defrost Front Active
+	Hvac Recirculation Auto
+	Hvac Recirculation Manual
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Language Selected
+	Light Driver Or Passenger Active
+	Lighting Interior Dome Active
+	Lighting Interior Dome Button Pressed
+	Lighting Interior Rear Dome Active
+	Lights Brake Active
+	Lights Fog Active
+	Lights Fog Button Pressed
+	Lights Fog Button Released
+	Lights Fog Rear Active
+	Lights Hazards Active
+	Pedal Accelerator Position
+	Pedal Accelerator Position Kickdown
+	Pedal Accelerator Pressed
+	Pedal Brake Position
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Seat Driver Adjust Back Rest Back
+	Seat Driver Adjust Back Rest Forward D
+	Seat Driver Adjust Backwards
+	Seat Driver Adjust Down
+	Seat Driver Adjust Forward D
+	Seat Driver Adjust Tilt Backwards
+	Seat Driver Adjust Tilt Forward D
+	Seat Driver Adjust Up
+	Seat Heater Driver Button Pressed
+	Seat Heater Driver Level
+	Seat Heater Passenger Button Pressed
+	Seat Heater Passenger Level
+	Seat Position Memory Button Pressed
+	Seat Position Memory Recall Button 1 Or 2 Pressed
+	Seat Position Memory State
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Stalk Lights Position High Beam Flash Pulled
+	Stalk Lights Position High Beam Pushed
+	Stalk Lights Position Turn Left Full
+	Stalk Lights Position Turn Left Partial
+	Stalk Lights Position Turn Right Full
+	Stalk Lights Position Turn Right Partial
+	Start Stop Button Pressed
+	Start Stop Malfunction Alert
+	Start Stop System Active
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Sun Roof Fully Open
+	Sun Roof In Motion
+	Sun Roof Interior Cover Fully Open
+	Sun Roof Interior Cover Partial Open
+	Sun Roof Partially Open
+	Sun Roof Position Switch Auto
+	Sun Roof Position Switch Close
+	Sun Roof Position Switch Open
+	Sun Sensor
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Time Format Set To 12H
+	Time Format Set To 24H
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Unit Distance Set To Km
+	Unit Distance Set To Miles
+	Unit Fuel Consumption Average
+	Unit Temperature Set To C
+	Unit Temperature Set To F
+	Vehicle Moving
+	Vehicle Speed
+	Window Close And Lock Request
+	Window Front Driver Moving Down
+	Window Front Driver Moving Up
+	Window Front Driver Position
+	Window Front Driver Safety Retraction Active
+	Window Front Passenger Fully Open
+	Window Front Passenger Moving Down
+	Window Front Passenger Moving Up
+	Window Front Passenger Partially Open
+	Window Front Passenger Position
+	Window Front Passenger Safety Retraction Active
+	Window Lock Button Pressed
+	Window Rear Left Fully Open
+	Window Rear Left Locked
+	Window Rear Left Partially Open
+	Window Rear Left Position
+	Window Rear Right Fully Open
+	Window Rear Right Locked
+	Window Rear Right Partially Open
+	Window Rear Right Position

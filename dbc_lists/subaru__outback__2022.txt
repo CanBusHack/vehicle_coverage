@@ -1,0 +1,240 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Subaru 'Outback' (2022)
+Signals:
+	Abs Dash Prompt Active
+	Access Key Battery Low Dash Prompt Active
+	Airbag 2 On Tell Tale Active
+	Airbag Tell Tale Active
+	Auto Hold Brakes Tell Tale Active
+	Auto Start Button Pressed
+	Autostartstop Disabled Dash Prompt Active
+	Avh Tell Tale Active
+	Battery Voltage
+	Brake Lights Active
+	Brake Pedal Pressure
+	Brake Switch Active
+	Brake Switch Active
+	Brake System Brake Dash Prompt Active
+	Car On Engine Not Running
+	Car Out Of Park
+	Dash Illumination
+	Dash Illumination Set To Max
+	Depress The Brake Pedal Dash Prompt Active
+	Engine On Time
+	Es Brake Active
+	Eyesight Assist Monitor Green Indicator Setting On
+	Eyesight Assist Monitor Red Indicator Setting On
+	Eyesight Assist Monitor Yellow Indicator Setting On
+	Fog Lights Active
+	For Safety Auto Restart Disabled Dash Prompt Active
+	Front Left Cylinder Pressure Sensor Output
+	Front Left Door Open
+	Front Left Low Tire Warning
+	Front Left Tire Pressure
+	Front Right Cylinder Pressure Sensor Output
+	Front Right Door Open
+	Front Right Low Tire Warning
+	Front Right Tire Pressure
+	High Beams Active
+	Hill Start Assist System Disabled Dash Prompt Active
+	Hood Open
+	Lateral Acceleration
+	Left Indicator
+	Longitudinal Acceleration
+	Low Beams Active
+	Low Tire Pressure Dash Prompt Active
+	Parking Brake Being Engaged
+	Parking Brake Engaged
+	Parking Brake Lever Not Moved
+	Parking Brake Lever Pushed Down
+	Parking Brake Not Engaged
+	Rear Left Door Open
+	Rear Left Low Tire Warning
+	Rear Left Tire Pressure
+	Rear Right Door Open
+	Rear Right Low Tire Warning
+	Rear Right Tire Pressure
+	Request More Power From The Alternator
+	Right Indicator
+	Running Lights Tell Tale Active
+	Seatbelt Tell Tale Active
+	Steering Angle
+	Tpms Dash Prompt Active
+	Tpms Tell Tale Active
+	Tpms1 Prompt Active
+	Tpms1 Set Prompt Active
+	Traction Control Off Tell Tale Active
+	Traction Control Tell Tale Active
+	Trunk Open
+	Units 0  Metric
+	Vehicle Dynamic Control Dash Prompt Active
+	Vehicle Speed
+	Wipers Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Access Key Battery Low Dash Prompt Active
+	Adas Car Detected Distance Level
+	Adas Cruise Control Acceleration Characteristics
+	Adas Cruise Control On
+	Adas Cruise Control On
+	Adas Cruise Control On Not Ready
+	Adas Cruise Control Set
+	Adas Cruise Control Speed Set Unit Dependent
+	Adas Follow Distance Level
+	Adas Follow Distance No Car Detected
+	Adas Pre Collision Braking Enabled
+	Adas Settings Changing Status
+	Adas Steering Intervention Active
+	Airbag Passenger Active
+	Airbag Passenger Tell Tale Displayed
+	Airbag Prompt Srs Airbag System Displayed
+	Auto Hold Tell Tale Avh Green On
+	Auto Hold Tell Tale Green Flashing
+	Auto Hold Tell Tale Green On
+	Auto Start Stop Disabled
+	Auto Start Stop Enabled
+	Auto Start Stop Prompt Disabled Displayed
+	Auto Start Stop Prompt For Safety Auto Restart Disabled Displayed
+	Battery Tell Tale On
+	Battery Voltage
+	Blind Spot Detection Changing Status
+	Blind Spot Detection Enabled
+	Brake Pads Tell Tale Green On
+	Brake Prompt Brake Vacuum Pump System Displayed
+	Brake Switch Active
+	Brake System Prompt Brake Displayed
+	Brake Tell Tale On
+	Check Engine Prompt Displayed
+	Date Current Day
+	Date Current Month
+	Door Front Driver Open
+	Door Front Driver Unlocked
+	Door Front Passenger Open
+	Door Front Passenger Unlocked
+	Door Power Rear Gate Memory Enabled
+	Door Rear Left Open
+	Door Rear Rear Open
+	Door Trunk Open
+	Doors All Unlocked
+	Drive Lane Selected
+	Drive Lane Setting Changing
+	Engine Coolant Temperature
+	Engine Coolant Temperature High
+	Engine Immobilizer Lamp On
+	Engine Oil Prompt Level Low Displayed
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed Displayed
+	Engine Start Stop Switch Pressed
+	Engine Torque
+	Esp Abs Tell Tale On
+	Esp Brake Active
+	Esp Prompt Abs Displayed
+	Esp Prompt Vehicle Dynamic Control Displayed
+	Esp Traction Control Off Tell Tale On
+	Esp Traction Control On
+	Esp Traction Control Tell Tale On
+	Esp Traction Control Turning Off
+	Esp Traction Control Turning On
+	Eye Sight Assist Monitor Green Indicator Enabled
+	Eye Sight Assist Monitor Red Indicator Enabled
+	Eye Sight Assist Monitor Yellow Indicator Enabled
+	Fuel Level Volume
+	Fuel Rate
+	Gear Engaged Mode Manual
+	Gear Ratio Actual
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Headlights Mode Auto
+	Headlights Side Active
+	Headlights Steering Responsive Off
+	Headlights Steering Responsive On
+	Hill Start Assist Prompt System Disabled Displayed
+	Hood Open
+	Hvac Ac Active
+	Hvac Ac Button Pressed
+	Hvac Air Direction Button Pressed
+	Hvac Auto Button Pressed
+	Hvac Blower Speed Button Down Pressed
+	Hvac Blower Speed Button Up Pressed
+	Hvac Blower Speed Level
+	Hvac Blower Speed Level
+	Hvac Defroster Front Button Pressed
+	Hvac Defroster Rear Button Pressed
+	Hvac Max Ac Button Pressed
+	Hvac On Off Button Pressed
+	Hvac Recirculation Button Pressed
+	Hvac Sync Button Pressed
+	Hvac Temperature Adjust Side Driver Down Pressed
+	Hvac Temperature Adjust Side Driver Up Pressed
+	Hvac Temperature Adjust Side Passenger Down Pressed
+	Hvac Temperature Adjust Side Passenger Up Pressed
+	Intake Manifold Absolute Pressure
+	Keyless Access Prompt System Disabled Displayed
+	Keyless Entry System Audible Signal Enabled
+	Lane Departure Prevention Function Selected
+	Lights Brake Active
+	Lights Fog Front Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Lock System Changing Status
+	Lock System Locking
+	Lock System Unlocking
+	Malfunction Lamp Off
+	Odometer Unit Dependent
+	Parking Brake Button Released
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Not Engaged
+	Parking Brake Prompt Depress Pedal Brake Displayed
+	Pedal Accelerator Position Sensor 1
+	Pedal Accelerator Position Sensor 2
+	Pedal Accelerator Released
+	Pedal Accelerator Switch 1 Inactive
+	Pedal Accelerator Switch 2 Inactive
+	Pedal Brake Pressure
+	Power Mode
+	Prndl Out Of Park
+	Prndl Position
+	Prndl Position P Or N
+	Seat Front Driver Heated Level
+	Seat Front Passenger Heated Level
+	Seat Heated Driver Button Pressed
+	Seat Heated Passenger Button Pressed
+	Settings Unit Distance Mi
+	Steering Wheel Angle
+	Throttle Opening Angle
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Time Since Last Engine Start
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Low Front Left
+	Tire Pressure Low Front Right
+	Tire Pressure Low Rear Left
+	Tire Pressure Low Rear Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Torque Requested By Driver
+	Transmission Output Speed
+	Vehicle In Motion
+	Vehicle Off
+	Vehicle Speed
+	Wheel Cylinder Pressure Front Left Sensor Output
+	Wheel Cylinder Pressure Front Right Sensor Output
+	Window Front Driver Status
+	Window Front Passenger Status
+	Wiper Front Active
+	Wiper Front Speed High
+	Wiper Front Speed Low
+	Wiper Front Sprayer Active
+	Wiper Rear Active
+	Wiper Rear Sprayer Active
+	Yaw Rate

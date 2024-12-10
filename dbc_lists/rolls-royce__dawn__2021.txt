@@ -1,0 +1,231 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Rolls-Royce 'Dawn' (2021)
+Signals:
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Driver Unlocked
+	Door Front Passenger Locked
+	Door Front Passenger Open
+	Door Front Passenger Unlocked
+	Door Rear Driver Locked
+	Door Rear Driver Open
+	Door Rear Driver Unlocked
+	Door Rear Passenger Locked
+	Door Rear Passenger Open
+	Door Rear Passenger Unlocked
+	Driver Heated Seat Button Pressed
+	Driver Heated Seat Level
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Cabin Fan Load Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Passenger Air Mode
+	Hvac Passenger Cabin Fan Speed Set
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Temperature Set
+	Hvac Recirculation
+	Hvac Sync Active
+	Left Arrow Being Pressed
+	Passenger Heated Seat Button Pressed
+	Passenger Heated Seat Level
+	Radio Eject Button Active
+	Radio Favorites Button 1 Press
+	Radio Favorites Button 1 Touch
+	Radio Favorites Button 2 Press
+	Radio Favorites Button 2 Touch
+	Radio Favorites Button 3 Press
+	Radio Favorites Button 3 Touch
+	Radio Favorites Button 4 Press
+	Radio Favorites Button 4 Touch
+	Radio Favorites Button 5 Press
+	Radio Favorites Button 5 Touch
+	Radio Favorites Button 6 Press
+	Radio Favorites Button 6 Touch
+	Radio Favorites Button 7 Press
+	Radio Favorites Button 7 Touch
+	Radio Favorites Button 8 Press
+	Radio Favorites Button 8 Touch
+	Radio Fm Am Button Active
+	Radio Mode Button Active
+	Radio Power Button Active
+	Radio Volume Knob Turn Clockwise
+	Radio Volume Knob Turn Count
+	Read Backup Camera Active
+	Read Backup Camera Brightness Percentage
+	Read Backup Camera Contrast Percentage
+	Read Backup Camera Inactive
+	Read Last Seat Position Auto Active
+	Read Last Seat Position Auto Inactive
+	Read Parking Aid Lines Active
+	Read Parking Obstacle Detection Active
+	Right Arrow Being Pressed
+	Window Front Left Auto Resistance Detection
+	Window Front Left Fully Open
+	Window Front Left Moving Down
+	Window Front Left Moving Up
+	Window Front Left Open Percent
+	Window Front Left Partially Open
+	Window Front Right Auto Resistance Detection
+	Window Front Right Fully Open
+	Window Front Right Moving Down
+	Window Front Right Moving Up
+	Window Front Right Open Percentage
+	Window Front Right Partially Open
+	Window Rear Left Auto Resistance Detection
+	Window Rear Left Fully Open
+	Window Rear Left Locked By Driver
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open Percentage
+	Window Rear Left Partially Open
+	Window Rear Right Auto Resistance Detection
+	Window Rear Right Fully Open
+	Window Rear Right Locked By Driver
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open Percentage
+	Window Rear Right Partially Open
+	Write Backup Camera Active
+	Write Backup Camera Brightness Percentage
+	Write Backup Camera Contrast Percentage
+	Write Backup Camera Inactive
+	Write Last Seat Position Auto Active
+	Write Last Seat Position Auto Inactive
+	Write Parking Aid Lines Active
+	Write Parking Obstacle Detection Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Acc Active
+	Car Moving
+	Crank Active
+	Idrive Button Being Pressed
+	Idrive Dial Pushed Down Active
+	Idrive Dial Pushed Left Active
+	Idrive Dial Pushed Right Active
+	Idrive Dial Pushed Up Active
+	Idrive Last Button Pressed Back
+	Idrive Last Button Pressed Media
+	Idrive Last Button Pressed Menu
+	Idrive Last Button Pressed Nav
+	Idrive Last Button Pressed Option
+	Idrive Last Button Pressed Radio
+	Idrive Last Button Pressed Tel
+	Ignition Active
+	Key In
+	Read Acoustic Signal For Lock And Unlock Active
+	Read Acoustic Signal For Lock And Unlock Inactive
+	Read Ambient Light Set To Classic
+	Read Ambient Light Set To Modern
+	Read Coasting Setting Active
+	Read Daytime Running Lamps Active
+	Read Daytime Running Lamps Inactive
+	Read Eco Pro Climate Ctrl Active
+	Read Eco Pro Speed Warning Active
+	Read Flash For Lock And Unlock Active
+	Read Flash For Lock And Unlock Inactive
+	Read Interior Light Brightness
+	Read Key Button Setting All Doors
+	Read Single Turn Signal Active
+	Read Triple Turn Signal Active
+	Read Welcome Lights Active
+	Read Welcome Lights Inactive
+	Vehicle Speed
+	Window Front Left Driver Switch
+	Window Front Right Driver Switch
+	Window Front Right Switch
+	Window Rear Driver Lock Button Active
+	Window Rear Left Driver Switch
+	Window Rear Left Switch
+	Window Rear Right Driver Switch
+	Window Rear Right Switch
+	Write Acoustic Signal For Lock And Unlock Active
+	Write Acoustic Signal For Lock And Unlock Inactive
+	Write Ambient Light Set To Classic
+	Write Ambient Light Set To Modern
+	Write Coasting Setting Active
+	Write Eco Pro Climate Ctrl Active
+	Write Eco Pro Speed Warning Active
+	Write Flash For Lock And Unlock Active
+	Write Flash For Lock And Unlock Inactive
+	Write Interior Light Brightness
+	Write Key Button Setting All Doors
+	Write Single Turn Signal Active
+	Write Triple Turn Signal Active
+	Write Welcome Lights Active
+	Write Welcome Lights Inactive
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ambient Air Pressure
+	Ambient Air Temp
+	Auto Start Stop Off
+	Auto Start Stop Off
+	Auto Start Stop On
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Passenger Open
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driver Seatbelt Buckled
+	Engine Load Alt
+	Engine Speed
+	Engine Torque
+	Fuel Level In Liters
+	Fuel Range
+	Hill Assist Active
+	Ic Backlight Level
+	Ignition Button Pressed
+	Left Steering Wheel Up Down Switch
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Powermode
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate Alt
+	Throttle Position Alt
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Transmission Engaged
+	Transmission Temperature
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Speed
+	Vin Part 3
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right

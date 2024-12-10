@@ -1,0 +1,277 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Renault 'Fluence' (2012)
+Signals:
+	Audio Displayed Minute
+	Audio Displayed Second
+	Center Console Joystick Last Command
+	Center Console Last Command
+	Center Console Wheel Clockwise
+	Center Console Wheel Pressed
+	Center Console Wheel Rotated
+	Clock In Minutes
+	Door Front Left Open
+	Door Front Right Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Engine Speed
+	Pedal Accelerator Potentiometer Voltage
+	Radio Command Any Sent
+	Radio Wake Up Request
+	Stalk Radio Last Command
+	Trip Computer Resetting
+	Trip Fuel Consumption Average
+	Trip Fuel Used
+	Trip Odometer
+	Trip Vehicle Speed Average
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Abs Active
+	Abs Not Available
+	Abs Warning Fault
+	Acceleration Lateral
+	Adas Cruise Control Active
+	Adas Speed Limiter Active
+	Adas Speed Limiter On Not Active
+	Adas Speed Set
+	Adas Speed Set Exceeded
+	Airbag Left On
+	Airbag Right Off
+	Alternator Load
+	Alternator Power Actual
+	Alternator Power Requested
+	Ambient Temperature
+	Auto Start Stop Deactivated
+	Auto Stop In Action
+	Auto Stop Not In Action
+	Battery Regulator Voltage
+	Battery Voltage
+	Brake Switch Pressed
+	Car Life
+	Car Locking System Automatic
+	Command Hazards And Unlock Doors
+	Command Unlock Doors
+	Computer After Ignition Present
+	Coolant Temperature
+	Dash Alarm Battery Fault
+	Dash Alarm Braking System Fault
+	Dash Alarm Coolant Temperature
+	Dash Alarm Door Open Front Left
+	Dash Alarm Door Open Front Right
+	Dash Alarm Door Open Rear Left
+	Dash Alarm Door Open Rear Right
+	Dash Alarm Door Open Trunk
+	Dash Alarm Oil Temperature
+	Dash Alarm Risk Steering Locking
+	Dash Alarm Stop Engine
+	Dash Asking If New Battery
+	Dash Brightness Level
+	Dash Chime
+	Dash Door Open Front Left
+	Dash Door Open Front Right
+	Dash Door Open Rear Left
+	Dash Door Open Rear Right
+	Dash Door Open Trunk
+	Dash Indication Eco
+	Dash Lights Antifog Front
+	Dash Lights Antifog Rear
+	Dash Lights High Beam
+	Dash Lights Indicator Left
+	Dash Lights Indicator Right
+	Dash Lights Low Beam
+	Dash Lights Side
+	Dash Message Auto Stop Not Available
+	Dash Message Autostop
+	Dash Prompt
+	Dash Prompt Check Keyfob Reader
+	Dash Prompt Check Lights
+	Dash Prompt Check Stop  Start
+	Dash Prompt Declutch
+	Dash Prompt Gear Lever To Neutral
+	Dash Prompt Low Battery Start Engine
+	Dash Prompt Replace Keyfob Battery
+	Dash Prompt See Me Home
+	Dash Prompt Select Gear
+	Dash Prompt Select Neutral
+	Dash Prompt Steering Not Locked
+	Dash Shift Recommendation
+	Dash Tachometer Indication
+	Dash Tell Tale Airbag Right Green
+	Dash Tell Tale Diesel Particulate Filter Fault
+	Dash Tell Tale Glow Plug
+	Dash Tell Tale Malf
+	Dash Tell Tale Malf Flashing
+	Dash Warning Check Air Pollution System
+	Dash Warning Check Airbag
+	Dash Warning Check Brake Lights
+	Dash Warning Check Braking System
+	Dash Warning Check Child Safety Device
+	Dash Warning Check Esp
+	Dash Warning Check Esp 0 True
+	Dash Warning Check Hill Start Assist
+	Dash Warning Check Injection System
+	Dash Warning Check Steering Lock
+	Dash Warning Check Vehicle
+	Dash Warning Check Vehicle
+	Dash Warning Clean Diesel Filter
+	Dash Warning Oil Change Required
+	Dash Welcome Message On
+	Distance Until Refueling
+	Door Front Left Open
+	Door Front Right Open
+	Door Hood Closed
+	Door Hood Open
+	Engine Cranking 0 True
+	Engine Running
+	Engine Running
+	Engine Speed Idling Reference
+	Engine Stalled
+	Engine Stalled
+	Engine Status
+	Engine Torque Net
+	Engine Torque Requested By Driver
+	Engine Turning Off
+	Engine Turning On
+	Esp Traction Control Status
+	Fan Assembly Speed Required By Injection
+	Flow Rate Function Status Low
+	Flow Rate Function Status Ok
+	Fuel Level Displayed
+	Gear Reverse Disengaged
+	Gear Reverse Engaged
+	Gearbox Position Neutral
+	Gearbox Position Not Neutral
+	Hazards Commanded From Uds
+	Hazards Not Commanded From Uds
+	Headlights Active
+	Headlights Inactive
+	Heater Water Pump Command On
+	Hvac A C Allowed By Inject Comp
+	Hvac A C Compressor Active
+	Hvac A C Compressor High Pressure
+	Hvac A C Compressor Load
+	Hvac Fan Active
+	Immobilizer Active
+	Immobilizer Injection Code Allocated
+	Immobilizer Injection Code Blank
+	Instrument Cluster Primary Chime Active
+	Instrument Cluster Prompt Check Airbag
+	Lamp Oil Pressure Warning On
+	Lights Antifog Front Active
+	Lights Auto Dipped Beam Off
+	Lights Auto Dipped Beam On
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Side Active
+	Lock Auto Turning Off While Driving
+	Lock Auto Turning On While Driving
+	Lock Command Active
+	Lock Request By Card Key
+	Master Cylinder Pressure
+	Mirrors Closed
+	Mirrors Opened
+	Mirrors Right Side Mirror Adjustment
+	Odometer
+	Oil Change Interval
+	Oil Change Interval Displayed
+	Oil Change Range
+	Oil Control Function In Process
+	Oil Level
+	Parking Brake Applied
+	Parking Brake Released
+	Parking Brake Warning Fault
+	Pedal Accelerator Release
+	Pedal Accelerator Switch
+	Pedal Accelerator With Switch Position
+	Pedal Accelerator Without Switch Position
+	Pedal Brake Pressed
+	Pedal Brake Released
+	Pedal Brake Signal Intermediate
+	Pedal Brake Signal Missing
+	Pedal Brake Signal Present
+	Pedal Clutch Fully Pressed
+	Pedal Clutch Not Fully Pressed
+	Pedal Clutch Not Pressed
+	Pedal Clutch Pressed
+	Power Mode Accessory
+	Power Mode Engine Running
+	Power Mode Ignition
+	Power Mode Ignition Or Engine Running
+	Power Mode Ignition Or Engine Running
+	Power Mode Off Or Accessory
+	Radio Mute Active
+	Radio Mute Decrease
+	Refrigerant Pressure
+	Seatbelt Chime Front Left
+	Seatbelt Chime Front Right
+	Seatbelt Fastened Rear Left
+	Seatbelt Fastened Rear Middle
+	Seatbelt Fastened Rear Right
+	Seatbelt Unfastened Front Left
+	Seatbelt Unfastened Front Right
+	Seatbelt Unfastened Rear Left
+	Seatbelt Unfastened Rear Middle
+	Seatbelt Unfastened Rear Right
+	Stalk Left Pressed Down
+	Stalk Left Pressed Up
+	Stalk Right Menu Button Down Pressed
+	Stalk Right Menu Button Up Pressed
+	Start Stop System Active
+	Start Stop System Not Active
+	Starter Motor Not In Action
+	Steering Wheel Angle
+	Steering Wheel Rate
+	Steering Wheel Tell Tale Service Required
+	Steering Wheel Warning Fault
+	Sun Sensor Level Center
+	Sun Sensor Level Left
+	Sun Sensor Level Right
+	Tell Tale Abs
+	Tell Tale Abs Flashing Fast
+	Tell Tale Abs Flashing Low
+	Tell Tale Airbag Left Fault
+	Tell Tale Airbag Right Fault
+	Tell Tale Airbag Right Green
+	Tell Tale Service Required
+	Tell Tale Traction Control
+	Tell Tale Traction Control Flashing
+	Tpms Resetting Values
+	Tpms Service Required
+	Tpms Tell Tale On
+	Unlock Command Active
+	Vehicle Acceleration
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Vehicle Speed Displayed
+	Vehicle Speed Unit
+	Wheel Speed Front Average
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Fl And Side Mirrors Stationary
+	Window Fl Or Side Mirrors Moving
+	Window Front Right Auto Down
+	Window Front Right Auto Up
+	Window Front Right Manual Down
+	Window Front Right Manual Up
+	Window Heater Rear Active
+	Window Rear Left Auto Up Or Down
+	Window Rear Left Manual Down
+	Window Rear Left Manual Up
+	Window Rear Right Auto Up Or Down
+	Window Rear Right Manual Down
+	Window Rear Right Manual Up
+	Windows Rear Lock Active
+	Windscreen Front Wipers In Motion
+	Windscreen Front Wipers Not In Motion
+	Windscreen Front Wipers Setting On Speed 2
+	Windscreen Front Wipers Speed 2
+	Wiper Rear Auto With Reverse Off
+	Wiper Rear Auto With Reverse On
+	Wipers Front Active
+	Yaw Rate

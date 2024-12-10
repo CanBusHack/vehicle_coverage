@@ -1,0 +1,519 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Bmw '8-Series Gran Coupe' (2023)
+Signals:
+	Brake Pressure
+	Engine Speed
+	Pedal Accelerator Position
+	Steering Wheel Angle
+	Steering Wheel Cruise Control Button Active
+	Steering Wheel Cruise Control Following Distance Button Active
+	Steering Wheel Cruise Speed Toggle Switch State
+	Steering Wheel Lane Keep Assist Button Active
+	Steering Wheel Res Cncl Button Active
+	Steering Wheel Set Button Active
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ambient Air Temperature
+	Config Eco Pro Individual Driving Dynamic Steering Comfort On
+	Config Eco Pro Individual Driving Dynamic Steering Sport On
+	Config Sport Individual Driving Dynamic Engine
+	Config Sport Individual Driving Dynamic Steering Comfort On
+	Config Sport Individual Driving Dynamic Steering Sport On
+	Config Sport Individual Driving Dynamic Transmission
+	Config Sport Individual Seat Support For Dynamic Driving Driver Seat On
+	Config Sport Individual Seat Support For Dynamic Driving Passenger Seat On
+	Dash Backlight Level
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Hood Open
+	Door Lock Command
+	Door Locked Button Pressed
+	Door Trunk Open
+	Door Unlock Button Pressed
+	Door Unlock Command
+	Drive Mode Active
+	Drive Mode Button Pressed
+	Driver Attention Control
+	Driver Heated Seat Button Active
+	Dynamic Stability Control Off
+	Eco Pro Speed Warning On
+	Eco Pro Speed Warning Speed Set
+	Fuel Level
+	Fuel Range
+	Gesture Control On
+	Gesture Count
+	Gesture Input
+	Hand Tracking X Axis
+	Hand Tracking Y Axis
+	Hand Tracking Z Axis
+	Hazard Signal Off
+	Hazard Signal On
+	Head Up Display Brightness
+	Head Up Display Height
+	Head Up Display Individual Setting Check Control Messages On
+	Head Up Display Individual Setting Entertainment Telephone On
+	Head Up Display Individual Setting Speed Limit Exceeded On
+	Head Up Display On
+	Head Up Display Rotation
+	Head Up Display Setting
+	Hvac Ac Active
+	Hvac Button Menu Pressed
+	Hvac Climate Zone Temperature Driver
+	Hvac Climate Zone Temperature Passenger
+	Hvac Deicer Rear Active
+	Hvac Driver Auto Setting Active
+	Hvac Driver Blower Position
+	Hvac Driver Fan Speed Set
+	Hvac Driver Temperature Adjust Upper
+	Hvac Max Ac Active
+	Hvac Max Deicer Active
+	Hvac Off
+	Hvac Passenger Auto Set Active
+	Hvac Passenger Fan Speed Set
+	Hvac Passenger Temperature Adjust Upper
+	Hvac Recirculation Auto Off
+	Hvac Recirculation Auto On
+	Hvac Recirculation Cabin Air Active
+	Idrive Button Back Active
+	Idrive Button Com Active
+	Idrive Button Map Active
+	Idrive Button Media Active
+	Idrive Button Menu Active
+	Idrive Button Nav Active
+	Idrive Button Option Active
+	Idrive In Media Selection Screen
+	Idrive Interaction Count
+	Idrive Knob Dial Pressed
+	Idrive Knob Dial Tilt
+	Idrive Knob Dial Turn Clockwise
+	Idrive Touch Point First Map X Axis
+	Idrive Touch Point First Map Y Axis
+	Idrive Touch Point First Not Active
+	Idrive Touch Point Second Map X Axis
+	Idrive Touch Point Second Map Y Axis
+	Idrive Touch Point Second Not Active
+	Language Set To English
+	Lighting Ambient Brightness Set
+	Lighting Ambient Color Set
+	Lighting Exterior Pathway Lighting
+	Lighting Exterior Welcome Lights Off
+	Lighting Exterior Welcome Lights On
+	Lighting Interior Set Ambient
+	Lighting Interior Set Night
+	Lights Brake Active
+	Lights Fog Active
+	Lights High Beam Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Lights Indicators Active
+	Lights Low Beam Active
+	Lights Side Active
+	Lights Turn Signal 1 Time On
+	Lights Turn Signal 3 Times On
+	Odometer
+	Radio Button Band Active
+	Radio Button Eject Active
+	Radio Button Left Arrow Active
+	Radio Button Mode Active
+	Radio Button Power Active
+	Radio Button Preset 1 Press Active
+	Radio Button Preset 1 Touch Active
+	Radio Button Preset 2 Press Active
+	Radio Button Preset 2 Touch Active
+	Radio Button Preset 3 Press Active
+	Radio Button Preset 3 Touch Active
+	Radio Button Preset 4 Press Active
+	Radio Button Preset 4 Touch Active
+	Radio Button Preset 5 Press Active
+	Radio Button Preset 5 Touch Active
+	Radio Button Preset 6 Press Active
+	Radio Button Preset 6 Touch Active
+	Radio Button Preset 7 Press Active
+	Radio Button Preset 7 Touch Active
+	Radio Button Preset Connected Drive Press Active
+	Radio Button Preset Connected Drive Touch Active
+	Radio Button Right Arrow Active
+	Radio Knob Volume Change Count
+	Radio Knob Volume Turned Clockwise
+	Seat Driver Back Switch Active
+	Seat Driver Cushions Back Lean Back Switch Active
+	Seat Driver Cushions Back Lean Forward D Switch Active
+	Seat Driver Cushions Bottom Tilt Down Switch Active
+	Seat Driver Cushions Bottom Tilt Up Switch Active
+	Seat Driver Down Switch Active
+	Seat Driver Forward D Switch Active
+	Seat Driver Headrest Down Switch Active
+	Seat Driver Headrest Up Switch Active
+	Seat Driver Lumbar Support Down Switch Active
+	Seat Driver Lumbar Support In Switch Active
+	Seat Driver Lumbar Support Out Switch Active
+	Seat Driver Lumbar Support Up Switch Active
+	Seat Driver Side Bolsters In Switch Active
+	Seat Driver Side Bolsters Out Switch Active
+	Seat Driver Thigh Extender In Switch Active
+	Seat Driver Thigh Extender Out Switch Active
+	Seat Driver Up Switch Active
+	Seat Driver Upper Backrest Back Switch Active
+	Seat Driver Upper Backrest Forward D Switch Active
+	Seat Heat Driver Distribution
+	Seat Heat Driver Level
+	Seat Heat Passenger Distribution
+	Seat Heat Passenger Level
+	Seat Passenger Back Switch Active
+	Seat Passenger Cushions Back Lean Back Switch Active
+	Seat Passenger Cushions Back Lean Forward D Switch Active
+	Seat Passenger Cushions Bottom Tilt Down Switch Active
+	Seat Passenger Cushions Bottom Tilt Up Switch Active
+	Seat Passenger Down Switch Active
+	Seat Passenger Forward D Switch Active
+	Seat Passenger Headrest Down Switch Active
+	Seat Passenger Headrest Up Switch Active
+	Seat Passenger Lumbar Support Down Switch Active
+	Seat Passenger Lumbar Support In Switch Active
+	Seat Passenger Lumbar Support Out Switch Active
+	Seat Passenger Lumbar Support Up Switch Active
+	Seat Passenger Side Bolsters In Switch Active
+	Seat Passenger Side Bolsters Out Switch Active
+	Seat Passenger Thigh Extender In Switch Active
+	Seat Passenger Thigh Extender Out Switch Active
+	Seat Passenger Up Switch Active
+	Seat Passenger Upper Backrest Back Switch Active
+	Seat Passenger Upper Backrest Forward D Switch Active
+	Seatbelt Driver Buckled
+	Seatbelt Passenger Buckled
+	Settings Auto Pdc Activation On
+	Settings Blind Spot Detection
+	Settings Blind Spot Detection On
+	Settings Config Eco Pro Climate Control On
+	Settings Config Eco Pro Individual Functions Coasting On
+	Settings Config Eco Pro Light And Sight On
+	Settings Config Eco Pro Seat Climate Control On
+	Settings Cross Traffic Alert Activate Function On
+	Settings Door Key Acoustic Signal For Lock Unlock Off
+	Settings Door Key Acoustic Signal For Lock Unlock On
+	Settings Door Key All Doors
+	Settings Door Key Driver Door
+	Settings Door Key Flash For Lock Unlock Off
+	Settings Door Key Flash For Lock Unlock On
+	Settings Door Key Fold Mirrors When Lock Off
+	Settings Door Key Fold Mirrors When Lock On
+	Settings Door Key Lock Auto Off
+	Settings Door Key Lock Auto On
+	Settings Door Key Lock When Drive Off
+	Settings Door Key Lock When Drive On
+	Settings Door Key Tailgate And Doors 1 Tailgate  0
+	Settings Door Key Turn Off After Door Opening Off
+	Settings Door Key Turn Off After Door Opening On
+	Settings Door Key Unlock At End Of Trip Off
+	Settings Door Key Unlock At End Of Trip On
+	Settings Driver Seat Show Seat Settings Off
+	Settings Driver Seat Show Seat Settings On
+	Settings Emergency Braking Rear On
+	Settings Frontal Collision Warning
+	Settings Instrument Panel Average Speed And Average Consumption On
+	Settings Instrument Panel Format
+	Settings Instrument Panel Individual Driving Mode Display On
+	Settings Instrument Panel Individual Speed Limit Exceeded On
+	Settings Instrument Panel Onboard Info Consumption On
+	Settings Instrument Panel Onboard Info My Trip On
+	Settings Lane Departure Warning
+	Settings Lane Departure Warning On
+	Settings Parking Space Detected Sound On
+	Settings Passenger Seat Show Seat Settings Off
+	Settings Passenger Seat Show Seat Settings On
+	Settings Seat Heat Automatic Activation Level
+	Settings Seat Heat Automatic Activation On
+	Settings Seat Heat Automatic Activation Temp
+	Settings Side Collision Warning
+	Settings Speed Warning On
+	Settings Speed Warning Speed Set
+	Settings Steering Intervention On
+	Settings Steering Wheel Vibration Mode
+	Settings Tires Size Summer
+	Settings Tires Size Winter
+	Settings Tires Winter Tires All Season Tires Selected
+	Settings Tires Winter Tires Speed Limiter
+	Steering Wheel Button Mic Active
+	Steering Wheel Button Mode Active
+	Steering Wheel Button Phone Active
+	Steering Wheel Button Volume Down Active
+	Steering Wheel Button Volume Up Active
+	Steering Wheel Right Scroll Wheel Pressed
+	Steering Wheel Right Scroll Wheel Up
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Traction Control Off
+	Unit Consumption Setting
+	Unit Distance Set To Km
+	Unit Distance Set To Mi
+	Unit Power Set To Hp
+	Unit Power Set To Kw
+	Unit Pressure Setting
+	Unit Temperature Set To C
+	Unit Temperature Set To F
+	Unit Torque Setting
+	Window Front Driver Anti Pinch Active
+	Window Front Driver Moving Down
+	Window Front Driver Moving Up
+	Window Front Driver Open
+	Window Front Driver Open Percentage
+	Window Front Driver Part Open
+	Window Front Passenger Anti Pinch Active
+	Window Front Passenger Moving Down
+	Window Front Passenger Moving Up
+	Window Front Passenger Open
+	Window Front Passenger Open Percentage
+	Window Front Passenger Part Open
+	Window Rear Left Anti Pinch Active
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open
+	Window Rear Left Open Percentage
+	Window Rear Left Part Open
+	Window Rear Right Anti Pinch Active
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open
+	Window Rear Right Open Percentage
+	Window Rear Right Part Open
+	Wiper Front Single Wipe Active
+	Wiper Front State
+	Wiper Front Wash Active
+	Wiper Intermittent Speed 2
+	Wiper Intermittent Speed 3
+	Wiper Intermittent Speed 4
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Ambient Air Pressure
+	Ambient Air Temp
+	Auto Start Stop Off
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Passenger Open
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driver Seatbelt Buckled
+	Engine Load Alt
+	Engine Speed
+	Engine Torque
+	Fuel Level In Liters
+	Fuel Range
+	Ic Backlight Level
+	Ignition Button Pressed
+	Left Steering Wheel Up Down Switch
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Powermode Engine
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate Alt
+	Throttle Position Alt
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Transmission Engaged
+	Transmission Temperature
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle On
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Air Conditioning Active
+	Ambient Air Temp
+	Auto Start Stop Off
+	Average Fuel Consumption Rate
+	Average Fuel Consumption Unit
+	Average Speed
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Cruise Control Set Speed
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Display Driving Mode View Active
+	Distance Units Kilometers Sel
+	Distance Units Kilometers Selected
+	Distance Units Miles Selected
+	Distance Units Miles Selected
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Driver Unlocked
+	Door Front Passenger Locked
+	Door Front Passenger Open
+	Door Front Passenger Unlocked
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Locked
+	Door Rear Passenger Open
+	Door Rear Passenger Open
+	Door Rear Passenger Unlocked
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Drive Modes  Need To Fix Or Delete
+	Driver Heated Seat Level
+	Driver Seatbelt Buckled
+	Driving Dynamics Steering Comfort
+	Driving Dynamics Steering Sport
+	Engine Oil Level
+	Engine Speed
+	Engine Speed Displayed
+	Engine Torque
+	Excess Speed Display
+	Fuel Level In Liters
+	Fuel Range
+	Head Up Display Brightness
+	Head Up Display Height
+	Head Up Display Individual Setting Check Control Messages On
+	Head Up Display Individual Setting Entertainment Telephone On
+	Head Up Display Individual Setting Speed Limit Exceeded On
+	Head Up Display On
+	Head Up Display Rotation
+	Head Up Display Setting
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac System Active
+	Ic Backlight Level
+	Ignition Button Pressed
+	Instrument Panel Additional Information Active
+	Instrument Panel Converted Speed Active
+	Instrument Panel Reduced Mode Active
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Lane Departure Steering Intervention Active
+	Language Selected
+	Left Steering Wheel Up Down Switch
+	Light Stock Bc Button State
+	Light Stock Position High Beam Momentary State
+	Light Stock Position High Beam State
+	Light Stock Position Lane Chang Left Signal State
+	Light Stock Position Lane Chang Right Signal State
+	Light Stock Position Left Turn Signal State
+	Light Stock Position Right Turn Signal State
+	Lights Auto Off
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Low Beam Off
+	Lights Off Off
+	Lights Parking Active
+	Lights Rear Fog Active
+	Lights Side Off
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Pedal Brake Not Pressed
+	Pedal Brake Pressed
+	Powermode Engine
+	Prndl And Gear
+	Read Ambient Light Set To Classic
+	Read Ambient Light Set To Modern
+	Read Interior Light Brightness
+	Rear Defroster Active
+	Seat Heater Passenger Level
+	Shifter Solenoid Voltage
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Temp Units Selected Celsius
+	Temp Units Selected Fahrenhei
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Time Format Selected 12H
+	Time Format Selected 24H
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle On
+	Vehicle Speed
+	Warn When Speeding Active
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Lock Active
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active

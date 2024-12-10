@@ -1,0 +1,298 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Mini 'Countryman' (2013)
+Signals:
+	Absolute Throttle Position Sensor
+	Acceleration Lateral
+	Acceleration Latitude
+	Acceleration Longitudinal
+	Adad Stalk Cruise Control Position
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
+	Ambient Air Temperature
+	Baro Challenge
+	Battery Voltage
+	Boost Pressure Displayed
+	Brake Active
+	Brake Emergency Active
+	Brake Pedal Position
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Pressure Wheel Rear Left
+	Brake Pressure Wheel Rear Right
+	Clutch Pressed
+	Clutch Pressed Alt
+	Convertible Switch Pressed Down
+	Convertible Switch Pressed Up
+	Coolant Temperature
+	Cruise Control Active
+	Cruise Control Not Set
+	Cruise Control Set
+	Cruise Control Set Speed
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Open
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driving Mode Eco Pro Active
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed Alt
+	Engine Torque
+	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off Alt
+	Esp Traction Control On Alt
+	Fuel Level In Liters
+	Fuel Range
+	Gearbox Shift In Progress
+	Hill Descent Control Active
+	Hvac System Active
+	Ic Backlight Level
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Lighting Interior Dome Active
+	Lighting Interior Rear Dome Active
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Parking Active
+	Lights Rear Fog Active
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Low Fuel Tell Tale Active
+	Manual Gear Displayed
+	Manual Mode Active
+	Manual Mode Started
+	Mil Tell Tale Active
+	Odometer
+	Oil Pressure Displayed
+	Oil Temperature
+	Output Shaft Speed
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Partial Network Information 0003
+	Partial Network Information 0004
+	Pedal Accelerator Position
+	Pedal Accelerator Position Kickdown
+	Pedal Accelerator Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Power Mode Acc
+	Power Mode Change Request
+	Power Mode Crank Active
+	Power Mode Key In
+	Power Mode Key Out
+	Power Mode Recently Changed
+	Power Mode Run
+	Power Mode Run
+	Power Mode Start Button Pressed
+	Power Steering Consistency Count
+	Prndl And Gear
+	Reverse Engage
+	Reverse Not Engage
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Shift Lever Position In Drive
+	Shift Lever Position In Neutral
+	Shift Lever Position In Park
+	Shift Lever Position In Reverse
+	Sport Mode Active
+	Sport Mode Not Active
+	Stalk Lights Bc Button Pressed
+	Stalk Lights Position High Beam Flash Pulled
+	Stalk Lights Position High Beam Pushed
+	Stalk Lights Position Turn Left Full
+	Stalk Lights Position Turn Left Partial
+	Stalk Lights Position Turn Right Full
+	Stalk Lights Position Turn Right Partial
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Sun Roof In Motion
+	Target Idle Speed
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Torque Dynamic Cruise Control Demand
+	Torque Max Available
+	Torque Minimum Available
+	Torque Spark Negative Available
+	Torque Spark Positive Available
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Traction Control Off
+	Transmission Temperature
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Moving
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Air Conditioning Active
+	Ambient Air Temp
+	Average Fuel Consumed
+	Average Speed
+	Baro Challenge
+	Brightness Level
+	Brightness Switch Backward
+	Brightness Switch Forward D
+	Car Alarm Equipped
+	Current Gearbox State
+	Date Format
+	Date Format Option Period Selected
+	Date Format Option Slash Selected
+	Distance Units Kilometers Selected
+	Distance Units Miles Selected
+	Driver Door Open
+	Driver Side Dash Light Sensor
+	Driver Window Fully Open
+	Driver Window In Motion Down
+	Driver Window In Motion Up
+	Driver Window Open Percentage
+	Driver Window Partially Open
+	Driver Window Switch Position
+	External Range
+	Feedback On Remote Lock Options
+	Feedback On Remote Unlock Options
+	Fob Panic Trigger
+	Fob Request Lock
+	Fob Request Unlock
+	Fob Trunk Open Button Pressed
+	Fob Trunk Open Request
+	Fuel Consumption Rate Units Selected
+	Fuel Sensor 1
+	Fuel Sensor 2
+	Hand Brake Disengaged
+	Hand Brake Engaged
+	Hazard Button Pressed
+	Hvac Driver Air Dash Baffle Open Percentage
+	Hvac Driver Air Floor Baffle Open Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Air Windscreen Baffle Open Percentage
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temp
+	Hvac Passenger Air Dash Baffle Open Percentage
+	Hvac Passenger Air Floor Baffle Open Percentage
+	Hvac Passenger Air Mode
+	Hvac Passenger Air Windscreen Baffle Open Percentage
+	Hvac Passenger Cabin Fan Speed Setting
+	Hvac Passenger Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Passenger Climate Zone Set Temp
+	Internal Air Temp
+	Internal Temp
+	Language
+	Left Rear Window Fully Open
+	Left Rear Window Lock Active
+	Left Rear Window Partially Open
+	Light Sensor
+	Lock State
+	Momentary Turn Signals Length 1X Option Selected
+	Momentary Turn Signals Length 3X Option Selected
+	Outside Air Temp
+	Parking Light Delay Value After Exit
+	Passenger Door Locked With Button
+	Passenger Door Locked With Key Fob
+	Passenger Door Open
+	Passenger Door Open
+	Passenger Door Unlocked
+	Passenger Side Dash Light Sensor
+	Passenger Window Fully Open
+	Passenger Window In Motion Down
+	Passenger Window In Motion Up
+	Passenger Window Open Percentage
+	Passenger Window Partially Open
+	Passenger Window Switch Position
+	Pressure Unit Setting
+	Rear Defrost Active
+	Rear Defroster Active
+	Rear Driver Door Locked With Button
+	Rear Driver Door Locked With Key Fob
+	Rear Driver Door Open
+	Rear Driver Door Open
+	Rear Driver Door Unlocked
+	Rear Left Window Switch Position
+	Rear Passenger Door Open
+	Rear Passenger Door Unlocked
+	Rear Passenger Driver Door Locked With Button
+	Rear Passenger Driver Door Locked With Key Fob
+	Rear Passenger Driver Door Open
+	Right Rear Window Fully Open
+	Right Rear Window Lock Active
+	Right Rear Window Partially Open
+	Right Rear Window Switch Position
+	Roll Down Rear Left Window
+	Roll Down Rear Right Window
+	Roll Driver Window Down
+	Roll Driver Window Up
+	Roll Passenger Window Down
+	Roll Passenger Window Up
+	Roll Up Rear Left Window
+	Roll Up Rear Right Window
+	Seatbelt Tell Tales
+	Sport Mode Active
+	Sport Mode Not Active
+	Sunroof Fully Open
+	Sunroof Partially Open
+	Sunroof Percentage Open
+	Sunroof Rear Partially Open
+	Sunroof Switch State
+	Temp Format Option C Selected
+	Temp Format Option F Selected
+	Time Format 12 Hours Selected
+	Time Format 24 Hours Selected
+	Traction Control Off Button State Pressed
+	Trunk Latch Open Request
+	Turn Signal Latched
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Turn Signal Temporarily Active
+	Unlock All Doors On Fob Unlock Request Option Selected
+	Unlock Driver Door On Fob Unlock Request Option Selected
+	Vin
+	Water Temperature
+	Window Lock Active
+	Window Lock Button Pressed

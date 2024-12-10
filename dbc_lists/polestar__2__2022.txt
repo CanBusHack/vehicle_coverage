@@ -1,0 +1,142 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Polestar '2' (2022)
+Signals:
+	Accelerator Pedal Position
+	Accelerator Pedal Position Analog
+	Calculated Engine Load
+	Charge Limit
+	Charge Max Amp
+	Displayed Charging Current
+	Displayed Charging Voltage
+	Displayed Range Added Rate
+	Driver Door Closed
+	Driver Door Open
+	Engine Coolant Temperature
+	Engine Speed
+	Front Axle Drive Torque
+	High Voltage System Current
+	Hv Charging State
+	Hv Plug State
+	Odometer
+	Off Road Mode Active
+	Passenger Door Closed
+	Passenger Door Open
+	Rear Left Door Closed
+	Rear Left Door Open
+	Steering Wheel Angle
+	Steering Wheel Rate
+	Temperature In F Active
+	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signals:
+	Accelerator Pedal Position
+	All Doors Closed
+	Any Door Ajar
+	Brake Pedal Percent
+	Cabin Dome Light
+	Charging State
+	Date Displayed Day
+	Date Displayed Month
+	Date Displayed Year
+	Door Driver Locked
+	Door Driver Unlocked
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Rear Left Closed
+	Door Rear Left Lock Button Pressed
+	Door Rear Left Locked
+	Door Rear Left Open
+	Door Rear Left Unlocked
+	Door Trunk In Motion
+	Door Trunk Open
+	Door Trunk Open Request
+	Door Trunk Static
+	Doors All Closed
+	Doors Lock Request
+	Doors Unlock Request
+	Driver Climate Control Level Height
+	Driver Climate Control Level Low
+	Driver Or Passenger Seat Heater Active
+	Driver Side Mirror Adjusting
+	Electric Range
+	Electric Range
+	Engine Status
+	Front Right Door Closed
+	Front Right Door Open
+	Front Windshield Wipers In Motion
+	Front Wiper Motion Request
+	Front Wiper Speed State
+	Fuel Level
+	Fuel Tank Ready For Refueling
+	Gas Range
+	Headlights Off
+	Headlights Parking Lights On
+	Hv Battery State Of Charge
+	Hv Charger Plugged In
+	Hvac Ac Active
+	Hvac Blower
+	Hvac Fan Speed
+	Hvac Heated Seat Front Driver Level
+	Hvac Heated Seat Front Passenger Level
+	Lights Hazards On
+	Lights Low Beams Active
+	Lights Set To Auto
+	Lights Side Lights Active
+	Lights Turn Signal Left On
+	Lights Turn Signal Right On
+	Lock Control Driver Lock Button Pressed
+	Lock Control Driver Unlock Button Pressed
+	Max Front Defroster Active
+	Max Front Defroster Not Active
+	Mirror Passenger Xy Change Request
+	Mirrors Folding
+	Moonroof Cover Open Percent
+	Moonroof Window Open Percent
+	Odometer
+	Passenger Climate Control Level Hight
+	Passenger Climate Control Level Low
+	Passenger Door Locked
+	Passenger Door Unlocked
+	Passenger Lock Control Button Lock Pressed
+	Passenger Lock Control Button Unlock Pressed
+	Passenger Window Open Percent
+	Rear Defroster Active
+	Rear Right Door Lock Button Pressed
+	Rear Right Door Locked
+	Rear Right Door Unlocked
+	Recirculation Active
+	Recirculation Not Active
+	Right Rear Window Open Percent
+	Seat Belt Front Driver Buckled
+	Seat Belt Front Passenger Buckled
+	Seat Belt Rear Left Buckled
+	Seat Belt Rear Middle Buckled
+	Seat Belt Rear Right Buckled
+	Seat Driver Memory Recall One
+	Seat Driver Memory Recall Three
+	Seat Driver Memory Recall Two
+	Seat Driver Memory Set Active
+	Seat Front Passenger Detected
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Sensor Quality Flag
+	Steering Wheel Sensor Validity
+	Time Displayed Hours
+	Time Displayed Minutes
+	Time Displayed Seconds
+	Vehicle Speed
+	Vehicle Speed
+	Vin 1Of3
+	Vin 1Of3
+	Vin 1Of3
+	Window Child Lock Active
+	Window Child Lock Inactive
+	Window Front Driver Open Percent
+	Window Front Passenger Driver Request
+	Window Rear Left Open Percent
+	Window Rear Right Driver Request
+	Wiper Windshield Sprayer Active
+	Wiper Windshield Sprayer Inactive

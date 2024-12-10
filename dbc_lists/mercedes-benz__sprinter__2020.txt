@@ -1,0 +1,152 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'Sprinter' (2020)
+Signals:
+	Ac Active
+	Accelerator Pedal Position
+	Acoustic Lock Option Active
+	Active Brake Assist Setting
+	Air Pressure Outside
+	Air Temperature Outside
+	All Front Doors Closed
+	Apply Brake To Shift From P Dash Prompt
+	Auto Head Lights Active
+	Battery Voltage
+	Blend Position Switched Up Or Down Pressed
+	Brake Pressure1
+	Brake Pressure2
+	Brake Switch Pressed
+	Calculated Engine Load
+	Cellular Power Bars
+	Climate Control Driver Level In F
+	Climate Control Passenger Level In F
+	Climate Sync Active
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Coffee Icon Displayed
+	Cruise Control Active
+	Cruise Control Set Speed
+	Cruise Control Standby
+	Cruise Stock Down Decel
+	Cruise Stock Pull Resume
+	Cruise Stock Push Cancel
+	Cruise Stock Up Accel
+	Current Fuel Consumption
+	Current Gear
+	Daytime Running Lights Setting Active
+	Distance To Empty
+	Do Not Shift Gears Service Required Dash Prompt
+	Driver Cooled Seat Level
+	Driver Heated Seat Level
+	Driver Seat Unbuckled
+	Driver Temperature Switch Up Or Down Pressed
+	Driver Window Moving
+	Driver Window Open
+	Emergency Sos Ready
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Speed
+	Engine Torque
+	Fan Speed Change Request
+	Fog Light Button Pressed
+	Fog Lights Active
+	Fog Lights Active
+	Font Wipers Movement Speed
+	Front Driver Window Open Length
+	Front Left Wheel Speed
+	Front Passenger Window Open Length
+	Front Wipers Setting
+	Fuel Level
+	Gps Latitude Degrees
+	Gps Latitude Hemisphere
+	Gps Latitude Minutes
+	Gps Latitude Seconds
+	Gps Longitude Degrees
+	Gps Longitude Hemisphere
+	Gps Longitude Minutes
+	Gps Longitude Seconds
+	Hazard Lights Active
+	Hazard Lights Active
+	Head Lights Active
+	Headlights Active
+	Heated Steering Wheel Down Knob Position Active
+	Heated Steering Wheel Up Knob Position Active
+	High Beam
+	High Beams Active
+	Hood Ajar
+	Hood Closed
+	Horn Active
+	Hvac Auto Active
+	Hvac Blower Position
+	Hvac Fan Speed
+	Hvac Max Active
+	Hvac Recirculation Active
+	Hvac Recirculation Button Pressed
+	Ignition Button Pressed
+	Incoming Telemetry Call Info
+	Instrument Cluster Brightness Level
+	Int Wiper Active
+	Intake Air Temperature
+	Key Fob Commands
+	Left Rear Wheel Speed
+	Left Turn Signal Active
+	Light Lights Active
+	Low Beams Active
+	Master Brake Pressure
+	Menu Switched Up Or Down Pressed
+	Odometer
+	Only Shift To P When Vehicle Is Stationary Dash Prompt
+	Paddle Shifter Down Pressed
+	Paddle Shifter Up Pressed
+	Park Brake Disengage Request
+	Park Brake Disengaged
+	Park Brake Engage Request
+	Park Brake Engaged
+	Park Button Pressed
+	Parking Light Left Active
+	Parking Light Right Active
+	Parking Lights Active
+	Passenger Cooled Seat Level
+	Passenger Heated Seat Level
+	Passenger Seat Unbuckled
+	Passenger Temperature Switch Up Or Down Pressed
+	Passenger Window Moving
+	Passenger Window Open
+	Power Mode
+	Prndl
+	Rear Int Wiper Active
+	Rear Left Wheel Speed
+	Rear Wiper In Motion
+	Rear Wiper On
+	Rear Wiper Wash Active
+	Reversing Not Possible Service Required Dash Prompt
+	Right Rear Wheel Speed
+	Right Turn Signal Active
+	Steering Column Adjustment Shaft Position
+	Steering Left Side Back Button Selected
+	Steering Left Side Home Button Selected
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	To Engage R First Depress Brake Dash Prompt
+	Tpms Tire Pressure Front Left
+	Tpms Tire Pressure Front Right
+	Tpms Tire Pressure Rear Left
+	Tpms Tire Pressure Rear Right
+	Traction Control Active
+	Traction Control Off
+	Transmission Malfunction Dash Prompt
+	Transmission Malfunction Stop Dash Prompt
+	Turn Signal Active
+	Units Miles Selected
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse
+	Windows Child Lock Not Active
+	Wipers In Motion
