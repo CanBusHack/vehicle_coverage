@@ -1,0 +1,32 @@
+Version 0.1 Copyright CanBusHack 2024
+Platform: Ford 'Ka' (2010)
+Signals:
+	Abs System Active
+	Auto Start Stop System Deactivated
+	Barometric Pressure
+	Dashboard Speedometer Indication
+	Dashboard Tell Tale Abs Failure Off
+	Dashboard Tell Tale Abs Failure On
+	Dashboard Tell Tale Electric Power Steering Failure On
+	Dashboard Tell Tale Engine Oil Low Pressure On
+	Door Front Right Open
+	Doors Closed When Car Is On
+	Engine Speed
+	Fuel Injection Timing
+	Fuel Level
+	Hvac A C Compressor Active
+	Hvac A C Compressor Pressure High
+	Hvac A C Compressor Pressure Low
+	Parking Brake Applied
+	Pedal Accelerator Position
+	Pedal Accelerator Pressed
+	Pedal Accelerator Range
+	Pedal Clutch Pressed Always True When Car Is Off
+	Power Mode Engine Running
+	Time Hours
+	Time Minutes
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
