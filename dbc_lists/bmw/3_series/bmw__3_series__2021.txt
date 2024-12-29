@@ -137,10 +137,10 @@ Signal Descriptions:
 	Brake Pressure
 	Coasting Mode Not Active
 	Cruise Control Set Speed
-	Door Driver Open State 1  True
-	Door Passenger Open State 1  True
-	Door Rear Left Open State 1  True
-	Door Rear Right Open State 1  True
+	Door Driver Open State 1 True
+	Door Passenger Open State 1 True
+	Door Rear Left Open State 1 True
+	Door Rear Right Open State 1 True
 	Door Trunk Closed
 	Driver Seat Heated Seat Level
 	Eco Mode

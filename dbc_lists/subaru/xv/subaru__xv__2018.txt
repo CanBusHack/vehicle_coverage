@@ -66,7 +66,7 @@ Signal Descriptions:
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Trunk Open
-	Units 0  Metric
+	Units 0 Metric
 	Vehicle Dynamic Control Dash Prompt Active
 	Vehicle Speed
 	Wipers Active

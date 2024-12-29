@@ -499,7 +499,7 @@ Signal Descriptions:
 	Dash Prompt Clutch Temperature High You Can Continue Driving
 	Dates Units
 	Display Engine Speed
-	Distance Units Km 0 Mi  1
+	Distance Units Km 0 Mi 1
 	Driver Door Error Left Mirror Indicator Faulty Message
 	Driver Door Lift Gate Close Button Pressed
 	Driver Door Lock Button
@@ -632,7 +632,7 @@ Signal Descriptions:
 	Steering Wheel Adjustment Being Made
 	Steering Wheel In Motion To Right
 	Temp Units C 0 F 1
-	Time Units 0  24Hour 1 12Hour
+	Time Units 0 24Hour 1 12Hour
 	Voice Command Button On Left Stock Active
 	Volume Units
 	Wiper Intermittent Speed

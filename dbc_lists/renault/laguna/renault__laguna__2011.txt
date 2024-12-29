@@ -15,11 +15,11 @@ Signal Descriptions:
 	Brake Park Disengaged
 	Brake Park Engaged
 	Car Lifetime
-	Crash Event Hazards On  Lock  Unlock Active
+	Crash Event Hazards On Lock Unlock Active
 	Crash Event Lock Unlocked Active
 	Distance Remaining Until Refuelling
 	Distance Remaining Until Service Required
-	Door Driver Open  Instrument Cluster Warning Apply Park Brake
+	Door Driver Open Instrument Cluster Warning Apply Park Brake
 	Door Front Right Passenger Open
 	Engine Coolant Temperature
 	Engine Immobiliser Active
@@ -70,8 +70,6 @@ Signal Descriptions:
 	Instrument Cluster Prompt Traction Control Indicator Active
 	Instrument Cluster Prompt Welcome Message
 	Instrument Cluster Secondary Chime Active
-	Instrument Cluster Tell Tale  Warning Braking System Fault
-	Instrument Cluster Tell Tale  Warning Park Brake Active
 	Instrument Cluster Tell Tale Abs On
 	Instrument Cluster Tell Tale Abs On Flashing 2 X Per Second
 	Instrument Cluster Tell Tale Abs On Flashing Every Second
@@ -85,6 +83,8 @@ Signal Descriptions:
 	Instrument Cluster Tell Tale Stop Left Rear Tyre Fault
 	Instrument Cluster Tell Tale Stop Right Front Tyre Fault
 	Instrument Cluster Tell Tale Stop Right Rear Tyre Fault
+	Instrument Cluster Tell Tale Warning Braking System Fault
+	Instrument Cluster Tell Tale Warning Park Brake Active
 	Instrument Cluster Warning Apply Park Brake
 	Instrument Cluster Warning Door Driver Open
 	Instrument Cluster Warning Door Front Right Open
@@ -167,9 +167,9 @@ Signal Descriptions:
 	Tell Tale Instrument Cluster Door Rear Left Open
 	Tell Tale Instrument Cluster Door Rear Right Open
 	Tell Tale Seatbelt Front Left Unfastened
-	Tell Tale Seatbelt Front Left Unfastened  Intermittent Beeping
+	Tell Tale Seatbelt Front Left Unfastened Intermittent Beeping
 	Tell Tale Seatbelt Front Right Unfastened
-	Tell Tale Seatbelt Front Right Unfastened  Intermittent Beeping
+	Tell Tale Seatbelt Front Right Unfastened Intermittent Beeping
 	Tpms Front Left Tyre Pressure
 	Tpms Front Right Tyre Pressure
 	Tpms Rear Left Tyre Pressure
@@ -184,8 +184,8 @@ Signal Descriptions:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 	Wheels Front Average Speed
-	Window Driver  Side Mirrors In Motion
-	Window Driver  Side Mirrors Stationary
+	Window Driver Side Mirrors In Motion
+	Window Driver Side Mirrors Stationary
 	Window Front Right Passenger Switch Status
 	Window Rear Left Switch Status
 	Window Rear Right Switch Status

@@ -1,9 +1,9 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Expedition' (2016)
 Signal Descriptions:
-	 Abs Vehicle Speed
 	Abs Chime
 	Abs Tell Tale
+	Abs Vehicle Speed
 	Ac Clutch On
 	Ac High Side Pressure
 	Ac Recycle Request

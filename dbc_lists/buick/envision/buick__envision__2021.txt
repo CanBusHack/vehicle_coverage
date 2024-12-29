@@ -90,7 +90,7 @@ Signal Descriptions:
 	Vin Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4Wd Active
+	4Wd Active
 	Auto Hold Button Pressed
 	Cruise Active
 	Cruise Ready

@@ -122,7 +122,7 @@ Signal Descriptions:
 	Engine Speed
 	Engine Status
 	Engine Torque Output
-	Engine Torque Which Not In St 
+	Engine Torque Which Not In St
 	Engine Turning Off
 	Esp Abs Active
 	Esp Abs Fault
@@ -207,7 +207,7 @@ Signal Descriptions:
 	Pedal Brake Signal Integrity
 	Pedal Brake Vacuum Pressure
 	Pedal Clutch Position
-	Pedal Clutch Potentiometer Voltage Scale 
+	Pedal Clutch Potentiometer Voltage Scale
 	Performance Mode
 	Power Mode Accessory
 	Power Mode Engine Cranking

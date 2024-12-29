@@ -30,8 +30,8 @@ Signal Descriptions:
 	Lights High Beams Passing Active
 	Lights Lowbeam Active
 	Lights Sidelights Active
-	Lights Stalk Left  Set To Downward Position Left Turn Signal Active
-	Lights Stalk Left  Set To Upward Position Right Turn Signal Active
+	Lights Stalk Left Set To Downward Position Left Turn Signal Active
+	Lights Stalk Left Set To Upward Position Right Turn Signal Active
 	Lights Turn Signal Left Active
 	Lights Turn Signal Right Active
 	Lock Up Solenoid Status
@@ -60,7 +60,7 @@ Signal Descriptions:
 	Throttle Position
 	Total Minutes Of The Day
 	Vehicle Speed
-	Vehicle Trip Time  Time Since Last Ignition Cycle
+	Vehicle Trip Time Time Since Last Ignition Cycle
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

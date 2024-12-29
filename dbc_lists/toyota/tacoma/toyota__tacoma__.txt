@@ -1,9 +1,9 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Toyota 'Tacoma' ()
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -41,7 +41,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -84,7 +84,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -267,7 +267,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -363,9 +363,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -403,7 +403,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -446,7 +446,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -629,7 +629,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -725,9 +725,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -765,7 +765,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -808,7 +808,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -991,7 +991,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -1087,9 +1087,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -1127,7 +1127,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -1170,7 +1170,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -1353,7 +1353,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -1449,9 +1449,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -1489,7 +1489,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -1532,7 +1532,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -1715,7 +1715,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -1811,9 +1811,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -1851,7 +1851,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -1894,7 +1894,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -2077,7 +2077,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
@@ -2173,9 +2173,9 @@ Signal Descriptions:
 	V I N Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 4 Requested Engine Torque
+	4 Requested Engine Torque
 	Real Engine Torque
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -2213,7 +2213,7 @@ Signal Descriptions:
 	Blind Spot Monitor On 2
 	Blower Position
 	Body Control Lock Commands
-	Brake  Message
+	Brake Message
 	Brake Not Pressed
 	Brake Pressure
 	Brake Switch Pressed
@@ -2256,7 +2256,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
-	Drcc Rsa  Option Change
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -2439,7 +2439,7 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan No1  Ig B Act
+	Relay Fan No1 Ig B Act
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed

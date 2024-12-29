@@ -56,7 +56,7 @@ Signal Descriptions:
 	Rear Left Corner Radar Distance
 	Rear Radar Distance Indicator Im
 	Rear Right Corner Radar Distance
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Shifting
 	Signal 1
 	Signal 2
@@ -296,7 +296,7 @@ Signal Descriptions:
 	Adjusting Front Radar Beam Message
 	B R A K E Message 1
 	B R A K E Message 2
-	B S M Brightness Setting Change  A
+	B S M Brightness Setting Change A
 	B S M Option Changed Active
 	B S M Sensitivity Setting Change
 	Brake Switch Pressed
@@ -305,13 +305,13 @@ Signal Descriptions:
 	Check Brake System B R A K E
 	Check Park Sonar System Message
 	Clean Park Sonar Message
-	Climate System Active  A D D E D
+	Climate System Active A D D E D
 	Coolant Temp
-	Cruise Cancel Button Pressed  Ch
-	Cruise Control Status  Check
-	Cruise Control Target Speed  Che
-	Cruise R E S Button Pressed  Check
-	Cruise Set Button Pressed  Check
+	Cruise Cancel Button Pressed Ch
+	Cruise Control Status Check
+	Cruise Control Target Speed Che
+	Cruise R E S Button Pressed Check
+	Cruise Set Button Pressed Check
 	Current Key Cycle Elapsed Time
 	Dash Alert Sound
 	Diagnosis Code A W D Message
@@ -341,7 +341,7 @@ Signal Descriptions:
 	Gear Indicator Reverse
 	Gear Indicator Sport
 	Ignition Button Pressed State
-	Ignition Cycle Count  A D D E D
+	Ignition Cycle Count A D D E D
 	Key Fob Warning Prompts
 	L D A Amber Indicator 1
 	L D A Amber Indicator 2
@@ -372,9 +372,9 @@ Signal Descriptions:
 	Pre Collision System Unavailable
 	Pre Collision System Unavailable
 	Pre Collision System Unavailable
-	R C D Option Change Active  A D D E D
+	R C D Option Change Active A D D E D
 	R C T A Change Active
-	R C T A Volume Setting Change  A D D E
+	R C T A Volume Setting Change A D D E
 	Rear Left Corner Radar Distance
 	Rear Radar Distance Indicator Im
 	Rear Right Corner Radar Distance

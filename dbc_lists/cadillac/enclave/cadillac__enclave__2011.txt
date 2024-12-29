@@ -1,16 +1,15 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Cadillac 'Enclave' (2011)
 Signal Descriptions:
-	 Sensor Fault Tell Tale
 	Air Conditioning Compressor Displacement
 	Air Conditioning Compressor Engine Run
 	Air Conditioning Compressor Failed On
 	Air Conditioning Compressor Mode
 	Air Conditioning Compressor Normal Load
 	Airbag Failed Tell Tale
-	Airbag Indication  Tell Tale
-	Airbag Indication  Tell Tale Flash Period
+	Airbag Indication Tell Tale
 	Airbag Indication Tell Tale Duty Cycle
+	Airbag Indication Tell Tale Flash Period
 	Alarm Failure
 	Alarm Horn On
 	Alarm Shock Sensor Trigger
@@ -181,6 +180,7 @@ Signal Descriptions:
 	Remote Vehicle Start
 	Right Lane Dep Warn State
 	Right Turn L Active
+	Sensor Fault Tell Tale
 	Serv Lane Departure Warning Sys Tell Tale Act
 	Service Air Conditioning System Tell Tale
 	Service Alarm System Tell Tale
@@ -212,8 +212,6 @@ Signal Descriptions:
 	Windshield Wiper Rain Sensor Control On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Air Fuel Ratio
-	 Front Lighting System Fault Tel
 	Abs Active
 	Absolute Barometric Pressure
 	Absolute Barometric Pressure Val
@@ -230,6 +228,7 @@ Signal Descriptions:
 	Air Conditioning Compressor Comm
 	Air Conditioning High Side Pres
 	Air Conditioning Off Tell Tale
+	Air Fuel Ratio
 	All Wheel Drive System Status
 	Antilock Brake System Active
 	Antilock Brake System Failed
@@ -266,8 +265,8 @@ Signal Descriptions:
 	Engine Cooling Fan Speed
 	Engine Cylinder Deactivation Eve
 	Engine Cylinder Deactivation Mod
-	Engine Hot  Stop Engine Tell Tale
 	Engine Hot Fuel Enrichment Tell
+	Engine Hot Stop Engine Tell Tale
 	Engine Idle
 	Engine Intake Air Boost Pressure
 	Engine Intake Temperature
@@ -296,6 +295,7 @@ Signal Descriptions:
 	Engine Torque Minimum Range
 	Engine Water In Fuel Tell Tale
 	Front Differential
+	Front Lighting System Fault Tel
 	Fuel Consumption Rate
 	Fuel Control System Fault Tellta
 	Fuel Delivery Pressure

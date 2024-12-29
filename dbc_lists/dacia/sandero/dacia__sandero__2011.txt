@@ -70,7 +70,7 @@ Signal Descriptions:
 	Fuel Rail Pressure Sensor Open Circuit Disconnected
 	Gear Lever Position Neutral
 	Gear Reverse Engaged
-	Gear Reverse Engaged 0  True When Car Off
+	Gear Reverse Engaged 0 True When Car Off
 	Gear Reverse Not Engaged
 	Gearbox Manual Position Not Neutral
 	Hazards Test Request In Progress

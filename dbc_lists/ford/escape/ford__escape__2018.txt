@@ -1,7 +1,6 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Escape' (2018)
 Signal Descriptions:
-	 Fix Width Car Mode
 	Abs Fault
 	Abs Tell Tale
 	Ac Compressor
@@ -75,7 +74,7 @@ Signal Descriptions:
 	Daytime Running Lights State
 	Deflate Detection System Init
 	Deflation Detection System Info
-	Doors Locked 1  True
+	Doors Locked 1 True
 	Dpf Percent Regen
 	Dpf State
 	Driven Wheel Rear Torque Max
@@ -106,6 +105,7 @@ Signal Descriptions:
 	Eps Steering Angle Status
 	Esc Test Mode On
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Front Passenger Detected
 	Front Passenger Window Closed
 	Front Passenger Window Open
@@ -271,7 +271,6 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Fix Width Car Mode
 	Abs Active
 	Abs Tell Tale
 	Acc Brake Torque Min Active
@@ -351,6 +350,7 @@ Signal Descriptions:
 	Eps Steering Angle Status
 	Esc Test Mode On
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Front Left Wheel Pulses
 	Front Passenger Detected
 	Front Right Wheel Pulses
@@ -506,8 +506,6 @@ Signal Descriptions:
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Fix Width Car Mode
-	 Reverse Gear Active
 	Abs Active
 	Abs Fault
 	Ac Compressor
@@ -621,6 +619,7 @@ Signal Descriptions:
 	Eps Steering Angle Limit
 	Eps Steering Angle Status
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Flex Fuel Mixture
 	Forward Coll Warning Audio On Button
 	Forward Coll Warning Button
@@ -712,6 +711,7 @@ Signal Descriptions:
 	Rear Passenger Seatbelt
 	Rear Passenger Seatbelt Airbag
 	Rear Right Wheel Pulses
+	Reverse Gear Active
 	Right Front Tpms State
 	Right Front Wheel Speed
 	Right Rear Center Park Aid Senso

@@ -223,7 +223,7 @@ Signal Descriptions:
 	Settings Lane Control Strength
 	Settings Rain Sensing Wipers On
 	Settings Reset Trip B
-	Settings Time  Date 12 Hrs Clock Set
+	Settings Time Date 12 Hrs Clock Set
 	Settings Traffic Sign Assist On
 	Settings Units Consumption
 	Settings Units Temperature Set To Fahrenheit

@@ -382,7 +382,7 @@ Signal Descriptions:
 	Seat Front Passenger Occupant Sensor Status
 	Seat Front Passenger Occupant Status
 	Seat Front Passenger Vented Command
-	Seat Heater W  Command
+	Seat Heater W Command
 	Seatbelt Front Driver Status
 	Seatbelt Front Passenger Status
 	Spin Direction Front Left

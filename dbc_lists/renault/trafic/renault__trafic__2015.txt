@@ -8,15 +8,15 @@ Signal Descriptions:
 	Airbag Passenger Off
 	Alternator Load
 	Ambient Air Temperature
-	Auto Stop  Start Deactivated
 	Auto Stop In Action
 	Auto Stop Not In Action
+	Auto Stop Start Deactivated
 	Battery Voltage
 	Brake Park Engaged
 	Calculated Engine Load
 	Canister Bleed Obd Released
 	Car Life
-	Central Lock Active  Hazard Lights On Similar To Key Fob 2 X Press
+	Central Lock Active Hazard Lights On Similar To Key Fob 2 X Press
 	Central Lock Active Similar To Key Fob 1 Press
 	Coolant Temperature Sensor Open Circuit
 	Defroster Rear Windshield Active
@@ -64,23 +64,23 @@ Signal Descriptions:
 	Instrument Cluster Prompt Mode Automatic Active
 	Instrument Cluster Prompt Rear Left Tyre Flat
 	Instrument Cluster Prompt Rear Right Tyre Flat
-	Instrument Cluster Prompt Stop  Start Active Displayed
-	Instrument Cluster Prompt Stop  Start Inactive Displayed
+	Instrument Cluster Prompt Stop Start Active Displayed
+	Instrument Cluster Prompt Stop Start Inactive Displayed
 	Instrument Cluster Tell Tale Abs Indicator Active
-	Instrument Cluster Tell Tale Abs Indicator Flashing Once Per S  Prompt Esc Deactivated Active
-	Instrument Cluster Tell Tale Abs Indicator Flashing Twice Per S  Prompt Esc Deactivated Active
-	Instrument Cluster Tell Tale Airbag Indicator  Prompt Check Airbag Active
-	Instrument Cluster Tell Tale Battery Indicator  Stop Indicator  Beeping  Prompt Battery Charge Fail Active
-	Instrument Cluster Tell Tale Beep Sound  Prompt Cut Contact Active
+	Instrument Cluster Tell Tale Abs Indicator Flashing Once Per S Prompt Esc Deactivated Active
+	Instrument Cluster Tell Tale Abs Indicator Flashing Twice Per S Prompt Esc Deactivated Active
+	Instrument Cluster Tell Tale Airbag Indicator Prompt Check Airbag Active
+	Instrument Cluster Tell Tale Battery Indicator Stop Indicator Beeping Prompt Battery Charge Fail Active
+	Instrument Cluster Tell Tale Beep Sound Prompt Cut Contact Active
 	Instrument Cluster Tell Tale Beeping Sound Active 2 X Beeps Per Second
-	Instrument Cluster Tell Tale Egr  Beeping Sound  0 Km Blockage Anti Pollution Active
-	Instrument Cluster Tell Tale Egr  Beeping Sound  Prompt 0 Km Blockage Add Adblue Active
-	Instrument Cluster Tell Tale Egr  Prompt Add Adblue Active
-	Instrument Cluster Tell Tale Egr  Service Indicator  Prompt Check Air Pollution Active
-	Instrument Cluster Tell Tale Egr  Service Indicator Active
 	Instrument Cluster Tell Tale Egr Active
+	Instrument Cluster Tell Tale Egr Beeping Sound 0 Km Blockage Anti Pollution Active
+	Instrument Cluster Tell Tale Egr Beeping Sound Prompt 0 Km Blockage Add Adblue Active
+	Instrument Cluster Tell Tale Egr Prompt Add Adblue Active
+	Instrument Cluster Tell Tale Egr Service Indicator Active
+	Instrument Cluster Tell Tale Egr Service Indicator Prompt Check Air Pollution Active
 	Instrument Cluster Tell Tale Engine Malfunction Indicator Active
-	Instrument Cluster Tell Tale Esc Indicator Flashing  Prompt Esc Deactivated Active
+	Instrument Cluster Tell Tale Esc Indicator Flashing Prompt Esc Deactivated Active
 	Instrument Cluster Tell Tale Front Right Low Tyre Pressure Indicator Active
 	Instrument Cluster Tell Tale Gear Down
 	Instrument Cluster Tell Tale Gear Up
@@ -92,19 +92,19 @@ Signal Descriptions:
 	Instrument Cluster Tell Tale Prompt Service Required Active
 	Instrument Cluster Tell Tale Rear Left Low Tyre Pressure Indicator Active
 	Instrument Cluster Tell Tale Rear Right Low Tyre Pressure Indicator Active
-	Instrument Cluster Tell Tale Service  Airbag Indicator  Prompt Check Airbag Active
-	Instrument Cluster Tell Tale Service Indicator  Esc Indicator  Prompt Esc Deactivated Active
-	Instrument Cluster Tell Tale Service Indicator  Prompt Check Injection Controller Active
-	Instrument Cluster Tell Tale Service Indicator  Prompt Check Injection Controller Active
-	Instrument Cluster Tell Tale Service Indicator  Prompt Check Vehicle Active
+	Instrument Cluster Tell Tale Service Airbag Indicator Prompt Check Airbag Active
 	Instrument Cluster Tell Tale Service Indicator Active
+	Instrument Cluster Tell Tale Service Indicator Esc Indicator Prompt Esc Deactivated Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Injection Controller Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Injection Controller Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Vehicle Active
 	Instrument Cluster Tell Tale Sport Mode Displayed
-	Instrument Cluster Tell Tale Stop  Start Indicator Constant Active Not Flashing
-	Instrument Cluster Tell Tale Stop  Start Indicator Flashing Active
-	Instrument Cluster Tell Tale Stop  Start Strikethrough Indicator Constant Active Not Flashing
-	Instrument Cluster Tell Tale Stop Indicator  Beeping Sound  Prompt Risk Of Engine Failure Active
-	Instrument Cluster Tell Tale Temperature Indicator  Stop Indicator  Beeping Sound  Prompt Risk Of Engine Failure Active
-	Instrument Cluster Tell Tale Traction Control Indicator  Prompt Mode Sol Meuble Active Translate
+	Instrument Cluster Tell Tale Stop Indicator Beeping Sound Prompt Risk Of Engine Failure Active
+	Instrument Cluster Tell Tale Stop Start Indicator Constant Active Not Flashing
+	Instrument Cluster Tell Tale Stop Start Indicator Flashing Active
+	Instrument Cluster Tell Tale Stop Start Strikethrough Indicator Constant Active Not Flashing
+	Instrument Cluster Tell Tale Temperature Indicator Stop Indicator Beeping Sound Prompt Risk Of Engine Failure Active
+	Instrument Cluster Tell Tale Traction Control Indicator Prompt Mode Sol Meuble Active Translate
 	Instrument Cluster Trip Information Average Fuel Consumption Per 100Km
 	Instrument Cluster Trip Information Average Speed
 	Instrument Cluster Trip Information Distance Traveled On Trip
@@ -124,7 +124,7 @@ Signal Descriptions:
 	Oil Change Range
 	Park Brake Disengaged
 	Pedal Accelerator Position
-	Pedal Accelerator Position Scalar  0 125
+	Pedal Accelerator Position Scalar 0 125
 	Pedal Accelerator Switch Pressed
 	Pedal Brake Pressed
 	Pedal Brake Pressure

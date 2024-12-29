@@ -20,7 +20,7 @@ Signal Descriptions:
 	Battery State Of Charge
 	Battery Voltage
 	Car Lifetime
-	Computer  After Ignition Present
+	Computer After Ignition Present
 	Crankshaft Synchronisation Correct
 	Crankshaft Synchronisation Incorrect
 	Crash Event Hazards And Unlock

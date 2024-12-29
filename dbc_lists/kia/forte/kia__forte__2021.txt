@@ -146,7 +146,7 @@ Signal Descriptions:
 	Traction Control Off
 	Traction Control On
 	Vehicle Speed
-	Wheel Speed 1  Front Right
-	Wheel Speed 2  Front Left
-	Wheel Speed 3  Rear Right
+	Wheel Speed 1 Front Right
+	Wheel Speed 2 Front Left
+	Wheel Speed 3 Rear Right
 	Wheel Speed 4 Rear Left

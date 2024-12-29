@@ -129,7 +129,7 @@ Signal Descriptions:
 	Flat Tire Notification Left Rear Active
 	Flat Tire Notification Right Front Active
 	Flat Tire Notification Right Rear Active
-	Forward And Rearward G  Longitudinal
+	Forward And Rearward G Longitudinal
 	Front Deicer
 	Green Cruise Control Tell Tale
 	H V A C Eco Mode Toggle
@@ -224,8 +224,8 @@ Signal Descriptions:
 	B S M State Change In Progress
 	Blind Spot Monitor On Off 1
 	Blind Spot Monitor On Off 2
-	Brake  Alert 1
-	Brake  Alert 2
+	Brake Alert 1
+	Brake Alert 2
 	Current Display Units Kilometers
 	Current Display Units Miles
 	Current Key Cycle Elapsed Time
@@ -288,7 +288,7 @@ Signal Descriptions:
 	R S A Displayed State
 	Rear Left Door Ajar
 	Rear Right Door Ajar
-	Roll Gradient  Left To Right
+	Roll Gradient Left To Right
 	Shifter Position
 	Steering Control Indicator Active
 	Steering Select Button Status B S M Selecting
@@ -320,10 +320,10 @@ Signal Descriptions:
 	Cabin Fan Speed Eco Toggle Command
 	Cabin Fan Speed Up Command
 	D Pad Left Side Of Steering Wheel Any Button Being Pressed
-	Depress Brake When Vehicle Is Stopped  Hybrid System May Overheat
+	Depress Brake When Vehicle Is Stopped Hybrid System May Overheat
 	Display Brightness Change Active
-	Display Brightness Level  D U P
-	Display Brightness Level  Du P
+	Display Brightness Level D U P
+	Display Brightness Level Du P
 	Driver Door Lock State
 	Driver Side Sun Sensor
 	Driver Window Position Changing Active

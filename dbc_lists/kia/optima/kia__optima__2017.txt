@@ -111,8 +111,8 @@ Signal Descriptions:
 	Key On
 	Lateral Acceleration
 	Left Turn Signal
-	Long Term Fuel Trim  Bank 1
-	Long Term Fuel Trim  Bank 2
+	Long Term Fuel Trim Bank 1
+	Long Term Fuel Trim Bank 2
 	Longitudinal Acceleration
 	Maximum Torque
 	Mil Lamp Active
@@ -133,8 +133,8 @@ Signal Descriptions:
 	Requested Torque
 	Right Turn Signal
 	Selected Gear
-	Short Term Fuel Trim  Bank 1
-	Short Term Fuel Trim  Bank 2
+	Short Term Fuel Trim Bank 1
+	Short Term Fuel Trim Bank 2
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Sun Roof Open

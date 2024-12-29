@@ -135,7 +135,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime
@@ -234,8 +234,8 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 120V Outlet Generator Mode On
-	 120V Outlet Low Powermode On
+	120V Outlet Generator Mode On
+	120V Outlet Low Powermode On
 	Ac Recirculation
 	Accelerator Pedal Position
 	Accelerator Pedal Rate Of Change
@@ -318,7 +318,7 @@ Signal Descriptions:
 	Left Side Park Sensor 1
 	Left Side Park Sensor 2
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights Fog Lights Active
 	Lights High Beams Active
@@ -538,7 +538,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime
@@ -1066,7 +1066,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime
@@ -1742,7 +1742,7 @@ Signal Descriptions:
 	Engine Speed
 	Engine Status
 	Engine Torque Output
-	Engine Torque Which Not In St 
+	Engine Torque Which Not In St
 	Engine Turning Off
 	Esp Abs Active
 	Esp Abs Fault
@@ -1827,7 +1827,7 @@ Signal Descriptions:
 	Pedal Brake Signal Integrity
 	Pedal Brake Vacuum Pressure
 	Pedal Clutch Position
-	Pedal Clutch Potentiometer Voltage Scale 
+	Pedal Clutch Potentiometer Voltage Scale
 	Performance Mode
 	Power Mode Accessory
 	Power Mode Engine Cranking
@@ -1968,9 +1968,9 @@ Signal Descriptions:
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Abs Vehicle Speed
 	Abs Chime
 	Abs Tell Tale
+	Abs Vehicle Speed
 	Ac Clutch On
 	Ac High Side Pressure
 	Ac Recycle Request
@@ -2308,7 +2308,6 @@ Signal Descriptions:
 	Very Low State Of Charge
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Fix Width Car Mode
 	Abs Fault
 	Abs Tell Tale
 	Ac Compressor
@@ -2382,7 +2381,7 @@ Signal Descriptions:
 	Daytime Running Lights State
 	Deflate Detection System Init
 	Deflation Detection System Info
-	Doors Locked 1  True
+	Doors Locked 1 True
 	Dpf Percent Regen
 	Dpf State
 	Driven Wheel Rear Torque Max
@@ -2413,6 +2412,7 @@ Signal Descriptions:
 	Eps Steering Angle Status
 	Esc Test Mode On
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Front Passenger Detected
 	Front Passenger Window Closed
 	Front Passenger Window Open
@@ -2578,7 +2578,6 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Fix Width Car Mode
 	Abs Active
 	Abs Tell Tale
 	Acc Brake Torque Min Active
@@ -2658,6 +2657,7 @@ Signal Descriptions:
 	Eps Steering Angle Status
 	Esc Test Mode On
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Front Left Wheel Pulses
 	Front Passenger Detected
 	Front Right Wheel Pulses
@@ -2813,8 +2813,6 @@ Signal Descriptions:
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 Fix Width Car Mode
-	 Reverse Gear Active
 	Abs Active
 	Abs Fault
 	Ac Compressor
@@ -2928,6 +2926,7 @@ Signal Descriptions:
 	Eps Steering Angle Limit
 	Eps Steering Angle Status
 	Exterior Lights Switch Position
+	Fix Width Car Mode
 	Flex Fuel Mixture
 	Forward Coll Warning Audio On Button
 	Forward Coll Warning Button
@@ -3019,6 +3018,7 @@ Signal Descriptions:
 	Rear Passenger Seatbelt
 	Rear Passenger Seatbelt Airbag
 	Rear Right Wheel Pulses
+	Reverse Gear Active
 	Right Front Tpms State
 	Right Front Wheel Speed
 	Right Rear Center Park Aid Senso
@@ -3767,8 +3767,8 @@ Signal Descriptions:
 	Yaw Rate Nonlinear
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 120V Outlet Generator Mode On
-	 120V Outlet Low Powermode On
+	120V Outlet Generator Mode On
+	120V Outlet Low Powermode On
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -4139,7 +4139,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights Fog Lights Active
 	Lights High Beams Active
@@ -4370,7 +4370,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime

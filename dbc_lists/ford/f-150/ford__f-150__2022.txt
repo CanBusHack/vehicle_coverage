@@ -135,7 +135,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime
@@ -234,8 +234,8 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 120V Outlet Generator Mode On
-	 120V Outlet Low Powermode On
+	120V Outlet Generator Mode On
+	120V Outlet Low Powermode On
 	Ac Recirculation
 	Accelerator Pedal Position
 	Accelerator Pedal Rate Of Change
@@ -318,7 +318,7 @@ Signal Descriptions:
 	Left Side Park Sensor 1
 	Left Side Park Sensor 2
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights Fog Lights Active
 	Lights High Beams Active
@@ -538,7 +538,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime

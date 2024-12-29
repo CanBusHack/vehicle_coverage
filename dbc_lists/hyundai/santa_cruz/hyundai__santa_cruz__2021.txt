@@ -199,8 +199,8 @@ Signal Descriptions:
 	Key Fob Command
 	Key On
 	Lateral Acceleration
-	Long Term Fuel Trim  Bank 1
-	Long Term Fuel Trim  Bank 2
+	Long Term Fuel Trim Bank 1
+	Long Term Fuel Trim Bank 2
 	Longitudinal Acceleration
 	Low Fuel Tell Tale Active
 	Mass Air Flow
@@ -254,8 +254,8 @@ Signal Descriptions:
 	Requested Torque
 	Seatbelt Buzzer Warning Active
 	Selected Gear
-	Short Term Fuel Trim  Bank 1
-	Short Term Fuel Trim  Bank 2
+	Short Term Fuel Trim Bank 1
+	Short Term Fuel Trim Bank 2
 	Speed Limit Active
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
@@ -524,8 +524,8 @@ Signal Descriptions:
 	Key On
 	Lateral Acceleration
 	Left Turn Signal
-	Long Term Fuel Trim  Bank 1
-	Long Term Fuel Trim  Bank 2
+	Long Term Fuel Trim Bank 1
+	Long Term Fuel Trim Bank 2
 	Longitudinal Acceleration
 	Mass Air Flow Sensor
 	Maximum Torque
@@ -567,8 +567,8 @@ Signal Descriptions:
 	Requested Torque
 	Right Turn Signal
 	Selected Gear
-	Short Term Fuel Trim  Bank 1
-	Short Term Fuel Trim  Bank 2
+	Short Term Fuel Trim Bank 1
+	Short Term Fuel Trim Bank 2
 	Speed Limit Active
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient

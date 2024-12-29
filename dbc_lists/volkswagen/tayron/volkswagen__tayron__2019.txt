@@ -349,7 +349,7 @@ Signal Descriptions:
 	Time Hours
 	Time Minutes
 	Time Seconds
-	Tire Circumference  Double Check
+	Tire Circumference Double Check
 	Transmission Over Temperature Warning
 	Transmission Speed
 	Transmission Warning Active
@@ -385,7 +385,7 @@ Signal Descriptions:
 	Dates Units
 	Distance Speed Index
 	Distance Units Imperial Selected
-	Distance Units Km 0 Mi  1
+	Distance Units Km 0 Mi 1
 	Foot On Brake Tell Tale Active
 	Infotainment Screen Pressed
 	Instrument Cluster And Panel Lighting Setting
@@ -400,7 +400,7 @@ Signal Descriptions:
 	Speed Units 0 Km H 1 Mph
 	Speed Units Imperial Selected
 	Temp Units C 0 F 1
-	Time Units 0  24Hour 1 12Hour
+	Time Units 0 24Hour 1 12Hour
 	Time Zone Setting Index Value
 	Volume Level
 	Volume Units

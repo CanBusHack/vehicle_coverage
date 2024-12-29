@@ -95,7 +95,7 @@ Signal Descriptions:
 	Parking Brake Tell Tale Active
 	Pedal Accelerator Position
 	Pedal Accelerator Position
-	Pedal Accelerator Position D  Double Check
+	Pedal Accelerator Position D Double Check
 	Pedal Clutch Position
 	Power Mode Status
 	Power Mode Status

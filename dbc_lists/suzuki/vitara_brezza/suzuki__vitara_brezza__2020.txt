@@ -227,7 +227,7 @@ Signal Descriptions:
 	Tire Pressure Tell Tale Active
 	Tpms Mode System Setting Changing To
 	Tpms System Active
-	Tpms System Setting Load Mode 1 Comfort Mode  0
+	Tpms System Setting Load Mode 1 Comfort Mode 0
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Traction Control Tell Tale Blinking Active
@@ -259,7 +259,7 @@ Signal Descriptions:
 	Ev Drive Sound Off Tell Tale Active
 	Field Current Limit
 	Li Battery High Temperature Status
-	Li Battery Internal Resistor Detecting Control Active Request 1  True With Desorption 0  No Request
+	Li Battery Internal Resistor Detecting Control Active Request 1 True With Desorption 0 No Request
 	Li Battery Low Temperature Status
 	Li Battery Temperature
 	Odometer

@@ -158,7 +158,7 @@ Signal Descriptions:
 	Left Side Turn Light Active
 	Left Turn Lamp
 	Lights Bed Flood Light Set To Off Buy Switch
-	Lights Bed Flood Light Turn On With Door Open 0  True
+	Lights Bed Flood Light Turn On With Door Open 0 True
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime

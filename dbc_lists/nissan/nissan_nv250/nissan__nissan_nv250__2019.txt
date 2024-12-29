@@ -361,7 +361,7 @@ Signal Descriptions:
 	Radar System Currently Unavailable Dash Prompt Active
 	Rear Center
 	Rear Left Corner
-	Rear Right Corner Red  4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
+	Rear Right Corner Red 4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
 	Right Yellow Lane Keep Line Blinking Active
 	Side Radar Blinking Tell Tale Active
 	Side Radar Malfunction See Owners Manual Dash Prompt Active

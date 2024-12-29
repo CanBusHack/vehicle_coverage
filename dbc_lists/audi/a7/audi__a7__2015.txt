@@ -107,14 +107,14 @@ Signal Descriptions:
 	Cold Start
 	Consumption Units
 	Cruise Control Set Button Pressed
-	Cruise Control Stock  Pressed 1
-	Cruise Control Stock  Pressed 2
+	Cruise Control Stock Pressed 1
+	Cruise Control Stock Pressed 2
 	Cruise Control Stock Resume Pressed
 	Cruise Control Stock To Off Position
 	Current Gear
 	Dates Units
 	Display Engine Speed
-	Distance Units Km 0 Mi  1
+	Distance Units Km 0 Mi 1
 	Dpf Installed
 	Driver Heated Seat Setting
 	Driving Cycle
@@ -145,7 +145,7 @@ Signal Descriptions:
 	Speed Units 0 Km H 1 Mph
 	Start Stop Button Pressed
 	Temp Units C 0 F 1
-	Time Units 0  24Hour 1 12Hour
+	Time Units 0 24Hour 1 12Hour
 	Transmission Over Temperature Warning
 	Vehicle Front Left Being Adjusted
 	Vehicle Front Right Being Adjusted

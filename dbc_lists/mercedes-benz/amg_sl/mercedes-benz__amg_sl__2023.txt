@@ -336,8 +336,8 @@ Signal Descriptions:
 	Left Window Open Percentage
 	Malfunction Service Required Dash Prompt
 	Manual Mode
-	Open  Close Vario Roof Completely Message In Red
-	Open  Close Vario Roof Completely Message In White
+	Open Close Vario Roof Completely Message In Red
+	Open Close Vario Roof Completely Message In White
 	P M Active
 	Park Assist Button Active
 	Passenger Cooled Seat Level

@@ -18,7 +18,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -55,8 +55,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -111,8 +111,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -137,10 +137,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -156,7 +156,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -182,7 +182,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -194,7 +194,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -258,8 +258,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -294,7 +294,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -326,11 +326,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -353,11 +353,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -411,7 +411,7 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -432,7 +432,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -469,8 +469,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -525,8 +525,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -551,10 +551,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -570,7 +570,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -596,7 +596,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -608,7 +608,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -672,8 +672,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -708,7 +708,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -740,11 +740,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -767,11 +767,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -825,7 +825,7 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -846,7 +846,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -883,8 +883,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -939,8 +939,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -965,10 +965,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -984,7 +984,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -1010,7 +1010,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -1022,7 +1022,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -1086,8 +1086,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -1122,7 +1122,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -1154,11 +1154,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -1181,11 +1181,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -1239,7 +1239,7 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -1260,7 +1260,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -1297,8 +1297,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -1353,8 +1353,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -1379,10 +1379,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -1398,7 +1398,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -1424,7 +1424,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -1436,7 +1436,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -1500,8 +1500,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -1536,7 +1536,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -1568,11 +1568,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -1595,11 +1595,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -1653,7 +1653,7 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -1674,7 +1674,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -1711,8 +1711,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -1767,8 +1767,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -1793,10 +1793,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -1812,7 +1812,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -1838,7 +1838,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -1850,7 +1850,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -1914,8 +1914,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -1950,7 +1950,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -1982,11 +1982,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -2009,11 +2009,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -2067,7 +2067,7 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -2088,7 +2088,7 @@ Signal Descriptions:
 	Ac Compressor Requested On
 	Ac Compressor Status
 	Ac High Pressure
-	Accelerator Pedal Position  Throttle Pedal Position
+	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
 	Adaptive Cruise Control Enabled 2
@@ -2125,8 +2125,8 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp  Status
-	Clutch Pedal Position  Manual Transmission Only
+	Catalyst Temperature Overtemp Status
+	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On
 	Collision Preparation System Failed Tell Tale On
@@ -2181,8 +2181,8 @@ Signal Descriptions:
 	Fan Speed Engine Coolant Percent
 	Flash To Pass
 	Fog Light Status
-	Following Distance  Front Radar
-	Following Time  Front Radar
+	Following Distance Front Radar
+	Following Time Front Radar
 	Forward Braking Reason Adaptive Cruise Requested
 	Forward Braking Reason Collision Avoidance Requested
 	Forward Braking Request From External Device Trailer
@@ -2207,10 +2207,10 @@ Signal Descriptions:
 	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
-	Handbrake  Park Brake Switch
+	Handbrake Park Brake Switch
 	Heading Of Compass
 	Headlight Switch State
-	High  Low Beam Switch On Off
+	High Low Beam Switch On Off
 	Hill Hold Mode
 	Ignition Position
 	Instrument Panel Display Intensity
@@ -2226,7 +2226,7 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status  Left Rear Door Status Yy
+	Left Sliding Door Status Left Rear Door Status Yy
 	Lf Tire Pressure
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
@@ -2252,7 +2252,7 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request  Shift Level Position
+	Prndl Display Request Shift Level Position
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
@@ -2264,7 +2264,7 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status  Right Rear Door Status Yy
+	Right Sliding Door Status Right Rear Door Status Yy
 	Rr Tire Pressure
 	Scr Denox Urea Def Tank Level
 	Scr Tank Level
@@ -2328,8 +2328,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	 2Nd Row Seatbelt Lh
-	 2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt Lh
+	2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -2364,7 +2364,7 @@ Signal Descriptions:
 	Driver Seatbelt Pretensioner
 	Drowsy Driver Alert Setting Request
 	Engine Control Module Immobilizer Status
-	Engine Hot  Stop Engine Tell Tale On
+	Engine Hot Stop Engine Tell Tale On
 	Engine Hours At Idle
 	Engine Hours Driving
 	Engine Oil Hot Tell Tale On
@@ -2396,11 +2396,11 @@ Signal Descriptions:
 	Left Side Blind Spot Alert System Clean Tell Tale On
 	Left Side Blind Spot Alert System Service Tell Tale On
 	Left Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Left Side Blind Spot System Status On  Off
+	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
-	Memory Driver  Position Request
-	Mil Lamp  Charging System
+	Memory Driver Position Request
+	Mil Lamp Charging System
 	Occupant Status Passive Occupant Detection Pods
 	Oil Life Reset Req
 	Outside Air Temperature Rough
@@ -2423,11 +2423,11 @@ Signal Descriptions:
 	Right Side Blind Spot Alert System Clean Tell Tale On
 	Right Side Blind Spot Alert System Service Tell Tale On
 	Right Side Blind Spot Alert Temporarily Unavailable Tell Tale On
-	Right Side Blind Spot System Status On  Off
+	Right Side Blind Spot System Status On Off
 	Service Leveling System Tell Tale On
 	Shift Lever Position
 	Shift To Park Tell Tale On
-	Start Button  Stop Button Ignition
+	Start Button Stop Button Ignition
 	Starter Motor Activated
 	Starter Relay Disabled For Immobilization
 	Steering Assist Warning Tell Tale On
@@ -2481,5 +2481,5 @@ Signal Descriptions:
 	Trailer Braking Setting Tell Tale
 	Trailer Connected Tell Tale
 	Trailer Wiring Fault Tell Tale
-	Trim Switch Lock  Unlock
+	Trim Switch Lock Unlock
 	Truck Open Switch Active

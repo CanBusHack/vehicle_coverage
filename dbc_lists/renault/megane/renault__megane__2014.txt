@@ -89,7 +89,7 @@ Signal Descriptions:
 	Dash Prompt
 	Dash Prompt Check Keyfob Reader
 	Dash Prompt Check Lights
-	Dash Prompt Check Stop  Start
+	Dash Prompt Check Stop Start
 	Dash Prompt Declutch
 	Dash Prompt Gear Lever To Neutral
 	Dash Prompt Low Battery Start Engine

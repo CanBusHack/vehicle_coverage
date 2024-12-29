@@ -302,7 +302,7 @@ Signal Descriptions:
 	Rear Driver Window Open Length 64
 	Rear Left Corner
 	Rear Passenger Window Open Length 64
-	Rear Right Corner Red  4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
+	Rear Right Corner Red 4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
 	Right Side Steering Wheel Buttons
 	Signal 16
 	Signal 17

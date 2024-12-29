@@ -207,7 +207,7 @@ Signal Descriptions:
 	Settings Door Key Lock Auto On
 	Settings Door Key Lock When Drive Off
 	Settings Door Key Lock When Drive On
-	Settings Door Key Tailgate And Doors 1 Tailgate  0
+	Settings Door Key Tailgate And Doors 1 Tailgate 0
 	Settings Door Key Turn Off After Door Opening Off
 	Settings Door Key Turn Off After Door Opening On
 	Settings Door Key Unlock At End Of Trip Off
@@ -403,7 +403,7 @@ Signal Descriptions:
 	Door Trunk Open
 	Doors Locked
 	Doors Unlocked
-	Drive Modes  Need To Fix Or Delete
+	Drive Modes Need To Fix Or Delete
 	Driver Heated Seat Level
 	Driver Seatbelt Buckled
 	Driving Dynamics Steering Comfort

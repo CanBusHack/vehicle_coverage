@@ -1,7 +1,6 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Thalia' (2021)
 Signal Descriptions:
-	 Hazards On
 	Abs Active
 	Abs Computer Current Mileage
 	Airbag Front Right Passenger Off
@@ -68,9 +67,10 @@ Signal Descriptions:
 	Fuel Pump Off
 	Fuel Pump On
 	Gear Lever Position Neutral
-	Gear Reverse Engaged 0  True When Car Off
+	Gear Reverse Engaged 0 True When Car Off
 	Gear Reverse Not Engaged
 	Gearbox Manual Position Not Neutral
+	Hazards On
 	Hvac A C Authorisation Yes
 	Hvac Cabin Fan Speed
 	Hvac Change States
@@ -148,12 +148,12 @@ Signal Descriptions:
 	Speed Limiter Active
 	Speed Limiter On And Not Active
 	Speed Limiter Speed Set Exceeded
-	Start  Stop Button Pressed
-	Start  Stop Button Unpressed
-	Start  Stop System Activated
-	Start  Stop System Deactivated
 	Start Stop Button At Rest
 	Start Stop Button Pressed
+	Start Stop Button Pressed
+	Start Stop Button Unpressed
+	Start Stop System Activated
+	Start Stop System Deactivated
 	Steering Wheel Angle
 	Tell Tale Exhaust Particulate Filter
 	Tell Tale Instrument Cluster Abs Flashing
