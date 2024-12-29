@@ -1,22 +1,22 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Mach E' (2023)
 Signal Descriptions:
-	Ac Compressor Battery System Error State
-	Ac Compressor Battery Voltage Error State
-	Ac Compressor Internal Performance Error State
-	Ac Compressor Lost Comms Error State
-	Ac Compressor Over Temperature Error State
-	Ac Compressor Over Temperature State
-	Ac Compressor Overload Error State
-	Ac Compressor Performance Error State
-	Ac Compressor Power
-	Ac Compressor Speed
-	Ac Compressor State
-	Ac Compressor Voltage
-	Ac Compressor Voltage Error State
-	Ac Compressor Voltage State
-	Battery Pack Soc
-	Battery Pack Temp
+	AC Compressor Battery System Error State
+	AC Compressor Battery Voltage Error State
+	AC Compressor Internal Performance Error State
+	AC Compressor Lost Comms Error State
+	AC Compressor Over Temperature Error State
+	AC Compressor Over Temperature State
+	AC Compressor Overload Error State
+	AC Compressor Performance Error State
+	AC Compressor Power
+	AC Compressor Speed
+	AC Compressor State
+	AC Compressor Voltage
+	AC Compressor Voltage Error State
+	AC Compressor Voltage State
+	Battery Pack STATE OF CHARGE
+	Battery Pack Temperature
 	Brake Fluid Level
 	Brake Pedal Driver State
 	Clear Diagnostics Request Battery
@@ -42,13 +42,14 @@ Signal Descriptions:
 Signal Descriptions:
 	120V Outlet Generator Mode On
 	120V Outlet Low Powermode On
-	Abs Active
-	Ac High Side Pressure
-	Ac Recirculation
-	Acc Braking Active
-	Acc Braking Temperature Warm
-	Acc Following Distance Button Active
-	Acc Pre Fill Brake
+	ABS Active
+	AC High Side Pressure
+	AC Recirculation
+	ACC Braking Active
+	ACC Braking Temperature Warm
+	ACC Following Distance Button Active
+	ACC Pre Fill Brake
+	AM Radio Station
 	Accelerator Pedal Position
 	Accelerator Pedal Rate Of Change
 	Accessory Delay Power Active
@@ -72,9 +73,8 @@ Signal Descriptions:
 	Advanced Park Assist Button
 	Air Conditioner
 	Air Conditioning Clutch
-	Air Flow Hvac
+	Air Flow HVAC
 	Airbag Deployment Event Type
-	Am Radio Station
 	Any Turn Signal Active
 	Audio Volume Level
 	Auto High Beams Tell Tale
@@ -85,23 +85,23 @@ Signal Descriptions:
 	Automatic Speed Limiter Tell Tale
 	Backlight Level
 	Barometric Air Pressure
-	Battery Cell 01 Temp
-	Battery Cell 02 Temp
-	Battery Cell 03 Temp
-	Battery Cell 04 Temp
-	Battery Cell 05 Temp
-	Battery Cell 06 Temp
-	Battery Cell 07 Temp
-	Battery Cell 08 Temp
-	Battery Cell 09 Temp
+	Battery Cell 01 Temperature
+	Battery Cell 02 Temperature
+	Battery Cell 03 Temperature
+	Battery Cell 04 Temperature
+	Battery Cell 05 Temperature
+	Battery Cell 06 Temperature
+	Battery Cell 07 Temperature
+	Battery Cell 08 Temperature
+	Battery Cell 09 Temperature
 	Battery Cell 1 Voltage
-	Battery Cell 10 Temp
+	Battery Cell 10 Temperature
 	Battery Cell 10 Voltage
-	Battery Cell 11 Temp
+	Battery Cell 11 Temperature
 	Battery Cell 11 Voltage
-	Battery Cell 12 Temp
+	Battery Cell 12 Temperature
 	Battery Cell 12 Voltage
-	Battery Cell 13 Temp
+	Battery Cell 13 Temperature
 	Battery Cell 13 Voltage
 	Battery Cell 14 Voltage
 	Battery Cell 15 Voltage
@@ -205,21 +205,21 @@ Signal Descriptions:
 	Battery Request Vehicle Start Inhibited
 	Battery Voltage
 	Blind Spot Status Driver Side
-	Blower Status Hvac
+	Blower Status HVAC
 	Body Systems Service Req
 	Brake Apply Request
 	Brake Pedal Applied
 	Brake Pedal Signal Integrity
 	Brake Pressure
 	Brake System Pressure Offset
-	Calculated Ambient Air Temp
+	Calculated Ambient Air Temperature
 	Camera Button Active
 	Camera Defog
 	Camera Display Active
 	Charger Current
 	Charger Plugged In
 	Check Engine Light Battery System Request
-	Check Engine Light Mil
+	Check Engine Light MIL
 	Child Lock Feed Back Requested Status
 	Child Lock Power Count Switch
 	Child Lock Tell Tale
@@ -249,9 +249,9 @@ Signal Descriptions:
 	Delay Start
 	Diesel Manual Regen Requested
 	Dimming Mode Level
-	Disengage Cc From Brake
+	Disengage CC From Brake
 	Display Gear Info On Cluster
-	Display Prndl Info On Cluster
+	Display PRNDL Info On Cluster
 	Drive Efficiency Level Increment Or Decrement
 	Driver Airbag
 	Driver Curtain Airbag
@@ -267,7 +267,7 @@ Signal Descriptions:
 	Driver Seat Lower Lumbar Support
 	Driver Seat Middle Lumbar Support
 	Driver Seat Moving Active
-	Driver Seat Moving Forward D And Backward Active
+	Driver Seat Moving Forward And Backward Active
 	Driver Seat Upper Lumbar Support
 	Driver Seatbelt Airbag
 	Driver Side Airbag
@@ -277,6 +277,7 @@ Signal Descriptions:
 	E Park Assist R Steering Angle
 	E Park Assist Req Steering Angle
 	E Parking Assist System Failure
+	EV State Of Charge
 	Economy Mode Request
 	Emergency Assistant
 	Emergency Call Notification
@@ -292,7 +293,6 @@ Signal Descriptions:
 	Engine Speed
 	Engine Speed
 	Engine Speed Acceleration
-	Ev State Of Charge
 	Features Adaptive Cruise Control Enabled
 	Features Auto Running Board Timer Extended Timer Enabled
 	Features Auto Running Board Timer Standard Timer Enabled
@@ -343,51 +343,51 @@ Signal Descriptions:
 	Fuel Pump Enabled
 	Fuel Pump Inhibit Active
 	Fuel Pump State
+	GPS Altitude Above Sea Level
+	GPS B Fault
+	GPS Based Ground Speed
+	GPS Compass Direction
+	GPS Compass Heading
+	GPS HDOP
+	GPS Latitude Degrees
+	GPS Latitude Min Dec
+	GPS Latitude Minutes
+	GPS Longitude Degrees
+	GPS Longitude Min Dec
+	GPS Longitude Minutes
+	GPS UTC Day
+	GPS UTC Hours
+	GPS UTC Minutes
+	GPS UTC Month
+	GPS UTC Seconds
+	GPS VDOP
 	Gear Level Position
-	Gps Altitude Above Sea Level
-	Gps B Fault
-	Gps Based Ground Speed
-	Gps Compass Direction
-	Gps Compass Heading
-	Gps Hdop
-	Gps Latitude Degrees
-	Gps Latitude Min Dec
-	Gps Latitude Minutes
-	Gps Longitude Degrees
-	Gps Longitude Min Dec
-	Gps Longitude Minutes
-	Gps Utc Day
-	Gps Utc Hours
-	Gps Utc Minutes
-	Gps Utc Month
-	Gps Utc Seconds
-	Gps Vdop
+	HVAC AC On
+	HVAC Air Conditioning B Request
+	HVAC Air Directed To Floor Active
+	HVAC Air Directed To Upper Dash Active
+	HVAC Air Directed To Windscreen Active
+	HVAC Auto Fan Setting
+	HVAC Cabin Air Recirculation Active
+	HVAC Cabin Fan Speed Setting
+	HVAC Driver Seat Heat And Cooling
+	HVAC Driver Temperature Setting
+	HVAC Evap Temperature Actual
+	HVAC Evap Temperature Offset
+	HVAC Evap Temperature Request
+	HVAC Heated Steering Wheel
+	HVAC Internal Temperature
+	HVAC MAX AC Active
+	HVAC Passenger Seat Heat And Cooling
+	HVAC Passenger Temperature Setting
+	HVAC Rear Deicer Active
+	HVAC Recirculation Air Percentage
 	Hazards Active
 	High Beams
 	High Headlight
 	High Resolution Engine Speed
 	Hood Open
 	Hours
-	Hvac Ac On
-	Hvac Air Conditioning B Request
-	Hvac Air Directed To Floor Active
-	Hvac Air Directed To Upper Dash Active
-	Hvac Air Directed To Windscreen Active
-	Hvac Auto Fan Setting
-	Hvac Cabin Air Recirculation Active
-	Hvac Cabin Fan Speed Setting
-	Hvac Driver Seat Heat And Cooling
-	Hvac Driver Temperature Setting
-	Hvac Evap Temperature Actual
-	Hvac Evap Temperature Offset
-	Hvac Evap Temperature Request
-	Hvac Heated Steering Wheel
-	Hvac Internal Temperature
-	Hvac Max Ac Active
-	Hvac Passenger Seat Heat And Cooling
-	Hvac Passenger Temperature Setting
-	Hvac Rear Deicer Active
-	Hvac Recirculation Air Percentage
 	Idle Shutdown
 	Instantaneous Fuel Flow
 	Internal Ambient Air Temperature
@@ -423,19 +423,22 @@ Signal Descriptions:
 	Lights Right Exterior Mirror Flood Light Active
 	Lights Right Turn Signal Active
 	Lights Right Turn Signal On
+	MIL
 	Max Vehicle Velocity Allowed
 	Metric Units Selected
 	Middle First Row Seat Belt
-	Mil
 	Minutes
 	Mute Parking Notification
 	Navigation Text 1
 	Neutral Tow Mode
-	Number Of Gps Satellites In View
+	Number Of GPS Satellites In View
 	Odometer
 	Oil Pressure Tell Tale
 	Outside Air Temperature
 	Override
+	PRNDL
+	PRNDL Info For Cluster
+	PRNDL Range
 	Pair Aid Failure Modes
 	Park Aid Brake Apply Decel
 	Park Aid Button
@@ -461,14 +464,11 @@ Signal Descriptions:
 	Power Tailgate Closing Active
 	Power Tailgate Opening Active
 	Prevent Locking
-	Prnd
-	Prndl Info For Cluster
-	Prndl Range
 	Pro Trailer Steering Knob
 	Quite Exhaust Mode
-	Rds Text
+	RDS Text
 	Rear Blower Motor
-	Rear Blower Motor Hvac
+	Rear Blower Motor HVAC
 	Rear Defrost
 	Rear Diff Oil Temperature Tell Tale
 	Rear Differential Oil Temperature
@@ -485,7 +485,7 @@ Signal Descriptions:
 	Rear Right Door Open
 	Reduced Guard Alarm
 	Remote Start Active
-	Remote Start Hvac Engine Speed Req
+	Remote Start HVAC Engine Speed Req
 	Remote State In Quite Mode
 	Requested Gear
 	Resume Button
@@ -521,8 +521,8 @@ Signal Descriptions:
 	Settings Audio Tone Bass
 	Settings Audio Tone Midrange
 	Settings Audio Tone Treble
-	Settings Eco Idle Off
-	Settings Eco Idle On
+	Settings ECO Idle Off
+	Settings ECO Idle On
 	Settings Fuel Economy Unit
 	Settings Measurement Units Miles Active Over Km
 	Settings Mirrors Autofold
@@ -534,19 +534,19 @@ Signal Descriptions:
 	Stability Control Brake
 	Starting Motor Request
 	Steering Column Controller V
-	Steering Column Ecu Current
+	Steering Column ECU Current
 	Steering Column Torque
 	Steering Wheel Angel
 	Steering Wheel Angel
 	Steering Wheel Media Button Active
 	Steering Wheel Media Button Last Pressed
+	TPMS Front Left Tire Pressure
+	TPMS Front Right Tire Pressure
+	TPMS Rear Left Tire Pressure
+	TPMS Rear Right Tire Pressure
 	Tailgate Open
 	Tell Tale Traction Control Off Active
 	Total Torque
-	Tpms Front Left Tire Pressure
-	Tpms Front Right Tire Pressure
-	Tpms Rear Left Tire Pressure
-	Tpms Rear Right Tire Pressure
 	Traction Control Active
 	Traction Control Off
 	Trailer Brake Gain
@@ -578,18 +578,18 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
+	AM Radio Set Frequency
+	AM Radio Sources Selected
 	Accessory Delay Power Active
 	Actual Ambient Air Temperature
-	Air Flow Hvac
-	Am Radio Set Frequency
-	Am Radio Sources Selected
+	Air Flow HVAC
 	Automatic Speed Limit Chime
 	Automatic Speed Limiter Tell Tale
 	Backlight Level
 	Barometric Air Pressure
-	Blower Status Hvac
+	Blower Status HVAC
 	Body Systems Service Req
-	Calculated Ambient Air Temp
+	Calculated Ambient Air Temperature
 	Camera Defog
 	Child Lock Tell Tale
 	Crash Event
@@ -602,38 +602,38 @@ Signal Descriptions:
 	Driver Door Window State
 	Economy Mode Request
 	Engine Speed Acceleration
-	Fm Radio Set Frequency
-	Fm Radio Sources Selected
+	FM Radio Set Frequency
+	FM Radio Sources Selected
 	Front Driver Door Open
 	Front Fog Light
 	Front Passenger Door Open
 	Front Passenger Window
 	Fuel Pump Inhibit Active
+	HVAC AC Active
+	HVAC AUTO Level
+	HVAC Air Conditioning B Request
+	HVAC DUAL Climate Control Active
+	HVAC Driver Focused Active
+	HVAC Driver Set Temperature Ones Place
+	HVAC Driver Set Temperature Tens Place
+	HVAC Driver Set Temperature Tenths Place
+	HVAC Driver Temperature Control Diel Turned
+	HVAC Evap Temperature Actual
+	HVAC Evap Temperature Offset
+	HVAC Evap Temperature Request
+	HVAC Front Defroster Active
+	HVAC Front Defroster Max Active
+	HVAC Internal Temperature
+	HVAC Lower Level Vent Active
+	HVAC Passenger Set Temperature Ones Place
+	HVAC Passenger Set Temperature Tens Place
+	HVAC Passenger Set Temperature Tenths Place
+	HVAC Passenger Temperature Control Diel Turned
+	HVAC Rear Defroster Active
+	HVAC Recirculation Active
+	HVAC Recirculation Air Percentage
+	HVAC Upper Level Vent Active
 	Hood Open
-	Hvac Ac Active
-	Hvac Air Conditioning B Request
-	Hvac Auto Level
-	Hvac Driver Focused Active
-	Hvac Driver Set Temperature Ones Place
-	Hvac Driver Set Temperature Tens Place
-	Hvac Driver Set Temperature Tenths Place
-	Hvac Driver Temperature Control Diel Turned
-	Hvac Dual Climate Control Active
-	Hvac Evap Temperature Actual
-	Hvac Evap Temperature Offset
-	Hvac Evap Temperature Request
-	Hvac Front Defroster Active
-	Hvac Front Defroster Max Active
-	Hvac Internal Temperature
-	Hvac Lower Level Vent Active
-	Hvac Passenger Set Temperature Ones Place
-	Hvac Passenger Set Temperature Tens Place
-	Hvac Passenger Set Temperature Tenths Place
-	Hvac Passenger Temperature Control Diel Turned
-	Hvac Rear Defroster Active
-	Hvac Recirculation Active
-	Hvac Recirculation Air Percentage
-	Hvac Upper Level Vent Active
 	Internal Ambient Air Temperature
 	Key Ignition
 	Key In Ignition
@@ -650,12 +650,12 @@ Signal Descriptions:
 	Parking Brake Active
 	Parking Lamp Active
 	Prevent Locking
-	Rear Blower Motor Hvac
+	Rear Blower Motor HVAC
 	Rear Driver Door Open
 	Rear Fog Lamp Active
 	Rear Passenger Door Open
 	Remote Start Active
-	Remote Start Hvac Engine Speed Req
+	Remote Start HVAC Engine Speed Req
 	Right Mirror Light Active
 	Right Side Turn Light Active
 	Right Turn Lamp

@@ -1,33 +1,33 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Suzuki 'Swift' (2022)
 Signal Descriptions:
-	Abs Active
-	Abs Tell Tale Active
-	Ac Compressor Active
+	ABS Active
+	ABS Tell Tale Active
+	AC Compressor Active
 	Accelerator Pedal Not Pressed
 	Accelerator Pedal Position
 	Accelerator Pedal Pressed
 	Actual Engine Torque
 	Ambient Air Temperature
 	Any Other Door Open
+	BSM And RCTA ON OFF System Setting Changing To
 	Battery Tell Tale Active
 	Blinker Left Side Active
 	Blinker Right Side Active
 	Brake Pressure
 	Brake Switch Active
 	Brake Tell Tale Active
-	Bsm And Rcta On Off System Setting Changing To
 	Car In Park
 	Crash Off Button Pressed
 	Cruise Control Speed
 	Cruise Control States
-	Dash Prompt Esp Hill Hold Disable
-	Dash Prompt Esp Maintenance Mode Active
-	Dash Prompt Esp Service Esp System Active
+	Dash Prompt ESP Hill Hold Disable
+	Dash Prompt ESP Maintenance Mode Active
+	Dash Prompt ESP Service ESP System Active
 	Dash Prompt Hold The Steering Wheel
 	Dash Prompt Key Fob Detected
 	Dash Prompt Key Fob Low Battery
-	Dash Prompt Ldp System Requires Inspection
+	Dash Prompt LDP System Requires Inspection
 	Dash Prompt Low Tire Pressure
 	Dash Prompt Low Tire Pressure With Tell Tale Icon
 	Dash Prompt On Ignition Switch Position
@@ -36,9 +36,9 @@ Signal Descriptions:
 	Dash Prompt Push Start Switch
 	Dash Prompt Service Start System
 	Dash Prompt Service Steering Lock System
-	Dash Prompt Service Tpms
-	Dash Prompt Service Tpms With Tell Tale Icon
-	Dash Prompt Turn Steering Wheel To Release Lock
+	Dash Prompt Service TPMS
+	Dash Prompt Service TPMS With Tell Tale Icon
+	Dash Prompt TURN Steering Wheel To Release Lock
 	Down Paddle Pressed
 	Driver Door Open
 	Driver Seat Belt Unbuckled
@@ -55,15 +55,15 @@ Signal Descriptions:
 	Fuel Level Displayed
 	G Sensor Lateral
 	G Sensor Longitudinal
+	HVAC System Air Conditioning Active
+	HVAC System Windshield Front Defroster Active
 	Handbrake Active
 	Hands On Steering Wheel Icon Active
 	Hazards Command Active
 	Hill Descent Tell Tale Active
 	Hill Descent Tell Tale Blinking Active
-	Hvac System Air Conditioning Active
-	Hvac System Windshield Front Defroster Active
-	Ic Night Mode Active
-	Is A C System Setting Changing To
+	IC Night Mode Active
+	IS A C System Setting Changing To
 	Key Tell Tale Active
 	Lane Keep Assist Off Button Pressed
 	Lane Keep Icon Green Active
@@ -74,7 +74,7 @@ Signal Descriptions:
 	Low Tire Pressure Front Right
 	Low Tire Pressure Rear Left
 	Low Tire Pressure Rear Right
-	Manifold Absolute Pressure Map
+	Manifold Absolute Pressure MAP
 	Odometer
 	Passenger Door Open
 	Pedal Clutch Pressed
@@ -99,7 +99,7 @@ Signal Descriptions:
 	Stalk Left Lights Fog Light Wheel Scroll Position 2 Rear Fog Lights
 	Stalk Left Position Downwards
 	Stalk Left Position Pulled Backward
-	Stalk Left Position Pushed Forward D
+	Stalk Left Position Pushed Forward
 	Stalk Left Position Upwards
 	Steering Angle Sensor 1
 	Steering Angle Sensor 2
@@ -109,6 +109,9 @@ Signal Descriptions:
 	System Settings Door Unlock All Doors
 	System Settings Door Unlock Driver Door
 	System Units Set To Miles
+	TPMS Mode System Setting Changing To
+	TPMS System Active
+	TPMS System Setting Load Mode 1 Comfort Mode 0
 	Tell Tale Instrument Cluster Coolant Warning Blue Flashing
 	Tell Tale Instrument Cluster Coolant Warning Blue Solid
 	Tell Tale Instrument Cluster Coolant Warning Red Flashing
@@ -124,9 +127,6 @@ Signal Descriptions:
 	Tire Pressure Rear Right
 	Tire Pressure Tell Tale Active
 	Tire Pressure Tell Tale Active
-	Tpms Mode System Setting Changing To
-	Tpms System Active
-	Tpms System Setting Load Mode 1 Comfort Mode 0
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Traction Control Tell Tale Blinking Active

@@ -18,7 +18,7 @@ Signal Descriptions:
 	Driver Seat Down
 	Driver Seat Font Angle Down
 	Driver Seat Font Angle Up
-	Driver Seat Forward D
+	Driver Seat Forward
 	Driver Seat Or 1 3 And M Buttons Being Pressed Active
 	Driver Seat Up
 	Driver Seat Warmer Button Pressed
@@ -45,7 +45,7 @@ Signal Descriptions:
 	Passenger Reading Light Brightness
 	Passenger Seat Backwards
 	Passenger Seat Down
-	Passenger Seat Forward D
+	Passenger Seat Forward
 	Passenger Seat Up
 	Passenger Thigh Support Down
 	Passenger Thigh Support Extend
@@ -111,7 +111,7 @@ Signal Descriptions:
 	Driver Door Locked
 	Driver Door Unlocked
 	Driver Seat Belt Unbuckled
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Speed
 	Engine Torque
 	Foot Parking Brake Active
@@ -127,7 +127,7 @@ Signal Descriptions:
 	High Beam Active
 	Horn Active
 	Indicator Status
-	Intake Air Temp
+	Intake Air Temperature
 	Kick Down
 	Lateral Acceleration
 	Left Front Door Status
@@ -139,15 +139,15 @@ Signal Descriptions:
 	Malfunction Service Required Dash Prompt
 	Odometer
 	Odometer Dash Display
-	Oil Temp
+	Oil Temperature
 	Outside Air Pressure
+	PRNDL
 	Paddle Shifter Down Paddle Active
 	Paddle Shifter Up Paddle Active
 	Passenger Door Locked
 	Passenger Door Unlocked
 	Passenger Seat Belt Unbuckled
 	Power Mode
-	Prndl
 	Rear Left Door Locked
 	Rear Left Door Unlocked
 	Rear Right Door Locked
@@ -158,12 +158,12 @@ Signal Descriptions:
 	Right Rear Door Status
 	Right Side Curtain Airbag Malfunction Service Required Dash Prompt
 	Right Turn Signal Stock Position
+	SRS Malfunction Service Required Dash Prompt
 	Shifter Level Pressed Down One
 	Shifter Level Pressed Down Two
 	Shifter Level Pressed Park Button
 	Shifter Level Pressed Up One
 	Shifter Level Pressed Up Two
-	Srs Malfunction Service Required Dash Prompt
 	Steering Wheel Angle
 	Steering Wheel Back Button Active
 	Steering Wheel Call Button Active
@@ -172,7 +172,7 @@ Signal Descriptions:
 	Steering Wheel End Call Button Active
 	Steering Wheel Left Arrow Button Active
 	Steering Wheel Mute Button Active
-	Steering Wheel Ok Button Active
+	Steering Wheel OK Button Active
 	Steering Wheel Rate
 	Steering Wheel Right Arrow Button Active
 	Steering Wheel Up Arrow Button Active
@@ -180,6 +180,8 @@ Signal Descriptions:
 	Steering Wheel Volume Down Button Active
 	Steering Wheel Volume Up Button Active
 	Steering Wheel X Y And Z Control Stock Position
+	TPMS Tell Tale Active
+	TPMS Tell Tale Blinking Active
 	Tire Pressure Check Tires Dash Prompt
 	Tire Pressure Front Left
 	Tire Pressure Front Left Low Tier Low Tell Tale
@@ -189,12 +191,10 @@ Signal Descriptions:
 	Tire Pressure Rear Left Low Tier Low Tell Tale
 	Tire Pressure Rear Right
 	Tire Pressure Rear Right Low Tier Low Tell Tale
-	Tpms Tell Tale Active
-	Tpms Tell Tale Blinking Active
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
 	Vehicle Speed
-	Vin Part 1
-	Vin Part 2
-	Vin Part 3
 	Wheel Power Direction Front Left
 	Wheel Power Direction Front Right
 	Wheel Power Direction Rear Left
@@ -207,7 +207,7 @@ Signal Descriptions:
 	Wiper Movement Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Acoustic Lock Option Active
 	Air Pressure Outside
 	Auto Head Lights Active
@@ -224,7 +224,7 @@ Signal Descriptions:
 	Cellular Power Bars
 	Center Console Main Dial Pressed
 	Center Console Touch Control Back Touch Present
-	Center Console Touch Control Fast Forward D Skip Touch Present
+	Center Console Touch Control Fast Forward Skip Touch Present
 	Center Console Touch Control General Area Touch Present
 	Center Console Touch Control Home Touch Present
 	Check Engine Tell Tale Active
@@ -252,7 +252,7 @@ Signal Descriptions:
 	Dash Prompt Factory Settings Activated
 	Dash Prompt Function Available Again After Engine Start 1
 	Dash Prompt Function Available Again After Engine Start 2
-	Dash Prompt Hv Battery
+	Dash Prompt HV Battery
 	Dash Prompt Inoperative Battery Low 1
 	Dash Prompt Inoperative Battery Low 2
 	Dash Prompt Inoperative Refuel Vehicle 1
@@ -265,8 +265,8 @@ Signal Descriptions:
 	Dash Prompt Place The Key In The Marked Place See Operators Manual
 	Dash Prompt Pre Entry Climate Control Available Again Via Week Profile After Engine Start
 	Dash Prompt Replace Key See Operators Manual
+	Dash Prompt SOS Inoperative
 	Dash Prompt Shift To P Or N To Start Vehicle
-	Dash Prompt Sos Inoperative
 	Dash Prompt Start Engine See Operators Manual
 	Dash Prompt Steering Malfunction See Operators Manual
 	Dash Prompt Stop Vehicle Leave Engine Running
@@ -281,12 +281,12 @@ Signal Descriptions:
 	Driver Side Door Unlock Button Pressed
 	Driver Side Seatbelt Unlatched
 	Driver Side Temperature In F
+	ECO Display AVG
+	ECO Display Accel Score
+	ECO Display Coast Score
 	East Entry And Exit Seat Setting Active
 	East Entry And Exit Steering Wheel Setting Active
-	Eco Display Accel Score
-	Eco Display Avg
-	Eco Display Coast Score
-	Emergency Sos Ready
+	Emergency SOS Ready
 	Engine Coolant Temperature
 	Engine Oil Temperature
 	Engine Speed
@@ -303,28 +303,28 @@ Signal Descriptions:
 	Fuel Tank Error Active
 	Fuel Tank Level
 	Fuel Tell Tale Blinking
-	Gps Latitude Degrees
-	Gps Latitude Hemisphere
-	Gps Latitude Minutes
-	Gps Latitude Seconds
-	Gps Longitude Degrees
-	Gps Longitude Hemisphere
-	Gps Longitude Minutes
-	Gps Longitude Seconds
+	GPS Latitude Degrees
+	GPS Latitude Hemisphere
+	GPS Latitude Minutes
+	GPS Latitude Seconds
+	GPS Longitude Degrees
+	GPS Longitude Hemisphere
+	GPS Longitude Minutes
+	GPS Longitude Seconds
+	HP
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Max Active
 	Hazard Lights Active
 	Hazards Active
 	Head Lights Active
 	Hood Ajar
 	Hood Closed
-	Hp
-	Hvac Blower Position Driver Side
-	Hvac Blower Position Passenger Side
-	Hvac Max Active
 	Ignition Button Pressed
 	Incoming Telemetry Call Info
 	Index Byte
 	Infotainment Power Button Pressed
-	Infotainment Prompt Hvac Climate Control Overview
+	Infotainment Prompt HVAC Climate Control Overview
 	Infotainment System Active
 	Infotainment System Inactive
 	Infotainment User Engagement In Progress
@@ -378,8 +378,8 @@ Signal Descriptions:
 	Steering Right Side End Call Button Pressed
 	Steering Right Side Voice Command Button Pressed
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
+	TEL Button Pressed
 	Tank Ventilation Malfunction Service Required Dash Prompt
-	Tel Button Pressed
 	Tell Tale Parking Lights Active
 	Tell Tale Windshield Wiper
 	Throttle Pedal Position Percentage
@@ -395,11 +395,11 @@ Signal Descriptions:
 Signal Descriptions:
 	Center Dome Light Active
 	Driver Reading Light Active
-	Int Wiper Active
+	INT Wiper Active
 	Left Turn Signal Active
 	Park Button Pressed
 	Passenger Reading Light Active
-	Rear Int Wiper Active
+	Rear INT Wiper Active
 	Rear Reading Lights Active
 	Rear Wiper In Motion
 	Right Turn Signal Active
@@ -408,15 +408,15 @@ Signal Descriptions:
 	Wipers
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
-	Acc Pedal Position
+	AC Active
+	ACC Pedal Position
 	Blend Position Switched Up Or Down Pressed
 	Center Console Back Button State Change
 	Center Console Car Icon Button Pressed
 	Center Console Volum Dial Pressed
 	Climate Control Driver Level
 	Climate Control Passenger Level
-	Climate Sync Active
+	Climate SYNC Active
 	Cruise Stock Down Decel
 	Cruise Stock Pull Resume
 	Cruise Stock Push Cancel
@@ -428,18 +428,18 @@ Signal Descriptions:
 	Dynamic Button State Up
 	Fan Speed Change Request
 	Fog Lights Active
+	HVAC Auto Active
+	HVAC Blower Position
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Recirculation Active
+	HVAC Recirculation Button Pressed
 	Headlights Active
 	Heated Steering Wheel Down Knob Position Active
 	Heated Steering Wheel Up Knob Position Active
 	High Beams Active
 	Home Button State Change
 	Home Button State Pressed
-	Hvac Auto Active
-	Hvac Blower Position
-	Hvac Fan Speed
-	Hvac Max Active
-	Hvac Recirculation Active
-	Hvac Recirculation Button Pressed
 	Menu Switched Up Or Down Pressed
 	Paddle Shifter Down Pressed
 	Paddle Shifter Up Pressed
@@ -471,7 +471,7 @@ Signal Descriptions:
 	Driver Seat Down
 	Driver Seat Font Angle Down
 	Driver Seat Font Angle Up
-	Driver Seat Forward D
+	Driver Seat Forward
 	Driver Seat Or 1 3 And M Buttons Being Pressed Active
 	Driver Seat Up
 	Driver Seat Warmer Button Pressed
@@ -498,7 +498,7 @@ Signal Descriptions:
 	Passenger Reading Light Brightness
 	Passenger Seat Backwards
 	Passenger Seat Down
-	Passenger Seat Forward D
+	Passenger Seat Forward
 	Passenger Seat Up
 	Passenger Thigh Support Down
 	Passenger Thigh Support Extend
@@ -564,7 +564,7 @@ Signal Descriptions:
 	Driver Door Locked
 	Driver Door Unlocked
 	Driver Seat Belt Unbuckled
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Speed
 	Engine Torque
 	Foot Parking Brake Active
@@ -580,7 +580,7 @@ Signal Descriptions:
 	High Beam Active
 	Horn Active
 	Indicator Status
-	Intake Air Temp
+	Intake Air Temperature
 	Kick Down
 	Lateral Acceleration
 	Left Front Door Status
@@ -592,15 +592,15 @@ Signal Descriptions:
 	Malfunction Service Required Dash Prompt
 	Odometer
 	Odometer Dash Display
-	Oil Temp
+	Oil Temperature
 	Outside Air Pressure
+	PRNDL
 	Paddle Shifter Down Paddle Active
 	Paddle Shifter Up Paddle Active
 	Passenger Door Locked
 	Passenger Door Unlocked
 	Passenger Seat Belt Unbuckled
 	Power Mode
-	Prndl
 	Rear Left Door Locked
 	Rear Left Door Unlocked
 	Rear Right Door Locked
@@ -611,12 +611,12 @@ Signal Descriptions:
 	Right Rear Door Status
 	Right Side Curtain Airbag Malfunction Service Required Dash Prompt
 	Right Turn Signal Stock Position
+	SRS Malfunction Service Required Dash Prompt
 	Shifter Level Pressed Down One
 	Shifter Level Pressed Down Two
 	Shifter Level Pressed Park Button
 	Shifter Level Pressed Up One
 	Shifter Level Pressed Up Two
-	Srs Malfunction Service Required Dash Prompt
 	Steering Wheel Angle
 	Steering Wheel Back Button Active
 	Steering Wheel Call Button Active
@@ -625,7 +625,7 @@ Signal Descriptions:
 	Steering Wheel End Call Button Active
 	Steering Wheel Left Arrow Button Active
 	Steering Wheel Mute Button Active
-	Steering Wheel Ok Button Active
+	Steering Wheel OK Button Active
 	Steering Wheel Rate
 	Steering Wheel Right Arrow Button Active
 	Steering Wheel Up Arrow Button Active
@@ -633,6 +633,8 @@ Signal Descriptions:
 	Steering Wheel Volume Down Button Active
 	Steering Wheel Volume Up Button Active
 	Steering Wheel X Y And Z Control Stock Position
+	TPMS Tell Tale Active
+	TPMS Tell Tale Blinking Active
 	Tire Pressure Check Tires Dash Prompt
 	Tire Pressure Front Left
 	Tire Pressure Front Left Low Tier Low Tell Tale
@@ -642,12 +644,10 @@ Signal Descriptions:
 	Tire Pressure Rear Left Low Tier Low Tell Tale
 	Tire Pressure Rear Right
 	Tire Pressure Rear Right Low Tier Low Tell Tale
-	Tpms Tell Tale Active
-	Tpms Tell Tale Blinking Active
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
 	Vehicle Speed
-	Vin Part 1
-	Vin Part 2
-	Vin Part 3
 	Wheel Power Direction Front Left
 	Wheel Power Direction Front Right
 	Wheel Power Direction Rear Left
@@ -660,7 +660,7 @@ Signal Descriptions:
 	Wiper Movement Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Acoustic Lock Option Active
 	Air Pressure Outside
 	Auto Head Lights Active
@@ -677,7 +677,7 @@ Signal Descriptions:
 	Cellular Power Bars
 	Center Console Main Dial Pressed
 	Center Console Touch Control Back Touch Present
-	Center Console Touch Control Fast Forward D Skip Touch Present
+	Center Console Touch Control Fast Forward Skip Touch Present
 	Center Console Touch Control General Area Touch Present
 	Center Console Touch Control Home Touch Present
 	Check Engine Tell Tale Active
@@ -705,7 +705,7 @@ Signal Descriptions:
 	Dash Prompt Factory Settings Activated
 	Dash Prompt Function Available Again After Engine Start 1
 	Dash Prompt Function Available Again After Engine Start 2
-	Dash Prompt Hv Battery
+	Dash Prompt HV Battery
 	Dash Prompt Inoperative Battery Low 1
 	Dash Prompt Inoperative Battery Low 2
 	Dash Prompt Inoperative Refuel Vehicle 1
@@ -718,8 +718,8 @@ Signal Descriptions:
 	Dash Prompt Place The Key In The Marked Place See Operators Manual
 	Dash Prompt Pre Entry Climate Control Available Again Via Week Profile After Engine Start
 	Dash Prompt Replace Key See Operators Manual
+	Dash Prompt SOS Inoperative
 	Dash Prompt Shift To P Or N To Start Vehicle
-	Dash Prompt Sos Inoperative
 	Dash Prompt Start Engine See Operators Manual
 	Dash Prompt Steering Malfunction See Operators Manual
 	Dash Prompt Stop Vehicle Leave Engine Running
@@ -734,12 +734,12 @@ Signal Descriptions:
 	Driver Side Door Unlock Button Pressed
 	Driver Side Seatbelt Unlatched
 	Driver Side Temperature In F
+	ECO Display AVG
+	ECO Display Accel Score
+	ECO Display Coast Score
 	East Entry And Exit Seat Setting Active
 	East Entry And Exit Steering Wheel Setting Active
-	Eco Display Accel Score
-	Eco Display Avg
-	Eco Display Coast Score
-	Emergency Sos Ready
+	Emergency SOS Ready
 	Engine Coolant Temperature
 	Engine Oil Temperature
 	Engine Speed
@@ -756,28 +756,28 @@ Signal Descriptions:
 	Fuel Tank Error Active
 	Fuel Tank Level
 	Fuel Tell Tale Blinking
-	Gps Latitude Degrees
-	Gps Latitude Hemisphere
-	Gps Latitude Minutes
-	Gps Latitude Seconds
-	Gps Longitude Degrees
-	Gps Longitude Hemisphere
-	Gps Longitude Minutes
-	Gps Longitude Seconds
+	GPS Latitude Degrees
+	GPS Latitude Hemisphere
+	GPS Latitude Minutes
+	GPS Latitude Seconds
+	GPS Longitude Degrees
+	GPS Longitude Hemisphere
+	GPS Longitude Minutes
+	GPS Longitude Seconds
+	HP
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Max Active
 	Hazard Lights Active
 	Hazards Active
 	Head Lights Active
 	Hood Ajar
 	Hood Closed
-	Hp
-	Hvac Blower Position Driver Side
-	Hvac Blower Position Passenger Side
-	Hvac Max Active
 	Ignition Button Pressed
 	Incoming Telemetry Call Info
 	Index Byte
 	Infotainment Power Button Pressed
-	Infotainment Prompt Hvac Climate Control Overview
+	Infotainment Prompt HVAC Climate Control Overview
 	Infotainment System Active
 	Infotainment System Inactive
 	Infotainment User Engagement In Progress
@@ -831,8 +831,8 @@ Signal Descriptions:
 	Steering Right Side End Call Button Pressed
 	Steering Right Side Voice Command Button Pressed
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
+	TEL Button Pressed
 	Tank Ventilation Malfunction Service Required Dash Prompt
-	Tel Button Pressed
 	Tell Tale Parking Lights Active
 	Tell Tale Windshield Wiper
 	Throttle Pedal Position Percentage
@@ -848,11 +848,11 @@ Signal Descriptions:
 Signal Descriptions:
 	Center Dome Light Active
 	Driver Reading Light Active
-	Int Wiper Active
+	INT Wiper Active
 	Left Turn Signal Active
 	Park Button Pressed
 	Passenger Reading Light Active
-	Rear Int Wiper Active
+	Rear INT Wiper Active
 	Rear Reading Lights Active
 	Rear Wiper In Motion
 	Right Turn Signal Active
@@ -861,15 +861,15 @@ Signal Descriptions:
 	Wipers
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
-	Acc Pedal Position
+	AC Active
+	ACC Pedal Position
 	Blend Position Switched Up Or Down Pressed
 	Center Console Back Button State Change
 	Center Console Car Icon Button Pressed
 	Center Console Volum Dial Pressed
 	Climate Control Driver Level
 	Climate Control Passenger Level
-	Climate Sync Active
+	Climate SYNC Active
 	Cruise Stock Down Decel
 	Cruise Stock Pull Resume
 	Cruise Stock Push Cancel
@@ -881,18 +881,18 @@ Signal Descriptions:
 	Dynamic Button State Up
 	Fan Speed Change Request
 	Fog Lights Active
+	HVAC Auto Active
+	HVAC Blower Position
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Recirculation Active
+	HVAC Recirculation Button Pressed
 	Headlights Active
 	Heated Steering Wheel Down Knob Position Active
 	Heated Steering Wheel Up Knob Position Active
 	High Beams Active
 	Home Button State Change
 	Home Button State Pressed
-	Hvac Auto Active
-	Hvac Blower Position
-	Hvac Fan Speed
-	Hvac Max Active
-	Hvac Recirculation Active
-	Hvac Recirculation Button Pressed
 	Menu Switched Up Or Down Pressed
 	Paddle Shifter Down Pressed
 	Paddle Shifter Up Pressed

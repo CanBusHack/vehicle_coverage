@@ -1,7 +1,7 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Amg Gt' (2022)
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Accelerator Pedal Position
 	Acoustic Lock Setting Active
 	Air Temperature Outside
@@ -37,19 +37,19 @@ Signal Descriptions:
 	Fuel Pressure
 	Fuel Pump Duty Cycle
 	Fuel Rate
-	Fuel System Mil Tell Tale Request
+	Fuel System MIL Tell Tale Request
 	Fuel Tank Level
 	Fuel Tell Tale Blinking
 	Fuel Temperature
 	Gear
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Max Active
+	HVAC Recirculation Active
 	Hood Closed
 	Hood Open
-	Hvac Blower Position Driver Side
-	Hvac Blower Position Passenger Side
-	Hvac Max Active
-	Hvac Recirculation Active
+	INT Wiper Active
 	Instrument Cluster Brightness Level
-	Int Wiper Active
 	Left Rear Door Closed
 	Left Rear Door Open
 	Left Rear Wheel Speed
@@ -62,11 +62,11 @@ Signal Descriptions:
 	Lights High Beam Flash
 	Lights Low Beam Active
 	Odometer
+	PRNDL
 	Passenger Side Temperature In F
 	Power Mode
 	Power Mode
-	Prndl
-	Rear Int Wiper Active
+	Rear INT Wiper Active
 	Rear Left Wheel Speed
 	Rear Left Window Open Percent
 	Rear Left Window Open Status
@@ -93,22 +93,22 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Acceleration
 	Turn And Hazard Light Status
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
 	Vehicle Speed
 	Vehicle Speed Units
-	Vin Part 1
-	Vin Part 2
-	Vin Part 3
 	Wheel Moving In Reverse
 	Wheel Moving In Reverse
 	Wipers In Motion
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Tell Tale Active
+	ABS Tell Tale Active
+	ASB And Traction Control Inoperative Dash Prompt
 	Accelerator Pedal Position
 	Acoustic Lock Setting Active
 	Active Hood Malfunction Dash Prompt
 	Ambient Temperature
-	Asb And Traction Control Inoperative Dash Prompt
 	Attention Assist Inoperative Dash Prompt
 	Attention Assist Take A Break Dash Prompt
 	Battery Malfunction Dash Prompt
@@ -142,26 +142,26 @@ Signal Descriptions:
 	Cruise Control Off Dash Prompt
 	Cruise Control Resume
 	Cruise Set Speed
+	DSR Inoperative Dash Prompt
+	DSR Off Dash Prompt
 	Day Time Running Lights Setting Active Lights
 	Display Gear
 	Drive More Slowly Dash Prompt
 	Driver Brake
-	Dsr Inoperative Dash Prompt
-	Dsr Off Dash Prompt
-	Engin Speed
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Oil Pressure Stop Switch Off Engine Dash Prompt
+	Engine Speed
 	Exterior Trunk Switch
 	Front Wiper In Motion
 	Fuel Tank Displayed Level
 	Gear Park Button Pressed
+	HOLD Cannot Be Activated Dash Prompt
+	HOLD Dash Prompt
 	Heated Steering Wheel Stock Position Off
 	Heated Steering Wheel Stock Position On
 	High Beam Active
-	Hold Cannot Be Activated Dash Prompt
-	Hold Dash Prompt
 	Horn
-	Intake Air Temp
+	Intake Air Temperature
 	Key Being Initialized Please Wait Dash Prompt
 	Key Does Not Belong To Vehicle Dash Prompt
 	Key Not Detected Dash Prompt
@@ -174,14 +174,14 @@ Signal Descriptions:
 	Low Beam Active
 	Low Fuel Tell Tale Active
 	Low Fuel Tell Tale Active
+	MIL Tell Tale Active
 	Manual Display Gear
-	Mas Speed 40Mph Dash Prompt
 	Max Speed 20 Kmh Dash Prompt
-	Mil Tell Tale Active
+	Max Speed 40Mph Dash Prompt
 	Obtain A New Key Dash Prompt
 	Odometer
 	Odometer Dash Display
-	Oil Temp
+	Oil Temperature
 	Outside Air Pressure
 	P Tell Tale Active
 	Parking Tell Tale Active
@@ -213,7 +213,7 @@ Signal Descriptions:
 	Steering Wheel End Call Button Active
 	Steering Wheel Left Arrow Button Active
 	Steering Wheel Mute Button Active
-	Steering Wheel Ok Button Active
+	Steering Wheel OK Button Active
 	Steering Wheel Rate
 	Steering Wheel Right Arrow Button Active
 	Steering Wheel Up Arrow Button Active
@@ -222,14 +222,14 @@ Signal Descriptions:
 	Steering Wheel Volume Up Button Active
 	Steering Wheel X Y And Z Control Stock Position
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
-	Tpms Front Left
-	Tpms Front Left Low Tier Low Tell Tale
-	Tpms Front Right
-	Tpms Front Right Low Tier Low Tell Tale
-	Tpms Rear Left
-	Tpms Rear Left Low Tier Low Tell Tale
-	Tpms Rear Right
-	Tpms Rear Right Low Tier Low Tell Tale
+	TPMS Front Left
+	TPMS Front Left Low Tier Low Tell Tale
+	TPMS Front Right
+	TPMS Front Right Low Tier Low Tell Tale
+	TPMS Rear Left
+	TPMS Rear Left Low Tier Low Tell Tale
+	TPMS Rear Right
+	TPMS Rear Right Low Tier Low Tell Tale
 	Traction Control Currently Unavailable Dash Prompt
 	Traction Control Inoperative Dash Prompt
 	Traction Control Off Tell Tale Active
@@ -237,8 +237,8 @@ Signal Descriptions:
 	Traction Control Tell Tale Blinking Active
 	Transmission Malfunction Stop Dash Prompt
 	Units In Miles Active
+	VIN Part 1
 	Vehicle Speed
-	Vin Part 1
 	Wiper Movement Speed
 	Yellow Auto Start Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -280,12 +280,12 @@ Signal Descriptions:
 	Driver Door Seat Control Button Tilt Down
 	Driver Door Seat Control Button Tilt Up
 	Driver Door Seat Controls Backrest Recline Backward Switch Active
-	Driver Door Seat Controls Backrest Recline Forward D Switch Active
+	Driver Door Seat Controls Backrest Recline Forward Switch Active
 	Driver Door Seat Controls Headrest Down Switch Active
 	Driver Door Seat Controls Headrest Up Switch Active
 	Driver Door Seat Controls Seat Backward Switch Active
 	Driver Door Seat Controls Seat Down Switch Active
-	Driver Door Seat Controls Seat Forward D Switch Active
+	Driver Door Seat Controls Seat Forward Switch Active
 	Driver Door Seat Controls Seat Up Switch Active
 	Driver Door Seat Controls Thigh Support Extender Switch Active
 	Driver Door Seat Controls Thigh Support Retractor Switch Active
@@ -309,8 +309,8 @@ Signal Descriptions:
 	Driver Seat Surface Setting
 	Driver Seat Vent Switch Active
 	Driver Window Moving
+	ECO Mode On
 	Easy Entry And Exit Setting Active
-	Eco Mode On
 	Exterior Light Switch Auto Selected
 	Exterior Light Switch Left Parking Light Active Selected
 	Exterior Light Switch Low Beam Selected
@@ -319,15 +319,15 @@ Signal Descriptions:
 	Front Left Park Assist Distance Bars
 	Front Parking Assist Alert Activ
 	Front Right Park Assist Distance Bars
+	HVAC Auto On
+	HVAC Cabin Recirculation
+	HVAC Change Bit
+	HVAC Driver Side Climate Zone Temperature
+	HVAC Off
+	HVAC Passenger Side Climate Zone Temperature
 	Hazard Lights Button Active
 	Hood Closed
 	Hood Open
-	Hvac Auto On
-	Hvac Cabin Recirculation
-	Hvac Change Bit
-	Hvac Driver Side Climate Zone Temp
-	Hvac Off
-	Hvac Passenger Side Climate Zone Temp
 	Interior Lighting Delay Setting Active
 	Left A Pillar Overhead Light
 	Left Side Curtain Airbag Malfunction Service Required Dash Prompt
@@ -336,7 +336,7 @@ Signal Descriptions:
 	Left Window Open Percentage
 	Malfunction Service Required Dash Prompt
 	Manual Mode
-	Open Close Vario Roof Completely Message In Red
+	Open Close Vario Roof Completely Message In RED
 	Open Close Vario Roof Completely Message In White
 	P M Active
 	Park Assist Button Active
@@ -346,12 +346,12 @@ Signal Descriptions:
 	Passenger Door Lock Button Active
 	Passenger Door Open
 	Passenger Door Seat Controls Backrest Recline Backward Switch Active
-	Passenger Door Seat Controls Backrest Recline Forward D Switch Active
+	Passenger Door Seat Controls Backrest Recline Forward Switch Active
 	Passenger Door Seat Controls Headrest Down Switch Active
 	Passenger Door Seat Controls Headrest Up Switch Active
 	Passenger Door Seat Controls Seat Backward Switch Active
 	Passenger Door Seat Controls Seat Down Switch Active
-	Passenger Door Seat Controls Seat Forward D Switch Active
+	Passenger Door Seat Controls Seat Forward Switch Active
 	Passenger Door Seat Controls Seat Up Switch Active
 	Passenger Door Seat Controls Thigh Support Extender Switch Active
 	Passenger Door Seat Controls Thigh Support Retractor Switch Active
@@ -399,11 +399,11 @@ Signal Descriptions:
 	Right Window Open Percentage
 	Roof Converting In Progress
 	Roof Operation Tone
+	SRS Malfunction Service Required Dash Prompt
 	Settings Display Night Mode Active
 	Settings Language
 	Settings Rear View Camera Activation By R Gear Active
 	Side Mirror Directional Controls Active
-	Srs Malfunction Service Required Dash Prompt
 	Surround Lighting Setting Active
 	Suspension Sport Mode Active
 	Traction Control Button Active

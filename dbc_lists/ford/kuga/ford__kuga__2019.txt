@@ -1,19 +1,20 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Kuga' (2019)
 Signal Descriptions:
-	Abs Fault
-	Abs Tell Tale
-	Ac Compressor
-	Ac Compressor Info
-	Ac Compressor Percent
-	Acc Brake Active
-	Acc Brake Light Requested
-	Acc Brake Precharge Active
-	Acc Brake Torque Min
-	Acc Brake Warm
-	Acc Follow Gap Size
-	Acc Time Gap Decrease
-	Acc Time Gap Increase
+	ABS Fault
+	ABS Tell Tale
+	AC Compressor
+	AC Compressor Info
+	AC Compressor Percent
+	ACC Brake Active
+	ACC Brake Light Requested
+	ACC Brake Precharge Active
+	ACC Brake Torque Min
+	ACC Brake Warm
+	ACC Follow Gap Size
+	ACC Time Gap Decrease
+	ACC Time Gap Increase
+	AWD System Tell Tale On
 	Accelerator Pedal Position
 	Adaptive Cruise Control
 	Adaptive Cruise Error Tell Tale
@@ -39,12 +40,11 @@ Signal Descriptions:
 	Alternator Temperature Fault
 	Auto High Beams Tell Tale State
 	Automatic High Beams On
-	Awd System Tell Tale On
 	Battery Power State
 	Brake Booster Vacuum Pressure
 	Brake Fluid Prs Tell Tale
 	Brake Light Inhibit
-	Brake Light Request Tsa
+	Brake Light Request TSA
 	Brake Lights Status
 	Brake Pedal Info
 	Brake Pedal Movement
@@ -70,13 +70,13 @@ Signal Descriptions:
 	Cruise Control Message
 	Cruise Control Mode
 	Cruise Control Resume
+	DPF Percent Regen
+	DPF State
 	Day Time On
 	Daytime Running Lights State
 	Deflate Detection System Init
 	Deflation Detection System Info
 	Doors Locked 1 True
-	Dpf Percent Regen
-	Dpf State
 	Driven Wheel Rear Torque Max
 	Driven Wheel Rear Torque Min
 	Driven Wheel Torque
@@ -88,6 +88,10 @@ Signal Descriptions:
 	Driver Seatbelt Status
 	Driver Slip Control On
 	Driver Slip Control Switch Hold
+	EPS Steering Angle
+	EPS Steering Angle Limit
+	EPS Steering Angle Status
+	ESC Test Mode On
 	Econometer
 	Econometer High Resolution
 	Electronic Power Assist Info
@@ -100,10 +104,6 @@ Signal Descriptions:
 	Engine Speed
 	Engine Speed Max
 	Engine Torque Slow Delay
-	Eps Steering Angle
-	Eps Steering Angle Limit
-	Eps Steering Angle Status
-	Esc Test Mode On
 	Exterior Lights Switch Position
 	Fix Width Car Mode
 	Front Passenger Detected
@@ -134,8 +134,8 @@ Signal Descriptions:
 	Lane Departure Warning Selected
 	Lane Keep Assist Selected
 	Left Front Door State Closed
+	Left Front TPMS State
 	Left Front Tire Pressure
-	Left Front Tpms State
 	Left Rear Center Park Aid Sensor
 	Left Rear Corner Park Aid Sensor
 	Left Rear Door State Closed
@@ -145,19 +145,20 @@ Signal Descriptions:
 	Light Failure Tell Tale
 	Light Sensor State
 	Light Sensor Voltage
+	MAP Sensor
+	MIL Tell Tale
 	Main Fuel Sensor Resistance
 	Manual Trans Shift Tell Tale
-	Map Sensor
 	Max Delta Velocity
-	Mil Tell Tale
 	Mode Select Restricted
 	Multiple Deployment Events
 	Neutral Tow Info
-	Odometer Backup Abs
+	Odometer Backup ABS
 	Oil Change Tell Tale And Text
 	Oil Life Percentage
 	Oil Pressure Tell Tale On
 	Outside Air Pressure
+	PRNDL Position
 	Park Aid Audio Mute On
 	Park Aid Button Pressed
 	Park Aid Error
@@ -172,7 +173,6 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Passenger Seatbelt
 	Power Mode
-	Prndl Position
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt Airbag
@@ -191,8 +191,8 @@ Signal Descriptions:
 	Rear Right Window Open
 	Rear Washer On
 	Right Front Door State Closed
+	Right Front TPMS State
 	Right Front Tire Pressure
-	Right Front Tpms State
 	Right Rear Center Park Aid Senso
 	Right Rear Corner Park Aid Snsr
 	Right Rear Door State Closed
@@ -206,10 +206,11 @@ Signal Descriptions:
 	Shift Patern Mode
 	Side Mirror Defroster Status
 	Starter Control Message
-	Stop Light Request Abs
+	Stop Light Request ABS
 	Stop Start Tell Tale On
+	TCC Clutch Info
+	TMPS Tell Tale
 	Target Gear
-	Tcc Clutch Info
 	Tell Tale Illumination Day
 	Third Row Driver Seatbelt
 	Third Row Driver Seatbelt
@@ -228,7 +229,6 @@ Signal Descriptions:
 	Tire Pressure Right Rear Outside
 	Tire Pressure System
 	Tire Pressure Tell Tale
-	Tmps Tell Tale
 	Torsion Bar Torque
 	Torsion Bar Torque Sign
 	Traction Control Tell Tale
@@ -262,7 +262,7 @@ Signal Descriptions:
 	Transmission Torque Rotation
 	Turbo Boost Pressure
 	Turn Signals Hazards
-	Vehicle Cc Set Point
+	Vehicle CC Set Point
 	Vehicle Direction Info
 	Vehicle Stationary
 	Water In Fuel Tell Tale
@@ -271,11 +271,11 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Active
-	Abs Tell Tale
-	Acc Brake Torque Min Active
-	Acc Engine Stat
-	Acc Follow Active
+	ABS Active
+	ABS Tell Tale
+	ACC Brake Torque Min Active
+	ACC Engine Stat
+	ACC Follow Active
 	Accelerator Pedal Position
 	Actual Current
 	Airbag Deployment Emergency Call
@@ -300,7 +300,7 @@ Signal Descriptions:
 	Brake Pedal Info
 	Brake Torque
 	Brake Total Torque
-	Cc Override Active
+	CC Override Active
 	Change Oil Tell Tale
 	Cluster Gear Tell Tale
 	Cluster Mode
@@ -312,10 +312,10 @@ Signal Descriptions:
 	Coolant Fan Transmission Level
 	Cruise Control Message
 	Cruise Control Mode
+	DPF Percent Regen
+	DPF Percent State
 	Deflate Detection System Init
 	Deflation Detection System Info
-	Dpf Percent Regen
-	Dpf Percent State
 	Driven Wheel Rear Torque Max
 	Driven Wheel Rear Torque Min
 	Driven Wheel Torque
@@ -327,7 +327,11 @@ Signal Descriptions:
 	Driver Slip Control On
 	Driver Slip Control Switch Hold
 	Dyno Mode
-	Ecm Mil Tell Tale
+	ECM MIL Tell Tale
+	EPS Steering Angle
+	EPS Steering Angle Limit
+	EPS Steering Angle Status
+	ESC Test Mode On
 	Econometer High Resolution
 	Electrical Load Control State
 	Electronic Power Assist Info
@@ -339,16 +343,12 @@ Signal Descriptions:
 	Engine Load Percent
 	Engine Oil Level Tell Tale
 	Engine Oil Temperature
-	Engine Service Mil Tell Tale
+	Engine Service MIL Tell Tale
 	Engine Service Required
 	Engine Speed
 	Engine Speed Max
 	Engine Torque
 	Engine Torque Minimum Active
-	Eps Steering Angle
-	Eps Steering Angle Limit
-	Eps Steering Angle Status
-	Esc Test Mode On
 	Exterior Lights Switch Position
 	Fix Width Car Mode
 	Front Left Wheel Pulses
@@ -394,12 +394,13 @@ Signal Descriptions:
 	Multiple Deployment Events
 	Neutral Tow Info
 	No Alternator Response
-	Odometer Backup Abs
+	Odometer Backup ABS
 	Oil Pressure Warning Tell Tale On
 	Outside Air
 	Outside Air Pressure
 	Outside Air Sensor State
 	Outside Air Temperature
+	PRNDL Position
 	Park Brake Info
 	Park Brake Red Tell Tale
 	Park Brake Yellow Tell Tale
@@ -407,7 +408,6 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Passenger Seatbelt
 	Power Mode
-	Prndl Position
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt Airbag
@@ -436,8 +436,8 @@ Signal Descriptions:
 	Steering Wheel Angle Sign
 	Stop Start Message
 	Stop Start Tell Tale
+	TCC Clutch Info
 	Target Gear
-	Tcc Clutch Info
 	Tell Tale Illumination Day
 	Third Row Driver Seatbelt
 	Third Row Driver Seatbelt
@@ -456,7 +456,7 @@ Signal Descriptions:
 	Torsion Bar Torque
 	Torsion Bar Torque Sign
 	Traction Control Active
-	Traction Control Pt Active
+	Traction Control PT Active
 	Transmission Engine Brake Allow
 	Transmission Est Target Gear
 	Transmission Gear Ntm Allow
@@ -477,8 +477,8 @@ Signal Descriptions:
 	Transmission Input Torque Info
 	Transmission Input Torque Slow Min
 	Transmission Loss Torque
+	Transmission MIL Tell Tale
 	Transmission Message Text
-	Transmission Mil Tell Tale
 	Transmission Output Speed
 	Transmission Output Torque 2
 	Transmission Service Requested
@@ -488,37 +488,38 @@ Signal Descriptions:
 	Transmission Torque Rot Roll Cnt
 	Transmission Torque Rotation
 	Turbo Boost Pressure
-	Vehicle Cc Set Point
+	Vehicle CC Set Point
 	Vehicle Direction Info
 	Vehicle Speed
 	Vehicle Speed Estimated
-	Vehicle Speed From Abs
-	Vehicle Speed From Ecm
+	Vehicle Speed From ABS
+	Vehicle Speed From ECM
 	Vehicle Stationary
 	Water In Fuel Tell Tale On
 	Water Pump On
 	Wheel Rotation Count
 	Wheel Rotation Pulse Count
-	Wheel Rotation Sensor Ok
+	Wheel Rotation Sensor OK
 	Yaw Rate
 	Yaw Rate
 	Yaw Rate Raw
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Active
-	Abs Fault
-	Ac Compressor
-	Ac Compressor Info
-	Ac Compressor Percent
-	Acc Brake Active
-	Acc Brake Precharge Active
-	Acc Brake Torque Min
-	Acc Brake Warm
-	Acc Engine Stat
-	Acc Follow Active
-	Acc Time Gap Decrease
-	Acc Time Gap Increase
+	ABS Active
+	ABS Fault
+	AC Compressor
+	AC Compressor Info
+	AC Compressor Percent
+	ACC Brake Active
+	ACC Brake Precharge Active
+	ACC Brake Torque Min
+	ACC Brake Warm
+	ACC Engine Stat
+	ACC Follow Active
+	ACC Time Gap Decrease
+	ACC Time Gap Increase
+	AWD System Tell Tale On
 	Accelerator Pedal Position
 	Actual Current
 	Adaptive Park Assist Act Side
@@ -546,21 +547,20 @@ Signal Descriptions:
 	Auto Speed Lm Switch Pos
 	Autostart Not Working
 	Available Current
-	Awd System Tell Tale On
 	Battery Power State
 	Brake Booster Vacuum Pressure
 	Brake Light Inhibit
-	Brake Light Request Tsa
+	Brake Light Request TSA
 	Brake Pedal Info
 	Brake Pedal Movement
 	Brake Pressure
 	Brake Switch
 	Brake Total Torque
+	CC Auto Speed Lm Button Res Inc Prs
+	CC Override Active
 	Calendar Day
 	Calendar Month
 	Calendar Year
-	Cc Auto Speed Lm Button Res Inc Prs
-	Cc Override Active
 	Change Oil Tell Tale
 	Change Oil Tell Tale On
 	Child Lock Activated
@@ -580,10 +580,10 @@ Signal Descriptions:
 	Cruise Control Mode
 	Cruise Control Request Speed
 	Cruise Control Resume
+	DPF Percent Regen
+	DPF State
 	Deflate Detection System Init
 	Deflation Detection System Info
-	Dpf Percent Regen
-	Dpf State
 	Driven Wheel Rear Torque Max
 	Driven Wheel Rear Torque Min
 	Driven Wheel Torque
@@ -595,7 +595,10 @@ Signal Descriptions:
 	Driver Seatbelt
 	Driver Slip Control On
 	Driver Slip Control Switch Hold
-	Ecm Mil Tell Tale
+	ECM MIL Tell Tale
+	EPS Steering Angle
+	EPS Steering Angle Limit
+	EPS Steering Angle Status
 	Econometer
 	Econometer High Resolution
 	Electrical Load Control State
@@ -608,16 +611,13 @@ Signal Descriptions:
 	Engine Message Text
 	Engine Oil Temperature
 	Engine Run State
-	Engine Service Mil Tell Tale
+	Engine Service MIL Tell Tale
 	Engine Speed
 	Engine Speed
 	Engine Speed Acceleration
 	Engine Speed Max
 	Engine Torque Minimum Active
 	Engine Torque Slow Delay
-	Eps Steering Angle
-	Eps Steering Angle Limit
-	Eps Steering Angle Status
 	Exterior Lights Switch Position
 	Fix Width Car Mode
 	Flex Fuel Mixture
@@ -656,7 +656,7 @@ Signal Descriptions:
 	Lane Departure Warning Setting Active
 	Lane Keep Assist Selected
 	Latitudinal Accel
-	Left Front Tpms State
+	Left Front TPMS State
 	Left Front Wheel Speed
 	Left Rear Center Park Aid Sensor
 	Left Rear Corner Park Aid Sensor
@@ -666,16 +666,16 @@ Signal Descriptions:
 	Longitude Accel
 	Longitude Over Ground Accel
 	Low Speed Coll Avd On Off
+	MAP Sensor
+	MIL Tell Tale
 	Main Fuel Sensor Resistance
 	Manual Trans Shift Tell Tale
-	Map Sensor
 	Max Delta Velocity
 	Max Engine Speed Allow
-	Mil Tell Tale
 	Mode Select Restricted
 	Multiple Deployment Events
 	Neutral Tow Info
-	Odometer Backup Abs
+	Odometer Backup ABS
 	Oil Change Tell Tale And Text
 	Oil Life Percentage
 	Oil Pressure Tell Tale On
@@ -684,6 +684,7 @@ Signal Descriptions:
 	Outside Air Pressure
 	Outside Air Sensor State
 	Outside Air Temperature
+	PRNDL Position
 	Park Aid Audio Mute On
 	Park Aid Button Pressed
 	Park Aid Error
@@ -696,7 +697,6 @@ Signal Descriptions:
 	Passenger Seatbelt
 	Passenger Seatbelt
 	Power Mode
-	Prndl Position
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt
 	Rear Driver Seatbelt Airbag
@@ -712,7 +712,7 @@ Signal Descriptions:
 	Rear Passenger Seatbelt Airbag
 	Rear Right Wheel Pulses
 	Reverse Gear Active
-	Right Front Tpms State
+	Right Front TPMS State
 	Right Front Wheel Speed
 	Right Rear Center Park Aid Senso
 	Right Rear Corner Park Aid Snsr
@@ -733,13 +733,14 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Raw
 	Steering Wheel Angle Sign
-	Stop Light Request Abs
+	Stop Light Request ABS
 	Stop Start Message
 	Stop Start Tell Tale
 	Stop Start Tell Tale On
+	TCC Clutch Info
+	TMPS Tell Tale
 	Tans Vehicle Speed Limit Req
 	Target Gear
-	Tcc Clutch Info
 	Tell Tale Illumination Day
 	Third Row Driver Seatbelt
 	Third Row Driver Seatbelt
@@ -759,11 +760,10 @@ Signal Descriptions:
 	Tire Pressure Right Rear Outside
 	Tire Pressure System
 	Tire Pressure Tell Tale
-	Tmps Tell Tale
 	Torsion Bar Torque
 	Torsion Bar Torque Sign
 	Traction Control Active
-	Traction Control Pt Active
+	Traction Control PT Active
 	Traffic Sign Recognition Country
 	Traffic Sign Recognition On
 	Trailer Fog Lights On
@@ -792,8 +792,8 @@ Signal Descriptions:
 	Transmission Input Torque Slow Min
 	Transmission Kick Down
 	Transmission Loss Torque
+	Transmission MIL Tell Tale
 	Transmission Message Text
-	Transmission Mil Tell Tale
 	Transmission Mode
 	Transmission Output Speed
 	Transmission Output Torque 2
@@ -805,19 +805,19 @@ Signal Descriptions:
 	Transmission Torque Rot Roll Cnt
 	Transmission Torque Rotation
 	Turbo Boost Pressure
-	Vehicle Cc Set Point
+	Vehicle CC Set Point
 	Vehicle Direction Info
 	Vehicle Speed
 	Vehicle Speed Estimated
-	Vehicle Speed From Abs
-	Vehicle Speed From Ecm
+	Vehicle Speed From ABS
+	Vehicle Speed From ECM
 	Vehicle Speed Info
 	Vehicle Stationary
 	Water In Fuel Tell Tale On
 	Water Pump On
 	Wheel Rotation Count
 	Wheel Rotation Pulse Count
-	Wheel Rotation Sensor Ok
+	Wheel Rotation Sensor OK
 	Windshield Washer Fluid Low
 	Yaw Rate
 	Yaw Rate

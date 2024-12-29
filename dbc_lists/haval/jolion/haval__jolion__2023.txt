@@ -1,0 +1,319 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Haval 'Jolion' (2023)
+Signal Descriptions:
+	ABS Active
+	ADAS ACC Active
+	ADAS ACC Cancel
+	ADAS ACC Canceled By Brake
+	ADAS ACC Fault
+	ADAS ACC Ready
+	ADAS Auto Adjust Speed Yes SET Minus
+	ADAS Cannot Recognize Static Target
+	ADAS Cruise Control Speed Set
+	ADAS Front Vehicle Distance Level
+	ADAS ICC Active
+	ADAS ICC Fault
+	ADAS ICC Ready
+	ADAS Prompt High Speed Reduce
+	ADAS Prompt Please Brake
+	ADAS Prompt TJA Unable To Activate
+	Display Head Up ADAS Displayed Closing
+	Display Head Up ADAS Displayed Opening
+	Display Multimedia Illumination Level
+	Display Multimedia Off
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Hood Open Indication
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Door Trunk Open
+	Driving Assist Tired Driving Active
+	Driving Mode
+	Driving Mode Actual
+	Driving Mode Target
+	ESP ABS In Action
+	ESP ABS Tell Tale On Amber
+	ESP Brake System Fault
+	ESP System Deactivated
+	ESP Traction Control Tell Tale Flashing
+	ESP Traction Control Tell Tale On
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Speed Displayed
+	Engine Speed Not Displayed
+	Engine Temperature High
+	Exterior Temperature
+	Exterior Temperature Displayed
+	Forward Assist Crash Safety System Active
+	Forward Assist Front Collide Sense
+	Forward Assist Pedestrian Safety System Active
+	Fuel Low Tell Tale On
+	Fuel Tank Level
+	GPF Status
+	HVAC Air Direction
+	HVAC Auto Defrost Mode
+	HVAC Auto Defrost Setting
+	HVAC Auto Defrost Switch Pressed
+	HVAC Blower Relay On
+	HVAC Cabin Temperature Sensor
+	HVAC Clutch On Off Command
+	HVAC Command
+	HVAC Fan Speed
+	HVAC Fan Speed Decrease Switch Pressed
+	HVAC Fan Speed Increase Switch Pressed
+	HVAC Recirculation Off
+	HVAC Settings Dual Active
+	HVAC Switch AC Pressed
+	HVAC Switch Defrost Front Pressed
+	HVAC Switch Defrost Rear Pressed
+	HVAC Switch On Off Pressed
+	HVAC Switch Recirculation Pressed
+	HVAC Temperature Flap Position
+	HVAC Temperature Set Driver
+	HVAC Temperature Set Passenger
+	Hazards Switch Pressed
+	Headlight High Beam Tell Tale Active
+	Headlight Low Beam Tell Tale On
+	Headlight Prompt Fault
+	Headlights Low Beam Active
+	Hill Assist On
+	Hill Assist Prompt Auto Hold Limited
+	Hill Assist Prompt HDC Limited
+	Honk Active
+	Honk Active
+	Lamp Daytime Running Left Active
+	Lamp Daytime Running Right Active
+	Lamp Indicator Left On
+	Lamp Indicator Right On
+	Lane Assist Keep Function Active
+	Lane Assist Keep Lane On Urgent Active
+	Lane Assist Smart Evade Active
+	Lane Assist Type
+	Lane Assist Warning Sense
+	Lane Assist Warning Type
+	Light Defogger Front Tell Tale On
+	Light Setting Dome Lamp Delay
+	Light Setting Follow Me Home Delay
+	Light Setting Mode Sport
+	Light Setting Power Saving Delay
+	Light Setting Search Mode
+	Light Setting Welcome Mode Off
+	Light Setting Welcome Mode On
+	Lock Setting Unlock Auto When Power Off Off
+	Lock Setting Unlock Auto When Power Off On
+	Lock Setting Unlock Mode Driver Only
+	Lock Status Unlocked
+	Lock When Driving Speed
+	Malfunction Lamp On
+	Mirror Blind Spot Indicator Left On
+	Mirror Blind Spot Indicator Right On
+	Mirrors Side Folded
+	Mirrors Side Folding Mode Manual
+	Park Assist Active
+	Parking Brake Engaged
+	Pedal Accelerator Position
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Released
+	Power Mode Ignition Active
+	Prompt Check Key In The Car
+	Prompt Please Turn Off Power
+	Prompt Power Relay Fault
+	Prompt Press Brake P Or N To Start
+	Rear Side Assist Back Side Brake Active
+	Rear Side Assist Door Open Warning Active
+	Rear Side Assist Lamp On Amber
+	Rear Side Assist Lamp On Red
+	Rear Side Assist Lamp Red
+	Rear Side Assist Lane Change Assist Active
+	Rear Side Assist Rear Collision Warning Active
+	Rear Side Assist Rear Crossing Alert Active
+	Rear Side Assist Rear Crossing Traffic Braking On
+	Rear Side Assist Trailer Mode Deactivated
+	Rear Side Assit Prompt Behind Vehicle High Speed
+	Service Vehicle Lamp On
+	Stalk Left Headlight Position Auto
+	Stalk Left Headlight Position Low Beam
+	Stalk Left Headlight Position Side Or Low Beam
+	Stalk Left Position Indicator Left
+	Stalk Left Position Indicator Right
+	Stalk Left Position Pressed
+	Stalk Left Position Pulled
+	Start Stop System Tell Tale On Green
+	Start Stop System Tell Tale On Orange
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Panel ADAS Switch Cancel Pressed
+	Steering Wheel Panel ADAS Switch Distance Adj Pressed
+	Steering Wheel Panel ADAS Switch On Off Pressed
+	Steering Wheel Panel ADAS Switch RES Pressed
+	Steering Wheel Panel ADAS Switch SET Pressed
+	Steering Wheel Panel Audiovisual Control Switch Bluetooth Pressed
+	Steering Wheel Panel Audiovisual Control Switch M Pressed
+	Steering Wheel Panel Audiovisual Control Switch Pressed 1
+	Steering Wheel Panel Audiovisual Control Switch Pressed 2
+	Steering Wheel Panel Audiovisual Control Switch Voice Pressed
+	Steering Wheel Panel Instrument Adj Switch Back Pressed
+	Steering Wheel Panel Instrument Adj Switch Down Pressed
+	Steering Wheel Panel Instrument Adj Switch OK Pressed
+	Steering Wheel Panel Instrument Adj Switch Up Pressed
+	Steering Wheel Rotatin Clockwise
+	Take A Brake Alert Active
+	Take A Brake Reminder Active
+	Throttle Valve Position
+	Traffic Sign Assist Active
+	Traffic Sign Assist Overspeed Alarm On
+	Traffic Sign Assist Sign Displayed
+	Traffic Sign Assist Speed Alarm Active
+	Traffic Sign Assist Speed Displayed
+	Traffic Sign Assist Speed Limit Active
+	Traffis Sign Assist Overspeed Alarm Sensitivity
+	Transmission Gear Current
+	Transmission Gear Target
+	Vehicle Clock Date Day
+	Vehicle Clock Date Month
+	Vehicle Clock Time Format 12 Hour
+	Vehicle Clock Time Hour
+	Vehicle Clock Time Minute
+	Vehicle Odometer
+	Vehicle Speed
+	Wheel Not Moving Front Left
+	Wheel Not Moving Front Right
+	Wheel Not Moving Rear Left
+	Wheel Not Moving Rear Right
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Front Driver Auto Down
+	Window Front Driver Auto Up
+	Window Front Driver Obstacle Detected
+	Window Front Driver Status
+	Window Front Driver Switch Up
+	Window Front Passenger Auto Down
+	Window Front Passenger Auto Up
+	Window Front Passenger Obstacle Detected
+	Window Front Passenger Status
+	Window Front Passenger Switch Up
+	Window Rear Left Auto Down
+	Window Rear Left Auto Up
+	Window Rear Left Obstacle Detected
+	Window Rear Left Status
+	Window Rear Left Switch Up
+	Window Rear Right Auto Down
+	Window Rear Right Auto Up
+	Window Rear Right Obstacle Detected
+	Window Rear Right Status
+	Window Rear Right Switch Up
+	Window Sunroof Status
+	Windshield Rain Light Sensor Fault
+	Wiper Front Sprayer Active Request
+	Wiper Rear Active
+	Wiper Rear Active Request
+	Wiper Rear Sprayer Active
+	Wiper Rear Sprayer Active Request
+	Wipers Front Speed
+	Wipers Front Sprayer Active
+	Wipers Front Washing Scraper Interval
+	Wireless Charging Switch Closed
+	Wireless Charging Switch Open
+	Wireless Charging Switch Status
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS 01
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Camera Front View Sensor In Calibration
+	Camera Front View Sensor Limited
+	Camera Front View Sensor Uncalibrated
+	Dashboard Color
+	Dashboard Theme
+	Display Head Up ADAS Not Displayed
+	Display Head Up Adjust Angle
+	Display Head Up Adjust Angle Negative
+	Display Head Up Adjust Angle Positive
+	Display Head Up Adjust Hight
+	Display Head Up Adjust Mode
+	Display Head Up Angle
+	Display Head Up Angle Negative
+	Display Head Up Brightness Level
+	Display Head Up Closing
+	Display Head Up Heigh Level
+	Display Head Up Mode
+	Display Head Up On
+	Display Head Up Opening
+	Display Head Up Phone Displayed Closing
+	Display Head Up Phone Displayed Opening
+	Display Head Up Phone Not Displayed
+	Display Language English
+	Display Temperature Unit F
+	Driving Settings Turn Multimode Setting
+	ESP Forward Assist Off
+	ESP Forward Assist Trailer Mode Off
+	Emergency Braking Assist Active Pedestrian
+	Emergency Braking Assist Active Vehicle
+	Engine Load
+	Engine Oil Temperature
+	Engine Speed In Dashboard 1
+	Engine Speed In Dashboard 2
+	Engine Speed Low Resolution
+	Forward Assist Crash Safety System Active
+	Forward Assist Front Collide Sense
+	Forward Assist Road Cross Assist Active
+	Fuel Consumption Instantaneous
+	Fuel Range
+	Gearbox Prompt Car Stopped Engage P
+	Gearbox Prompt High Speed Shift Disabled
+	Gearbox Prompt Shift To P Failed
+	Gearbox Shift Recommendation Down
+	Gearbox Shift Recommendation Up
+	Gearbox Warning Fault
+	Gearbox Warning Overheat
+	Gearbox Warning Overheat Stop Vehicle
+	Headlight On Tell Tale Active
+	IMMO Prompt Authentication Fail
+	Lamp Backup Light Fault
+	Lamp Brake Center Fault
+	Lamp Brake Center On
+	Lamp Brake Fault Left
+	Lamp Brake Fault Right
+	Lamp Brake Left On
+	Lamp Brake Right On
+	Lamp Fog Rear Fault
+	Lamp License Plate Fault
+	Lamp Tail Left Fault
+	Lamp Tail Right Fault
+	Lamps Reverse On
+	Light Fog Rear Tell Tale On
+	Light Indicator Tell Tale Left On
+	Light Indicator Tell Tale Right On
+	PRNDL Indication Dashboard
+	Parking Brake Engaged
+	Parking Brake Fault
+	Parking Brake Prompt Press Brake
+	Parking Brake Status Changing
+	Parking Brake Switch Pressed Down
+	Parking Brake Switch Pulled Up
+	Parking Brake Tell Tale On
+	Pedal Brake Pressure
+	Seatbelt Front Driver Unfastened 1
+	Seatbelt Front Driver Unfastened 2
+	Seatbelt Front Passenger Unfastened 1
+	Seatbelt Front Passenger Unfastened 2
+	Steering Wheel Hold Warning Level
+	Time Since Engine Start
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Tire Temperature Front Left
+	Tire Temperature Front Right
+	Tire Temperature Rear Left
+	Tire Temperature Rear Right
+	VIN Characters 10 To 17
+	Vehicle Odometer
+	Vehicle Speed Displayed Dashboard
+	Vehicle Speed Displayed Head Up Display
+	Yaw Rate

@@ -1,25 +1,25 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Vito' (2019)
 Signal Descriptions:
+	ADAS Cruise Control Cancel Request
+	ADAS Cruise Control Decrease By 1
+	ADAS Cruise Control Decrease By 5
+	ADAS Cruise Control Increase By 1
+	ADAS Cruise Control Increase By 5
+	ADAS Cruise Control Off
+	ADAS Cruise Control On
+	ADAS Cruise Control Resume Request
+	ADAS Cruise Control Speed Set
+	ADAS Lane Assist On
+	ADAS Prompt Attention Assist Inoperative
+	ADAS Prompt Attention Assist Take A Break
+	ADAS Prompt Crosswind Assist
+	ADAS Prompt Cruise Control Off
+	ADAS Prompt Radar Sensor Dirty
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Accelerator Pedal Position S1
 	Accelerator Pedal Position S2
-	Adas Cruise Control Cancel Request
-	Adas Cruise Control Decrease By 1
-	Adas Cruise Control Decrease By 5
-	Adas Cruise Control Increase By 1
-	Adas Cruise Control Increase By 5
-	Adas Cruise Control Off
-	Adas Cruise Control On
-	Adas Cruise Control Resume Request
-	Adas Cruise Control Speed Set
-	Adas Lane Assist On
-	Adas Prompt Attention Assist Inoperative
-	Adas Prompt Attention Assist Take A Break
-	Adas Prompt Crosswind Assist
-	Adas Prompt Cruise Control Off
-	Adas Prompt Radar Sensor Dirty
 	Airbag Prompt Check Child Seat Position
 	Airbag Prompt Curtain Left Service Required
 	Airbag Prompt Curtain Right Service Required
@@ -43,13 +43,14 @@ Signal Descriptions:
 	Brake By Driver Active
 	Brake Hold Active
 	Brake Switch Active
+	DSR Inoperative Dash Prompt
 	Date Displayed Day
 	Date Displayed Month
 	Date Displayed Year
-	Diesel Prompt Check Def
+	Diesel Prompt Check DEF
 	Diesel Prompt Engine Start Not Possible
-	Diesel Prompt Refill Def No Start
-	Diesel Refill Def
+	Diesel Prompt Refill DEF No Start
+	Diesel Refill DEF
 	Door Front Driver Closed
 	Door Front Driver Locked
 	Door Front Driver Open
@@ -78,12 +79,24 @@ Signal Descriptions:
 	Door Trunk Closed
 	Door Trunk Open
 	Door Trunk Unlatched
-	Dsr Inoperative Dash Prompt
+	ESP ABS Tell Tale On
+	ESP Brake Tell Tale Flashing
+	ESP Brake Tell Tale On
+	ESP Prompt ABS And Traction Control Inoperative
+	ESP Prompt HOLD
+	ESP Prompt HOLD Cannot Be Activated
+	ESP Prompt Max Speed 40Mph
+	ESP Prompt Traction Control Currently Unavailable
+	ESP Prompt Traction Control Inoperative
+	ESP Traction Control Deactivated
+	ESP Traction Control Off Tell Tale On
+	ESP Traction Control Tell Tale Flashing
+	ESP Traction Control Tell Tale On
 	Engine Coolant Temperature
 	Engine Oil Temperature
 	Engine Prompt Clean The Fuel Filter
 	Engine Prompt Depress Clutch Fully To Start Engine
-	Engine Prompt Exhaust Filter Raise Rpm
+	Engine Prompt Exhaust Filter Raise RPM
 	Engine Prompt Gas Cap Loose
 	Engine Speed
 	Engine Torque Actual
@@ -92,19 +105,6 @@ Signal Descriptions:
 	Engine Warning Clutch Overheated
 	Engine Warning Engine Overheating
 	Engine Warning Oil Pressure Stop Vehicle Switch Off Engine
-	Esp Abs Tell Tale On
-	Esp Brake Tell Tale Flashing
-	Esp Brake Tell Tale On
-	Esp Prompt Abs And Traction Control Inoperative
-	Esp Prompt Hold
-	Esp Prompt Hold Cannot Be Activated
-	Esp Prompt Max Speed 40Mph
-	Esp Prompt Traction Control Currently Unavailable
-	Esp Prompt Traction Control Inoperative
-	Esp Traction Control Deactivated
-	Esp Traction Control Off Tell Tale On
-	Esp Traction Control Tell Tale Flashing
-	Esp Traction Control Tell Tale On
 	Fuel Consumption Trip Average
 	Fuel Level Percentage
 	Fuel Level Volume
@@ -113,6 +113,11 @@ Signal Descriptions:
 	Fuel Rate
 	Fuel Tell Tale Level Low Active
 	Glowplug Tell Tale On
+	HVAC AC Off
+	HVAC Blower Duty
+	HVAC Blower Speed Max
+	HVAC Mode Max
+	HVAC Recirculation Active
 	Headlights Fog Front Active
 	Headlights High Beam Active
 	Headlights Low Beam Active
@@ -122,11 +127,6 @@ Signal Descriptions:
 	Headlights Stalk Position Flash
 	Headlights Stalk Position High Beam
 	Horn Active
-	Hvac Ac Off
-	Hvac Blower Duty
-	Hvac Blower Speed Max
-	Hvac Mode Max
-	Hvac Recirculation Active
 	Intake Air Temperature
 	Key Position
 	Lights Brake Active
@@ -137,16 +137,17 @@ Signal Descriptions:
 	Master Cylinder Pressure
 	Mirror Position Adjust Right Selected
 	Odometer
+	PRNDL Position
 	Parking Brake Button Pressed Down
 	Parking Brake Button Pulled Up
 	Parking Brake Status
 	Pedal Accelerator Position Kickdown
 	Pedal Brake Position
 	Pedal Brake Pressed
-	Power Steering Prompt Dsr Dynamic Steering Response Off
+	Power Steering Prompt DSR Dynamic Steering Response Off
 	Power Steering Prompt Malfunction
-	Prndl Position
 	Roof Operation Tone
+	SRS Prompt Malfunction Service Required
 	Seat Front Passenger Not Detected
 	Seatbelt Front Driver Unbuckled
 	Seatbelt Front Passenger Unbuckled
@@ -161,7 +162,6 @@ Signal Descriptions:
 	Shifter Stalk Down Level 2 Pressed
 	Shifter Stalk Up Level 1 Pressed
 	Shifter Stalk Up Level 2 Pressed
-	Srs Prompt Malfunction Service Required
 	Start System Prompt Before Starting The Engine Turn Steering Wheel
 	Start System Prompt Key Being Initialized
 	Start System Prompt Key Does Not Belong To Vehicle
@@ -180,7 +180,7 @@ Signal Descriptions:
 	Steering Wheel Button End Call Pressed
 	Steering Wheel Button Left Arrow Pressed
 	Steering Wheel Button Mute Pressed
-	Steering Wheel Button Ok Pressed
+	Steering Wheel Button OK Pressed
 	Steering Wheel Button Right Arrow Pressed
 	Steering Wheel Button Up Arrow Pressed
 	Steering Wheel Button Voice Pressed
@@ -188,34 +188,34 @@ Signal Descriptions:
 	Steering Wheel Button Volume Increase Pressed
 	Steering Wheel Heated Off
 	Steering Wheel Heated On
-	Steering Wheel Xyz Control Position
+	Steering Wheel XYZ Control Position
 	Stop Start System Off Tell Tale Yellow On
+	TPMS Prompt Adjust Tire Pressure
+	TPMS Prompt Tire Pressure Check Tires
+	TPMS Prompt Wheel Sensors Missing
+	TPMS Tell Tale Flashing
+	TPMS Tell Tale On
+	TPMS Tire Pressure Front Left
+	TPMS Tire Pressure Front Right
+	TPMS Tire Pressure Low Tell Tale Front Left
+	TPMS Tire Pressure Low Tell Tale Front Right
+	TPMS Tire Pressure Low Tell Tale Rear Left
+	TPMS Tire Pressure Low Tell Tale Rear Right
+	TPMS Tire Pressure Rear Left
+	TPMS Tire Pressure Rear Right
 	Throttle Position
 	Time Displayed Hour
 	Time Displayed Minute
 	Time Displayed Second
-	Tpms Prompt Adjust Tire Pressure
-	Tpms Prompt Tire Pressure Check Tires
-	Tpms Prompt Wheel Sensors Missing
-	Tpms Tell Tale Flashing
-	Tpms Tell Tale On
-	Tpms Tire Pressure Front Left
-	Tpms Tire Pressure Front Right
-	Tpms Tire Pressure Low Tell Tale Front Left
-	Tpms Tire Pressure Low Tell Tale Front Right
-	Tpms Tire Pressure Low Tell Tale Rear Left
-	Tpms Tire Pressure Low Tell Tale Rear Right
-	Tpms Tire Pressure Rear Left
-	Tpms Tire Pressure Rear Right
 	Transmission Gear Current
 	Transmission Gear Shifting
 	Transmission Gear Target
+	VIN Characters 1 To 7
+	VIN Characters 15 To 17
+	VIN Characters 8 To 14
+	VIN Index
 	Vehicle Speed
 	Vehicle Speed Displayed
-	Vin Characters 1 To 7
-	Vin Characters 15 To 17
-	Vin Characters 8 To 14
-	Vin Index
 	Wheel Power Direction Front Left
 	Wheel Power Direction Front Right
 	Wheel Power Direction Rear Left
@@ -233,7 +233,7 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Auto Lamp Function Inoperative Dash Prompt
 	Auto Start Stop Active
 	Automatic Door Lock Setting Set To Enabled
@@ -263,19 +263,19 @@ Signal Descriptions:
 	Fob Requests
 	Front Dome Light Active
 	Front Dome Light Button Pressed
+	HVAC Auto Active
+	HVAC Auto On
+	HVAC Blower Position
+	HVAC Cabin Recirculation
+	HVAC Change Bit
+	HVAC Driver Side Climate Zone Temperature
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Off
+	HVAC Passenger Side Climate Zone Temperature
 	Hazards Active
 	Hazards Button Pressed
 	High Beam Fog Light Button Pressed
-	Hvac Auto Active
-	Hvac Auto On
-	Hvac Blower Position
-	Hvac Cabin Recirculation
-	Hvac Change Bit
-	Hvac Driver Side Climate Zone Temp
-	Hvac Fan Speed
-	Hvac Max Active
-	Hvac Off
-	Hvac Passenger Side Climate Zone Temp
 	Instrument Cluster Brightness
 	Interior Light Delay Setting Set To Enabled
 	Language Setting Set To
@@ -284,7 +284,7 @@ Signal Descriptions:
 	Locator Lighting Setting Set To Enabled
 	Low Beam Fog Light Button Pressed
 	Max Speed 20 Kmh Dash Prompt
-	Pm Active
+	PM Active
 	Rain Sensitivity Setting
 	Rear Dome Light Active
 	Rear Dome Light Button Pressed
@@ -298,7 +298,7 @@ Signal Descriptions:
 	Traction Control Off Button Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Acc Pedal Position
+	ACC Pedal Position
 	Apply Brake To Shift From P Dash Prompt
 	Battery Voltage
 	Calculated Engine Load
@@ -323,10 +323,11 @@ Signal Descriptions:
 	Traction Control Active
 	Traction Control Active
 	Transmission Malfunction Dash Prompt
-	Transmission Malfunction Stop Dash Prompt
+	Transmission Malfunction STOP Dash Prompt
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Tell Tale Active
+	ABS Tell Tale Active
+	ASB And Traction Control Inoperative Dash Prompt
 	Accelerator Pedal Position
 	Acoustic Lock Feedback Setting Activated
 	Adjust Tire Pressure Dash Prompt Active
@@ -340,7 +341,6 @@ Signal Descriptions:
 	Air Bag Tell Tale Active
 	Air Bag Tell Tale Blinking Active
 	Ambient Temperature Inside Car
-	Asb And Traction Control Inoperative Dash Prompt
 	Attention Assist Inoperative Dash Prompt
 	Attention Assist Take A Break Dash Prompt
 	Battery Malfunction Dash Prompt
@@ -354,7 +354,7 @@ Signal Descriptions:
 	Brake Tell Tale Active
 	Brake Tell Tale Blinking Active
 	Check Child Seat Position Dash Prompt
-	Check Def See Operators Manual Dash Prompt Active
+	Check DEF See Operators Manual Dash Prompt Active
 	Clock Day
 	Clock Hour
 	Clock Minute
@@ -372,6 +372,8 @@ Signal Descriptions:
 	Cruise Control Off Dash Prompt
 	Cruise Control Resume
 	Cruise Set Speed
+	DSR Inoperative Dash Prompt
+	DSR Off Dash Prompt
 	Display Engine Coolant
 	Driver Brake
 	Driver Door Closed
@@ -382,13 +384,11 @@ Signal Descriptions:
 	Driver Door Window Change Bit
 	Driver Door Window In Door Open Position
 	Driver Seat Belt Unbuckled
-	Dsr Inoperative Dash Prompt
-	Dsr Off Dash Prompt
 	Engine Oil Pressure Stop Vehicle Switch Off Engine Dash Prompt
 	Engine Over Heating Icon Displayed On Dash Prompt
 	Engine Speed
 	Engine Start Not Possible Dash Prompt Active
-	Exhaust Filter Raise Engine Rpm Dash Prompt
+	Exhaust Filter Raise Engine RPM Dash Prompt
 	Foot Parking Brake Active
 	Front Misting Button Level One Pressed
 	Front Misting Button Level Two Pressed
@@ -396,13 +396,13 @@ Signal Descriptions:
 	Front Wiper In Motion
 	Fuel Tank Displayed Level
 	Gas Cap Loose Dash Prompt
+	HOLD Cannot Be Activated Dash Prompt
+	HOLD Dash Prompt
+	HVAC Recirculation Active
 	Heated Steering Wheel Stock Position Off
 	Heated Steering Wheel Stock Position On
 	High Beam Active
-	Hold Cannot Be Activated Dash Prompt
-	Hold Dash Prompt
 	Horn Active
-	Hvac Recirculation Active
 	Key Being Initialized Please Wait Dash Prompt
 	Key Does Not Belong To Vehicle Dash Prompt
 	Key Not Detected Dash Prompt
@@ -417,7 +417,7 @@ Signal Descriptions:
 	Low Beam Active
 	Low Fuel Tell Tale Active
 	Malfunction Service Required Dash Prompt
-	Mas Speed 40Mph Dash Prompt
+	Max Speed 40Mph Dash Prompt
 	Obtain A New Key Dash Prompt
 	Odometer
 	Odometer Dash Display
@@ -438,7 +438,7 @@ Signal Descriptions:
 	Passenger Seat Belt Buckled
 	Passenger Seat Belt Unbuckled
 	Passenger Seat Down
-	Passenger Seat Forward D
+	Passenger Seat Forward
 	Passenger Seat Up
 	Passenger Thigh Support Down
 	Passenger Thigh Support Extend
@@ -448,8 +448,8 @@ Signal Descriptions:
 	Radar Sensor Dirty Dash Prompt
 	Rear Wiper Set To Intermediate
 	Rear Wiper Set To Mister
-	Refill Def No Start Dash Prompt Active
-	Refill Def See Operators Manual Dash Prompt Active
+	Refill DEF No Start Dash Prompt Active
+	Refill DEF See Operators Manual Dash Prompt Active
 	Remove Start Button And Insert Key Dash Prompt
 	Right Front Door Status
 	Right Rear Door Status
@@ -458,6 +458,7 @@ Signal Descriptions:
 	Right Turn Signal Stock Position
 	Right Window Open Percentage
 	Roof Operation Tone
+	SRS Malfunction Service Required Dash Prompt
 	Seat Heat Button Pressed
 	Shift To P Dash Prompt
 	Shift To P Or N To Start Engine Dash Prompt
@@ -466,7 +467,6 @@ Signal Descriptions:
 	Shifter Level Pressed Park Button
 	Shifter Level Pressed Up One
 	Shifter Level Pressed Up Two
-	Srs Malfunction Service Required Dash Prompt
 	Steering Malfunction Dash Prompt
 	Steering Wheel Angle
 	Steering Wheel Back Button Active
@@ -476,7 +476,7 @@ Signal Descriptions:
 	Steering Wheel End Call Button Active
 	Steering Wheel Left Arrow Button Active
 	Steering Wheel Mute Button Active
-	Steering Wheel Ok Button Active
+	Steering Wheel OK Button Active
 	Steering Wheel Rate
 	Steering Wheel Right Arrow Button Active
 	Steering Wheel Up Arrow Button Active
@@ -485,25 +485,25 @@ Signal Descriptions:
 	Steering Wheel Volume Up Button Active
 	Steering Wheel X Y And Z Control Stock Position
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
+	TPMS Front Left
+	TPMS Front Left Low Tier Low Tell Tale
+	TPMS Front Right
+	TPMS Front Right Low Tier Low Tell Tale
+	TPMS Rear Left
+	TPMS Rear Left Low Tier Low Tell Tale
+	TPMS Rear Right
+	TPMS Rear Right Low Tier Low Tell Tale
+	TPMS Tell Tale Active
+	TPMS Tell Tale Blinking Active
 	Tire Pressure Check Tires Dash Prompt
-	Tpms Front Left
-	Tpms Front Left Low Tier Low Tell Tale
-	Tpms Front Right
-	Tpms Front Right Low Tier Low Tell Tale
-	Tpms Rear Left
-	Tpms Rear Left Low Tier Low Tell Tale
-	Tpms Rear Right
-	Tpms Rear Right Low Tier Low Tell Tale
-	Tpms Tell Tale Active
-	Tpms Tell Tale Blinking Active
 	Traction Control Currently Currently Dash Prompt
 	Traction Control Inoperative Dash Prompt
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Traction Control Tell Tale Blinking Active
 	Units In Miles Active
+	VIN Part 1
 	Vehicle Speed
-	Vin Part 1
 	Wheel Power Direction Front Left
 	Wheel Power Direction Front Right
 	Wheel Power Direction Rear Left

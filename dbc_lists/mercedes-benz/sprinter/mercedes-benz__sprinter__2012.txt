@@ -1,31 +1,31 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Sprinter' (2012)
 Signal Descriptions:
-	Abs Diagnostics Mode Active
-	Abs Tell Tale Active
+	ABS Diagnostics Mode Active
+	ABS Tell Tale Active
+	ADAS Cruise Control Button Resume Pressed
+	ADAS Cruise Control Button Speed Down Request
+	ADAS Cruise Control Button Speed Up Request
+	ADAS Cruise Control Off
+	ADAS Cruise Control Speed Set
+	ADAS Prompt Crosswind Assist Intervention
+	ASR Off Button Pressed
 	Acceleration Lateral
-	Adas Cruise Control Button Resume Pressed
-	Adas Cruise Control Button Speed Down Request
-	Adas Cruise Control Button Speed Up Request
-	Adas Cruise Control Off
-	Adas Cruise Control Speed Set
-	Adas Prompt Crosswind Assist Intervention
 	Adblue Level
 	Ambient Cabin Temperature
 	Ambient Outside Temperature
-	Asr Off Button Pressed
+	BRAKE Tell Tale Active
+	BRAKE Tell Tale Active
 	Battery Voltage
 	Blind Spot Detection Button Pressed
-	Brake Active By Esp
+	Brake Active By ESP
 	Brake Force Distribution Diagnosis Rig Test Message Active
 	Brake Pressure Sensor
 	Brake Pressure Wheel Front Left
 	Brake Pressure Wheel Front Right
-	Brake Tell Tale Active
-	Brake Tell Tale Active
-	Coding Body Variant N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
-	Coding Wheelbase N73 Electronic Ignition Lock Ezs Control Unit Ok From Scan Tool
-	Coding Wheels And Tires N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Coding Body Variant N73 Electronic Ignition Lock EZS Control Unit Not Ok From Scan Tool
+	Coding Wheelbase N73 Electronic Ignition Lock EZS Control Unit Ok From Scan Tool
+	Coding Wheels And Tires N73 Electronic Ignition Lock EZS Control Unit Not Ok From Scan Tool
 	Collision Prevention Assist Button Pressed
 	Coolant Temperature
 	Door Cargo Open
@@ -33,11 +33,11 @@ Signal Descriptions:
 	Door Front Driver Open
 	Door Front Passenger Open
 	Door Sliding Right Open
+	ESP Prompt Deactivation Level Implausible
 	Engine Oil Temperature
 	Engine On Time
 	Engine Speed
 	Engine Torque
-	Esp Prompt Deactivation Level Implausible
 	Fuel Level Volume
 	Fuel Prompt Change Filter
 	Fuel Prompt Water In Fuel
@@ -47,6 +47,7 @@ Signal Descriptions:
 	Gear Engaged Target
 	Gear Engaged Target
 	Glow Plug Tell Tale On
+	HVAC Refrigerant Pressure
 	Headlight Stalk Position Turn Left
 	Headlight Stalk Position Turn Right
 	Headlights Active
@@ -55,7 +56,6 @@ Signal Descriptions:
 	Headlights Stalk Position Flash
 	Headlights Stalk Position High Beam
 	Horn Active
-	Hvac Refrigerant Pressure
 	Ignition Status On
 	Intake Air Temperature
 	Lane Keep Assist Button Pressed
@@ -69,6 +69,9 @@ Signal Descriptions:
 	Mass Air Flow Sensor Disconnected
 	Master Cylinder Pressure
 	Odometer Main Reading
+	PRNDL Park Or Neutral
+	PRNDL Position
+	PRNDL Position Displayed
 	Park Aid Off Button Pressed
 	Park Aid System Off
 	Parking Brake Engaged
@@ -77,14 +80,11 @@ Signal Descriptions:
 	Pedal Accelerator Released
 	Pedal Brake Switch 2 Active
 	Pedal Brake Switch Active
-	Prndl Park Or Neutral
-	Prndl Position
-	Prndl Position Displayed
 	Prompt Air Cleaner Dirty
 	Prompt Check Diesel Exhaust Fluid
 	Prompt Idle Mode
 	Prompt Start Engine Or System Will Shut Off
-	Sas Initialization Complete Not Set
+	SAS Initialization Complete Not Set
 	Seatbelt Driver Unfastened
 	Service Tell Tale Flashing
 	Service Tell Tale On
@@ -99,11 +99,11 @@ Signal Descriptions:
 	Time Current Second
 	Traction Control Tell Tale On
 	Transmission Turbine Speed
+	VIN Characters 1 To 7
+	VIN Characters 15 To 17
+	VIN Characters 8 To 14
+	VIN Index
 	Vehicle Speed
-	Vin Characters 1 To 7
-	Vin Characters 15 To 17
-	Vin Characters 8 To 14
-	Vin Index
 	Wheel Moving Front Left
 	Wheel Moving Front Right
 	Wheel Moving Rear Left

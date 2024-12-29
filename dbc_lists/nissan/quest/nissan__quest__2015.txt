@@ -1,9 +1,9 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Nissan 'Quest' (2015)
 Signal Descriptions:
-	Abs W L Active
-	Ac
-	Acc Follow Distance
+	ABS W L Active
+	AC
+	ACC Follow Distance
 	Acc Pedal Not Pressed
 	Accelerator Pedal Position 1
 	Accelerator Pedal Position 2
@@ -13,9 +13,9 @@ Signal Descriptions:
 	Accelerator Pedal Pressed 2
 	Accessory Mode
 	Alarm Active
-	Ambient Temp
-	Bci Unavailable High Accelerator Temperature Message
-	Bci Unavailable Side Radar Obstruction Message
+	Ambient Temperature
+	BCI Unavailable High Accelerator Temperature Message
+	BCI Unavailable Side Radar Obstruction Message
 	Blind Spot
 	Blind Spot Monitoring
 	Blind Spot Unavailable High Cabin Temperature Massage
@@ -39,8 +39,8 @@ Signal Descriptions:
 	Cruise Set Coast Pressed
 	Cruise Units
 	Current Gear
+	DCA Unavailable High Accelerator Temperature Message
 	Dash Menu Options
-	Dca Unavailable High Accelerator Temperature Message
 	Driver Seat Belt
 	Eco Button Pressed
 	Eco Mode Active
@@ -72,16 +72,16 @@ Signal Descriptions:
 	Front Right Wheel Speed
 	Gear Position Indicator
 	Gear Ratio
+	HVAC
 	Hazards Active
 	Heater On
 	High Beam Lights Turn On
 	Hood Open
-	Hvac
+	LDP Unavailable High Cabin Temperature Massage
 	Lane Departure On Off
 	Lane Departure Tell Tale Flash
 	Lane Departure Warning Unavailable High Cabin Temperature Massage
 	Lane Keep Active
-	Ldp Unavailable High Cabin Temperature Massage
 	Left Turn Indicator Lever Status
 	Left Turn Tell Tale
 	Lock All Doors
@@ -89,12 +89,12 @@ Signal Descriptions:
 	Loose Fuel Cap Message And Caution Tell Tale
 	Low Beam Head Lights Turn On
 	Low Oil Pressure
-	M Mode Sw Active
+	M Mode SW Active
+	MIL Tell Tale Active
 	Mass Airflow Sensor
-	Mil Tell Tale Active
 	Night Running Lights Rear Turn On
+	O D OFF Command
 	O D Off
-	O D Off Command
 	Object In Reverse Camera View On Off
 	Odometer
 	Overdrive Shift Button
@@ -127,7 +127,7 @@ Signal Descriptions:
 	Steering Wheel Angle 2
 	Steering Wheel Speed
 	Switch Except M Mode
-	Tpms Error See Owners Manual
+	TPMS Error See Owners Manual
 	Traction Control
 	Traction Control Active
 	Traction Control Tell Tale Active

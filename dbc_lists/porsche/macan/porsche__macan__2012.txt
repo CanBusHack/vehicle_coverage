@@ -2,9 +2,9 @@ Version 0.2 Copyright CanBusHack 2024
 Platform: Porsche 'Macan' (2012)
 Signal Descriptions:
 	A Front Overhead Interior Light Is On
-	Abs Active
-	Abs Lamp Active
-	Acc Display Active
+	ABS Active
+	ABS Lamp Active
+	ACC Display Active
 	Accelerator Pedal
 	Accelerator Pedal Let Off Sig
 	Accelerator Pedal Not Pressed
@@ -18,8 +18,8 @@ Signal Descriptions:
 	Automatic Off Active
 	Automatic Off Deactivate
 	Automatic Stop Start System Off
+	BRAKE Lamp Active
 	Brake Initial Travel
-	Brake Lamp Active
 	Brake Pedal
 	Calculated Engine Load
 	Car Status For Auto Stop Start
@@ -28,6 +28,7 @@ Signal Descriptions:
 	Cold Start
 	Consumption Units
 	Cylinder Deactivation
+	DRL On
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Error Pedestrian Monitoring
 	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
@@ -55,12 +56,11 @@ Signal Descriptions:
 	Driving Cycle
 	Driving Mode
 	Driving Mode Change In Progress
-	Drl On
+	ESC
+	ESP Lamp Active
 	Electric Parking Break
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Speed
-	Esc
-	Esp Lamp Active
 	Fob Being Pressed
 	Fob Not Being Pressed
 	Fog Light
@@ -77,7 +77,7 @@ Signal Descriptions:
 	Head Light Settings
 	Heated Mirrors Selected
 	Heated Steering Wheel Toggled
-	Intake Air Temp
+	Intake Air Temperature
 	Interior Lighting Brightness 1
 	Interior Lighting Brightness 2
 	Interior Lighting Brightness 3
@@ -106,7 +106,7 @@ Signal Descriptions:
 	Odometer
 	Oil Pressure Switch
 	Oil Pressure Warning Active
-	Oil Temp
+	Oil Temperature
 	Overrun Cutoff Active
 	Passenger Seat Heat Setting
 	Personalization Activated
@@ -125,12 +125,12 @@ Signal Descriptions:
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
 	Set Idle Speed
-	Settings Speed Mph
+	Settings Speed MPH
 	Shift Interlock Active
 	Side Mirror Adjustment Switch Down
 	Side Mirror Adjustment Switch Left
 	Side Mirror Adjustment Switch Right
-	Side Mirror Adjustment Switch Up
+	Side Mirror Adjustment Switch UP
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
@@ -144,11 +144,11 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Lamp Active
 	Stop Confirmation
-	Stopping Process Acc Active
+	Stopping Process ACC Active
 	Target Gear
 	Tell Tale Seatbelt Icon For Drive Active
 	Tell Tale Seatbelt Icon For Passenger Active
-	Temp Units C0 F1
+	Temperature Units C0 F1
 	Throttle Wide Open Active
 	Time Day
 	Time Hours
@@ -159,8 +159,8 @@ Signal Descriptions:
 	Unlock Command With Blinker Flash
 	Upper And Lower Limit Switch
 	Upper Engine Speed Limit
+	VIN Part1
 	Vehicle Speed
-	Vin Part1
 	Voice Command Button On Left Stock Active
 	Voltage Request
 	Volume Units
@@ -177,11 +177,12 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Active
-	Abs Lamp Active
+	ABS Active
+	ABS Lamp Active
+	ACC Display Active
+	ASR Active
 	Absolute Load Value
 	Absolute Throttle Position
-	Acc Display Active
 	Accelerator Pedal
 	Accelerator Pedal Gradient
 	Accelerator Pedal Gradient Not Reported
@@ -195,10 +196,9 @@ Signal Descriptions:
 	Airbag Lamp Active
 	Airbag System Error
 	Airbag Tell Tale Active
-	Asr Active
 	Audio Reduction For Radio Started
+	BRAKE Lamp Active
 	Belt Tensioner Mode
-	Brake Lamp Active
 	Brake Switch 1 Active
 	Brake Switch 2 Active
 	Calculated Load Value
@@ -210,6 +210,7 @@ Signal Descriptions:
 	Consumption Units
 	Current Gear
 	Cylinder Deactivation
+	DPF Installed
 	Dash Prompt Add Engine Oil
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Battery Almost Drained Limited Vehicle Performance
@@ -233,8 +234,8 @@ Signal Descriptions:
 	Dash Prompt Please Reduce Oil Level See Manual
 	Dash Prompt Restart Not Possible Do Not Open Hood
 	Dash Prompt Unable To Start Please Remove Charging Connector
-	Dash Tell Tale Epc
-	Dash Tell Tale Mil
+	Dash Tell Tale EPC
+	Dash Tell Tale MIL
 	Dates Units
 	Displayed Engine Speed
 	Distance Units Km0 Mi1
@@ -254,7 +255,6 @@ Signal Descriptions:
 	Door Rear Right Locked
 	Door Rear Right Open
 	Door Rear Right Unlock Button Pressed
-	Dpf Installed
 	Drive System Mode Surface
 	Driver Door Lock Button
 	Driver Door Locked
@@ -277,17 +277,23 @@ Signal Descriptions:
 	Driver Window Up Switch
 	Driving Cycle Active
 	Driving Mode Changing
+	ESC
+	ESP Anti Skid Active
+	ESP Intervention Active
+	ESP Lamp Active
+	ESP System Not Active
+	ESP Timeout
 	Electric Parking Break
 	Electronic Brake Force Distribution Active
 	Electronic Differential Lock Active
 	Engine Actual Torque Sum
 	Engine And Transmission Mode
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Coolant Temperature
 	Engine Inertia Torque Sum
 	Engine Liters
-	Engine Maximum Desired Rpm
-	Engine Minimum Desired Rpm
+	Engine Maximum Desired RPM
+	Engine Minimum Desired RPM
 	Engine Normal Operation Active
 	Engine Speed
 	Engine Speed Limiter Active
@@ -299,18 +305,12 @@ Signal Descriptions:
 	Engine Torque Limitation Dynamic
 	Engine Torque Limitation Static
 	Error Electrical System Stop
-	Esc
-	Esp Anti Skid Active
-	Esp Intervention Active
-	Esp Lamp Active
-	Esp System Not Active
-	Esp Timeout
 	Exhaust Button Active
-	Exhaust Type System Set To Eobd
-	Exhaust Type System Set To Obd
-	Front Driver Side Cabin Temp
+	Exhaust Type System Set To EOBD
+	Exhaust Type System Set To OBD
+	Front Driver Side Cabin Temperature
 	Front Passenger Air Bag Off
-	Front Passenger Cabin Temp
+	Front Passenger Cabin Temperature
 	Fuel Auto Compensation Control Active
 	Fuel Economy Hint Acknowledged
 	Fuel Level
@@ -328,8 +328,8 @@ Signal Descriptions:
 	Heated Steering Wheel Toggled
 	High Precision Fuel Level
 	Instantaneous Fuel Consumption
-	Intake Air Temp
-	Key Position Acc
+	Intake Air Temperature
+	Key Position ACC
 	Key Position Crank
 	Key Position Ignition
 	Language Units
@@ -357,9 +357,10 @@ Signal Descriptions:
 	Oil Level
 	Oil Pressure Switch
 	Oil Pressure Warning Active
-	Oil Temp
+	Oil Temperature
 	Outside Air Temperature
 	Overrun Cutoff Active
+	PRNDL
 	Parking Assist Active
 	Parking Assist Active Front
 	Parking Assist Active Rear
@@ -371,8 +372,8 @@ Signal Descriptions:
 	Parking Assist Beep Volume Level Rear
 	Parking Assist Interrupted
 	Parking Assist Malfunction
+	Passenger HVAC Fan Speed
 	Passenger Heated Seat Level
-	Passenger Hvac Fan Speed
 	Passenger Seat Cooling Setting
 	Passenger Seat Heating Balance Setting
 	Passenger Seat Heating Setting
@@ -380,15 +381,14 @@ Signal Descriptions:
 	Please Reduce Oil Level
 	Press Length On Center Screen
 	Pressure Units
-	Prndl
 	Raising Vehicle
 	Range
 	Ready To Drive
 	Rear Crash
 	Rear Driver Heated Seat Setting
-	Rear Driver Side Cabin Temp
+	Rear Driver Side Cabin Temperature
 	Rear Passenger Heated Seat Setting
-	Rear Passenger Side Cabin Temp
+	Rear Passenger Side Cabin Temperature
 	Recirculation Button Active
 	Refueling Recognized
 	Remote Start Active
@@ -397,11 +397,11 @@ Signal Descriptions:
 	Right Child Lock Not Active
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	Scr System Error Active
+	SCR System Error Active
 	Seatbelt Front Driver Buckled
 	Seatbelt Front Passenger Buckled
 	Set Idle Speed
-	Settings Speed Mph
+	Settings Speed MPH
 	Shift Interlock Active
 	Side Mirrors Out State
 	Speed Units 0Kmh 1Mph
@@ -414,10 +414,10 @@ Signal Descriptions:
 	Steering Wheel Angle Negative
 	Steering Wheel Lamp Active
 	Stop Confirmation
-	Stopping Process Acc Active
+	Stopping Process ACC Active
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
-	Temp Units C0 F1
+	Temperature Units C0 F1
 	Throttle Wide Open Active
 	Time Day
 	Time Hours
@@ -428,12 +428,15 @@ Signal Descriptions:
 	Transmission Over Temperature Warning
 	Transmission Warning Active
 	Trigger Image Activation
+	USA Variant
+	USA Variant
 	Unit Distance Km
 	Unit Distance Miles
 	Unlock Command With Blinker Flas
 	Upper And Lower Limit Switch
-	Usa Variant
-	Usa Variant
+	VIN Part1
+	VIN Part2
+	VIN Part3
 	Vehicle Coasting Active
 	Vehicle Front Left Being Adjusted
 	Vehicle Front Right Being Adjusted
@@ -441,9 +444,6 @@ Signal Descriptions:
 	Vehicle Rear Right Being Adjusted
 	Vehicle Speed
 	Vehicle Speed
-	Vin Part1
-	Vin Part2
-	Vin Part3
 	Voltage Request
 	Volume Units
 	Warm Up Cycle Active
@@ -492,21 +492,22 @@ Signal Descriptions:
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	A Front Overhead Interior Light Is On
-	Abs Active
-	Abs Active Alt
-	Abs Lamp Active
+	ABS Active
+	ABS Active Alt
+	ABS Lamp Active
+	ACC Desired Speed Achieved Alt
+	ACC Display Active
+	ACC Display Time Gap Alt
+	ACC Not Possible While Stationary Dash Prompt Alt
+	ACC Optical Driver Notice Alt
+	ACC Relevant Object Alt
+	ACC Set Time Gap Alt
+	ACC Status Display Alt
+	ACC Volume Level Alt
+	ASR Active
 	Absolute Load Value
 	Absolute Throttle Position
-	Acc Desired Speed Achieved Alt
-	Acc Display Active
-	Acc Display Time Gap Alt
-	Acc Not Possible While Stationary Dash Prompt Alt
-	Acc Optical Driver Notice Alt
 	Acc Pedal Position Alt
-	Acc Relevant Object Alt
-	Acc Set Time Gap Alt
-	Acc Status Display Alt
-	Acc Volume Level Alt
 	Accelerator Pedal
 	Accelerator Pedal Gradient
 	Accelerator Pedal Gradient Not Reported
@@ -522,12 +523,12 @@ Signal Descriptions:
 	Airbag Lamp Active
 	Airbag System Error
 	Airbag Tell Tale Active
-	Asr Active
 	Audio Reduction For Radio Started
 	Auto Lights
 	Autohold Active
 	Autohold In Standby
 	Automatic Stop Start System Off
+	BRAKE Lamp Active
 	Blindspot Detection Active
 	Blindspot Detection Not Available
 	Blindspot Detection System Error
@@ -535,7 +536,6 @@ Signal Descriptions:
 	Blindspot Warning Left
 	Blindspot Warning Right
 	Brake And Acc Pressed Simultaneously Alt
-	Brake Lamp Active
 	Brake Pressure
 	Brake Switch
 	Brake Switch 1 Active
@@ -555,7 +555,7 @@ Signal Descriptions:
 	Controlled From Driver Side Passenger Seat Backward Active
 	Controlled From Driver Side Passenger Seat Extender Backward Active
 	Controlled From Driver Side Passenger Seat Extender Foward Active
-	Controlled From Driver Side Passenger Seat Forward D Active
+	Controlled From Driver Side Passenger Seat Forward Active
 	Controlled From Driver Side Passenger Seat Height Lowering Active
 	Controlled From Driver Side Passenger Seat Height Raising Active
 	Controlled From Driver Side Passenger Seat Lumbar Support Down Active
@@ -566,6 +566,8 @@ Signal Descriptions:
 	Current Gear
 	Current Gear
 	Cylinder Deactivation
+	DPF Installed
+	DRL On
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Error Pedestrian Monitoring
 	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
@@ -597,7 +599,6 @@ Signal Descriptions:
 	Door Rear Right Open
 	Door Rear Right Unlock Button Pressed
 	Door Unlock Command
-	Dpf Installed
 	Drive Mode
 	Drive Select Down Arrow Pressed
 	Drive Select Up Arrow Pressed
@@ -626,8 +627,13 @@ Signal Descriptions:
 	Driver Window Open
 	Driver Window Up Switch
 	Driving Cycle Active
-	Drl On
-	Ecd Not Available
+	ECD Not Available
+	ESC
+	ESP Anti Skid Active
+	ESP Intervention Active
+	ESP Lamp Active
+	ESP System Not Active
+	ESP Timeout
 	Electric Parking Break
 	Electronic Brake Force Distribution Active
 	Electronic Differential Lock Active
@@ -640,14 +646,8 @@ Signal Descriptions:
 	Engine Speed Alt
 	Engine Torque Limitation Dynamic
 	Engine Torque Limitation Static
-	Esc
-	Esp Anti Skid Active
-	Esp Intervention Active
-	Esp Lamp Active
-	Esp System Not Active
-	Esp Timeout
-	Exhaust Type System Set To Eobd
-	Exhaust Type System Set To Obd
+	Exhaust Type System Set To EOBD
+	Exhaust Type System Set To OBD
 	Exterior Lights Fadeout Setting
 	Fog Light
 	Fog Lights
@@ -718,7 +718,7 @@ Signal Descriptions:
 	Key Fob Unlock Pressed
 	Key Fob Unlock Rear Left Door Command
 	Key Fob Unlock Rear Right Door Command
-	Key Position Acc
+	Key Position ACC
 	Key Position Crank
 	Key Position Ignition
 	Lane Change Assist Active
@@ -744,7 +744,7 @@ Signal Descriptions:
 	Low Beams
 	Low Pressure Warning Active
 	Lowering Vehicle
-	Mil Tell Tale
+	MIL Tell Tale
 	Mirror Door Passenger Folded In
 	Mirror Down Button Pressed
 	Mirror Left Button Pressed
@@ -766,6 +766,7 @@ Signal Descriptions:
 	Oil Temperature
 	Outside Air Temperature
 	Overrun Cutoff Active
+	PRNDL
 	Parking Assist Active
 	Parking Assist Active Front
 	Parking Assist Active Rear
@@ -783,8 +784,8 @@ Signal Descriptions:
 	Passenger Door 2 Button Pressed
 	Passenger Door 3 Button Pressed
 	Passenger Door Set Button Pressed
+	Passenger HVAC Fan Speed
 	Passenger Heated Seat Level
-	Passenger Hvac Fan Speed
 	Passenger Seat Cooling Setting
 	Passenger Seat Heating Balance Setting
 	Passenger Seat Heating Setting
@@ -794,7 +795,6 @@ Signal Descriptions:
 	Passenger Seat Ventilation Balance Setting
 	Poor Weather Lights Active
 	Pressure Units
-	Prndl
 	Raising Vehicle
 	Ready To Drive
 	Rear Crash
@@ -827,7 +827,7 @@ Signal Descriptions:
 	Roll Window Up With Slight Opening Command
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	Scr System Error Active
+	SCR System Error Active
 	Seat Driver Memory Position Adjusting
 	Seat Driver Memory Position Reached
 	Seat Driver Motion Status
@@ -840,7 +840,7 @@ Signal Descriptions:
 	Seatbelt Rear Passenger Buckled
 	Set Idle Speed
 	Set Point Limit
-	Settings Speed Mph
+	Settings Speed MPH
 	Several Rear Lights Faulty Message
 	Shift Interlock Active
 	Shift Lever Position
@@ -855,7 +855,7 @@ Signal Descriptions:
 	Start Stop Reset
 	Start Stop Stop Motor
 	Steering Assist Button Pressed
-	Steering Intervention By Adas
+	Steering Intervention By ADAS
 	Steering Wheel Adjustment Being
 	Steering Wheel Angle
 	Steering Wheel Angle Negative
@@ -865,7 +865,7 @@ Signal Descriptions:
 	Steering Wheel Paddle Shifter Up
 	Steering Wheel Rate Of Change Alt
 	Stop Confirmation
-	Stopping Process Acc Active
+	Stopping Process ACC Active
 	Sun Roof Cover Button State
 	Sun Roof Cover In Motion
 	Sun Roof Cover Open
@@ -877,12 +877,12 @@ Signal Descriptions:
 	Switching Profile
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
-	Temp Units C0 F1
+	Temperature Units C0 F1
 	Throttle Wide Open Active
 	Tilt Driver Seat Back Command
-	Tilt Driver Seat Forward D Command
-	Tilt Passenger Forward D Command 1
-	Tilt Passenger Forward D Command 2
+	Tilt Driver Seat Forward Command
+	Tilt Passenger Forward Command 1
+	Tilt Passenger Forward Command 2
 	Time Day
 	Time Hours
 	Time Idling
@@ -898,10 +898,13 @@ Signal Descriptions:
 	Turn On Interior Lights Command
 	Turn Signal And Hazard State
 	Turn Signal Momentary Active
+	USA Variant
 	Unlock Command With Blinker Flas
 	Upper And Lower Limit Switch
 	Upper Engine Speed Limit
-	Usa Variant
+	VIN Part1
+	VIN Part2
+	VIN Part3
 	Vehicle Front Left Being Adjusted
 	Vehicle Front Right Being Adjusted
 	Vehicle Rear Left Being Adjusted
@@ -910,9 +913,6 @@ Signal Descriptions:
 	Vehicle Speed
 	Vehicle Speed High Resolution Alt
 	Vehicle Speed Max Limitation Active
-	Vin Part1
-	Vin Part2
-	Vin Part3
 	Voice Command Button On Left Steering
 	Voltage Request
 	Volume Units
@@ -971,15 +971,15 @@ Signal Descriptions:
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Gearbox Shifting Mode Manual
-	Hvac Ctrl Front Driver Temp
-	Hvac Ctrl Front Passenger Temp
-	Hvac Ctrl Rear Temp
+	HVAC Ctrl Front Driver Temperature
+	HVAC Ctrl Front Passenger Temperature
+	HVAC Ctrl Rear Temperature
 	Unit Distance Km
 	Unit Distance Miles
-	Vin Character 1 To 3
-	Vin Character 11 To 14
-	Vin Character 4 To 10
-	Vin Index
+	VIN Character 1 To 3
+	VIN Character 11 To 14
+	VIN Character 4 To 10
+	VIN Index
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Ambient Temperature Outside
@@ -1009,7 +1009,7 @@ Signal Descriptions:
 	Fuel Level
 	Fuel Level Low Light Active
 	Fuel Parking Heater Control Active
-	Hvac Ac Compressor Active
+	HVAC AC Compressor Active
 	Lights Brake Left Fault
 	Lights Fog Active
 	Lights Fog Rear Left Fault
@@ -1033,13 +1033,13 @@ Signal Descriptions:
 	Seat Passenger Adjust Back Angle Incline Driver Switch Pressed
 	Seat Passenger Adjust Backward Driver Switch Pressed
 	Seat Passenger Adjust Backward Extender Driver Switch Pressed
-	Seat Passenger Adjust Forward D Driver Switch Pressed
-	Seat Passenger Adjust Forward D Extender Driver Switch Pressed
+	Seat Passenger Adjust Forward Driver Switch Pressed
+	Seat Passenger Adjust Forward Extender Driver Switch Pressed
 	Seat Passenger Adjust Height Down Driver Switch Pressed
 	Seat Passenger Adjust Height Up Driver Switch Pressed
 	Seat Passenger Adjust Lumbar Backward Driver Switch Pressed
 	Seat Passenger Adjust Lumbar Down Driver Switch Pressed
-	Seat Passenger Adjust Lumbar Forward D Driver Switch Pressed
+	Seat Passenger Adjust Lumbar Forward Driver Switch Pressed
 	Seat Passenger Adjust Lumbar Up Driver Switch Pressed
 	Seat Passenger Adjust Seat Angle Decline Driver Switch Pressed
 	Seat Passenger Adjust Seat Angle Incline Driver Switch Pressed
@@ -1053,13 +1053,13 @@ Signal Descriptions:
 	Sunroof Cover Safety Retraction Active
 	Sunroof Open Position
 	Sunroof Safety Retraction Active
+	VIN Part1
 	Vehicle Height Front Left Adjusting
 	Vehicle Height Front Right Adjusting
 	Vehicle Height Lowering
 	Vehicle Height Raising
 	Vehicle Height Rear Left Adjusting
 	Vehicle Height Rear Right Adjusting
-	Vin Part1
 	Window Front Passenger Fully Closed
 	Window Front Passenger Moving Down
 	Window Front Passenger Open Position

@@ -1,23 +1,23 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Hyundai 'Accent' (2017)
 Signal Descriptions:
-	Abs Active
-	Abs Diagnostic Mode Active
-	Abs System Failure
-	Abs Tell Tale
+	ABS Active
+	ABS Diagnostic Mode Active
+	ABS System Failure
+	ABS Tell Tale
+	AC Compressor Active
+	AC Compressor On
+	AC Compressor Requested
+	ADAS Cruise Control Active
+	ADAS Cruise Control Canceled
+	ADAS Cruise Control Enabled
+	ADAS Cruise Control Speed Set
+	ADAS Follow Distance Level
 	Absolute Throttle Position
-	Ac Compressor Active
-	Ac Compressor On
-	Ac Compressor Requested
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Accelerator Pedal Position
 	Adaptive Cruise Control Active
-	Adas Cruise Control Active
-	Adas Cruise Control Canceled
-	Adas Cruise Control Enabled
-	Adas Cruise Control Speed Set
-	Adas Follow Distance Level
 	Alternator Request
 	Barometric Pressure
 	Battery Alternator Duty Cycle
@@ -28,7 +28,7 @@ Signal Descriptions:
 	Brake Pressure
 	Brake Stability Distribution Sys
 	Brake State
-	Buzzer Requested Active Alt
+	Buzzer Requested Active ALT
 	Calculated Engine Load
 	Change Oil Tell Tale Active
 	Clutch Functioning
@@ -42,7 +42,7 @@ Signal Descriptions:
 	Door Trunk Open
 	Driver Door Open
 	Driver Seatbelt Not Buckled
-	Ebd Tell Tale
+	EBD Tell Tale
 	Electronic Control Failure
 	Electronic Control Gear Override
 	Electronic Stability Control Bra
@@ -75,13 +75,13 @@ Signal Descriptions:
 	Gear Shift Up Tell Tale Active
 	Glow Plug State
 	Glow Plug Tell Tale On
+	HVAC Blower Active
+	HVAC Max Blower
 	Headlights Active
 	Hill Start Active
 	Hill Start System Failure
 	Hill Start System On
 	Hood Open
-	Hvac Blower Active
-	Hvac Max Blower
 	Ignition Status
 	Immobilizer State
 	Immobilizer Status
@@ -92,20 +92,20 @@ Signal Descriptions:
 	Lights Indicator Left On
 	Lights Indicator Right On
 	Long Term Fuel Trim Bank 1
-	Mil Lamp Active
-	Mil Tell Tale Alt
-	Network Management 4Wd Command
-	Network Management 4Wd Key
-	Network Management 4Wd Sleep Indic
-	Outside Air Temp
+	MIL Lamp Active
+	MIL Tell Tale ALT
+	Network Management 4WD Command
+	Network Management 4WD Key
+	Network Management 4WD Sleep Indic
+	Outside Air Temperature
 	Overdrive Off
+	PRNDL
 	Parking Brake Button Pulled Up
 	Parking Brake Button Pushed Down
 	Parking Brake Disengage Request
 	Parking Brake Disengaged
 	Parking Brake Engaged
 	Passenger Seatbelt Not Buckled
-	Prndl
 	Raw Engine Torque
 	Relative Throttle Position
 	Requested Torq Fix Or Delete
@@ -118,28 +118,28 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Steering Wheel Torque
+	TCS OFF Tell Tale
+	TCS Tell Tale
 	Target Engine Idle Speed
-	Tcs Off Tell Tale
-	Tcs Tell Tale
 	Torque Measurement Error
 	Traction Control System Active
-	Traction Control System And Esp
+	Traction Control System And ESP
 	Traction Control System Disabled
 	Traction Control System Failure
 	Traction Control System Gear Cha
-	Transmission Control Can Message
+	Transmission Control CAN Message
 	Transmission Output Speed
 	Vehicle Battery Failed
 	Vehicle Speed
 	Vehicle Speed
 	Wheel Speed Front Left
-	Wheel Speed Front Left Mph
+	Wheel Speed Front Left MPH
 	Wheel Speed Front Right
-	Wheel Speed Front Right Mph
+	Wheel Speed Front Right MPH
 	Wheel Speed Rear Left
-	Wheel Speed Rear Left Mph
+	Wheel Speed Rear Left MPH
 	Wheel Speed Rear Right
-	Wheel Speed Rear Right Mph
+	Wheel Speed Rear Right MPH
 	Wipers Speed Auto
 	Wipers Speed High
 	Wipers Speed Low

@@ -1,19 +1,19 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Ram 'Ram 1500' (2021)
 Signal Descriptions:
-	Abs Indication Status
+	ABS Indication Status
+	ADAS Cruise Control Button CANC Pressed
+	ADAS Cruise Control Button Decrease Pressed
+	ADAS Cruise Control Button Increase Pressed
+	ADAS Cruise Control Button Pressed
+	ADAS Cruise Control Button RES Pressed
+	ADAS Cruise Control Ready
+	ADAS Prompt
+	AWD Service Status
 	Acceleration Lateral
 	Acceleration Longitudinal
-	Adas Cruise Control Button Canc Pressed
-	Adas Cruise Control Button Decrease Pressed
-	Adas Cruise Control Button Increase Pressed
-	Adas Cruise Control Button Pressed
-	Adas Cruise Control Button Res Pressed
-	Adas Cruise Control Ready
-	Adas Prompt
 	Ambient Temperature Average C
 	Ambient Temperature Average F
-	Awd Service Status
 	Battery Charge Status
 	Brake Indication Status
 	Brake Pads Status
@@ -22,11 +22,11 @@ Signal Descriptions:
 	Calendar Month
 	Calendar Year
 	Catalyst Temperature Status
-	Cntlr Ec Config 10 State
-	Cntlr Ec Config 11 State
-	Cntlr Ec Config 12 State
-	Cntlr Ec Config 13 State
-	Cntlr Ec Config 9 State
+	Cntlr EC Config 10 State
+	Cntlr EC Config 11 State
+	Cntlr EC Config 12 State
+	Cntlr EC Config 13 State
+	Cntlr EC Config 9 State
 	Compass Calibration Mode Active
 	Compass Direction
 	Compass Heading
@@ -46,18 +46,18 @@ Signal Descriptions:
 	Configuration Telephone Audio 2
 	Configuration Wireless A
 	Configuration Wireless B
-	Control Ec Configuration 1 State
-	Control Ec Configuration 2 State
-	Control Ec Configuration 3 State
-	Control Ec Configuration 4 State
-	Control Ec Configuration 5 State
-	Control Ec Configuration 6 State
-	Control Ec Configuration 7 State
-	Control Ec Configuration 8 State
+	Control EC Configuration 1 State
+	Control EC Configuration 2 State
+	Control EC Configuration 3 State
+	Control EC Configuration 4 State
+	Control EC Configuration 5 State
+	Control EC Configuration 6 State
+	Control EC Configuration 7 State
+	Control EC Configuration 8 State
 	Coolant Level Status
 	Cylinder Count
+	DEF Status
 	Damping System Status
-	Def Status
 	Displacement
 	Distance Until Turn
 	Door Front Driver Closed
@@ -66,19 +66,19 @@ Signal Descriptions:
 	Door Rear Left Open
 	Door Rear Right Open
 	Doors Unlock
-	Ecm Vehicle Type
+	ECM Vehicle Type
+	EPB Warning Status
+	EPS Status
+	ESC System Status
+	ESP Traction Control Off
+	ETC Control Status
 	Electric Power Steering Motor Torque
 	Engine Aspiration Type
 	Engine Load
 	Engine Running
 	Engine Speed
 	Engine Temperature Status
-	Epb Warning Status
-	Eps Status
-	Esc System Status
-	Esp Traction Control Off
-	Etc Control Status
-	Fcw System Status
+	FCW System Status
 	Fuel Cap Status
 	Fuel Consumption Unit
 	Fuel Level
@@ -89,15 +89,15 @@ Signal Descriptions:
 	Gear Current
 	Gear Not Engaged
 	Gear Target
+	HVAC AC Active
+	HVAC Defrost Windshield Active
+	HVAC Evaporator Temperature
+	HVAC Fan Speed
 	Headlight High Beam Switch State
 	Headlights High Beam Active
 	Headlights Low Beam Active
-	Hvac Ac Active
-	Hvac Defrost Windshield Active
-	Hvac Evaporator Temperature
-	Hvac Fan Speed
 	Ignition Status
-	Key Fob Id
+	Key Fob ID
 	Lane Assist Status
 	Light Indicator Switch State
 	Lights Fog Front Active
@@ -148,21 +148,29 @@ Signal Descriptions:
 	Steering Wheel Button Gear Limit Up Pressed
 	Steering Wheel Panel Left Button Down Pressed
 	Steering Wheel Panel Left Button Left Pressed
-	Steering Wheel Panel Left Button Ok Pressed
+	Steering Wheel Panel Left Button OK Pressed
 	Steering Wheel Panel Left Button Right Pressed
 	Steering Wheel Panel Left Button Up Pressed
 	Steering Wheel Torque
 	Steering Wheel Torque Assist
-	Telematics Gateway Ascii Text
-	Terrain Mode 2Wd Active
-	Terrain Mode 2Wd Request
-	Terrain Mode 4Wd Auto Active
-	Terrain Mode 4Wd Auto Request
-	Terrain Mode 4Wd High Active
-	Terrain Mode 4Wd High Request
-	Terrain Mode 4Wd Low Active
-	Terrain Mode 4Wd Low Request
-	Terrain Mode 4Wd Service Status
+	TPMS Front Left Tire Low
+	TPMS Front Right Tire Low
+	TPMS Rear Left Tire Low
+	TPMS Rear Right Tire Low
+	TPMS Tire Pressure Front Left
+	TPMS Tire Pressure Front Right
+	TPMS Tire Pressure Rear Left
+	TPMS Tire Pressure Rear Right
+	Telematics Gateway ASCII Text
+	Terrain Mode 2WD Active
+	Terrain Mode 2WD Request
+	Terrain Mode 4WD Auto Active
+	Terrain Mode 4WD Auto Request
+	Terrain Mode 4WD High Active
+	Terrain Mode 4WD High Request
+	Terrain Mode 4WD Low Active
+	Terrain Mode 4WD Low Request
+	Terrain Mode 4WD Service Status
 	Terrain Prompt
 	Theft Alarm State
 	Throttle Blade Position
@@ -175,96 +183,92 @@ Signal Descriptions:
 	Time Seconds
 	Torque Actual
 	Tow Haul Button Pressed
-	Tpms Front Left Tire Low
-	Tpms Front Right Tire Low
-	Tpms Rear Left Tire Low
-	Tpms Rear Right Tire Low
-	Tpms Tire Pressure Front Left
-	Tpms Tire Pressure Front Right
-	Tpms Tire Pressure Rear Left
-	Tpms Tire Pressure Rear Right
 	Transmission Turbine Speed
 	Turn By Turn Navigation On
 	Turn Complete
 	Units Direction
+	VIN Characters 1 To 7
+	VIN Characters 15 To 17
+	VIN Characters 8 To 14
+	VIN Index
 	Valves Per Cylinder
-	Vehicle Configuration Ac Present
+	Vehicle Configuration AC Present
+	Vehicle Configuration AQS Present
+	Vehicle Configuration ASCII String
+	Vehicle Configuration ASCII String
 	Vehicle Configuration Ambient Lighting Present
 	Vehicle Configuration Ambient Temperature Present
 	Vehicle Configuration Analog Driver Sensor
-	Vehicle Configuration Aqs Present
-	Vehicle Configuration Ascii String
-	Vehicle Configuration Ascii String
 	Vehicle Configuration Auto High Beam
 	Vehicle Configuration Automatic Headlamps
 	Vehicle Configuration Autopark Present
 	Vehicle Configuration Axle Ratio
-	Vehicle Configuration Base Tpm
+	Vehicle Configuration Base TPM
 	Vehicle Configuration Body Style
 	Vehicle Configuration Brake Type
+	Vehicle Configuration CMP Display Present
+	Vehicle Configuration CMS
 	Vehicle Configuration Chassis Type
 	Vehicle Configuration Child Display Present
-	Vehicle Configuration Cmp Display Present
-	Vehicle Configuration Cms
 	Vehicle Configuration Country
 	Vehicle Configuration Cruise Control Present
 	Vehicle Configuration Disable Clock Display Present
 	Vehicle Configuration Door Alarm Present
 	Vehicle Configuration Dual Fuel Sensors
-	Vehicle Configuration Eco Tell Tale
+	Vehicle Configuration ECO Tell Tale
 	Vehicle Configuration Electronic Steering Present
 	Vehicle Configuration End Of Life Present
 	Vehicle Configuration Engine Power Drive M
-	Vehicle Configuration Fcw Present
-	Vehicle Configuration Fg Present
+	Vehicle Configuration FCW Present
+	Vehicle Configuration FG Present
 	Vehicle Configuration Fob Safe Enabled
 	Vehicle Configuration Fuel Capacity
 	Vehicle Configuration Gas Pedal Adjustment
-	Vehicle Configuration Hid Beams
+	Vehicle Configuration HID Beams
+	Vehicle Configuration HVAC Configuration
 	Vehicle Configuration Hill Descent Control
-	Vehicle Configuration Hvac Configuration
 	Vehicle Configuration Immobilizer Present
-	Vehicle Configuration Kg Present
+	Vehicle Configuration KG Present
+	Vehicle Configuration LUCI Present
 	Vehicle Configuration Liftgate Trunk
 	Vehicle Configuration Light Load Tire Pressure Front
 	Vehicle Configuration Light Load Tire Pressure Rrear
-	Vehicle Configuration Luci Present
 	Vehicle Configuration Max Tire Pressure Front
 	Vehicle Configuration Max Tire Pressure Rear
 	Vehicle Configuration Maximum Vehicle Speed
 	Vehicle Configuration Model Year
 	Vehicle Configuration Multifunction Module
-	Vehicle Configuration Non Registered Tpis
+	Vehicle Configuration Non Registered TPIS
 	Vehicle Configuration Offroad
 	Vehicle Configuration Offroad Package Present
+	Vehicle Configuration PDDL Present
+	Vehicle Configuration PE Present
+	Vehicle Configuration PP Present
 	Vehicle Configuration Park Stop Present
 	Vehicle Configuration Parktronic System Connected
 	Vehicle Configuration Parktronic System Disconnected
-	Vehicle Configuration Pddl Present
-	Vehicle Configuration Pe Present
 	Vehicle Configuration Perpendicular Park Assist Present
 	Vehicle Configuration Police Upfit
 	Vehicle Configuration Power Liftgate
 	Vehicle Configuration Power Sliding Left Door
 	Vehicle Configuration Power Sliding Right Door
-	Vehicle Configuration Pp Present
 	Vehicle Configuration Premium Tire Pressure Present
+	Vehicle Configuration RKE Present
+	Vehicle Configuration RR Dually Present
+	Vehicle Configuration RVCM Present
 	Vehicle Configuration Rain Sensor Present
-	Vehicle Configuration Rear Door Locks 2 Dc
+	Vehicle Configuration Rear Door Locks 2 DC
 	Vehicle Configuration Remote Start Present
-	Vehicle Configuration Rke Present
-	Vehicle Configuration Rr Dually Present
 	Vehicle Configuration Run Flat Tire Present
-	Vehicle Configuration Rvcm Present
-	Vehicle Configuration Sbr Present
-	Vehicle Configuration Scr Present
+	Vehicle Configuration SBR Present
+	Vehicle Configuration SCR Present
+	Vehicle Configuration SKIM Present
+	Vehicle Configuration SRT Present
+	Vehicle Configuration SSC Present
 	Vehicle Configuration Security Lock Present
-	Vehicle Configuration Skim Present
 	Vehicle Configuration Spare Tire Present
 	Vehicle Configuration Speed Limit Present
 	Vehicle Configuration Sport Present
-	Vehicle Configuration Srt Present
-	Vehicle Configuration Ssc Present
 	Vehicle Configuration Stability Controller
 	Vehicle Configuration State
 	Vehicle Configuration State
@@ -282,16 +286,12 @@ Signal Descriptions:
 	Vehicle Configuration Transfer Case Type
 	Vehicle Configuration Vehicle Brand
 	Vehicle Configuration Vehicle Line
+	Vehicle Configuration WTS Present
 	Vehicle Configuration Watchdog Present
 	Vehicle Configuration Wheel Base
 	Vehicle Configuration Wheel Drive Mode
-	Vehicle Configuration Wts Present
-	Vehicle Speed Kph
-	Vehicle Speed Mph
-	Vin Characters 1 To 7
-	Vin Characters 15 To 17
-	Vin Characters 8 To 14
-	Vin Index
+	Vehicle Speed KPH
+	Vehicle Speed MPH
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

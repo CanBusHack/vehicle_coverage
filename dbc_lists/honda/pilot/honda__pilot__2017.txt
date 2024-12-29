@@ -1,17 +1,17 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Honda 'Pilot' (2017)
 Signal Descriptions:
-	Ac Off
-	Acc Active
-	Acc Alerts
-	Acc Problem
+	AC Off
+	ACC Active
+	ACC Alerts
+	ACC Problem
 	Accelerator Pedal Applied
 	Accelerator Pedal Percentage
 	Accelerator Pedal Position
 	Accelerator Pedal Position
 	Accelerator Pedal Pressed
 	Additional Voltage Not Required From Alternator
-	Air Intake Temp
+	Air Intake Temperature
 	Ambient Light Sensor
 	Average Battery Voltage
 	Average Front Wheel Speed
@@ -26,12 +26,12 @@ Signal Descriptions:
 	Brake Pressed
 	Brake Pressure
 	Brake Switch
-	Cam Temperature High Warning Active
+	CAM TEMPERATURE HIGH Warning Active
+	CMBS Button
 	Car Turning Off
 	Change Speed And Distance Units Imperial Active
 	Chime Active
 	Clean Windshield Warning Active
-	Cmbs Button
 	Computer Braking Active
 	Controlled Standstill
 	Cruise Control Button Engaged
@@ -44,66 +44,75 @@ Signal Descriptions:
 	Cruise Control Speed
 	Current Gear
 	Current Gear
-	Dash Prompt Neutral Hold Mode On Shift To P When Done
+	DOOR OPEN Front Left
+	DOOR OPEN Front Right
+	DOOR OPEN Rear Left
+	DOOR OPEN Rear Right
+	DTC Active
+	Dash Prompt Neutral Hold Mode ON Shift To P When Done
 	Dash Prompt To Exit Vehicle In Neutral Press N Again And Hold For 2Sec
 	Dash Prompt To Shift Apply Brake Pedal
 	Dashed Lanes Active
 	Diagnostic Mode Active
 	Display Gear
-	Displayed Vehicle Speed In Kph
-	Door Open Front Left
-	Door Open Front Right
-	Door Open Rear Left
-	Door Open Rear Right
+	Displayed Vehicle Speed In KPH
 	Drive Active
 	Drive Lamp Seatbelt
 	Driver Seatbelt Buckled
 	Driver Seatbelt Unbuckled
-	Dtc Active
+	EPB Active
+	EPB Brake And Pull
+	EPB Status
+	ESP Disabled
 	Engine Not Running
 	Engine Requested Torque
 	Engine Running
 	Engine Speed
-	Engine Speed From Ecm
+	Engine Speed From ECM
 	Engine Torque
 	Engine Torque
 	Engine Torque Request
-	Epb Active
-	Epb Brake And Pull
-	Epb Status
-	Esp Disabled
-	Fcm Off
-	Fcm Off 2
-	Fcm Problem
+	FCM Off
+	FCM Off 2
+	FCM Problem
 	Forward Collision Warning Distance
 	Fuel Level
 	Gear Shift In Progress
 	Gears Shifting
+	HUD Distance
+	HUD Distance 3
+	HUD Lead
 	Head Light State
 	High Beams Active
-	Hud Distance
-	Hud Distance 3
-	Hud Lead
 	Imperial Units Active
+	LKAS Off
+	LKAS Problem Active
 	Lane Departure Warning Problem Active
 	Lane Departure Warning Right Active
 	Lane Departure Warning System Off
 	Lane Departure Warning System On
 	Left Blinker
 	Left Blinker
-	Lkas Off
-	Lkas Problem Active
 	Low Beams Active
 	Low Brake Fluid Warning
 	Low Display Active
+	MIL Lamp 1
+	MIL Lamp 2
+	MIL Tell Tale
 	Main On
 	Metric Units Active
-	Mil Lamp 1
-	Mil Lamp 2
-	Mil Tell Tale
 	Mini Car Enabled
 	Neutral Display Active
 	Odometer
+	PRDNL
+	PRNDL
+	PRNDL Position 1
+	PRNDL Position 2
+	PRNDL Position D
+	PRNDL Position D3
+	PRNDL Position N
+	PRNDL Position P
+	PRNDL Position R
 	Park Brake Active
 	Park Display Active
 	Parking Lights Active
@@ -112,15 +121,6 @@ Signal Descriptions:
 	Passenger Seat Belt Tell Tale
 	Passenger Seatbelt Buckled
 	Passenger Seatbelt Unbuckled
-	Prdnl
-	Prndl
-	Prndl Position 1
-	Prndl Position 2
-	Prndl Position D
-	Prndl Position D3
-	Prndl Position N
-	Prndl Position P
-	Prndl Position R
 	Radar Obstructed
 	Relative Throttle Opening Sensor
 	Request For Additional Voltage Active
@@ -147,11 +147,12 @@ Signal Descriptions:
 	Steering Wheel Cruise Control Buttons
 	Steering Wheel Status
 	Steering Wheel Torque
+	TPMS Reset Button Pressed
+	TPMS Reset Comand
+	TPMS Tell Tale
+	TRUNK OPEN
 	Target Gear
 	Target Gear
-	Tpms Reset Button Pressed
-	Tpms Reset Comand
-	Tpms Tell Tale
 	Traction Control Button Pressed
 	Traction Control Off Button Pressed
 	Traction Control System Change Bit
@@ -159,14 +160,13 @@ Signal Descriptions:
 	Transmission Torque
 	Transmission Torque2
 	Trip Fuel Used
-	Trunk Open
+	VIN Part 1 01
+	VIN Part 2 02
+	VIN Part 3 03
 	Valid Steering Configuration
 	Vehicle Menu Active
-	Vin Part 1 01
-	Vin Part 2 02
-	Vin Part 3 03
 	Voltage Not Required From Alternator
-	Water Temp
+	Water Temperature
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
@@ -176,10 +176,10 @@ Signal Descriptions:
 	Wiper State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac System Off
-	Ac System On
-	Acc Forward D Vehicle Detect Beep Off
-	Acc Forward D Vehicle Detect Beep On
+	AC System Off
+	AC System On
+	ACC Forward Vehicle Detect Beep Off
+	ACC Forward Vehicle Detect Beep On
 	Blind Spot Information System Off
 	Blind Spot Information System On
 	Blower Position
@@ -187,13 +187,13 @@ Signal Descriptions:
 	Collision Mitigation Braking System Off
 	Driver Door Button 1 Pressed
 	Driver Door Button 2 Pressed
-	Driver Door Button Set Pressed
+	Driver Door Button SET Pressed
 	Driver Heated Seat Level
 	Driver Heated Seat State Changed
 	Driver Memory
 	Forward Collision Warning Distance Level
 	Front Climate Blower Position
-	Front Climate Control Sync Active
+	Front Climate Control SYNC Active
 	Front Climate Fan Speed
 	Front Left Window Closed
 	Front Right Window Closed
@@ -243,10 +243,10 @@ Signal Descriptions:
 	Right Turn Signal Activating
 	Right Turn Signal Active
 	Road Departure Mitigation Setting
-	Trip A Average Mpg
+	Trip A Average MPG
 	Trip A Average Speed
 	Trip A Selected
-	Trip B Average Mpg
+	Trip B Average MPG
 	Trip B Average Speed
 	Trip B Selected
 	Write Setting Adjust Outside Temperature Display Offset Setting

@@ -126,7 +126,7 @@ Signal Descriptions:
 	Left Turn L Active
 	Low Beam Active
 	Mid Closure Ajar Switch
-	Occupant Compartment Rear Temp
+	Occupant Compartment Rear Temperature
 	Occupant Compartment Temperature
 	Outside Air Temperature Menu
 	Outside Air Temperature Value
@@ -212,7 +212,7 @@ Signal Descriptions:
 	Windshield Wiper Rain Sensor Control On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Active
+	ABS Active
 	Absolute Barometric Pressure
 	Absolute Barometric Pressure Val
 	Accelerator Actual Position
@@ -271,8 +271,8 @@ Signal Descriptions:
 	Engine Intake Air Boost Pressure
 	Engine Intake Temperature
 	Engine Intake Temperature Validi
-	Engine Mil
-	Engine Non Emission Mil
+	Engine MIL
+	Engine Non Emission MIL
 	Engine Oil Change Tell Tale
 	Engine Oil Level Low Tell Tale
 	Engine Oil Life Reset Performed
@@ -320,9 +320,9 @@ Signal Descriptions:
 	Hybrid Eco Mode Tell Tale
 	Instantaneous Fuel Flow Estimate
 	Key Status
-	Lf Tire Pressure
+	LF Tire Pressure
+	LR Tire Pressure
 	Longitudinal Acceleration
-	Lr Tire Pressure
 	Mass Air Flow
 	Panic Brake Assist Failed Tellta
 	Park Brake On
@@ -342,6 +342,8 @@ Signal Descriptions:
 	Powertrain Crank
 	Powertrain Exhaust Particle Filt
 	Powertrain Top Speed Limit Reduc
+	RF Tire Pressure
+	RR Tire Pressure
 	Rear Closure Ajar
 	Rear Differential
 	Rear Differential Malfunction Te
@@ -350,8 +352,6 @@ Signal Descriptions:
 	Rear Right Door Ajar
 	Reduced Power Tell Tale
 	Remote Vehicle Start Engine Runn
-	Rf Tire Pressure
-	Rr Tire Pressure
 	Secondary Axle Engaged
 	Service Adaptive Cruise Control
 	Service Hybrid Tell Tale
@@ -386,9 +386,9 @@ Signal Descriptions:
 	Transfer Case Coupling
 	Transfer Case Coupling Type
 	Transfer Case Coupling Value
-	Transfer Case Mil
+	Transfer Case MIL
 	Transfer Case Mode
-	Transfer Case Non Emission Mil
+	Transfer Case Non Emission MIL
 	Transfer Case Overheated Tell Tale
 	Transfer Case Range
 	Transmission Change Oil Now Tell
@@ -396,8 +396,8 @@ Signal Descriptions:
 	Transmission Cruise Control Spee
 	Transmission Engaged State
 	Transmission Estimated Gear
-	Transmission Mil
-	Transmission Mil Non Emission
+	Transmission MIL
+	Transmission MIL Non Emission
 	Transmission Neutral Status
 	Transmission Oil Temperature
 	Transmission Oil Temperature Sen
@@ -415,9 +415,11 @@ Signal Descriptions:
 	Transmission Skip Shift Tell Tale
 	Transmission Tap Up Tap Down Mod
 	Turbine Speed
+	VIN Digits 10 17
+	VIN Digits 2 9
 	Vehicle Ahead Alert Sensiti 0000
 	Vehicle Ahead Alert Sensitivity
-	Vehicle Ahead Alert Tell Tale Requ
+	Vehicle Ahead Alerttelltale Requ
 	Vehicle Deceleration Engine Torq
 	Vehicle Leveling Status
 	Vehicle Odo
@@ -427,8 +429,6 @@ Signal Descriptions:
 	Vehicle Top Speed Limit Arbitrat
 	Vehicle Top Speed Limit Mode Act
 	Vehicle Yaw Rate
-	Vin Digits 10 17
-	Vin Digits 2 9
 	Wheel Sensor Rough Road Magnitud
 	Wheel Slip
 	Wheel Spin Sensor Front Left

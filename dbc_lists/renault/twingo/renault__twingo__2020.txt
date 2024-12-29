@@ -1,14 +1,14 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Twingo' (2020)
 Signal Descriptions:
-	Abs In Action
-	Abs Tell Tale Flashing
-	Abs Tell Tale On
+	ABS In Action
+	ABS Tell Tale Flashing
+	ABS Tell Tale On
+	ADAS Speed Limiter Exceeded
+	ADAS Speed Set
+	ADAS Status
 	Acceleration Lateral
 	Acceleration Longitudinal
-	Adas Speed Limiter Exceeded
-	Adas Speed Set
-	Adas Status
 	Airbag Left On
 	Airbag Passenger Off
 	Airbag Tell Tale Fault
@@ -30,7 +30,7 @@ Signal Descriptions:
 	Dash Indication Water In Diesel
 	Dashboard Bright Dimmed
 	Dashboard Chime
-	Dashboard Indication Eco
+	Dashboard Indication ECO
 	Dashboard Speedometer Indication
 	Dashboard Tell Tale Airbag Left On
 	Dashboard Tell Tale Oil Pressure Warning On
@@ -57,8 +57,8 @@ Signal Descriptions:
 	Door Warning Rear Left Open
 	Door Warning Rear Right Open
 	Door Warning Trunk Open
-	Eco Mode Active
-	Eco Mode Inactive
+	ECO Mode Active
+	ECO Mode Inactive
 	Engine Coolant Temperature
 	Engine Immobilizer Active
 	Engine Speed
@@ -70,7 +70,7 @@ Signal Descriptions:
 	Engine Torque Reference
 	Fan Speed Required By Injection
 	Flow Rate Function Status Low
-	Flow Rate Function Status Ok
+	Flow Rate Function Status OK
 	Flywheel Signal Detected
 	Flywheel Signal Not Detected
 	Fuel Pump Off
@@ -83,9 +83,9 @@ Signal Descriptions:
 	Gear Reverse Not Engaged
 	Gear Reverse Not Engaged
 	Gearbox Manual Position Not Neutral
-	Hvac A C Authorisation Yes
-	Hvac Fan Active
-	Hvac Motor Driven Fan Unit Request Active
+	HVAC A C Authorisation Yes
+	HVAC Fan Active
+	HVAC Motor Driven Fan Unit Request Active
 	Immobilizer Injection Code Alloc
 	Immobilizer Injection Code Blank
 	Injection Protection Inactive
@@ -111,7 +111,7 @@ Signal Descriptions:
 	Locking System Active
 	Locking System Auto On
 	Locking System Locked By Key
-	Map Sensor Not Available
+	MAP Sensor Not Available
 	Mastervac Pressure
 	Odometer
 	Parking Brake Applied
@@ -166,16 +166,16 @@ Signal Descriptions:
 	Tire Pressure Low Front Right
 	Tire Pressure Low Rear Left
 	Tire Pressure Low Rear Right
-	Tire Pressure Low Stop Front Lef
-	Tire Pressure Low Stop Front Rig
-	Tire Pressure Low Stop Rear Left
-	Tire Pressure Low Stop Rear Righ
+	Tire Pressure Low STOP Front Lef
+	Tire Pressure Low STOP Front Rig
+	Tire Pressure Low STOP Rear Left
+	Tire Pressure Low STOP Rear Right
 	Tire Pressure Rear Left
 	Tire Pressure Rear Right
 	Tire Pressure Tell Tale Front Lef
 	Tire Pressure Tell Tale Front Rig
 	Tire Pressure Tell Tale Rear Left
-	Tire Pressure Tell Tale Rear Righ
+	Tire Pressure Tell Tale Rear Right
 	Traction Control System Status
 	Traction Control Tell Tale Flashi
 	Traction Control Tell Tale On

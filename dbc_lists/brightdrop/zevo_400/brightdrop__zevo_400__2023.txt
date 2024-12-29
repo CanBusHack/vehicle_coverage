@@ -14,11 +14,11 @@ Signal Descriptions:
 	Driver Seatbelt Status Changed
 	Front Washer Spray Active
 	Front Wipers Active
+	HVAC Driver Set Temperature
+	HVAC Passenger Set Temperature
 	Hazard Light Active
 	Headlight Light Status
 	Hood Open
-	Hvac Driver Set Temp
-	Hvac Passenger Set Temp
 	Key Fob Unlock Active
 	Lane Assist Button Pressed
 	Left Rear Door Open
@@ -63,19 +63,19 @@ Signal Descriptions:
 	Odometer
 	Odometer Trip 2
 	One Pedal Driving Level
+	PRNDL Position
 	Parking Brake Active
 	Passenger Door Open
 	Power Mode Vehicle On
 	Preferred Charge Times State Changed
-	Prndl Position
 	Ready By Time Hour
 	Ready By Time Minutes
 	Regen Paddle Pressed
 	Right Rear Door Open
 	Right Turn Signal
-	Soc Hv Battery
-	Soc Test 5
-	Soc Test 6
+	STATE OF CHARGE HV Battery
+	STATE OF CHARGE TEST 5
+	STATE OF CHARGE TEST 6
 	Steering Mode Set To Normal
 	Steering Mode Set To Sport
 	Torque
@@ -83,11 +83,11 @@ Signal Descriptions:
 	Trip 1 Odometer
 	Trip 2 Kwh
 	Trunk Open
-	Units Set To Us Is 1 Units Set To Metric Is 0
+	Units Set To US Is 1 Units Set To Metric Is 0
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
 	Vehicle Speed
-	Vin Part 1
-	Vin Part 2
-	Vin Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	4Wd Active
@@ -97,10 +97,10 @@ Signal Descriptions:
 	Cruise Set Speed
 	Dash Prompt Adaptive Cruise Disengaging
 	Dash Prompt Adaptive Cruise Temporary Unavailable
-	Dash Prompt Forward D Collision Alert Off
-	Dash Prompt Forward D Collision Automatic Braking Off
-	Dash Prompt Forward D Collision System Off
-	Dash Prompt Forward D Collision System Unavailable
+	Dash Prompt Forward Collision Alert Off
+	Dash Prompt Forward Collision Automatic Braking Off
+	Dash Prompt Forward Collision System Off
+	Dash Prompt Forward Collision System Unavailable
 	Dash Prompt Front Automatic Braking
 	Dash Prompt Front Pedestrian Braking
 	Dash Prompt Gap Distance Display
@@ -133,9 +133,9 @@ Signal Descriptions:
 	Driver Control Panel Rear Driver Side Window Button State
 	Driver Control Panel Rear Passenger Side Window Button State
 	Mirror Button State Change
-	Prndl Position
+	PRNDL Position
 	Trunk Knob Set To 3 4
-	Trunk Knob Set To Max
+	Trunk Knob Set To MAX
 	Trunk Status
 	Window Lock Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -143,14 +143,14 @@ Signal Descriptions:
 	Adaptive Volume Active
 	Air Filter Life
 	All Rear Windows Closed
-	Ambient Air Temp
+	Ambient Air Temperature
 	Ambient Lighting Brightness Level
 	Balance Left Right
 	Bass
 	Battery Voltage Displayed
 	Dash Prompt 2 Gears Selected Vehicle In Neutral
 	Dash Prompt 2 Gears Selected Vehicle In Park
-	Dash Prompt Abs Active
+	Dash Prompt ABS Active
 	Dash Prompt Always Shift To Park When Exiting
 	Dash Prompt Auto Hold Unavailable
 	Dash Prompt Auto Seatbelt Tightening System Unavailable
@@ -265,24 +265,24 @@ Signal Descriptions:
 	Fade Front Rear
 	Front Brake Pad Life Remaining Percentage
 	Fuel Level Percentage
+	HVAC AC Active
+	HVAC AC Inactive
+	HVAC Driver Side Blower Position
+	HVAC Driver Side Temperature
+	HVAC Front Fan Speed Level Selected
+	HVAC Passenger Side Blower Position
+	HVAC Passenger Side Temperature
+	HVAC Rear Climate Locked
+	HVAC Rear Climate SYNC Active
+	HVAC Rear Driver Side Blower Position
+	HVAC Rear Driver Side Temperature
+	HVAC Rear Fan Speed Level Selected
+	HVAC Rear Passenger Side Blower Position
+	HVAC Rear Passenger Side Temperature
+	HVAC Recirculation Active
+	HVAC Recirculation Inactive
+	HVAC SYNC Active
 	Heated Steering Wheel Active
-	Hvac Ac Active
-	Hvac Ac Inactive
-	Hvac Driver Side Blower Position
-	Hvac Driver Side Temp
-	Hvac Front Fan Speed Level Selected
-	Hvac Passenger Side Blower Position
-	Hvac Passenger Side Temp
-	Hvac Rear Climate Locked
-	Hvac Rear Climate Sync Active
-	Hvac Rear Driver Side Blower Position
-	Hvac Rear Driver Side Temp
-	Hvac Rear Fan Speed Level Selected
-	Hvac Rear Passenger Side Blower Position
-	Hvac Rear Passenger Side Temp
-	Hvac Recirculation Active
-	Hvac Recirculation Inactive
-	Hvac Sync Active
 	Infotainment Wireless Charging Prompt
 	Lane Keep Assist Active
 	Lane Keep Assist Active
@@ -392,17 +392,17 @@ Signal Descriptions:
 	Tell Tale Right Rear Door Ajar
 	Time In 24 Hour Format
 	Traction Control States
-	Trans Temp
+	Trans Temperature
 	Treble
-	Units Set To Us
+	Units Set To US
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Accelerator Pedal Position
 	Battery Voltage
 	Engine Speed
-	Park Button On Prndl Pressed
-	Shift Button On Prndl Pressed
-	Vin Part 1
+	Park Button On PRNDL Pressed
+	Shift Button On PRNDL Pressed
+	VIN Part 1
 	Vin Part 2
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -412,7 +412,7 @@ Signal Descriptions:
 	Cruise Control Button Pushed
 	Cruise Control Button Pushed More
 	Cruise Control On Button Pressed
-	Dash Prompt Abs Active
+	Dash Prompt ABS Active
 	Dash Prompt Buckle Passenger Seatbelt
 	Dash Prompt Buckle Seat Belt
 	Dash Prompt Front Park Assist Off
@@ -450,6 +450,9 @@ Signal Descriptions:
 	Tell Tale Passenger Airbag Flashing
 	Tell Tale Passenger Airbag Off Flash
 	Tell Tale Passenger Airbag On
+	Tell Tale SRS Center Console Fast Flash
+	Tell Tale SRS Center Console Illuminated
+	Tell Tale SRS Center Console Slow Flash
 	Tell Tale Seat Status 2Nd Row Left
 	Tell Tale Seat Status 2Nd Row Right
 	Tell Tale Seat Status 3Rd Row Center
@@ -458,9 +461,6 @@ Signal Descriptions:
 	Tell Tale Seatbelt Center Console
 	Tell Tale Seatbelt2 Flashing
 	Tell Tale Seatbelt2 Illuminated
-	Tell Tale Srs Center Console Fast Flash
-	Tell Tale Srs Center Console Illuminated
-	Tell Tale Srs Center Console Slow Flash
 	Tell Tale Vehicle Occupancy And Belt Status
 	Trunk Open
 	Yaw Rate

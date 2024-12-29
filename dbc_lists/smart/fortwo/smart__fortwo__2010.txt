@@ -1,19 +1,19 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Smart 'Fortwo' (2010)
 Signal Descriptions:
-	Abs Active
+	ABS Active
+	ADAS Cruise Control Active
+	ADAS SL Or CC Speed Set
+	ADAS SP Or CC Active
+	ADAS Speed Limiter On And Not Active
 	Acceleration Lateral
 	Acceleration Longitudinal
-	Adas Cruise Control Active
-	Adas Sl Or Cc Speed Set
-	Adas Sp Or Cc Active
-	Adas Speed Limiter On And Not Active
 	Airbag Passenger Off
 	Ambient Temperature
-	Battery Hv Charger Plugged
-	Battery Hv Empty
-	Battery Hv Gauge Indication
-	Battery Lv Voltage
+	Battery HV Charger Plugged
+	Battery HV Empty
+	Battery HV Gauge Indication
+	Battery LV Voltage
 	Battery State Of Charge
 	Car Lifetime
 	Car Moving
@@ -23,10 +23,11 @@ Signal Descriptions:
 	Clock Minutes
 	Computer After Ignition Present
 	Coolant Temperature
+	DC DC Converter Output
 	Dash Bright Mode Dimmed
 	Dash Chime
-	Dash Indication Eco Off
-	Dash Indication Eco On
+	Dash Indication ECO Off
+	Dash Indication ECO On
 	Dash Lights Antifog Front
 	Dash Lights Antifog Rear
 	Dash Lights High Beam
@@ -35,7 +36,7 @@ Signal Descriptions:
 	Dash Lights Low Beam
 	Dash Speedometer Indication
 	Dash Speedometer Indication
-	Dash Tell Tale Abs Flashing
+	Dash Tell Tale ABS Flashing
 	Dash Tell Tale Airbag Fault
 	Dash Tell Tale Airbag Warning
 	Dash Tell Tale Battery Fault
@@ -50,7 +51,6 @@ Signal Descriptions:
 	Dash Warning Tyre Pressure Low Front Right
 	Dash Warning Tyre Pressure Low Rear Left
 	Dash Warning Tyre Pressure Low Rear Right
-	Dc Dc Converter Output
 	Distance Remaining Until Charging
 	Door Front Left Closed
 	Door Front Left Open
@@ -63,10 +63,10 @@ Signal Descriptions:
 	Door Open Tell Tale Trunk
 	Door Trunk Closed
 	Door Trunk Open
-	Driving Mode Eco Off
-	Driving Mode Eco On
-	Eco Mode Active
-	Eco Mode Not Active
+	Driving Mode ECO Off
+	Driving Mode ECO On
+	ECO Mode Active
+	ECO Mode Not Active
 	Eco Score Current Trip Anticipation
 	Eco Score Current Trip Energy Consumption Average
 	Eco Score Current Trip Odometer
@@ -80,31 +80,31 @@ Signal Descriptions:
 	Gear Range Engaged
 	Gear Range Engaged
 	Gear Reverse Not Engaged
-	Hv Ptc Heater And Refrigerant Compressor Power Consumption
-	Hv Ptc Heater Heat Output
-	Hv Ptc Heater Power Consumption
-	Hvac A C Active
-	Hvac A C Off And Fan Active
-	Hvac A C On
-	Hvac Air Direction Bottom
-	Hvac Air Direction Front
-	Hvac Available Output
-	Hvac Fan Active
-	Hvac Fan Speed
-	Hvac Fan Speed Higher Than 1
-	Hvac Fan Speed Off Or 1
-	Hvac Heater Rear Off
-	Hvac Heater Side Mirror On
-	Hvac Mode
-	Hvac Mode Auto Off
-	Hvac Mode Auto On
-	Hvac Mode Max Active
-	Hvac Mode Max Not Active
-	Hvac Recirculation Active
-	Hvac Recirculation Not Active
-	Hvac Request Through Buttons
-	Hvac Temperature Set
-	Hvac Window Heater Rear On
+	HV PTC Heater And Refrigerant Compressor Power Consumption
+	HV PTC Heater Heat Output
+	HV PTC Heater Power Consumption
+	HVAC A C Active
+	HVAC A C Off And Fan Active
+	HVAC A C On
+	HVAC Air Direction Bottom
+	HVAC Air Direction Front
+	HVAC Available Output
+	HVAC Fan Active
+	HVAC Fan Speed
+	HVAC Fan Speed Higher Than 1
+	HVAC Fan Speed Off Or 1
+	HVAC Heater Rear Off
+	HVAC Heater Side Mirror On
+	HVAC Mode
+	HVAC Mode AUTO Off
+	HVAC Mode AUTO On
+	HVAC Mode MAX Active
+	HVAC Mode MAX Not Active
+	HVAC Recirculation Active
+	HVAC Recirculation Not Active
+	HVAC Request Through Buttons
+	HVAC Temperature Set
+	HVAC Window Heater Rear On
 	Immobilizer Injection Code Allocated
 	Immobilizer Injection Code Blank
 	Inlet Air Temperature

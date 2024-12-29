@@ -17,7 +17,7 @@ Signal Descriptions:
 	Brake System Tell Tale Blinking
 	Brake System Tell Tale On
 	Cruise Control On Off Prompt
-	Dash Tell Tales
+	Dash Telltales
 	Drive Gear Indicator
 	E P S Tell Tale
 	Eco Mode On
@@ -73,7 +73,7 @@ Signal Descriptions:
 	A C Active 1
 	A C Active 2
 	A C Command
-	A C Room Temp
+	A C Room Temperature
 	Acc Pedal Position For Cruise Control
 	Accelerator And Brake Pedals Depressed Simultaneously
 	Accelerator Pedal Position
@@ -122,7 +122,7 @@ Signal Descriptions:
 	Drive Start Control Malfunction Message
 	E C O Mode On
 	Engine Braking Gear Indicator
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Power Destination
 	Engine Speed
 	Flat Tire Notification Left Front Active
@@ -176,7 +176,7 @@ Signal Descriptions:
 	Seatbelt Tell Tale On
 	Seatbelt Tell Tale On
 	Seatbelt Tell Tale On D U P
-	Set H V C A Temp
+	Set H V C A Temperature
 	Shift System Malfunction
 	Shift System Malfunction Apply Parking Brake Securely While Parking Message
 	Shift System Malfunction Apply Parking Brake Securely While Parking Message
@@ -215,11 +215,11 @@ Signal Descriptions:
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	A B S Active
-	Adjusting Forward D Camera Message
+	Adjusting Forward Camera Message
 	Adjusting Front Radar Beam Message
 	Adjusting Front Radar Beam Message
 	Adjusting Front Radar Beam Vertical Message
-	Ambient Air Temp
+	Ambient Air Temperature
 	Auto Headlights
 	B S M State Change In Progress
 	Blind Spot Monitor On Off 1
@@ -230,7 +230,7 @@ Signal Descriptions:
 	Current Display Units Miles
 	Current Key Cycle Elapsed Time
 	D R L Beam Headlights Command
-	Dash Tell Tales
+	Dash Telltales
 	Driver Door Ajar
 	Electric Load Signal 3 Active
 	Error Adjusting Front Radar Beam Message
@@ -328,7 +328,7 @@ Signal Descriptions:
 	Driver Side Sun Sensor
 	Driver Window Position Changing Active
 	Driver Window State
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Oil Pressure Low
 	Exterior Confirmation Beep
 	Exterior Confirmation Beep X 2

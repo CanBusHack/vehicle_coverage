@@ -1,7 +1,7 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'B-Class' (2020)
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Accelerator Pedal Position
 	Air Pressure Outside
 	Air Temperature Outside
@@ -9,7 +9,7 @@ Signal Descriptions:
 	Brake Pressure1
 	Brake Pressure2
 	Brake Switch Active
-	Calculated Ice Engine Load
+	Calculated ICE Engine Load
 	Cruise Set Speed
 	Cruise Stock Down Decel
 	Cruise Stock Pull Resume
@@ -31,10 +31,10 @@ Signal Descriptions:
 	Fuel Level
 	Fuel Pressure
 	Fuel Pump Duty Cycle
-	Fuel System Mil Tell Tale Request
+	Fuel System MIL Tell Tale Request
 	Hazard Lights Active
-	Ice Engine Speed
-	Ice Engine Torque
+	ICE Engine Speed
+	ICE Engine Torque
 	Ignition Button Pressed
 	Ignition Power Mode
 	Intake Air Temperature
@@ -42,6 +42,7 @@ Signal Descriptions:
 	Manual Gear Shifting Not Selected
 	Master Brake Pressure
 	Odometer
+	PRNDL
 	Paddle Shifter Down Pressed
 	Paddle Shifter Up Pressed
 	Park Brake Disengage Request
@@ -49,7 +50,6 @@ Signal Descriptions:
 	Park Brake Engage Request
 	Park Brake Engaged
 	Park Button Pressed
-	Prndl
 	Rear Driver Window Completely Open
 	Rear Driver Window Open Length
 	Rear Driver Window Window Closed
@@ -101,7 +101,7 @@ Signal Descriptions:
 	Front Passenger Window Open Length
 	Fuel Pressure
 	Fuel Pump Duty Cycle
-	Fuel System Mil Tell Tale Request
+	Fuel System MIL Tell Tale Request
 	Fuel Tank Level
 	Fuel Temperature
 	Ignition Power Mode
@@ -124,9 +124,9 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Acceleration
 	Up Paddle Shifter Pressed
+	VIN Part 1
 	Vehicle Speed
 	Vehicle Speed Units
-	Vin Part 1
 	Wheel Moving In Reverse
 	Wheel Moving In Reverse
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -170,14 +170,14 @@ Signal Descriptions:
 	Rear Right Center Bumper Parking Sensor Level
 	Rear Right Quarter Panel Parking Sensor Level
 	Right Front Quarter Panel Parking Sensor Level
+	TPMS Tier Pressure Front Left
+	TPMS Tier Pressure Front Right
+	TPMS Tier Pressure Rear Left
+	TPMS Tier Pressure Rear Right
 	Tel Button Pressed
 	Throttle Pedal Position Percentage
 	Time Since Start In Minutes
 	Time Since Trip Reset In Minutes
-	Tpms Tier Pressure Front Left
-	Tpms Tier Pressure Front Right
-	Tpms Tier Pressure Rear Left
-	Tpms Tier Pressure Rear Right
 	Traction Control Button Pressed
 	Volume Button Pressed
 	Volume Scroll Up Active
@@ -207,7 +207,7 @@ Signal Descriptions:
 	High Beam
 	Hood Closed
 	Hood Open
-	Int Wiper Active
+	INT Wiper Active
 	Left Turn Signal Active
 	Low Beams Active
 	Parking Light Left Switch Position Active
@@ -215,7 +215,7 @@ Signal Descriptions:
 	Parking Lights Switch Position Active
 	Passenger Reading Light Active
 	Passenger Seat Buckled
-	Rear Int Wiper Active
+	Rear INT Wiper Active
 	Rear Reading Lights Active
 	Rear Wiper In Motion
 	Rear Wiper On
@@ -242,7 +242,7 @@ Signal Descriptions:
 	Wipers In Motion
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Ac Active
+	AC Active
 	Acoustic Lock Setting Active
 	Back Button Button Pressed
 	Back Button Touch Active
@@ -250,7 +250,7 @@ Signal Descriptions:
 	Brake Switch Pressed
 	Center Touch Pad Active
 	Center Touch Pad Button Pressed
-	Climate Sync Active
+	Climate SYNC Active
 	Driver Door Lock Button Pressed
 	Driver Door State Change
 	Driver Door Unlock Button Pressed
@@ -260,13 +260,13 @@ Signal Descriptions:
 	Driver Reading Light Brightness
 	Driver Seat Back
 	Driver Seat Back Going Back
-	Driver Seat Back Going Forward D
+	Driver Seat Back Going Forward
 	Driver Seat Down
 	Driver Seat Extender Going Back
-	Driver Seat Extender Going Forward D
+	Driver Seat Extender Going Forward
 	Driver Seat Font Angle Down
 	Driver Seat Font Angle Up
-	Driver Seat Forward D
+	Driver Seat Forward
 	Driver Seat Head Rest Down
 	Driver Seat Head Rest Up
 	Driver Seat Or 1 3 And M Buttons Being Pressed Active
@@ -286,16 +286,16 @@ Signal Descriptions:
 	Fan Speed Driver Side
 	Fan Speed Passenger Side
 	Fan Speed Switched Up Or Down Pressed
-	Forwar Back Play Touch Active
+	Forward Back Play Touch Active
 	Front Driver Door Open
 	Front Passenger Door Open
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Max Active
 	Hazard Lights Active
 	Hazards Active
 	Home Button Button Pressed
 	Home Button Touch Active
-	Hvac Blower Position Driver Side
-	Hvac Blower Position Passenger Side
-	Hvac Max Active
 	Infotainment System Active
 	Infotainment System Inactive
 	Infotainment User Engagement In Progress
@@ -312,13 +312,13 @@ Signal Descriptions:
 	Passenger Reading Light Brightness
 	Passenger Seat Back
 	Passenger Seat Back Going Back
-	Passenger Seat Back Going Forward D
+	Passenger Seat Back Going Forward
 	Passenger Seat Down
 	Passenger Seat Extender Going Back
-	Passenger Seat Extender Going Forward D
+	Passenger Seat Extender Going Forward
 	Passenger Seat Font Angle Down
 	Passenger Seat Font Angle Up
-	Passenger Seat Forward D
+	Passenger Seat Forward
 	Passenger Seat Head Rest Down
 	Passenger Seat Head Rest Up
 	Passenger Seat In Motion

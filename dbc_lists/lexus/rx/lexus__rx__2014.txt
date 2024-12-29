@@ -72,25 +72,25 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Tell Tale Active 1
-	Abs Tell Tale Active 2
-	Ac Active
-	Ac Command
+	ABS Tell Tale Active 1
+	ABS Tell Tale Active 2
+	AC Active
+	AC Command
 	Accelerator And Brake Pedals
 	Accelerator Pedal
 	Accelerator Pedal Not Pressed
 	Accelerator Pedal Position
 	Accelerator Stuck Depress Brake
 	Adaptive Cruise Control Following Distance
-	Adjusting Forward D Camera Mess
+	Adjusting Forward Camera Mess
 	Adjusting Front Radar Beam M
 	Adjusting Front Radar Beam V
 	Air Conditioner Signal Active
 	Air Priority
 	Ambient Light Sensor
 	Any Fob Button Being Pressed
-	Average Mpg Tank 00
-	Average Mpg Total 00
+	Average MPG Tank 00
+	Average MPG Total 00
 	Average Vehicle Speed
 	Brake Message Act
 	Brake Pressure
@@ -108,7 +108,7 @@ Signal Descriptions:
 	Climate System Active
 	Cruise Cancel Button Pressed
 	Cruise Control Target Speed
-	Cruise Res Button Pressed
+	Cruise RES Button Pressed
 	Cruise Set Button Pressed
 	Cruise Set Speed
 	Current Key Cycle Elapsed Time
@@ -122,11 +122,11 @@ Signal Descriptions:
 	Driver Seat Belt
 	Driver Window Position Changing
 	Driver Window State
-	Eco Mode Button Pressed
-	Eco Tell Tale
+	ECO Mode Button Pressed
+	ECO Tell Tale
 	Electric Load Signal 3 Active
 	Electric Power Steering Syste
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Speed Displayed
 	Error Adjusting Front Radar
 	Fob Lock
@@ -135,10 +135,10 @@ Signal Descriptions:
 	Fob Unlock
 	Forward And Rearward G Longitudinal
 	Front Camera Low Visibility
-	Front Camera Out Of Temp
+	Front Camera Out Of Temperature
 	Front Camera Unavailable
 	Front Defroster Command
-	Front Left Corner Radar Dist
+	Front Left Corner Radar Distance
 	Front Left Wheel Speed
 	Front Passenger Seat Belt
 	Front Right Corner Radar Dis
@@ -152,13 +152,13 @@ Signal Descriptions:
 	Gear Indicator R
 	Gear Indicator S
 	Gear Indicator S Number
+	HVAC Auto Command
+	HVAC OFF Command
 	Hazard Lights
 	Hight Beams
 	Hood Status
 	Hour
-	Hvac Auto Command
-	Hvac Off Command
-	Ic Illumination Dimmer All The Way Up
+	IC Illumination Dimmer All The Way Up
 	Idle Up Signal Active
 	Ignition Cycle Count
 	In Revers Gear
@@ -168,40 +168,41 @@ Signal Descriptions:
 	Key Fob Lock
 	Key Fob Unlock
 	Key In Ignition
-	Lad Unavailable Message
+	LAD Unavailable Message
+	LDA Hold Steering Wheel
+	LDA Hold Steering Wheel Me
+	LDA Left Line
+	LDA Malfunction Message
+	LDA Right Line
+	LDA Steering Assist Active
+	LDA Steering Assist Inactiv
+	LDA Steering Assist Unavail
+	LDA Turned ON Steering As
+	LDA Unavailable At Current
+	LDW Sensitivity High
+	LDW Sensitivity Low
 	Lane Departure Alert Green T
 	Lane Departure Alert Turned
 	Lane Departure Alert Yellow
 	Language
 	Language Setting
 	Lateral G
-	Lda Hold Steering Wheel
-	Lda Hold Steering Wheel Me
-	Lda Left Line
-	Lda Malfunction Message
-	Lda Right Line
-	Lda Steering Assist Active
-	Lda Steering Assist Inactiv
-	Lda Steering Assist Unavail
-	Lda Turned On Steering As
-	Lda Unavailable At Current
-	Ldw Sensitivity High
-	Ldw Sensitivity Low
 	Left Turn Signal Active
 	Left Turn Signal Active
 	Light Stock In Off Position
 	Light Stock Position
 	Low Beam
+	MIL Tell Tale
 	Max Blower Active
-	Mil Tell Tale
 	Minute
 	Month
 	Mute Radio Active
 	Odometer
 	Oil Pressure Low Message
-	Outside Temp
+	Outside Temperature
+	PRNDL
 	Parking Brake
-	Parking Brake Sw
+	Parking Brake SW
 	Passenger Door Lock State
 	Passenger Door Open State
 	Passenger Window Position Changi
@@ -217,7 +218,10 @@ Signal Descriptions:
 	Pre Collision System Tell Tale 2
 	Pre Collision System Unavalible1
 	Pre Collision System Unavalible2
-	Prndl
+	RSA Above Speed Limit Noti
+	RSA Enabled
+	RSA Notification Level
+	RSA Others Notification Met
 	Range 10
 	Real Engine Torque
 	Rear Defroster Command
@@ -231,38 +235,34 @@ Signal Descriptions:
 	Rear Left Wheel Speed
 	Rear Passenger Window State
 	Rear Radar Distance Indicator
-	Rear Right Corner Radar Dist
+	Rear Right Corner Radar Distance
 	Rear Right Door Open State
 	Rear Right Wheel Speed
 	Recirculation Command
-	Relay Fan No1 Ig B Active
+	Relay Fan NO1 IG B Active
 	Release Accelerator Message
 	Requested Engine Torque
 	Right Turn Signal Active
 	Right Turn Signal Active
-	Rsa Above Speed Limit Noti
-	Rsa Enabled
-	Rsa Notification Level
-	Rsa Others Notification Met
+	SRS Airbag System Malfunction And Airbag Tell Tale
 	Service Menu Active
-	Set Hvca Temp
+	Set HVCA Temperature
 	Shifter In Park
 	Shifter Out Of Park
 	Side Lights
 	Slip Indicator Tell Tale Active 1
 	Slip Indicator Tell Tale Active 2
-	Speed And Mpg Units
+	Speed And MPG Units
 	Speed Limit Displayed
 	Speed Limit Displayed On Cluster
 	Srop Tell Tale Relaye Active
-	Srs Airbag System Malfunction And Airbag Tell Tale
 	State Of Cruise Control
 	Steering Control Indicator Ac
 	Steering Rate
 	Steering Wheel Angle
 	Sway Warning Active
 	Sway Warning Sensitivity
-	Temp Unit
+	Temperature Unit
 	Theme Setting
 	Throttle Position
 	Top View Of Vehicle Image
@@ -270,15 +270,15 @@ Signal Descriptions:
 	Traction Control
 	Transmission Output Speed
 	Trip Timer
-	Trip Timer On Ic 10
+	Trip Timer On IC 10
 	Trunk Release
-	Units In Imperial Us 20
+	Units In Imperial US 20
 	Units In Metric 20
 	Units Of Measurement
 	Units Setting 00
+	VSC System Control
 	Valet Mode Unlocking Active
 	Vehicle Speed
-	Vsc System Control
 	Yaw Rate Value
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -290,7 +290,7 @@ Signal Descriptions:
 	Accelerator And Brake Pedals Pre
 	Accelerator Pedal
 	Accelerator Stuck Depress Brake
-	Adjusting Forward D Camera Message
+	Adjusting Forward Camera Message
 	Adjusting Front Beam Radar Vertical
 	Adjusting Front Radar Beam Message
 	Adjusting Front Radar Beam Message
@@ -306,7 +306,7 @@ Signal Descriptions:
 	Check Park Sonar System Message
 	Clean Park Sonar Message
 	Climate System Active A D D E D
-	Coolant Temp
+	Coolant Temperature
 	Cruise Cancel Button Pressed Ch
 	Cruise Control Status Check
 	Cruise Control Target Speed Che

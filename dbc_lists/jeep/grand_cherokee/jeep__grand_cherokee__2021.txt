@@ -1,22 +1,22 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Jeep 'Grand Cherokee' (2021)
 Signal Descriptions:
-	Abs Brake Active
-	Abs Tell Tale On
+	ABS Brake Active
+	ABS Tell Tale On
+	ADAS ACC Fault
+	ADAS ACC Speed KPH
+	ADAS ACC Speed MPH
+	ADAS ACC Status
+	ADAS Camera Blocked
+	ADAS Camera Failure
+	ADAS Cruise Control Active
+	ADAS Cruise Control Override
+	ADAS Cruise Control Ready
+	ADAS Cruise Control Speed KPH
+	ADAS Cruise Control Speed MPH
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Accessory Delay Active
-	Adas Acc Fault
-	Adas Acc Speed Kph
-	Adas Acc Speed Mph
-	Adas Acc Status
-	Adas Camera Blocked
-	Adas Camera Failure
-	Adas Cruise Control Active
-	Adas Cruise Control Override
-	Adas Cruise Control Ready
-	Adas Cruise Control Speed Kph
-	Adas Cruise Control Speed Mph
 	Air Temperature Ambient Average
 	Air Temperature Ambient Voltage
 	Air Temperature Outside
@@ -34,11 +34,11 @@ Signal Descriptions:
 	Calendar Day
 	Calendar Month
 	Calendar Year
-	Cntlr Ec Config 10 State
-	Cntlr Ec Config 11 State
-	Cntlr Ec Config 12 State
-	Cntlr Ec Config 13 State
-	Cntlr Ec Config 9 State
+	Cntlr EC Config 10 State
+	Cntlr EC Config 11 State
+	Cntlr EC Config 12 State
+	Cntlr EC Config 13 State
+	Cntlr EC Config 9 State
 	Compass Calibration Mode Active
 	Compass Direction
 	Compass Heading
@@ -59,14 +59,14 @@ Signal Descriptions:
 	Configuration Wireless A
 	Configuration Wireless B
 	Configure Auto Wiper
-	Control Ec Configuration 1 State
-	Control Ec Configuration 2 State
-	Control Ec Configuration 3 State
-	Control Ec Configuration 4 State
-	Control Ec Configuration 5 State
-	Control Ec Configuration 6 State
-	Control Ec Configuration 7 State
-	Control Ec Configuration 8 State
+	Control EC Configuration 1 State
+	Control EC Configuration 2 State
+	Control EC Configuration 3 State
+	Control EC Configuration 4 State
+	Control EC Configuration 5 State
+	Control EC Configuration 6 State
+	Control EC Configuration 7 State
+	Control EC Configuration 8 State
 	Cylinder Count
 	Daytime Running Lights On
 	Dimming Level
@@ -82,8 +82,14 @@ Signal Descriptions:
 	Door Tailgate Open
 	Dyn Str Torque Overlay Fault
 	Dyn Str Torque Overlay Int Act
-	Ecm Battery Voltage
-	Ecm Vehicle Type
+	ECM Battery Voltage
+	ECM Vehicle Type
+	EPS Hands On Recognition
+	EPS Motor Torque
+	EPS Motor Torque Valid Data
+	EPS Temperature Deactivation Lane Depar
+	EPS Temperature Deactivation Perp Park
+	EV Pump State
 	Electronic Brake Active
 	Electronic Park Brake Activation Tel
 	Electronic Park Brake Warning Tellta
@@ -99,28 +105,22 @@ Signal Descriptions:
 	Engine Speed Over Rev
 	Engine Target Speed Control
 	Engine Target Speed Control Acti
-	Engine Torque As Request Allowed
+	Engine Torque AS Request Allowed
 	Engine Torque Current
-	Engine Torque Esc Request Allowed
+	Engine Torque ESC Request Allowed
 	Engine Torque Maximum
 	Engine Torque Minimum
 	Engine Torque Static
 	Engine Torque Static Requested
-	Engine Torque Tcm Request Allowed
-	Eps Hands On Recognition
-	Eps Motor Torque
-	Eps Motor Torque Valid Data
-	Eps Temperature Deactivation Lane Depar
-	Eps Temperature Deactivation Perp Park
-	Ev Pump State
-	Fcw Brake On
-	Fcw Brake Teen
-	Fcw Braking Off
-	Fcw Error
-	Fcw Object Distance
-	Fcw Setting
-	Fcw Setting Teen
-	Fcw State
+	Engine Torque TCM Request Allowed
+	FCW Brake On
+	FCW Brake Teen
+	FCW Braking Off
+	FCW Error
+	FCW Object Distance
+	FCW Setting
+	FCW Setting Teen
+	FCW State
 	Flash Lights On Lock
 	Fob Battery Low Notification
 	Fob In Truck Notification
@@ -146,45 +146,45 @@ Signal Descriptions:
 	Gear Switch Active Status
 	Gear Target
 	Gear Target
-	Half Torque Activated
-	Half Torque Fault
+	HALF Torque Activated
+	HALF Torque Fault
+	HVAC AC Clutch Engaged
+	HVAC AC Coolant Pressure
+	HVAC Blower Fan Pressure
+	HVAC Temperature Driver Side
 	Headlights High Beam On
 	Headlights Low Beam On
 	Headlights On Delay
 	Headlights Wiper
 	Hill Start Assistance Enabled
-	Hvac Ac Clutch Engaged
-	Hvac Ac Coolant Pressure
-	Hvac Blower Fan Pressure
-	Hvac Temperature Driver Side
-	Ibs Battery Temperature
-	Ibs Battery Voltage
-	Ibs Current Charged
-	Ibs Current State
-	Ibs Current Used
-	Ibs Error Calibration
-	Ibs Error Identity
-	Ibs Error Non Volatile Memory
-	Ibs Soh Crnt Drw Accuracy
-	Ibs Soh Current Draw
-	Ibs St Of Charge
-	Ibs St Of Charge Accuracy
-	Ibs St Of Error Voltage
-	Ibs St Of Function Crnt Drw Accurac
-	Ibs St Of Function Current Draw
-	Ibs St Of Function Time
-	Ibs St Of Function Time Accuracy
-	Ibs St Of Function Vlt Accuracy
-	Ibs St Of Function Voltage
-	Ibs Temperature State
-	Ibs Time Since Last Reset Days
-	Ibs Time Since Last Reset Second
-	Ibs Voltage Prewakeup
-	Ibs Voltage State
+	IBS Battery Temperature
+	IBS Battery Voltage
+	IBS Current Charged
+	IBS Current State
+	IBS Current Used
+	IBS Error Calibration
+	IBS Error Identity
+	IBS Error Non Volatile Memory
+	IBS Soh Crnt Drw Accuracy
+	IBS Soh Current Draw
+	IBS St Of Charge
+	IBS St Of Charge Accuracy
+	IBS St Of Error Voltage
+	IBS St Of Function Crnt Drw Accurac
+	IBS St Of Function Current Draw
+	IBS St Of Function Time
+	IBS St Of Function Time Accuracy
+	IBS St Of Function Vlt Accuracy
+	IBS St Of Function Voltage
+	IBS Temperature State
+	IBS Time Since Last Reset Days
+	IBS Time Since Last Reset Second
+	IBS Voltage Prewakeup
+	IBS Voltage State
 	Ignition Off Time
 	Ignition Status
 	Intake Manifold Air Temperature
-	Key Fob Id
+	Key Fob ID
 	Key Position
 	Left Driven Tire Distance Travel
 	Lights Day Mode On
@@ -196,6 +196,8 @@ Signal Descriptions:
 	Lights Parking On
 	Lock Sound First And Second Atte
 	Lock Sound On Enabled
+	MIL Slow Blink
+	MIL Tell Tale On
 	Maintenance Service Tell Tale
 	Maneuver Phase
 	Manifold Air Pressure
@@ -204,8 +206,6 @@ Signal Descriptions:
 	Memory Seat Module Driver Seat Sta
 	Memory Seat Module Program Signal
 	Memory Seat Recall State
-	Mil Slow Blink
-	Mil Tell Tale On
 	Navigation Arrow
 	Navigation Present
 	Odometer
@@ -222,6 +222,8 @@ Signal Descriptions:
 	Output Speed Direction
 	Outside Air Pressure
 	Outside Rear Closure Switch Stat
+	PRNDL Status
+	PSD LT Display Status
 	Park Brake Active
 	Park Brake Clamp Force
 	Parktronics Center Front Tell Tale
@@ -257,28 +259,26 @@ Signal Descriptions:
 	Passenger Seat Occupant Sensor State
 	Passenger Seatbelt Reminder
 	Pedal Accelerator Position
-	Pedal Accelerator Position Obdii
+	Pedal Accelerator Position OBDII
 	Pedal Brake Position
 	Pedal Brake Pressure
 	Pedal Brake Status
 	Pedal Brake Voltage
 	Power Entry Enabled
 	Power Liftgate State
-	Prndl Status
-	Psd Lt Display Status
 	Radar Blocked
 	Radiator Fan Load
 	Remote Start Inhibit
 	Remote Start Sound Notification
 	Request Function
 	Reverse Gear Active
-	Right Driven Tire Distance Trave
+	Right Driven Tire Distance Travel
 	Seatbelt Front Left Sensor Status
 	Seatbelt Front Left Status
 	Seatbelt Front Right Sensor Status
 	Shifter Location
 	Speed In Kph
-	Start Relay Bcm Command
+	Start Relay BCM Command
 	Static Engine Toque Filtered
 	Steering Assist Torque
 	Steering Column Torque
@@ -288,9 +288,17 @@ Signal Descriptions:
 	Stop Start Notification Display
 	Stop Start Tell Tale
 	Stop Start Warning State
+	TCM Vehicle Hold Request
+	TPMS Front Left Tire Low
+	TPMS Front Right Tire Low
+	TPMS Rear Left Tire Low
+	TPMS Rear Right Tire Low
+	TPMS Tire Pressure Front Left
+	TPMS Tire Pressure Front Right
+	TPMS Tire Pressure Rear Left
+	TPMS Tire Pressure Rear Right
 	Target Engine Speed
-	Tcm Vehicle Hold Request
-	Telematics Gateway Ascii Text
+	Telematics Gateway ASCII Text
 	Theft Alarm State
 	Thermal Management Active
 	Throttle Electronic Control Present
@@ -312,14 +320,6 @@ Signal Descriptions:
 	Torque Overlay Activation
 	Torque Overlay Steering Request
 	Torque Request
-	Tpms Front Left Tire Low
-	Tpms Front Right Tire Low
-	Tpms Rear Left Tire Low
-	Tpms Rear Right Tire Low
-	Tpms Tire Pressure Front Left
-	Tpms Tire Pressure Front Right
-	Tpms Tire Pressure Rear Left
-	Tpms Tire Pressure Rear Right
 	Transmission Input Speed
 	Transmission Oil Cooler Action R
 	Transmission Oil Cooler Fault
@@ -342,88 +342,92 @@ Signal Descriptions:
 	Units Speed
 	Units Temperature
 	Units Torque
+	VIN Characters 1 To 7
+	VIN Characters 15 To 17
+	VIN Characters 8 To 14
+	VIN Index
 	Valves Per Cylinder
 	Var Vlv Tmng Exh Cam 1 Position
 	Var Vlv Tmng Exh Cam 2 Position
 	Var Vlv Tmng Intk Cam 1 Position
 	Var Vlv Tmng Intk Cam 2 Position
-	Vehicle Configuration Ac Present
+	Vehicle Configuration AC Present
+	Vehicle Configuration AQS Present
+	Vehicle Configuration ASCII String
+	Vehicle Configuration ASCII String
 	Vehicle Configuration Ambient Lighting Pre
 	Vehicle Configuration Ambient Temperature
 	Vehicle Configuration Analog Driver Sensor
-	Vehicle Configuration Aqs Present
-	Vehicle Configuration Ascii String
-	Vehicle Configuration Ascii String
 	Vehicle Configuration Auto High Beam
 	Vehicle Configuration Automatic Head Lamps
 	Vehicle Configuration Autopark Present
 	Vehicle Configuration Axle Ratio
-	Vehicle Configuration Base Tpm
+	Vehicle Configuration Base TPM
 	Vehicle Configuration Body Style
 	Vehicle Configuration Brake Type
+	Vehicle Configuration CMP Display
+	Vehicle Configuration CMS
 	Vehicle Configuration Chassistype
 	Vehicle Configuration Child Display Presen
-	Vehicle Configuration Cmp Display
-	Vehicle Configuration Cms
 	Vehicle Configuration Country
 	Vehicle Configuration Cruise Control Prese
 	Vehicle Configuration Disable Clock Displa
 	Vehicle Configuration Door Alarm Present
 	Vehicle Configuration Dual Fuel Sensors
-	Vehicle Configuration Eco Tell Tale
+	Vehicle Configuration ECO Tell Tale
 	Vehicle Configuration Electronic Steering
 	Vehicle Configuration End Of Life Present
 	Vehicle Configuration Engine Power Drive M
-	Vehicle Configuration Fg Present
+	Vehicle Configuration FG Present
 	Vehicle Configuration Fob Safe Enabled
-	Vehicle Configuration Forward D Collision Wa
+	Vehicle Configuration Forward Collision Wa
 	Vehicle Configuration Fuel Capacity
 	Vehicle Configuration Gas Pedal Adjustment
-	Vehicle Configuration Hid Beams
+	Vehicle Configuration HID Beams
+	Vehicle Configuration HVAC Configuration
 	Vehicle Configuration Hill Decent Control
-	Vehicle Configuration Hvac Configuration
 	Vehicle Configuration Immobilizer Present
-	Vehicle Configuration Kg Present
+	Vehicle Configuration KG Present
+	Vehicle Configuration LUCI Present
 	Vehicle Configuration Liftgate Trunk
 	Vehicle Configuration Light Load Tire Prs F
 	Vehicle Configuration Light Load Tire Prs R
-	Vehicle Configuration Luci Present
 	Vehicle Configuration Max Tire Psr Front
 	Vehicle Configuration Max Tire Psr Rear
 	Vehicle Configuration Maximum Vehicle Spee
 	Vehicle Configuration Model Year
 	Vehicle Configuration Multi Function Modul
-	Vehicle Configuration Non Registered Tpis
+	Vehicle Configuration Non Registered TPIS
 	Vehicle Configuration Offroad
 	Vehicle Configuration Offroad Package
+	Vehicle Configuration PDDL Present
+	Vehicle Configuration PE Present
+	Vehicle Configuration PP Present
 	Vehicle Configuration Park Stop Present
 	Vehicle Configuration Parktronic System Con
 	Vehicle Configuration Parktronic System Dis
-	Vehicle Configuration Pddl Present
-	Vehicle Configuration Pe Present
 	Vehicle Configuration Perpendicular Park A
 	Vehicle Configuration Police Upfit
 	Vehicle Configuration Power Liftgate
 	Vehicle Configuration Power Sliding Left D
 	Vehicle Configuration Power Sliding Right
-	Vehicle Configuration Pp Present
 	Vehicle Configuration Premium Tire Pressur
+	Vehicle Configuration RKE Present
+	Vehicle Configuration RR Dually Present
+	Vehicle Configuration RVCM Present
 	Vehicle Configuration Rain Sensor Present
-	Vehicle Configuration Rear Door Locks 2 Dc
+	Vehicle Configuration Rear Door Locks 2 DC
 	Vehicle Configuration Remote Start Present
-	Vehicle Configuration Rke Present
-	Vehicle Configuration Rr Dually Present
 	Vehicle Configuration Run Flat Tire Presen
-	Vehicle Configuration Rvcm Present
-	Vehicle Configuration Sbr Present
-	Vehicle Configuration Scr Present
+	Vehicle Configuration SBR Present
+	Vehicle Configuration SCR Present
+	Vehicle Configuration SKIM Present
+	Vehicle Configuration SRT Present
+	Vehicle Configuration SSC Present
 	Vehicle Configuration Security Lock Presen
-	Vehicle Configuration Skim Present
 	Vehicle Configuration Spare Tire
 	Vehicle Configuration Speed Limit Present
 	Vehicle Configuration Sport Present
-	Vehicle Configuration Srt Present
-	Vehicle Configuration Ssc Present
 	Vehicle Configuration Stability Controller
 	Vehicle Configuration State
 	Vehicle Configuration State
@@ -441,17 +445,13 @@ Signal Descriptions:
 	Vehicle Configuration Transfercase Type
 	Vehicle Configuration Vehicle Brand
 	Vehicle Configuration Vehicle Line
+	Vehicle Configuration WTS Present
 	Vehicle Configuration Watchdog Present
 	Vehicle Configuration Wheel Base
 	Vehicle Configuration Wheel Drive Mode
-	Vehicle Configuration Wts Present
 	Vehicle Not In Park Notification
 	Vehicle Speed Display
-	Vehicle Speed Set As Mph
-	Vin Characters 1 To 7
-	Vin Characters 15 To 17
-	Vin Characters 8 To 14
-	Vin Index
+	Vehicle Speed Set As MPH
 	Washer Switch Position
 	Washer Switch State
 	Wheel Speed Front Left

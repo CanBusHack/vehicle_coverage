@@ -1,15 +1,15 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Suzuki 'Celerio' (2016)
 Signal Descriptions:
-	Abs In Action
-	Adas Cruise Control Speed Set
-	Adas Cruise Control State
-	Adas Speed Limiter Active
-	Adas Speed Limiter On Standby
-	Adas Speed Limiter Speed Set
+	ABS In Action
+	ADAS Cruise Control Speed Set
+	ADAS Cruise Control State
+	ADAS Speed Limiter Active
+	ADAS Speed Limiter On Standby
+	ADAS Speed Limiter Speed Set
+	BSM And RCTA Status Changing To
 	Battery Low Warning On
 	Brake Switch Active
-	Bsm And Rcta Status Changing To
 	Cabin Temperature
 	Coolant Tell Tale Blue Flashing
 	Coolant Tell Tale Blue On
@@ -26,19 +26,19 @@ Signal Descriptions:
 	Door Front Right Locked
 	Door Rear Left Locked
 	Door Rear Right Locked
+	ESP ABS Active
+	ESP ABS Tell Tale On
+	ESP Initialization Active
+	ESP System Deactivated
+	ESP TC Tell Tale Flashing
+	ESP TC Tell Tale On
+	ESP TCSS Off Tell Tale On
+	ESP Tell Tale On
 	Engine Oil Temperature
 	Engine Speed
 	Engine Speed
 	Engine Torque Actual
 	Engine Torque Requested
-	Esp Abs Active
-	Esp Abs Tell Tale On
-	Esp Initialization Active
-	Esp System Deactivated
-	Esp Tc Tell Tale Flashing
-	Esp Tc Tell Tale On
-	Esp Tcss Off Tell Tale On
-	Esp Tell Tale On
 	Evaporator Temperature
 	Fuel Injection Rate
 	Fuel Level Current
@@ -49,15 +49,15 @@ Signal Descriptions:
 	Gear Engaged
 	Gear Target Indication Flashing
 	Gear Target Indication On
+	HVAC AC Active
+	HVAC AC Compressor Active
+	HVAC AC Setting Changing To
+	HVAC Defroster Rear Active
 	Headlights High Beam On
 	Headlights On
 	Headlights Side On
 	Hill Descent Tell Tale Flashing
 	Hill Descent Tell Tale On
-	Hvac Ac Active
-	Hvac Ac Compressor Active
-	Hvac Ac Setting Changing To
-	Hvac Defroster Rear Active
 	Lamp Immobilizer Flashing
 	Lamp Immobilizer On
 	Lamp Malfunction Flashing
@@ -70,11 +70,11 @@ Signal Descriptions:
 	Pedal Accelerator Position
 	Power Mode Engine Running
 	Power Mode Ignition On
-	Prompt 4Wd Mode Unselectable Auto Mode On
+	Prompt 4WD Mode Unselectable Auto Mode On
 	Prompt Hold Steering Wheel
 	Prompt Key Fob Detected
 	Prompt Key Fob Low Battery
-	Prompt Ldp System Requires Inspection
+	Prompt LDP System Requires Inspection
 	Prompt Lock Mode Cannot Be Set
 	Prompt Low Tire Pressure
 	Prompt Place Key Fob On Start Switch
@@ -82,9 +82,9 @@ Signal Descriptions:
 	Prompt Push Start Switch
 	Prompt Service Start System
 	Prompt Service Steering Lock System
-	Prompt Service Tpms
-	Prompt Turn Steering Wheel To Release Lock
-	Prompt Warning 4Wd Mode Switch
+	Prompt Service TPMS
+	Prompt TURN Steering Wheel To Release Lock
+	Prompt Warning 4WD Mode Switch
 	Refrigerant Pressure
 	Seatbelt Front Left Unfastened
 	Seatbelt Tell Tale Front Right Unfastened Flashing
@@ -109,7 +109,9 @@ Signal Descriptions:
 	Steering Wheel Angle Sensor 2
 	Steering Wheel Motor Current
 	Steering Wheel Torque Main
-	Tcss Off
+	TCSS Off
+	TPMS Mode Changing To
+	TPMS System Active
 	Tell Tale Battery On
 	Tell Tale Hands On Steering Wheel On
 	Tell Tale Immobilizer Flashing
@@ -124,8 +126,6 @@ Signal Descriptions:
 	Tell Tale Seatbelt Flashing
 	Tell Tale Seatbelt On
 	Throttle Position Relative
-	Tpms Mode Changing To
-	Tpms System Active
 	Units Temperature Set To F
 	Vehicle Speed
 	Wheel Speed Front Left

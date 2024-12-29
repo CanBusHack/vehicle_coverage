@@ -1,8 +1,8 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Chevrolet 'Malibu' (2010)
 Signal Descriptions:
-	Adas Applied Toque To Steering Wheel
-	Adas Torque Differential On Steering Wheel
+	ADAS Applied Toque To Steering Wheel
+	ADAS Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
 	Diesel Glow Plugs Warming Before Crank
 	Engine Torque Available Range
@@ -12,12 +12,12 @@ Signal Descriptions:
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs Active
-	Abs Esc Off Road Switch
-	Abs Warning Signal Tell Tale
-	Ac Compressor Requested On
-	Ac Compressor Status
-	Ac High Pressure
+	ABS Active
+	ABS ESC Off Road Switch
+	ABS Warning Signal Tell Tale
+	AC Compressor Requested On
+	AC Compressor Status
+	AC High Pressure
 	Accelerator Pedal Position Throttle Pedal Position
 	Actual Fuel Rail Pressure
 	Adaptive Cruise Control Enabled 1
@@ -44,8 +44,8 @@ Signal Descriptions:
 	Auto Hold Disabled Seatbelt Tell Tale On
 	Auto Hold Service Tell Tale On
 	Barometric Pressure
-	Battery Soc
-	Battery Temp
+	Battery STATE OF CHARGE
+	Battery Temperature
 	Battery Total Amphours Charged
 	Battery Total Amphours Used
 	Battery Voltage
@@ -72,15 +72,15 @@ Signal Descriptions:
 	Current Time Seconds
 	Current Time Year
 	Cylinder Fuel Rate
+	DEF Distance To Inducement
+	DEF Fluid Remaining Distance
 	Daylight Status
-	Def Distance To Inducement
-	Def Fluid Remaining Distance
-	Diesel Particulate Filter Dpf Active Regen Status
-	Diesel Particulate Filter Dpf Manual Regen Status
+	Diesel Particulate Filter DPF Active Regen Status
+	Diesel Particulate Filter DPF Manual Regen Status
 	Driveline Ratio
 	Driver Accelerator Pedal Pressed Override Cruise Control
 	Driver Door Ajar
-	Driver Id
+	Driver ID
 	Driver Seat Haptic Feedback Setting Active
 	Driver Seatbelt
 	Electric Park Brake Application Status
@@ -132,9 +132,9 @@ Signal Descriptions:
 	Fuel Tank 1 Level
 	Fuel Tank 2 Capacity
 	Fuel Tank 2 Level
+	GPS Based Vehicle Speed
+	GPS Elevation
 	Gear Display For Cluster
-	Gps Based Vehicle Speed
-	Gps Elevation
 	Halt Brake Mode
 	Halt Brake Switch
 	Handbrake Park Brake Switch
@@ -146,6 +146,8 @@ Signal Descriptions:
 	Instrument Panel Display Intensity
 	Intake Air Temperature
 	Intake Manifold Pressure
+	LF Tire Pressure
+	LR Tire Pressure
 	Lane Keep Steering Wheel Torque
 	Lane Keep Steering Wheel Torque Active
 	Launch Control Mode Status
@@ -156,17 +158,15 @@ Signal Descriptions:
 	Left Headlamp Vertical Position
 	Left Rear Tire Pressure State
 	Left Rear Tire Temperature
-	Left Sliding Door Status Left Rear Door Status Yy
-	Lf Tire Pressure
+	Left Sliding Door Status Left Rear Door Status YY
 	Low Beam Headlight Command
 	Low Brake Fluid Warning
 	Low Tire Pressure Tell Tale
-	Lr Tire Pressure
+	MIL Lamp
 	Manifold Current Inlet Air Temperature
 	Mass Air Flow
 	Max Engine Torque
 	Max Engine Torque Desired Long Term
-	Mil Lamp
 	Mountain Mode On
 	Multiple Displacement System Status 6 Of 8 Cylinders
 	Odometer
@@ -176,17 +176,18 @@ Signal Descriptions:
 	Oil Life Reset
 	Onstar Max Speed
 	Onstar Max Speed Authentication Data
+	PRNDL Display Request Shift Level Position
 	Paddle Shift Request State
 	Park Neutral Switch On
 	Passenger Door Ajar
 	Passenger Seatbelt
 	Power Steering Tell Tale On
 	Powertrain Warming Wait To Shift Tell Tale On
-	Prndl Display Request Shift Level Position
+	RF Tire Pressure
+	RR Tire Pressure
 	Reduced Power Tell Tale On
 	Remote Start Activated Engine Running
 	Requested Gear From Engine
-	Rf Tire Pressure
 	Right Front Tire Pressure State
 	Right Front Tire Temperature
 	Right Headlamp Horizontal Angle
@@ -194,10 +195,9 @@ Signal Descriptions:
 	Right Headlamp Vertical Position
 	Right Rear Tire Pressure State
 	Right Rear Tire Temperature
-	Right Sliding Door Status Right Rear Door Status Yy
-	Rr Tire Pressure
-	Scr Denox Urea Def Tank Level
-	Scr Tank Level
+	Right Sliding Door Status Right Rear Door Status YY
+	SCR Denox Urea DEF Tank Level
+	SCR Tank Level
 	Service Adaptive Cruise Control Warning Tell Tale On
 	Service Leveling System Tell Tale On
 	Shift In Progress
@@ -232,14 +232,14 @@ Signal Descriptions:
 	Turbine Speed
 	Turn Indicator On Off
 	Units Used For Displays
+	VIN 10 17
+	VIN 2 9
 	Vehicle Acceleration
 	Vehicle Lateral Acceleration 1
 	Vehicle Lateral Acceleration 2
 	Vehicle Longitudinal Acceleration
 	Vehicle Overloaded Tell Tale On
 	Vehicle Speed
-	Vin 10 17
-	Vin 2 9
 	Water In Fuel Indicator
 	Wheel Rotational Direction Front Left
 	Wheel Rotational Direction Front Right
@@ -258,8 +258,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	2Nd Row Seatbelt Lh
-	2Nd Row Seatbelt Rh
+	2Nd Row Seatbelt LH
+	2Nd Row Seatbelt RH
 	Accelerator Pedal Pressed
 	Active Rear Steer Warning Tell Tale On
 	Air Conditioning Active Tell Tale On
@@ -301,11 +301,11 @@ Signal Descriptions:
 	Engine Oil Pressure Low Tell Tale On
 	Engine Total Fuel Consumed Instantaneous
 	Engine Water In Fuel Tell Tale On
+	FOB ID That Is Making Lock Unlock Request
+	FOB Request Unlock Start Alert
 	Flash To Pass On
-	Fob Id That Is Making Lock Unlock Request
-	Fob Request Unlock Start Alert
 	Fog Light Rear Tell Tale On
-	Front Hvac Blower Fan Speed
+	Front HVAC Blower Fan Speed
 	Fuel Door Status
 	Fuel Level Low Indication On
 	Hands Off Steering Wheel Warning Tell Tale On
@@ -329,9 +329,9 @@ Signal Descriptions:
 	Left Side Blind Spot System Status On Off
 	Low Brake Fluid Warning
 	Low Windshield Fluid Status
+	MIL Lamp Charging System
 	Memory Driver Position Request
-	Mil Lamp Charging System
-	Occupant Status Passive Occupant Detection Pods
+	Occupant Status Passive Occupant Detection PODS
 	Oil Life Reset Req
 	Outside Air Temperature Rough
 	Park Lights Tell Tale On
@@ -395,9 +395,9 @@ Signal Descriptions:
 	Factory Alarm Trunk Open
 	Factory Alarm Vehicle Tilted
 	Fuel Door Open
+	HVAC Target Temperature
 	Heater Core Coolant Temperature
 	Hood Status
-	Hvac Target Temperature
 	Lift Gate Unlock Switch
 	Liftgate Glass Open
 	Liftgate Glass Open Switch Status

@@ -1,8 +1,8 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Eqe' (2023)
 Signal Descriptions:
-	Ac Active
-	Ac Active
+	AC Active
+	AC Active
 	Accelerator Pedal Position Percentage
 	Acoustic Lock Option Active
 	Active Brake Assist Setting
@@ -18,7 +18,7 @@ Signal Descriptions:
 	Brake Pressure1
 	Brake Pressure2
 	Brake Switch Pressed
-	Calculated Ice Engine Load
+	Calculated ICE Engine Load
 	Charging Program Selected
 	Check Engine Tell Tale Active
 	Check Fuel Filter Dash Prompt Active
@@ -63,7 +63,7 @@ Signal Descriptions:
 	East Entry And Exit Seat Setting Active
 	East Entry And Exit Steering Wheel Setting Active
 	Engine Actual Torque
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Coolant Temperature
 	Engine Off Timer
 	Engine Oil Temperature
@@ -75,6 +75,15 @@ Signal Descriptions:
 	Font Wipers Movement Speed
 	Front Left Wheel Speed
 	Fuel Tell Tale Blinking
+	HVAC Auto Active
+	HVAC Blower Position
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Max Active
+	HVAC Recirculation Active
+	HVAC Recirculation Button Pressed
 	Hazard Lights Active
 	Hazards Active
 	Head Lights Active
@@ -83,22 +92,13 @@ Signal Descriptions:
 	Hood Ajar
 	Hood Closed
 	Horn Active
-	Hvac Auto Active
-	Hvac Blower Position
-	Hvac Blower Position Driver Side
-	Hvac Blower Position Passenger Side
-	Hvac Fan Speed
-	Hvac Max Active
-	Hvac Max Active
-	Hvac Recirculation Active
-	Hvac Recirculation Button Pressed
-	Ice Engine Speed
-	Ice Engine Torque
+	ICE Engine Speed
+	ICE Engine Torque
+	INT Wiper Active
 	Ignition Button Pressed
 	Ignition Power Mode
 	Instrument Cluster Brightness Level
-	Int Wiper Active
-	Intake Air Temp
+	Intake Air Temperature
 	Intake Air Temperature
 	Interior Accent Light Level
 	Interior Ambiance Level
@@ -115,8 +115,10 @@ Signal Descriptions:
 	Max State Of Charge
 	Mirror States
 	Odometer
-	Oil Temp
+	Oil Temperature
 	Outside Air Pressure
+	PRNDL
+	PRNDL Stock Position
 	Park Assist In Progress
 	Parking Assist Active
 	Parking Assist Inactive
@@ -131,11 +133,9 @@ Signal Descriptions:
 	Passenger Unlock Button Pressed
 	Power Mode
 	Power Output Percent
-	Prndl
-	Prndl Stock Position
 	Rate Of Charge
 	Rear Heated Seats Active
-	Rear Int Wiper Active
+	Rear INT Wiper Active
 	Rear Left Wheel Speed
 	Rear Wiper In Motion
 	Recirculation Status Active
@@ -146,16 +146,16 @@ Signal Descriptions:
 	State Of Charge
 	Steering Wheel Angle
 	Steering Wheel Angle Acceleration
+	TPMS Front Left
+	TPMS Front Left Low Tier Low Tell Tale
+	TPMS Front Right
+	TPMS Front Right Low Tier Low Tell Tale
+	TPMS Rear Left
+	TPMS Rear Left Low Tier Low Tell Tale
+	TPMS Rear Right
+	TPMS Rear Right Low Tier Low Tell Tale
 	Time Since Start In Minutes
 	Time Since Trip Reset In Minutes
-	Tpms Front Left
-	Tpms Front Left Low Tier Low Tell Tale
-	Tpms Front Right
-	Tpms Front Right Low Tier Low Tell Tale
-	Tpms Rear Left
-	Tpms Rear Left Low Tier Low Tell Tale
-	Tpms Rear Right
-	Tpms Rear Right Low Tier Low Tell Tale
 	Traction Control Active
 	Traction Control Off
 	Transmission Oil Temperature

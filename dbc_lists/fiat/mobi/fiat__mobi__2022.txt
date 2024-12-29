@@ -1,22 +1,23 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Fiat 'Mobi' (2022)
 Signal Descriptions:
-	Abs Control Unit Active
-	Abs Tell Tale On
-	Abs Tell Tale On
+	ABS Control Unit Active
+	ABS Tell Tale On
+	ABS Tell Tale On
+	ADAS Adaptive Cruise Control Follow Distance Level
+	ADAS Adaptive Cruise Control Follow Distance Level Verification
+	ADAS Cruise Control Active
+	ADAS Park Aid Rear Left Detection Not Active
+	ADAS Park Aid Rear Left Object Detected
+	ADAS Park Aid Rear Right Detection Not Active
+	ADAS Park Aid Rear Right Object Detected
+	ADAS Speed Limiter Active
+	ADAS Speed Set
+	ADAS Switch ON OFF Pressed
+	ADAS Switch Speed Down Pressed
+	ADAS Switch Speed Up Pressed
+	ASR System Deactivated
 	Accessory Switch Active
-	Adas Adaptive Cruise Control Follow Distance Level
-	Adas Adaptive Cruise Control Follow Distance Level Verification
-	Adas Cruise Control Active
-	Adas Park Aid Rear Left Detection Not Active
-	Adas Park Aid Rear Left Object Detected
-	Adas Park Aid Rear Right Detection Not Active
-	Adas Park Aid Rear Right Object Detected
-	Adas Speed Limiter Active
-	Adas Speed Set
-	Adas Switch On Off Pressed
-	Adas Switch Speed Down Pressed
-	Adas Switch Speed Up Pressed
 	Airbag Control Unit Active
 	Airbag Driver Deactivated Tell Tale Flashing
 	Airbag Driver Deactivated Tell Tale On
@@ -24,7 +25,6 @@ Signal Descriptions:
 	Airbag Passenger Deactivated Tell Tale On
 	Airbag Passenger Exclusion Tell Tale On
 	Airbag Passenger Setting Changing
-	Asr System Deactivated
 	Auto Tell Tale Active
 	Battery Low Charge Tell Tale On
 	Battery Voltage
@@ -35,7 +35,7 @@ Signal Descriptions:
 	Dash Prompt Manual Method Unavailable Active
 	Dash Prompt Press Clutch Fully
 	Dashboard Back Lighting Active
-	Dashboard Fps On Indication On
+	Dashboard FPS On Indication On
 	Dashboard Fuel Level Indication
 	Date Current Day
 	Date Current Month
@@ -44,7 +44,10 @@ Signal Descriptions:
 	Door Front Driver Open
 	Door Front Passenger Open
 	Door Trunk Open
-	Eco Tell Tale Active
+	ECO Tell Tale Active
+	EPS Active
+	EPS Deactivated
+	EPS Fault
 	Emergency Braking System Lamp On
 	Engine Control Module Active
 	Engine Coolant High Temperature Warning Light On
@@ -55,9 +58,6 @@ Signal Descriptions:
 	Engine Oil Low Pressure Tell Tale On
 	Engine Speed Displayed
 	Engine Stalling
-	Eps Active
-	Eps Deactivated
-	Eps Fault
 	Fuel Consumption Instantaneous Last Registered
 	Fuel Level Indication
 	Fuel Level Low Chime On
@@ -68,14 +68,14 @@ Signal Descriptions:
 	Gear Displayed Flashing
 	Gear Reverse Engaged
 	Glowplug Tell Tale On
+	HVAC AC Status
+	HVAC Defroster Rear On
+	HVAC Defroster Rear Tell Tale On
 	Headlight Sensitivity Level
 	Headlights High Beam Tell Tale On
 	Headlights Low Beam Regulation Displayed
 	Headlights Sidelights Tell Tale On
 	Hill Assist System Unavailable
-	Hvac Ac Status
-	Hvac Defroster Rear On
-	Hvac Defroster Rear Tell Tale On
 	Ignition Switch Active
 	Instrument Panel Active
 	Key Fob Lock Button Hold Released
@@ -87,7 +87,7 @@ Signal Descriptions:
 	Key Fob Unlock Button Hold Released
 	Key Fob Unlock Button Holding
 	Key Fob Unlock Button Pressed
-	Key In Position Stop
+	Key In Position STOP
 	Key Position
 	Lights Fog Front Tell Tale On
 	Lights Fog Rear Tell Tale On
@@ -124,10 +124,10 @@ Signal Descriptions:
 	Steering Wheel Button Pickup Call Pressed
 	Steering Wheel Button Volume Down Pressed
 	Steering Wheel Button Volume Up Pressed
+	TPMS Configuration Reset
 	Time Current Hours
 	Time Current Minutes
 	Time Format 12H
-	Tpms Configuration Reset
 	Traction Control Tell Tale Flashing
 	Trip A Duration Hours
 	Trip A Duration Minutes
@@ -151,8 +151,8 @@ Signal Descriptions:
 	Wiper Front Automatic Rain Sensitivity Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Abs In Action
-	Asr Deactivated
+	ABS In Action
+	ASR Deactivated
 	Auto Tell Tale Active
 	Brake Pressure
 	City Mode Active
@@ -166,11 +166,11 @@ Signal Descriptions:
 	Dash Warning Chime
 	Dashboard Coolant Temperature Fault Active
 	Dashboard Coolant Temperature Warning Light On
-	Dashboard Display Fps On Indication
+	Dashboard Display FPS On Indication
 	Dashboard Fuel Range Not Displayed
 	Dashboard Generic Failure Indication On
 	Dashboard Prompt Change Engine Oil
-	Dashboard Tell Tale Abs Fault On
+	Dashboard Tell Tale ABS Fault On
 	Dashboard Tell Tale Electric Power Steering Fault On
 	Dashboard Tell Tale Engine Oil Low Level On
 	Dashboard Tell Tale Engine Oil Low Pressure On
@@ -187,28 +187,28 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Doors Closed When Ignition On
 	Driving Mode Automatic
-	Eco Tell Tale Active
+	ECO Tell Tale Active
+	EPS System Deactivated
 	Emergency Braking System Safety Lamp On
 	Engine Load
 	Engine Speed
 	Engine Speed Displayed
 	Engine Speed Nominal Target
 	Engine Stalling
-	Eps System Deactivated
 	Fuel Injection Timing
 	Fuel Level
 	Gear Reverse Engaged
 	Gear Shifting
-	Hvac Ac Compressor Active
-	Hvac Ac Status
+	HVAC AC Compressor Active
+	HVAC AC Status
 	Longitudinal Acceleration
+	PRNDL Position
 	Parking Brake Engaged
 	Pedal Accelerator Position
 	Pedal Accelerator Range
 	Pedal Accelerator Released When Gear Engaged
 	Pedal Clutch And Accelerator Status
 	Power Mode Engine Running
-	Prndl Position
 	Rear Defrost Active
 	Seatbelt Driver Buckled
 	Shift Down Indication Active
@@ -217,9 +217,9 @@ Signal Descriptions:
 	Start Stop System Operating
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
+	TPMS Configuration Reset
 	Time Current Hours
 	Time Current Minutes
-	Tpms Configuration Reset
 	Traction Control Tell Tale Blinking
 	Vehicle In Motion
 	Vehicle Speed

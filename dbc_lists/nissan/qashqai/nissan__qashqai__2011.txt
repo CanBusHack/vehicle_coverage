@@ -1,14 +1,14 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Nissan 'Qashqai' (2011)
 Signal Descriptions:
-	Abs W L Active
-	Ac Compressor Request
+	ABS W L Active
+	AC Compressor Request
+	AWD Tell Tale Active
 	Acc Pedal Not Pressed
 	Accelerator Pedal Position
 	Accelerator Pedal Position
 	Accelerator Pedal Position Alt
 	Accelerator Pedal Pressed
-	Awd Tell Tale Active
 	Brake Press Alt
 	Brake Press At Idle
 	Brake Switch
@@ -44,8 +44,8 @@ Signal Descriptions:
 	Front Right Tire Registered
 	Front Right Wheel Speed
 	Front Wipers
-	Fuel Level 1 Lsb Add Fuel Level 2 For Full Signal
-	Fuel Level 2 Msb
+	Fuel Level 1 LSB Add Fuel Level 2 For Full Signal
+	Fuel Level 2 MSB
 	Gear Ratio
 	Headlamp Status
 	High Beam Lights Active
@@ -55,21 +55,22 @@ Signal Descriptions:
 	Left Turn Tell Tale
 	Low Beam Head Lights Active
 	Low Oil Pressure
-	M Mode Sw Active
-	Mil Tell Tale Active
+	M Mode SW Active
+	MIL Tell Tale Active
 	Night Running Lights Rear Active
-	O D Off Command
+	O D OFF Command
 	O D Off Tell Tale Active
 	Odometer
 	Oil Low Tell Tale Alt
 	Oil Tell Tale Active
 	Overdrive Shift Button
+	PRNDL
 	Parking Brake Active
 	Parking Lights Active
 	Power Steering Tell Tale Active
 	Primary Torque
 	Primary Torque Alt
-	Prndl
+	RKE REQ Move Active
 	Range
 	Real Time Diag Code
 	Rear Defroster
@@ -87,16 +88,15 @@ Signal Descriptions:
 	Rear Right Tire Registered
 	Rear Right Wheel Speed
 	Right Turn Tell Tale
-	Rke Req Move Active
 	Sport Mode Button Pressed
 	Steering Wheel Angle
 	Steering Wheel Speed
 	Steering Wheel Torque
 	Switch Except M Mode
-	Tcs On
+	TCS On
+	TPMS Error See Owners Manual
+	TPMS Tell Tale
 	Theft Horn Request Active
-	Tpms Error See Owners Manual
-	Tpms Tell Tale
 	Traction Control
 	Traction Control Alt
 	Traction Control Tell Tale Active
@@ -104,7 +104,7 @@ Signal Descriptions:
 	Transmission Input Speed
 	Transmission Output Shaft Speed
 	Trunk Door Open
-	Vdc On
+	VDC On
 	Vehicle Dynamics Control Active
 	Vehicle Speed
 	Vehicle Speed

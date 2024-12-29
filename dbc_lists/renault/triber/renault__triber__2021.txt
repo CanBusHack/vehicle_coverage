@@ -1,13 +1,13 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Triber' (2021)
 Signal Descriptions:
-	Abs In Action
+	ABS In Action
+	ADAS Cruise Control Off Indication Off
+	ADAS Operation Status
+	ADAS Speed Limiter Speed Exceeded
+	ADAS Speed Set
 	Acceleration Lateral
 	Acceleration Longitudinal
-	Adas Cruise Control Off Indication Off
-	Adas Operation Status
-	Adas Speed Limiter Speed Exceeded
-	Adas Speed Set
 	Airbag Passenger Off
 	Airbag System Check Airbag Indication Active
 	Airbag System Fault
@@ -41,9 +41,17 @@ Signal Descriptions:
 	Door Trunk Open
 	Door Trunk Open Chime Active
 	Door Trunk Open Indication Active
-	Eco Mode Off Request
-	Eco Mode On Request
-	Eco Mode Status
+	ECO Mode Off Request
+	ECO Mode On Request
+	ECO Mode Status
+	ESP ABS Tell Tale Active
+	ESP ABS Tell Tale Flashing Fast
+	ESP ABS Tell Tale Flashing Slow
+	ESP Prompt Brake Fault
+	ESP Prompt Check ABS
+	ESP Traction Control Status
+	ESP Traction Control Tell Tale Active
+	ESP Traction Control Tell Tale Flashing
 	Engine Check Indication Active
 	Engine Coolant Temperature
 	Engine Coolant Temperature Warning Active
@@ -56,17 +64,9 @@ Signal Descriptions:
 	Engine Status
 	Engine Torque Net
 	Engine Torque Reference
-	Esp Abs Tell Tale Active
-	Esp Abs Tell Tale Flashing Fast
-	Esp Abs Tell Tale Flashing Slow
-	Esp Prompt Brake Fault
-	Esp Prompt Check Abs
-	Esp Traction Control Status
-	Esp Traction Control Tell Tale Active
-	Esp Traction Control Tell Tale Flashing
 	Fuel Level
 	Fuel Level Low
-	Fuel Level Ok
+	Fuel Level OK
 	Fuel Pump Off
 	Fuel Pump On
 	Fuel Range
@@ -76,15 +76,15 @@ Signal Descriptions:
 	Gear Reverse Not Engaged
 	Gearbox Gear Engaged
 	Gearbox Gear Not Engaged
+	HVAC A C Compressor High Pressure
+	HVAC AC Authorisation Yes
+	HVAC Motor Driven Fan Request
+	HVAC Refrigerant Pressure
 	Headlight High Beam On
 	Headlight High Beam Tell Tale On
 	Headlight Low Beam On
 	Headlight Low Beam Tell Tale On
 	Headlight Side Light Tell Tale On
-	Hvac A C Compressor High Pressure
-	Hvac Ac Authorisation Yes
-	Hvac Motor Driven Fan Request
-	Hvac Refrigerant Pressure
 	Idle Regulation Integral Correction
 	Ignition Off
 	Ignition On
@@ -122,7 +122,7 @@ Signal Descriptions:
 	Pedal Clutch Prompt Clutch Active
 	Pedal Clutched Released
 	Power Mode
-	Power Mode Acc Active
+	Power Mode ACC Active
 	Prompt Press Clutch
 	Prompt Put In Neutral
 	Seatbelt Front Driver Chime Active

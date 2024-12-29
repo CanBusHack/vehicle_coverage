@@ -1,13 +1,13 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Bmw 'Z4' (2012)
 Signal Descriptions:
-	Adas Cruise Control On Off Button Pressed
-	Adas Cruise Control Speed Decrease 1Mph Request
-	Adas Cruise Control Speed Decrease 5Mph Request
-	Adas Cruise Control Speed Increase 1Mph Request
-	Adas Cruise Control Speed Increase 5Mph Request
-	Adas Stalk Cruise Control Position Down
-	Adas Stalk Cruise Control Position Up
+	ADAS Cruise Control ON OFF Button Pressed
+	ADAS Cruise Control Speed Decrease 1Mph Request
+	ADAS Cruise Control Speed Decrease 5Mph Request
+	ADAS Cruise Control Speed Increase 1Mph Request
+	ADAS Cruise Control Speed Increase 5Mph Request
+	ADAS Stalk Cruise Control Position Down
+	ADAS Stalk Cruise Control Position Up
 	Battery Voltage
 	Door Hood Open
 	Door Trunk Open
@@ -26,7 +26,7 @@ Signal Descriptions:
 	Power Mode Initiate Start
 	Power Mode Recently Changed
 	Power Mode Start Button Pressed
-	Steering Wheel Button Ac Pressed
+	Steering Wheel Button AC Pressed
 	Steering Wheel Button Arrow Down Pressed
 	Steering Wheel Button Arrow Up Pressed
 	Steering Wheel Button Disc Change Pressed
@@ -48,19 +48,19 @@ Signal Descriptions:
 	Wiper Rear Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
+	ADAD Stalk Cruise Control Position
+	ADAS Adaptive Cruise Control Follow Distance
+	ADAS Cruise Control Active
+	ADAS Cruise Control Shaft Position State Change
+	ADAS Cruise Control Speed Change Request
+	ADAS Cruise Control Speed Decrease 1Mph Request
+	ADAS Cruise Control Speed Decrease 5Mph Request
+	ADAS Cruise Control Speed Increase 1Mph Request
+	ADAS Cruise Control Speed Increase 5Mph Request
+	ADAS Cruise Control Speed Set
 	Acceleration Lateral
 	Acceleration Lateral
 	Acceleration Latitude
-	Adad Stalk Cruise Control Position
-	Adas Adaptive Cruise Control Follow Distance
-	Adas Cruise Control Active
-	Adas Cruise Control Shaft Position State Change
-	Adas Cruise Control Speed Change Request
-	Adas Cruise Control Speed Decrease 1Mph Request
-	Adas Cruise Control Speed Decrease 5Mph Request
-	Adas Cruise Control Speed Increase 1Mph Request
-	Adas Cruise Control Speed Increase 5Mph Request
-	Adas Cruise Control Speed Set
 	Ambient Air Temperature
 	Baro Challenge
 	Battery Voltage
@@ -89,6 +89,9 @@ Signal Descriptions:
 	Doors Locked
 	Doors Unlocked
 	Driving Mode Eco Active
+	ESP ABS Active
+	ESP Traction Control Off
+	ESP Traction Control On
 	Engine Oil Level
 	Engine Oil Temperature
 	Engine Speed
@@ -96,9 +99,6 @@ Signal Descriptions:
 	Engine Speed Alt
 	Engine Torque
 	Engine Torque Request
-	Esp Abs Active
-	Esp Traction Control Off
-	Esp Traction Control On
 	Fuel Level In Liters
 	Fuel Range
 	Gearbox Shift In Progress
@@ -108,8 +108,8 @@ Signal Descriptions:
 	Gearbox Shifter Position
 	Gesture Count
 	Gesture Input
+	HVAC System Active
 	Hill Hold Active
-	Hvac System Active
 	Key Fob Lock Command
 	Key Fob Open Hatch Command
 	Key Fob Panic
@@ -125,8 +125,9 @@ Signal Descriptions:
 	Lock Button Pressed
 	Lock State Not Changing
 	Locking Command
-	Mil Tell Tale Active
+	MIL Tell Tale Active
 	Odometer
+	PRNDL And Gear
 	Parking Brake Disengaged
 	Parking Brake Engaged
 	Pedal Accelerator Position
@@ -135,7 +136,7 @@ Signal Descriptions:
 	Pedal Brake Position
 	Pedal Brake Pressed
 	Pedal Brake Pressed
-	Power Mode Acc
+	Power Mode ACC
 	Power Mode Change Request
 	Power Mode Crank Active
 	Power Mode Key In
@@ -143,7 +144,6 @@ Signal Descriptions:
 	Power Mode Recently Changed
 	Power Mode Run
 	Power Mode Start Button Pressed
-	Prndl And Gear
 	Seat Heater Passenger Level
 	Seatbelt Front Driver Fastened
 	Seatbelt Front Passenger Fastened
@@ -151,7 +151,7 @@ Signal Descriptions:
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Rate Alt
-	Steering Wheel Button Ac Pressed
+	Steering Wheel Button AC Pressed
 	Steering Wheel Button Arrow Down Pressed
 	Steering Wheel Button Arrow Up Pressed
 	Steering Wheel Button Disc Change Pressed
@@ -174,9 +174,9 @@ Signal Descriptions:
 	Turn Signal Right Active
 	Unlock Button Pressed
 	Unlocking Command
+	VIN Part 3
 	Vehicle Moving
 	Vehicle Speed
-	Vin Part 3
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
@@ -238,14 +238,14 @@ Signal Descriptions:
 	Distance Units Miles Selected
 	Dome Light Button State Pres
 	Drive Seat Warmer Button Pre
-	Driver Climate Control Temp
+	Driver Climate Control Temperature
 	Driver Door Ajar
 	Driver Or Passenger Light Act
 	Driver Seat Adjust Back 0000
 	Driver Seat Adjust Back Rest
 	Driver Seat Adjust Backwards
 	Driver Seat Adjust Down
-	Driver Seat Adjust Forward D
+	Driver Seat Adjust Forward
 	Driver Seat Adjust Tilt Back
 	Driver Seat Adjust Tilt Forw
 	Driver Seat Adjust Up
@@ -276,20 +276,20 @@ Signal Descriptions:
 	Front Right Window Safety Re
 	Fuel Level Sensor 1
 	Fuel Level Sensor 2
+	HVAC A C Active
+	HVAC Auto Active
+	HVAC Front Defrost Active
+	HVAC Lower Blower Percenta
+	HVAC Mid Blower Percentage
+	HVAC Recirculation Auto
+	HVAC Recirculation Manual
+	HVAC Upper Blower Percenta
 	Hatch Button Pressed
 	Hatch Latch Closed
 	Hazards Active
 	High Beams Active
 	Hill Decent Control Active
 	Hill Hold State Active
-	Hvac A C Active
-	Hvac Auto Active
-	Hvac Front Defrost Active
-	Hvac Lower Blower Percenta
-	Hvac Mid Blower Percentage
-	Hvac Recirculation Auto
-	Hvac Recirculation Manual
-	Hvac Upper Blower Percenta
 	Infotainment Brightness
 	Interior Dome Light Active
 	Key Fob Lock Command
@@ -298,7 +298,7 @@ Signal Descriptions:
 	Key Fob Unlock Command
 	Kickdown Button Pressed
 	Language Selected
-	Light Stock Bc Button State
+	Light Stock BC Button State
 	Light Stock Position High Beam Momentary State
 	Light Stock Position High Beam State
 	Light Stock Position Lane Chang Left Signal State
@@ -310,7 +310,7 @@ Signal Descriptions:
 	Low Beams Active
 	Object Obstructing Driver Win
 	Passenger Belt Buckled
-	Passenger Climate Control Temp
+	Passenger Climate Control Temperature
 	Passenger Door Ajar
 	Passenger Seat Heater Level
 	Passenger Seat Warmer Button
@@ -341,14 +341,14 @@ Signal Descriptions:
 	Sun Roof Position Contro 0001
 	Sun Roof Position Control St
 	Sun Sensor
-	Temp Units Selected Celsius
-	Temp Units Selected Fahrenhei
+	TPMS Front Left Tire Pres
+	TPMS Front Right Tire Pre
+	TPMS Rear Left Tire Press
+	TPMS Rear Right Tire Pres
+	Temperature Units Selected Celsius
+	Temperature Units Selected Fahrenheit
 	Time Format Selected 12H
 	Time Format Selected 24H
-	Tpms Front Left Tire Pres
-	Tpms Front Right Tire Pre
-	Tpms Rear Left Tire Press
-	Tpms Rear Right Tire Pres
 	Traction Control Active
 	Traction Control State Off
 	Vehicle Speed
@@ -362,8 +362,8 @@ Signal Descriptions:
 	Engine Speed
 	Fog Lights Active
 	Front Windshield Wipers Front
+	HVAC System Active
 	High Beams Active
-	Hvac System Active
 	Interior Dome Light Active
 	Lateral Acceleration
 	Low Beams Active
@@ -384,11 +384,11 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Adas Adaptive Cruise Control Follow Distance
-	Adas Cruise Control Active
-	Adas Cruise Control Shaft Position State Change
-	Adas Cruise Control Speed Change Request
-	Adas Cruise Control Speed Set
+	ADAS Adaptive Cruise Control Follow Distance
+	ADAS Cruise Control Active
+	ADAS Cruise Control Shaft Position State Change
+	ADAS Cruise Control Speed Change Request
+	ADAS Cruise Control Speed Set
 	Average Speed
 	Baro Challenge
 	Battery Voltage
@@ -398,14 +398,14 @@ Signal Descriptions:
 	Central Lock Button Malfunction
 	Cruise Pedal Active
 	Cruise Pedal Inactive
+	DDP Window Front Driver Switch
+	DDP Window Front Passenger Switch
+	DDP Window Rear Left Switch
+	DDP Window Rear Right Switch
 	Dashboard Brightness Value
 	Date Current Day
 	Date Current Month
 	Date Current Year
-	Ddp Window Front Driver Switch
-	Ddp Window Front Passenger Switch
-	Ddp Window Rear Left Switch
-	Ddp Window Rear Right Switch
 	Display Infotainment Brightness
 	Door Front Driver Open
 	Door Front Passenger Open
@@ -414,33 +414,33 @@ Signal Descriptions:
 	Door Trunk Button Pressed
 	Door Trunk Latch Closed
 	Driving Mode Eco Pro Active
+	ESP ABS Active
+	ESP Traction Control Off
+	ESP Traction Control On
 	Engine Coolant Temperature
 	Engine Speed
 	Engine Speed Displayed
 	Engine Torque
 	Engine Torque Request
-	Esp Abs Active
-	Esp Traction Control Off
-	Esp Traction Control On
 	Fuel Consumption Average
 	Fuel Level Sensor1
 	Fuel Level Sensor2
+	HVAC AC Active
+	HVAC Auto Active
+	HVAC Blower Level
+	HVAC Blower Lower Percentage
+	HVAC Blower Mid Percentage
+	HVAC Blower Upper Percentage
+	HVAC Climate Control Driver Temperature
+	HVAC Climate Control Passenger Temperature
+	HVAC Defrost Front Active
+	HVAC Recirculation Auto
+	HVAC Recirculation Manual
 	Headlights High Beam Active
 	Headlights Low Beam Active
 	Headlights Sidelights Active
 	Hill Decent Control Active
 	Hill Hold Active
-	Hvac Ac Active
-	Hvac Auto Active
-	Hvac Blower Level
-	Hvac Blower Lower Percentage
-	Hvac Blower Mid Percentage
-	Hvac Blower Upper Percentage
-	Hvac Climate Control Driver Temperature
-	Hvac Climate Control Passenger Temperature
-	Hvac Defrost Front Active
-	Hvac Recirculation Auto
-	Hvac Recirculation Manual
 	Key Fob Lock Command
 	Key Fob Open Hatch Command
 	Key Fob Panic
@@ -463,12 +463,12 @@ Signal Descriptions:
 	Pedal Brake Pressed
 	Pedal Brake Pressed
 	Seat Driver Adjust Back Rest Back
-	Seat Driver Adjust Back Rest Forward D
+	Seat Driver Adjust Back Rest Forward
 	Seat Driver Adjust Backwards
 	Seat Driver Adjust Down
-	Seat Driver Adjust Forward D
+	Seat Driver Adjust Forward
 	Seat Driver Adjust Tilt Backwards
-	Seat Driver Adjust Tilt Forward D
+	Seat Driver Adjust Tilt Forward
 	Seat Driver Adjust Up
 	Seat Heater Driver Button Pressed
 	Seat Heater Driver Level
@@ -499,15 +499,15 @@ Signal Descriptions:
 	Sun Roof Position Switch Close
 	Sun Roof Position Switch Open
 	Sun Sensor
+	TPMS Front Left Tire Pressure
+	TPMS Front Right Tire Pressure
+	TPMS Rear Left Tire Pressure
+	TPMS Rear Right Tire Pressure
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
 	Time Format Set To 12H
 	Time Format Set To 24H
-	Tpms Front Left Tire Pressure
-	Tpms Front Right Tire Pressure
-	Tpms Rear Left Tire Pressure
-	Tpms Rear Right Tire Pressure
 	Unit Distance Set To Km
 	Unit Distance Set To Miles
 	Unit Fuel Consumption Average

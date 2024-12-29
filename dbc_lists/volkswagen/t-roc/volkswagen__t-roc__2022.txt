@@ -1,13 +1,14 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'T-Roc' (2022)
 Signal Descriptions:
-	Aag Trailer Recognized
-	Abs Active
-	Abs Lamp Active
+	AAG Trailer Recognized
+	ABS Active
+	ABS Lamp Active
+	ACC Display Active
+	ACC Key Position Active
+	ASR Active
 	Absolute Load Value
 	Absolute Throttle Position
-	Acc Display Active
-	Acc Key Position Active
 	Accelerator Pedal
 	Accelerator Pedal Gradient
 	Accelerator Pedal Gradient Not Reported
@@ -22,13 +23,12 @@ Signal Descriptions:
 	Airbag Tell Tale Active
 	All Door Unlocked
 	All Doors Set To Lock
-	Asr Active
 	Autohold Active
 	Autohold In Standby
 	Automatic Stop Start System Off
+	BRAKE Lamp Active
 	Blower Voltage
 	Brake Initial Travel
-	Brake Lamp Active
 	Brake Pressure
 	Brake Switch
 	Brake Switch 1 Active
@@ -49,6 +49,8 @@ Signal Descriptions:
 	Current Gear
 	Current Gear
 	Cylinder Deactivation
+	DPF Installed
+	DRL On
 	Dash Prompt Add Engine Oil
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Battery Almost Drained Limited Vehicle Performance
@@ -72,15 +74,14 @@ Signal Descriptions:
 	Dash Prompt Please Reduce Oil Level See Manual
 	Dash Prompt Restart Not Possible Do Not Open Hood
 	Dash Prompt Unable To Start Please Remove Charging Connector
-	Dash Tell Tale Epc
-	Dash Tell Tale Mil
+	Dash Tell Tale EPC
+	Dash Tell Tale MIL
 	Dates Units
 	Delay Electronic Parking Brake Active
 	Delay Electronic Parking Brake Available
 	Display Engine Speed
 	Distance Units Km0 Mi1
 	Door Lock Status
-	Dpf Installed
 	Driver Door Lock Button
 	Driver Door Locked
 	Driver Door Open
@@ -97,8 +98,13 @@ Signal Descriptions:
 	Driver Window Open
 	Driver Window Up Switch
 	Driving Cycle Active
-	Drl On
-	Ecd Not Available
+	ECD Not Available
+	ESC
+	ESP Anti Skid Active
+	ESP Intervention Active
+	ESP Lamp Active
+	ESP System Not Active
+	ESP Timeout
 	Electronic Brake Force Distribution Active
 	Electronic Differential Lock Active
 	Engine Actual Torque Sum
@@ -114,14 +120,8 @@ Signal Descriptions:
 	Engine Torque Limitation Dynamic
 	Engine Torque Limitation Static
 	Error Electrical System Stop
-	Esc
-	Esp Anti Skid Active
-	Esp Intervention Active
-	Esp Lamp Active
-	Esp System Not Active
-	Esp Timeout
-	Exhaust Type System Set To Eobd
-	Exhaust Type System Set To Obd
+	Exhaust Type System Set To EOBD
+	Exhaust Type System Set To OBD
 	Fog Light
 	Fron Washer Active
 	Front Doors Locked
@@ -174,9 +174,9 @@ Signal Descriptions:
 	Limp Mode Active
 	Looking To Down Shift
 	Low Pressure Warning Active
+	MIL Tell Tale
 	Max Desired Speed Active
 	Max Desired Speed Rate
-	Mil Tell Tale
 	Min Desired Speed Active
 	Min Desired Speed Rate
 	Month
@@ -194,14 +194,14 @@ Signal Descriptions:
 	Oil Temperature
 	Outside Air Temperature
 	Overrun Cutoff Active
+	PRNDL
+	PRNDL
 	Parking Assist Active
 	Passenger Door Open
 	Passenger Seat Occupied
 	Please Reduce Oil Level
 	Poor Weather Lights Active
 	Pressure Units
-	Prndl
-	Prndl
 	Ready To Drive
 	Rear Crash
 	Rear Defroster Active
@@ -227,14 +227,14 @@ Signal Descriptions:
 	Right Front Blinker Command
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	Scr System Error Active
+	SCR System Error Active
 	Seatbelt Front Driver Buckled
 	Seatbelt Front Passenger Buckled
 	Seatbelt Rear Driver Buckled
 	Seatbelt Rear Middle Buckled
 	Seatbelt Rear Passenger Buckled
 	Set Idle Speed
-	Settings Speed Mph
+	Settings Speed MPH
 	Shift Interlock Active
 	Side Mirrors Out State
 	Speed Control
@@ -247,16 +247,16 @@ Signal Descriptions:
 	Steering Angle
 	Steering Angle Negative
 	Steering Assist Button Pressed
-	Steering Intervention By Adas
+	Steering Intervention By ADAS
 	Steering Wheel Adjustment Being
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
 	Steering Wheel Sensor Fault
 	Stop Confirmation
-	Stopping Process Acc Active
+	Stopping Process ACC Active
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
-	Temp Units C0 F1
+	Temperature Units C0 F1
 	Throttle Wide Open Active
 	Time Day
 	Time Hours
@@ -271,14 +271,14 @@ Signal Descriptions:
 	Unlock Command With Blinker Flas
 	Upper And Lower Limit Switch
 	Upper Engine Speed Limit
+	VIN Part1
+	VIN Part2
+	VIN Part3
 	Vehical Speed Limitation Active
 	Vehicle Coasting Active
 	Vehicle Speed
 	Vehicle Speed
 	Vehicle Speed 2
-	Vin Part1
-	Vin Part2
-	Vin Part3
 	Voice Command Button On Left Steering
 	Volume Units
 	Warm Up Cycle Active
@@ -307,15 +307,15 @@ Signal Descriptions:
 	Rear Defroster Active
 	Speed Control
 	Transmission Speed
-	Vin Index Number
+	VIN Index Number
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Aag Trailer Recognized
-	Abs Active
-	Abs Lamp Active
-	Acc Display Active
-	Acc Key Position Active
-	Acc Selected
+	AAG Trailer Recognized
+	ABS Active
+	ABS Lamp Active
+	ACC Display Active
+	ACC Key Position Active
+	ACC Selected
 	Accelerator Pedal
 	Accelerator Pedal Let Off Sig
 	Accelerator Pedal Not Pressed
@@ -329,9 +329,9 @@ Signal Descriptions:
 	Automatic Off Active
 	Automatic Off Deactivate
 	Automatic Stop Start System Off
+	BRAKE Lamp Active
 	Belt Tensioner Mode
 	Brake Initial Travel
-	Brake Lamp Active
 	Brake Switch
 	Calculated Engine Load
 	Car Status For Auto Stop Start
@@ -340,27 +340,27 @@ Signal Descriptions:
 	Cruise Control On 1
 	Cruise Control On 2
 	Cylinder Deactivation
+	DPF Installed
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Error Pedestrian Monitoring
 	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
 	Dash Prompt Please Check The Starter System
 	Day
 	Door Lock Status
-	Dpf Installed
 	Driver Seat Heat Setting
 	Driving Cycle
 	Driving Mode
 	Driving Mode Change In Progress
+	ESC
+	ESP Lamp Active
+	ESP Voltage Request
 	Engine And Transmission Mode
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Liters
 	Engine Speed
 	Engine Speed Warning
-	Esc
-	Esp Lamp Active
-	Esp Voltage Request
-	Exhaust Type System Set To Eobd
-	Exhaust Type System Set To Obd
+	Exhaust Type System Set To EOBD
+	Exhaust Type System Set To OBD
 	Fron Washer Active
 	Front Driver Door Open
 	Front Left Wheel Direction
@@ -379,7 +379,7 @@ Signal Descriptions:
 	High Beams Active
 	Hours
 	Ignition Key Position Active
-	Intake Air Temp
+	Intake Air Temperature
 	Left Blinker Active
 	Left Side Mirror Selected For Adjustment
 	Left Signal Active 1
@@ -390,10 +390,10 @@ Signal Descriptions:
 	Looking To Down Shift
 	Low Fuel Light Active
 	Low Pressure Warning Active
+	MKB Safe
 	Manual Mode Engaged
 	Minimum Trip
 	Minutes
-	Mkb Safe
 	Mode Change In Progress
 	Month
 	Motor Running Active
@@ -405,14 +405,14 @@ Signal Descriptions:
 	Off Road Mode
 	Oil Pressure Switch
 	Oil Pressure Warning Active
-	Oil Temp
-	Outside Temp
+	Oil Temperature
+	Outside Temperature
 	Overrun Cutoff Active
+	PHC Selected
 	Parking Brake Engaged
 	Passenger Seat Heat Setting
 	Passenger Seatbelt Buckled
 	Personalization Activated
-	Phc Selected
 	Ready To Drive
 	Rear Crash
 	Rear Driver Door Open
@@ -432,12 +432,12 @@ Signal Descriptions:
 	Rolls Front Windows Up To 90 Percent
 	Seconds
 	Set Idle Speed
-	Settings Speed Mph
+	Settings Speed MPH
 	Shift Interlock Not Active
 	Side Mirror Adjustment Switch Down
 	Side Mirror Adjustment Switch Left
 	Side Mirror Adjustment Switch Right
-	Side Mirror Adjustment Switch Up
+	Side Mirror Adjustment Switch UP
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
@@ -450,15 +450,15 @@ Signal Descriptions:
 	Steering Wheel Rate Of Change In Clockwise
 	Steering Wheel Turned To The Right
 	Stop Confirmation
-	Stopping Process Acc Active
+	Stopping Process ACC Active
 	Target Gear
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
 	Throttle Wide Open Active
 	Transmission Over Temperature Warning
 	Turn Signal X3
+	USA Variant
 	Upper Engine Speed Limit
-	Usa Variant
 	Vehical Speed Limitation Active
 	Vehicle Speed 1
 	Vehicle Speed 2
@@ -468,13 +468,13 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Acc Desired Speed Achieved
-	Acc Display Time Gap
-	Acc Optical Driver Notice
-	Acc Relevant Object
-	Acc Set Time Gap
-	Acc Status Display
-	Acc Volume Level
+	ACC Desired Speed Achieved
+	ACC Display Time Gap
+	ACC Optical Driver Notice
+	ACC Relevant Object
+	ACC Set Time Gap
+	ACC Status Display
+	ACC Volume Level
 	Ambient Lighting Blue
 	Ambient Lighting Green
 	Ambient Lighting Red
@@ -495,6 +495,7 @@ Signal Descriptions:
 	Cruise Control Speed Down Position Active
 	Cruise Control Speed Up Position Active
 	Cruise Control T Position Active
+	DRL On
 	Dash Prompt Clutch Pedal Please Check Operation
 	Dash Prompt Clutch Temperature High You Can Continue Driving
 	Dates Units
@@ -518,7 +519,6 @@ Signal Descriptions:
 	Driver Window Open
 	Driver Window Up Switch
 	Driver Window Upper And Lower Limit Switch
-	Drl On
 	Fog Light
 	Fog Lights Active
 	Front Drive Window Safety Retraction Active
@@ -555,9 +555,9 @@ Signal Descriptions:
 	Front Wiper Mist Switch
 	Front Wipers Wash Switch
 	Head Light Settings
+	LCA Not Available Service Necessary
 	Lane Change Assist Active
 	Language Units
-	Lca Not Available Service Necessary
 	Left Brake Light Faulty Message
 	Left Child Lock Active
 	Left Child Lock Button
@@ -631,7 +631,7 @@ Signal Descriptions:
 	Steering Angle
 	Steering Wheel Adjustment Being Made
 	Steering Wheel In Motion To Right
-	Temp Units C 0 F 1
+	Temperature Units C 0 F 1
 	Time Units 0 24Hour 1 12Hour
 	Voice Command Button On Left Stock Active
 	Volume Units

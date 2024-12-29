@@ -1,7 +1,9 @@
 Version 0.2 Copyright CanBusHack 2024
 Platform: Subaru 'Forester' (2011)
 Signal Descriptions:
-	Ac Active
+	AC Active
+	AT Oil Temperature Tell Tale Flash
+	AT Oil Temperature Tell Tale Solid
 	Acc Pedal Not Pressed
 	Acc Pedal Percentage
 	Access Key Battery Low Dash Prompt Active
@@ -10,8 +12,6 @@ Signal Descriptions:
 	Ambient Air Temperature Sensor
 	Any Door Status
 	Apply Brake To Hold Position Dash Prompt Message Active
-	At Oil Temperature Tell Tale Flash
-	At Oil Temperature Tell Tale Solid
 	Backward Speed Limiter Off
 	Battery Voltage
 	Blind Spot Detection Active
@@ -64,7 +64,7 @@ Signal Descriptions:
 	Dash Prompt Vehicle Detected In Blind Spot Alert 4
 	Dash Prompts Alert
 	Dash Prompts Eyesight Disabled
-	Dash Prompts Tpms
+	Dash Prompts TPMS
 	Dash Right Lane Illuminated
 	Dash Right Lane Outline
 	Dash Steering Wheel Icon Flash
@@ -77,14 +77,14 @@ Signal Descriptions:
 	Driver Door Unlocked
 	Driver Seatbelt Buckled
 	Driver Seatbelt Unbuckled
+	ES Brake Active
 	Electronic Parking Brake Active Dash Prompt
-	Engine Coolant Temp
+	Engine Coolant Temperature
 	Engine Not Running
 	Engine On Time
 	Engine Running
 	Engine Speed
 	Engine Torque
-	Es Brake Active
 	Follow Distance Car Image Displayed
 	Front Abs Active
 	Front Left Low Tire Warning
@@ -96,10 +96,10 @@ Signal Descriptions:
 	Front Right Wheel Speed
 	Fuel Consumption
 	Gear Ratio
+	HVAC Fan Speed
 	Headlights Active
 	High Beams Active
 	Hill Hold Tell Tale Active
-	Hvac Fan Speed
 	Ignition In Run Position
 	Key Fob Active
 	Key Fob Lock Active
@@ -122,7 +122,8 @@ Signal Descriptions:
 	Mass Air Flow Sensor Circuit Open
 	Object Close Behind Dash Prompt Message Active
 	Odometer
-	Oil Temp
+	Oil Temperature
+	PRNDL Position
 	Park Tell Tale Active
 	Parking Brake Active
 	Parking Brake Disengaging
@@ -134,7 +135,7 @@ Signal Descriptions:
 	Passenger Door Unlocked
 	Passenger Seat Occupied
 	Power Steering Tell Tale Active
-	Prndl Position
+	RES BUTTON
 	Rear Abs Active
 	Rear And Mirror Defrosters Active
 	Rear Driver Door Open
@@ -148,14 +149,14 @@ Signal Descriptions:
 	Remote Start Signal Pressed
 	Request For More Voltage From Steering System Active
 	Requested Gear
-	Res Button
 	Reverse Active
 	Right Cylinder Brake Pressure
 	Right Indicator Active
 	Right Or Left Back Up Radar Alert Active
 	Roll Angle
 	Running Lights Active
-	Set Button
+	SET BUTTON
+	SRS Airbag System Dash Prompt Message
 	Set Cruise Button Pressed
 	Settings Imperial Units Selected
 	Shift Lever Into P Dash Prompt Active
@@ -163,7 +164,6 @@ Signal Descriptions:
 	Shift Lever Position Invalid No Gear Selected
 	Signal 15
 	Speed Not Reached To Activate Cruise Control
-	Srs Airbag System Dash Prompt Message
 	Start Stop Button Active
 	Steer Error Active
 	Steer Torque Output
@@ -173,24 +173,24 @@ Signal Descriptions:
 	Steering Angle 2
 	Steering Motor Flat
 	Steering Voltage Flat
+	TPMS Dash Prompt Active
+	TPMS Light Status
+	TPMS Tell Tale Active
 	Tell Tale Front Passenger Seatbelt
 	Tell Tale Park Assist Off
 	Tell Tale Pass Seatbelt 1
 	Tell Tale Pass Seatbelt 2
 	Tell Tale Passenger Airbag Off Not Illuminated
 	Tell Tale Passenger Airbag On Not Illuminated
-	Tell Tale Rab Off 1
-	Tell Tale Rab Off 2
-	Tell Tale Rab Off 3
-	Tell Tale Srs
+	Tell Tale RAB Off 1
+	Tell Tale RAB Off 2
+	Tell Tale RAB Off 3
+	Tell Tale SRS
 	Throttle Position
 	Throttle Position B
-	Tpms Dash Prompt Active
-	Tpms Light Status
-	Tpms Tell Tale Active
 	Traction Control State Off
 	Traction Control State On
-	Transmission Oil Temp
+	Transmission Oil Temperature
 	Transmission Speed
 	Transmission Warning Dash Prompt Message
 	Trip A
