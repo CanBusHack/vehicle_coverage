@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Opel 'Insignia' ()
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -11,7 +11,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -257,7 +257,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -373,7 +373,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -414,7 +414,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -425,7 +425,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -671,7 +671,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -787,7 +787,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -828,7 +828,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -839,7 +839,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -1085,7 +1085,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -1201,7 +1201,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -1242,7 +1242,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -1253,7 +1253,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -1499,7 +1499,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -1615,7 +1615,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -1656,7 +1656,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -1667,7 +1667,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -1913,7 +1913,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -2029,7 +2029,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -2070,7 +2070,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -2081,7 +2081,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -2327,7 +2327,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -2443,7 +2443,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range
@@ -2484,7 +2484,7 @@ Signals:
 	Trim Switch Lock  Unlock
 	Truck Open Switch Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Applied Toque To Steering Wheel
 	Adas Torque Differential On Steering Wheel
 	Apply Clutch For Automatic Start Tell Tale On
@@ -2495,7 +2495,7 @@ Signals:
 	Head Up Display Active
 	Steering Column Lock State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Esc Off Road Switch
 	Abs Warning Signal Tell Tale
@@ -2741,7 +2741,7 @@ Signals:
 	Winter Mode On
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 2Nd Row Seatbelt Lh
 	 2Nd Row Seatbelt Rh
 	Accelerator Pedal Pressed
@@ -2857,7 +2857,7 @@ Signals:
 	Window Position Rear Left
 	Window Position Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Compressor Fail
 	Antilock Brake System Tell Tale
 	Automatic Locking As Key Leaves Vehicle Range

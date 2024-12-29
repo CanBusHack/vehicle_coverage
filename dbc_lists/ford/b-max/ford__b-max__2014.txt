@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'B-Max' (2014)
-Signals:
+Signal Descriptions:
 	Acc Braking Active
 	Acc Braking Temperature Warm
 	Acc Disengage From Brake

@@ -1,0 +1,466 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Brightdrop 'Zevo 400' (2023)
+Signal Descriptions:
+	Accelerator Pedal Position
+	Brake Pedal Percentage
+	Charger Active
+	Charger Disconnected Charger Disconnected
+	Charger Disconnecting
+	Charging Rate
+	Cruise Control Set Speed
+	Door Front Driver Open
+	Drive Mode
+	Drive Motor Torque
+	Driver Seatbelt Status Changed
+	Front Washer Spray Active
+	Front Wipers Active
+	Hazard Light Active
+	Headlight Light Status
+	Hood Open
+	Hvac Driver Set Temp
+	Hvac Passenger Set Temp
+	Key Fob Unlock Active
+	Lane Assist Button Pressed
+	Left Rear Door Open
+	Left Turn Signal Active
+	Log1 Param10 Baseline
+	Log1 Param117 Baseline
+	Log1 Param123 Baseline
+	Log1 Param127 Baseline
+	Log1 Param130 Baseline
+	Log1 Param131 Baseline
+	Log1 Param133 Baseline
+	Log1 Param136 Baseline Monotonic
+	Log1 Param139 Baseline
+	Log1 Param140 Baseline
+	Log1 Param141 Baseline
+	Log1 Param144 Baseline Monotonic
+	Log1 Param147 Baseline
+	Log1 Param150 Baseline Monotonic
+	Log1 Param154 Baseline
+	Log1 Param159 Baseline
+	Log1 Param160 Baseline
+	Log1 Param161 Baseline
+	Log1 Param165 Baseline
+	Log1 Param166 Baseline
+	Log1 Param172 Baseline
+	Log1 Param222 Baseline
+	Log1 Param225 Baseline Monotonic
+	Log1 Param29 Baseline
+	Log1 Param40 Baseline
+	Log1 Param42 Baseline Monotonic
+	Log1 Param44 Baseline
+	Log1 Param50 Baseline Monotonic
+	Log1 Param55 Baseline
+	Log1 Param56 Baseline Monotonic
+	Log1 Param63 Baseline
+	Log1 Param64 Baseline
+	Log1 Param77 Baseline
+	Log1 Param9 Baseline
+	Log1 Param90 Baseline
+	Log1 Param99 Baseline
+	Motor Sound Set To
+	Odometer
+	Odometer Trip 2
+	One Pedal Driving Level
+	Parking Brake Active
+	Passenger Door Open
+	Power Mode Vehicle On
+	Preferred Charge Times State Changed
+	Prndl Position
+	Ready By Time Hour
+	Ready By Time Minutes
+	Regen Paddle Pressed
+	Right Rear Door Open
+	Right Turn Signal
+	Soc Hv Battery
+	Soc Test 5
+	Soc Test 6
+	Steering Mode Set To Normal
+	Steering Mode Set To Sport
+	Torque
+	Trip 1 Kwh
+	Trip 1 Odometer
+	Trip 2 Kwh
+	Trunk Open
+	Units Set To Us Is 1 Units Set To Metric Is 0
+	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	 4Wd Active
+	Auto Hold Button Pressed
+	Cruise Active
+	Cruise Ready
+	Cruise Set Speed
+	Dash Prompt Adaptive Cruise Disengaging
+	Dash Prompt Adaptive Cruise Temporary Unavailable
+	Dash Prompt Forward D Collision Alert Off
+	Dash Prompt Forward D Collision Automatic Braking Off
+	Dash Prompt Forward D Collision System Off
+	Dash Prompt Forward D Collision System Unavailable
+	Dash Prompt Front Automatic Braking
+	Dash Prompt Front Pedestrian Braking
+	Dash Prompt Gap Distance Display
+	Dash Prompt Lane Departure Warning Unavailable
+	Dash Prompt Lane Keep Assist Unavailable
+	Dash Prompt Shift To Park Before Exiting
+	Oil Pressure Displayed
+	Oil Pressure Error Bit
+	Paddle Shifter Left Pressed
+	Paddle Shifter Right Pressed
+	Pitch Angle Displayed
+	Pitch Angle Error Bit
+	Roll Angle Displayed
+	Roll Angle Error Bit
+	Setting Adaptive Cruise Gap Distance
+	Setting Ambient Lighting Color Palette Selection
+	Setting Ambient Lighting Demo Mode
+	Setting Ambient Lighting On
+	Tell Tale Cruise Set Green
+	Tell Tale Cruise Set Speed Green
+	Tell Tale Orange Pedestrian
+	Tell Tale Orange Pedestrian W Red Dash Alert Light Flashing
+	Tell Tale White Auto Hold
+	Traction Control Active
+	Wheel Angle Displayed
+	Wheel Angle Error Bit
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Control Button State Change
+	Driver Control Panel Rear Driver Side Window Button State
+	Driver Control Panel Rear Passenger Side Window Button State
+	Mirror Button State Change
+	Prndl Position
+	Trunk Knob Set To 3 4
+	Trunk Knob Set To Max
+	Trunk Status
+	Window Lock Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Volume Active
+	Air Filter Life
+	All Rear Windows Closed
+	Ambient Air Temp
+	Ambient Lighting Brightness Level
+	Balance Left Right
+	Bass
+	Battery Voltage Displayed
+	Dash Prompt 2 Gears Selected Vehicle In Neutral
+	Dash Prompt 2 Gears Selected Vehicle In Park
+	Dash Prompt Abs Active
+	Dash Prompt Always Shift To Park When Exiting
+	Dash Prompt Auto Hold Unavailable
+	Dash Prompt Auto Seatbelt Tightening System Unavailable
+	Dash Prompt Auto Seatbelt Tightening Unavailable
+	Dash Prompt Automatic Light Control Off
+	Dash Prompt Automatic Light Control On
+	Dash Prompt Battery Low Start Vehicle
+	Dash Prompt Brake System Failure 317Mph Top Speed
+	Dash Prompt Brakes Over Heated Service Now
+	Dash Prompt Brakes Too Hot For Terrain Mode
+	Dash Prompt Buckle Passenger Seatbelt
+	Dash Prompt Buckle Seatbelt
+	Dash Prompt Cargo Lamps Disabled
+	Dash Prompt Cargo Lamps Enabled
+	Dash Prompt Change Engine Oil Soon
+	Dash Prompt Change Timing Belt See Owners Manual
+	Dash Prompt Charge Plus Unavailable
+	Dash Prompt Check Brake Lights
+	Dash Prompt Check Cornering Lamps
+	Dash Prompt Check Daytime Running Lamps
+	Dash Prompt Check Front Fog Lamps
+	Dash Prompt Check Front Park Lamps
+	Dash Prompt Check High Beams
+	Dash Prompt Check License Lamp
+	Dash Prompt Check Low Beams
+	Dash Prompt Check Rear Fog Lamp
+	Dash Prompt Check Rear Park Lamps
+	Dash Prompt Check Reverse Light
+	Dash Prompt Cleaning Exhaust Filter Continue Driving
+	Dash Prompt Cleaning Exhaust Filter Must Continue Driving
+	Dash Prompt Close Driver Door For Auto Hold
+	Dash Prompt Close Trunk To Operate Top
+	Dash Prompt Complete Top Motion To Open Trunk
+	Dash Prompt Conditions Not Correct For Shift
+	Dash Prompt Drive To Safe Ara Car Will Not Restart
+	Dash Prompt Driver Memory Driver Number
+	Dash Prompt Engine Compartment Cooling System Failure
+	Dash Prompt Engine Compartment Hot Idle Engine To Cool
+	Dash Prompt Engine Oil Hot Idle Engine
+	Dash Prompt Engine Oil Low Add Engine Oil
+	Dash Prompt Engine Over Heated Turn Off Vehicle
+	Dash Prompt Engine Overheating Idle Engine
+	Dash Prompt Engine Shut Down Soon
+	Dash Prompt Fasten Seatbelt For Auto Hold
+	Dash Prompt First Shift To Drive Then Try Again
+	Dash Prompt Folding Top Not Secure Complete Process
+	Dash Prompt For 4Wd Shift To Neutral
+	Dash Prompt Gear Skipped For Fuel Economy
+	Dash Prompt Heated Windshield Available
+	Dash Prompt Heavy Fuel Use 63Km Left
+	Dash Prompt Hill Rollback Control Activating
+	Dash Prompt Hill Start Assist Active
+	Dash Prompt Insert New Key Press Start Button
+	Dash Prompt Key Learning Active
+	Dash Prompt Key Learning Complete
+	Dash Prompt Max Charge Mode Active
+	Dash Prompt Oil Pressure Low Turn Off Vehicle
+	Dash Prompt Open Then Close Convertible Top
+	Dash Prompt Open Then Close Front Sunshade
+	Dash Prompt Park Brake Set
+	Dash Prompt Press Brake
+	Dash Prompt Press Brake To Shift From Park
+	Dash Prompt Press Shifter Side Button To Shift
+	Dash Prompt Rear Access Open
+	Dash Prompt Rear Auto Brake And Park Assist Unavailable
+	Dash Prompt Rear Auto Brake And Rear Park Assist On
+	Dash Prompt Rear Auto Brake Off Park Assist Off
+	Dash Prompt Rear Axle System Off
+	Dash Prompt Rear Cross Traffic System Off
+	Dash Prompt Reduce Speed For Terrain Mode
+	Dash Prompt Reducing Features To Save Battery
+	Dash Prompt Release Parking Brake
+	Dash Prompt Reset Hood See Owners Manual
+	Dash Prompt Restraints Activated Service Required
+	Dash Prompt Service Brakes Worn
+	Dash Prompt Service Charging System Vehicle May Stall
+	Dash Prompt Service Convertible Top
+	Dash Prompt Service Driver Door Switch
+	Dash Prompt Service Headlights
+	Dash Prompt Service Heater
+	Dash Prompt Service Hood Release
+	Dash Prompt Service Pedestrian Alert System
+	Dash Prompt Service Shifter See Owners Manual
+	Dash Prompt Service Stabilitrak
+	Dash Prompt Service Theft Alarm
+	Dash Prompt Service Traction Control
+	Dash Prompt Service Transmission
+	Dash Prompt Service Transmission Now Unable To Shift Soon
+	Dash Prompt Service Transmission Unable To Shift
+	Dash Prompt Service Vehicle Soon
+	Dash Prompt Service Vehicle Turn Off To Park
+	Dash Prompt Service Water In Fuel
+	Dash Prompt Speed Limited To
+	Dash Prompt Stabilitrak Competitive Mode
+	Dash Prompt Stabilitrak Initializing
+	Dash Prompt Stabilitrak Performance Mode
+	Dash Prompt Step On Brake To Release Parking Brake
+	Dash Prompt Terrain Mode Not Available
+	Dash Prompt Theft Attempt
+	Dash Prompt Top Not Secure
+	Dash Prompt Top Obstructed Clear Obstacles
+	Dash Prompt Top Powering Down Complete Top Motion
+	Dash Prompt Top System Over Heated Please Wait
+	Dash Prompt Upshift Now Engine Protection On
+	Dash Prompt Vehicle In Neutral
+	Driver Door Locked
+	Driver Door Unlocked
+	Driver Seatbelt Buckled
+	Driver Seatbelt Unbuckled
+	Driver Window Position
+	Error Bit Oil Pressure
+	Fade Front Rear
+	Front Brake Pad Life Remaining Percentage
+	Fuel Level Percentage
+	Heated Steering Wheel Active
+	Hvac Ac Active
+	Hvac Ac Inactive
+	Hvac Driver Side Blower Position
+	Hvac Driver Side Temp
+	Hvac Front Fan Speed Level Selected
+	Hvac Passenger Side Blower Position
+	Hvac Passenger Side Temp
+	Hvac Rear Climate Locked
+	Hvac Rear Climate Sync Active
+	Hvac Rear Driver Side Blower Position
+	Hvac Rear Driver Side Temp
+	Hvac Rear Fan Speed Level Selected
+	Hvac Rear Passenger Side Blower Position
+	Hvac Rear Passenger Side Temp
+	Hvac Recirculation Active
+	Hvac Recirculation Inactive
+	Hvac Sync Active
+	Infotainment Wireless Charging Prompt
+	Lane Keep Assist Active
+	Lane Keep Assist Active
+	Left Front Tire Pressure
+	Left Rear Tire Pressure
+	Mid Range
+	Oil Pressure
+	Parking Radar In Drive Display
+	Parking Radar In Reverse Display
+	Passenger Seatbelt Buckled
+	Passenger Seatbelt Unbuckled
+	Passenger Window Position
+	Posted Speed Limit Value Max
+	Rear Brake Pad Life Remaining Percentage
+	Rear Driver Door Locked
+	Rear Driver Door Unlocked
+	Rear Driver Heated Seat Button Pressed
+	Rear Driver Side Middle Seat Belt Buckled
+	Rear Driver Side Middle Seat Belt Unbuckled
+	Rear Driver Side Seat 3Rd Row Belt Buckled
+	Rear Driver Side Seat 3Rd Row Belt Unbuckled
+	Rear Driver Window Position
+	Rear Middle Seat 3Rd Row Belt Buckled
+	Rear Middle Seat 3Rd Row Belt Unbuckled
+	Rear Passenger Door Locked
+	Rear Passenger Door Unlocked
+	Rear Passenger Heated Seat Button Pressed
+	Rear Passenger Side Middle Seat Belt Buckled
+	Rear Passenger Side Middle Seat Belt Unbuckled
+	Rear Passenger Side Seat 3Rd Row Belt Buckled
+	Rear Passenger Side Seat 3Rd Row Belt Unbuckled
+	Rear Passenger Window Position
+	Right Front Tire Pressure
+	Right Rear Tire Pressure
+	Setting Auto Defog Off
+	Setting Auto Defog On
+	Setting Auto Door Unlock
+	Setting Auto Emergency Braking
+	Setting Auto Fan Speed
+	Setting Auto Heated Seat Off
+	Setting Auto Heated Seat On
+	Setting Auto Rear Defog Off
+	Setting Auto Rear Defog On
+	Setting Auto Wipe In Reverse Gear Off
+	Setting Auto Wipe In Reverse Gear On
+	Setting Delayed Door Lock Off
+	Setting Delayed Door Lock On
+	Setting Engine Sound
+	Setting Exit Lighting Timer
+	Setting Front Pedestrian Braking
+	Setting Hands Free Liftgate Control
+	Setting Mode My Mode Selected
+	Setting Mode Off Road Selected
+	Setting Mode Sport Selected
+	Setting Mode Tour Selected
+	Setting Mode Tow Haul Selected
+	Setting Park Assist Towbar Attached
+	Setting Park Assist Towbar Not Attached
+	Setting Passive Door Lock
+	Setting Passive Door Unlock
+	Setting Rain Sense Wiper Disabled
+	Setting Rain Sense Wiper Enabled
+	Setting Rear Pedestrian Braking Alert
+	Setting Rear Pedestrian Braking Off
+	Setting Rear Seat Reminder Off
+	Setting Rear Seat Reminder On
+	Setting Remote Door Unlock All Doors
+	Setting Remote Door Unlock Driver Door
+	Setting Remote Left In Vehicle Alert Off
+	Setting Remote Left In Vehicle Alert On
+	Setting Remote Lock Feedback
+	Setting Remote Mirror Folding Off
+	Setting Remote Mirror Folding On
+	Setting Remote Removed From Vehicle Alert Off
+	Setting Remote Removed From Vehicle Alert On
+	Setting Remote Start Auto Heat Seat Off
+	Setting Remote Start Auto Heat Seats On
+	Setting Remote Unlock Light Feedback Flash Lights
+	Setting Remote Unlock Light Feedback Off
+	Setting Remote Window Operation Off
+	Setting Remote Window Operation On
+	Setting Seat Entry Memory Off
+	Setting Seat Entry Memory On
+	Setting Seat Exit Memory Off
+	Setting Seat Exit Memory On
+	Setting Steering Mode Sport Active
+	Setting Steering Mode Touring Active
+	Setting Units Set To Metric
+	Setting Vehicle Locator Light On
+	Setting Vehicle Locator Lights Off
+	Settings Reverse Tilt Mirror
+	Settings Temperature Unit Set To Celsius
+	Speed Displayed In Speed Limited To Prompt
+	Tell Tale Auto Headlights Active
+	Tell Tale Driver Door Ajar
+	Tell Tale Green Auto Hold
+	Tell Tale Green Car Fast Flash
+	Tell Tale Green Car Slow Flash
+	Tell Tale Green Lane Keep Assist
+	Tell Tale Grey Lane Keep Assist
+	Tell Tale High Beam
+	Tell Tale Infotainment Orange Wireless Phone Charging
+	Tell Tale Left Rear Door Ajar
+	Tell Tale Orange Car Icon
+	Tell Tale Orange Lane Keep Assist
+	Tell Tale Passenger Door Ajar
+	Tell Tale Right Rear Door Ajar
+	Time In 24 Hour Format
+	Traction Control States
+	Trans Temp
+	Treble
+	Units Set To Us
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Battery Voltage
+	Engine Speed
+	Park Button On Prndl Pressed
+	Shift Button On Prndl Pressed
+	Vin Part 1
+	Vin Part 2
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch Active
+	Cruise Control Button Not Pushed Up More
+	Cruise Control Button Not Pushed Up Or Hitting Cancel
+	Cruise Control Button Pushed
+	Cruise Control Button Pushed More
+	Cruise Control On Button Pressed
+	Dash Prompt Abs Active
+	Dash Prompt Buckle Passenger Seatbelt
+	Dash Prompt Buckle Seat Belt
+	Dash Prompt Front Park Assist Off
+	Dash Prompt Park Assist Blocked See Owners Manual
+	Dash Prompt Park Assist Clean Sensor
+	Dash Prompt Park Assist Off
+	Dash Prompt Park Assist Temporarily Unavailable
+	Dash Prompt Rear Park Assist Off
+	Dash Prompt Reset Hood See Owners Manual
+	Dash Prompt Restraints Activated Service Required
+	Dash Prompt Service Pedestrian Protection
+	Dash Prompt Service Safety Restraint System
+	Dash Prompt Teen Driver Active Action Not Available
+	Driver Door Open
+	Gap Adjustment Button Pressed
+	Hazards Active
+	High Beams On
+	Left Front Wheel Speed
+	Left Turn Signal Stock Position
+	Low Beams On
+	Low Tire Tell Tale Active
+	Oil Pressure
+	Parking Brake Status
+	Passenger Airbag Disabled
+	Passenger Door Open
+	Rear Driver Door Open
+	Rear Passenger Door Open
+	Right Front Wheel Speed
+	Right Turn Signal Stock Position
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Steering Wheel Left Button Volume Down
+	Steering Wheel Left Button Volume Mute
+	Steering Wheel Left Button Volume Up
+	Tell Tale Passenger Airbag Flashing
+	Tell Tale Passenger Airbag Off Flash
+	Tell Tale Passenger Airbag On
+	Tell Tale Seat Status 2Nd Row Left
+	Tell Tale Seat Status 2Nd Row Right
+	Tell Tale Seat Status 3Rd Row Center
+	Tell Tale Seat Status 3Rd Row Left
+	Tell Tale Seat Status 3Rd Row Right
+	Tell Tale Seatbelt Center Console
+	Tell Tale Seatbelt2 Flashing
+	Tell Tale Seatbelt2 Illuminated
+	Tell Tale Srs Center Console Fast Flash
+	Tell Tale Srs Center Console Illuminated
+	Tell Tale Srs Center Console Slow Flash
+	Tell Tale Vehicle Occupancy And Belt Status
+	Trunk Open
+	Yaw Rate

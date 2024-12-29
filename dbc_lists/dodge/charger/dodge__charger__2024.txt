@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Dodge 'Charger' (2024)
-Signals:
+Signal Descriptions:
 	Abs Brake Active
 	Abs Tell Tale On
 	Acceleration Lateral

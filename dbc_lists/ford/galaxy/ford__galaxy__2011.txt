@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Galaxy' (2011)
-Signals:
+Signal Descriptions:
 	Abs Activation Request
 	Abs Active
 	Acceleration Lateral
@@ -100,7 +100,7 @@ Signals:
 	Wheel Speed Rear Right
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Chime
 	Abs Failure
 	Abs Tell Tale
@@ -434,7 +434,7 @@ Signals:
 	Yaw Rate
 	Zone Icon On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Evap Temperature
 	Ac Evep Temperature
 	Ac Request Status
@@ -491,7 +491,7 @@ Signals:
 	Vehicle Speed
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Activation Request
 	Abs Active
 	Adas Cruise Control Button Decrease Pressed

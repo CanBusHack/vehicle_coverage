@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'Touran' (2010)
-Signals:
+Signal Descriptions:
 	Audio Player Radio Power On
 	Battery Voltage
 	Central Lock Doors Setting
@@ -126,7 +126,7 @@ Signals:
 	Wiper Front Speed Low
 	Wiper Front Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Diagnostics Mode Active
 	Abs Tell Tale Active
 	Ac Compressor Active
@@ -328,12 +328,12 @@ Signals:
 	Yaw Rate Offset
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Prompt Button For Driver Assistant System Defective
 	Door Trunk Open Displayed
 	Fob Buttons Released
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Charging Indicator Tell Tale Active
 	Dashboard Backlight Brightness Output
 	Dashboard Backlight Brightness Setting
@@ -354,7 +354,7 @@ Signals:
 	Start Prompt Renew Key Battery
 	Trailer Indicator Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Blind Spot Side Left Act
 	Adas Blind Spot Side Right Act
 	Adas Blind Spot System Act

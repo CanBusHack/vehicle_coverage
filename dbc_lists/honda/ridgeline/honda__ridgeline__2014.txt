@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Honda 'Ridgeline' (2014)
-Signals:
+Signal Descriptions:
 	Drive Active
 	Driver Door Open Switch Active
 	Forward Collision Warning Setting Change Active
@@ -17,7 +17,7 @@ Signals:
 	Reverse Active
 	Sport Mode Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Compressor Fan Active
 	Ac Compressor Status
 	Accelerator Pedal Position

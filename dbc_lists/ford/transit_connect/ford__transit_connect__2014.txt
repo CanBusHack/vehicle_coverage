@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Transit Connect' (2014)
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	Abs Fault
 	Abs Tell Tale
@@ -270,7 +270,7 @@ Signals:
 	Wheel Rotation Pulse Count
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	Abs Active
 	Abs Tell Tale
@@ -505,7 +505,7 @@ Signals:
 	Yaw Rate Raw
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	 Reverse Gear Active
 	Abs Active

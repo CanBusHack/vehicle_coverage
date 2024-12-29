@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Scenic' (2016)
-Signals:
+Signal Descriptions:
 	Ambient Lighting Rgb Blue
 	Ambient Lighting Rgb Green
 	Ambient Lighting Rgb Red
@@ -45,7 +45,7 @@ Signals:
 	Window Rear Right Not Closed
 	Window Rear Right Not Full Open
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	After Ignition Supply Present
 	Air Recirculation Active
 	Air Recirculation Not Active

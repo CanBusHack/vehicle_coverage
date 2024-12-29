@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Ranger' (2022)
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -233,7 +233,7 @@ Signals:
 	Window Lockout Switch
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 120V Outlet Generator Mode On
 	 120V Outlet Low Powermode On
 	Ac Recirculation
@@ -385,7 +385,7 @@ Signals:
 	Tell Tale Traction Control Off Active
 	Trailer Brake Gain
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -650,7 +650,7 @@ Signals:
 	Window Lockout Switch
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Driver Door Passenger Exterior Mirrors Switch
 	Driver Door Passenger Window Switch
 	Driver Door Window State
@@ -670,7 +670,7 @@ Signals:
 	Right Mirror Light Active
 	Window Lock Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Acc Braking Active
@@ -908,12 +908,12 @@ Signals:
 	Window Lockout Switch
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Cylinder Head Temperature
 	Pitch
 	Roll
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -1178,7 +1178,7 @@ Signals:
 	Window Lockout Switch
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Active Freshness
 	Abs Failure
@@ -1620,7 +1620,7 @@ Signals:
 	Yaw Rate
 	Yaw Sensor
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Braking Active
 	Acc Braking Temperature Warm
 	Acc Disengage From Brake
@@ -1936,7 +1936,7 @@ Signals:
 	Yaw Rate
 	Yaw Sensor State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs System Active
 	Auto Start Stop System Deactivated
 	Barometric Pressure
@@ -1967,7 +1967,7 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Abs Vehicle Speed
 	Abs Chime
 	Abs Tell Tale
@@ -2235,7 +2235,7 @@ Signals:
 	Z Axis Accel Vert
 	Zone Icon Tell Tale
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Clutch On
 	Ac High Side Pressure
 	Ac On
@@ -2307,7 +2307,7 @@ Signals:
 	Vehicle Speed
 	Very Low State Of Charge
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	Abs Fault
 	Abs Tell Tale
@@ -2577,7 +2577,7 @@ Signals:
 	Wheel Rotation Pulse Count
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	Abs Active
 	Abs Tell Tale
@@ -2812,7 +2812,7 @@ Signals:
 	Yaw Rate Raw
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Fix Width Car Mode
 	 Reverse Gear Active
 	Abs Active
@@ -3131,7 +3131,7 @@ Signals:
 	Yaw Rate Raw
 	Yaw Stability
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Activation Request
 	Abs Active
 	Acceleration Lateral
@@ -3231,7 +3231,7 @@ Signals:
 	Wheel Speed Rear Right
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Chime
 	Abs Failure
 	Abs Tell Tale
@@ -3565,7 +3565,7 @@ Signals:
 	Yaw Rate
 	Zone Icon On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Evap Temperature
 	Ac Evep Temperature
 	Ac Request Status
@@ -3622,7 +3622,7 @@ Signals:
 	Vehicle Speed
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Activation Request
 	Abs Active
 	Adas Cruise Control Button Decrease Pressed
@@ -3727,7 +3727,7 @@ Signals:
 	Wiper Windshield Mode Auto
 	Wiper Windshield Speed Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Compressor Battery System Error State
 	Ac Compressor Battery Voltage Error State
 	Ac Compressor Internal Performance Error State
@@ -3766,7 +3766,7 @@ Signals:
 	Yaw Rate Linear
 	Yaw Rate Nonlinear
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 120V Outlet Generator Mode On
 	 120V Outlet Low Powermode On
 	Abs Active
@@ -4304,7 +4304,7 @@ Signals:
 	Wiper Heater
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accessory Delay Power Active
 	Actual Ambient Air Temperature
 	Air Flow Hvac

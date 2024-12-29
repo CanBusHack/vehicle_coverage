@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Bmw 'X3' (2010)
-Signals:
+Signal Descriptions:
 	Door Front Driver Locked
 	Door Front Driver Open
 	Door Front Driver Unlocked
@@ -101,7 +101,7 @@ Signals:
 	Write Parking Aid Lines Active
 	Write Parking Obstacle Detection Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Active
 	Car Moving
 	Crank Active
@@ -161,7 +161,7 @@ Signals:
 	Write Welcome Lights Active
 	Write Welcome Lights Inactive
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ambient Air Pressure
 	Ambient Air Temp
 	Auto Start Stop Off

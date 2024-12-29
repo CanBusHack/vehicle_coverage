@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Audi 'A6' (2013)
-Signals:
+Signal Descriptions:
 	Abs Lamp Active
 	Acc Display Active
 	Acc Key Position Active
@@ -97,7 +97,7 @@ Signals:
 	Wheel Speed Front Right
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Pedal Position Degrees
 	Air Compressor Active
 	Calculated Engine Load
@@ -155,7 +155,7 @@ Signals:
 	Volume Units
 	Warm Up Cycle
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Lamp Active
 	Absolute Load Value
@@ -346,14 +346,14 @@ Signals:
 	Wheel Speed Front Right
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Parking Between Cars Camera Angle Active
 	Parrel Parking Camera Angle Active
 	Speed Warning On Setting
 	Speed Warning Target Speed Setting
 	Steering Wheel Buttons
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Audio Reduction For Radio Started
 	Child Lock Fault Message
 	Driver Adjusting Passenger Seat Active

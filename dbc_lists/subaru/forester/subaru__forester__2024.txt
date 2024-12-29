@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Subaru 'Forester' (2024)
-Signals:
+Signal Descriptions:
 	Abs Dash Prompt Active
 	Ac Compressor Active
 	Ac Fan Speed
@@ -233,7 +233,7 @@ Signals:
 	Wipers Active
 	Write Interior Light System Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Dash Prompt Active
 	Ac Compressor Active
 	Ac Fan Speed
@@ -445,7 +445,7 @@ Signals:
 	Wipers Active
 	Write Interior Light System Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Lights Active
 	Cruise Activated
 	Cruise Fault Active

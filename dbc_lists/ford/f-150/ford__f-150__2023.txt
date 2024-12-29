@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'F-150' (2023)
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -233,7 +233,7 @@ Signals:
 	Window Lockout Switch
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 120V Outlet Generator Mode On
 	 120V Outlet Low Powermode On
 	Ac Recirculation
@@ -385,7 +385,7 @@ Signals:
 	Tell Tale Traction Control Off Active
 	Trailer Brake Gain
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -650,7 +650,7 @@ Signals:
 	Window Lockout Switch
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Driver Door Passenger Exterior Mirrors Switch
 	Driver Door Passenger Window Switch
 	Driver Door Window State
@@ -670,7 +670,7 @@ Signals:
 	Right Mirror Light Active
 	Window Lock Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Acc Braking Active

@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Cl' (2012)
-Signals:
+Signal Descriptions:
 	Brake Pressure1
 	Brake Pressure2
 	Brake Switch
@@ -75,7 +75,7 @@ Signals:
 	Vehicle Speed
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Adjust Tire Pressure Dash Prompt Active
 	Air Bag 3Rd Row Left Malfunction Consult Workshop Dash Prompt
@@ -206,7 +206,7 @@ Signals:
 	Wheel Speed Rear Right
 	Wiper Movement Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Acoustic Lock Option Active
 	Air Pressure Outside
@@ -392,7 +392,7 @@ Signals:
 	Turn Signal Active
 	Vin Part 1
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Center Dome Light Active
 	Driver Reading Light Active
 	Int Wiper Active
@@ -407,7 +407,7 @@ Signals:
 	Windshield Wipers In Motion
 	Wipers
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Acc Pedal Position
 	Blend Position Switched Up Or Down Pressed

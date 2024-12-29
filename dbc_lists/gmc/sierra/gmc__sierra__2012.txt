@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Gmc 'Sierra' (2012)
-Signals:
+Signal Descriptions:
 	 Sensor Fault Tell Tale
 	Air Conditioning Compressor Displacement
 	Air Conditioning Compressor Engine Run
@@ -211,7 +211,7 @@ Signals:
 	Windshield Wiper Drive Active
 	Windshield Wiper Rain Sensor Control On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 Air Fuel Ratio
 	 Front Lighting System Fault Tel
 	Abs Active

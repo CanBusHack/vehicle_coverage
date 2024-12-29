@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'Eurovan' (2017)
-Signals:
+Signal Descriptions:
 	Auto Lights
 	Automatic Headlight Icon Active
 	Charging Indicator Tell Tale Active
@@ -99,7 +99,7 @@ Signals:
 	Wiper Stock Speed Low Switch
 	Wiper Stock Wash Switch
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Compressor Active
 	Actual Acceleration
 	Alternator Generator Output
@@ -134,7 +134,7 @@ Signals:
 	Wheel Speed Sensor Rear Left
 	Wheel Speed Sensor Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs In Diagnostic Mode Active
 	Abs Tell Tale Active

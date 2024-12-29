@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Jeep 'Grand Cherokee L' (2021)
-Signals:
+Signal Descriptions:
 	Stalk Lights Headlight Position
 	Stalk Lights Position High Beam Flash Pulled
 	Stalk Lights Position High Beam Pressed
@@ -13,7 +13,7 @@ Signals:
 	Wiper Front Washer Active
 	Wiper Rear Status
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Adaptive Cruise Control Front Distance Setting
 	Adas Lane Assist Active
 	Door Driver Closed
@@ -54,7 +54,7 @@ Signals:
 	Units Metric
 	Vin
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Door Driver Button 1 Pressed
 	Door Driver Button 2 Pressed
 	Door Driver Button S Pressed
@@ -65,7 +65,7 @@ Signals:
 	Key Fob Button Pressed
 	Seat Passenger Button Massage Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Auto Shutoff Active
 	Cabin Lighting Inactive
 	Cameras Screen Front And Back Active
@@ -212,9 +212,13 @@ Signals:
 	Window Rear Passenger Switch Down Pressed
 	Window Rear Passenger Switch Up Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Vin

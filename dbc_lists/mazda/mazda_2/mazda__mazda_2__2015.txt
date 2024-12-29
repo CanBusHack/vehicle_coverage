@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mazda 'Mazda 2' (2015)
-Signals:
+Signal Descriptions:
 	Car In Reverse
 	Car In Reverse
 	Car In Reverse
@@ -28,7 +28,7 @@ Signals:
 	Vehicle Speed
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Blinking Tell Tale Active
 	Abs Event Alert Active
 	Abs Fail 01 Alert Active

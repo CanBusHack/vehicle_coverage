@@ -1,8 +1,10 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Toyota 'Prius V' (2015)
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A W D System Overheated 2 W D Mode E
 	A W D Test Mode Message
 	Adjusting Front Beam Radar Vertical
@@ -69,7 +71,7 @@ Signals:
 	Warning Cross Traffic Prompt
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active 1
 	Abs Tell Tale Active 2
 	Ac Active
@@ -280,7 +282,7 @@ Signals:
 	Yaw Rate Value
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A B S Indicator
 	A T O I L T E M P Tell Tale Active
 	A W D System Overheated 2 W D Mode E

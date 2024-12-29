@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Bmw 'X6' (2023)
-Signals:
+Signal Descriptions:
 	Brake Pressure
 	Engine Speed
 	Pedal Accelerator Position
@@ -17,7 +17,7 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ambient Air Temperature
 	Config Eco Pro Individual Driving Dynamic Steering Comfort On
 	Config Eco Pro Individual Driving Dynamic Steering Sport On
@@ -294,7 +294,7 @@ Signals:
 	Wiper Intermittent Speed 3
 	Wiper Intermittent Speed 4
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ambient Air Pressure
 	Ambient Air Temp
 	Auto Start Stop Off
@@ -360,7 +360,7 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Active
 	Ambient Air Temp
 	Auto Start Stop Off

@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Chrysler 'Grand Caravan' (2015)
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Accessory Delay Active
 	Accessory Delay Smart Active
@@ -244,7 +244,7 @@ Signals:
 	Wiper Rear Washer Status
 	Wiper Washer Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Cruise Control Active
 	Adas Cruise Control Speed Set
 	Adas Cruise Control Tell Tale On
@@ -376,7 +376,7 @@ Signals:
 	Wiper Front Mister Active
 	Wiper Front Speed Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Cruise Control Set Tell Tale Active
 	Adas Cruise Control Tell Tale Active
 	Airbag Tell Tale Status

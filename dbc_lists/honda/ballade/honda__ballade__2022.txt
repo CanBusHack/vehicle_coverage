@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Honda 'Ballade' (2022)
-Signals:
+Signal Descriptions:
 	Ac Off
 	Acc Active
 	Acc Alerts
@@ -175,7 +175,7 @@ Signals:
 	Wiper Speed
 	Wiper State
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac System Off
 	Ac System On
 	Acc Forward D Vehicle Detect Beep Off

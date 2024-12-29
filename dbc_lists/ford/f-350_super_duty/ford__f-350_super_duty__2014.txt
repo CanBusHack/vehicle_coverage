@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'F-350 Super Duty' (2014)
-Signals:
+Signal Descriptions:
 	 Abs Vehicle Speed
 	Abs Chime
 	Abs Tell Tale
@@ -268,7 +268,7 @@ Signals:
 	Z Axis Accel Vert
 	Zone Icon Tell Tale
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Clutch On
 	Ac High Side Pressure
 	Ac On

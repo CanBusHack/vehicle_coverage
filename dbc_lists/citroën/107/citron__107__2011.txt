@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Citroën '107' (2011)
-Signals:
+Signal Descriptions:
 	Abs In Action
 	Ac Active
 	Accelerator Application Rate

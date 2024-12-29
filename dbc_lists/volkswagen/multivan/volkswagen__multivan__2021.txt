@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'Multivan' (2021)
-Signals:
+Signal Descriptions:
 	Aag Trailer Recognized
 	Accelerator Pedal
 	Accelerator Pedal Let Off Sig
@@ -60,7 +60,7 @@ Signals:
 	Yaw Rate
 	Yaw Value Is Negative
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac Switch Active
 	Acc Button Pressed

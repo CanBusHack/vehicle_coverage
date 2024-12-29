@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Nissan 'Versa' (2010)
-Signals:
+Signal Descriptions:
 	Abs W L Active
 	Ac Relay
 	Accelerator Pedal Position

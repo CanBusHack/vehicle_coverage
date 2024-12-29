@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'B-Class' (2020)
-Signals:
+Signal Descriptions:
 	Ac Active
 	Accelerator Pedal Position
 	Air Pressure Outside
@@ -72,7 +72,7 @@ Signals:
 	Wheel Moving In Reverse
 	Wheel Moving In Reverse
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Driver Seatbelt Unlatched
 	Front Seatbelt Status Not Changed
 	Goes Up When Half The Car Was Going Onto Rollers
@@ -81,7 +81,7 @@ Signals:
 	Traction Control Related
 	Traction Control Related This Triggered When The Cars Right Side Was Onto Rollers
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Temperature Outside
 	Battery Voltage
 	Brake Pressure
@@ -130,7 +130,7 @@ Signals:
 	Wheel Moving In Reverse
 	Wheel Moving In Reverse
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Active Brake Assist Setting
 	All Front Doors Closed
 	Attention Assist Setting
@@ -184,7 +184,7 @@ Signals:
 	Warning Tone Pitch
 	Warning Tone Volume
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Auto Head Lights Switch Position Active
 	Center Dome Light Active
 	Clock Day
@@ -241,7 +241,7 @@ Signals:
 	Turn Signal Active
 	Wipers In Motion
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Acoustic Lock Setting Active
 	Back Button Button Pressed

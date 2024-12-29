@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Land Rover 'Discovery Sport' (2020)
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Accelerator Peddle Not Pressed
 	Auto High Beam Sensitivity Setting Changing
@@ -74,7 +74,7 @@ Signals:
 	Wiper Setting Winter Wiper Park System Setting Set To On
 	Wipers Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Accelerator Peddle Position
 	Auto Blower Active
@@ -137,7 +137,97 @@ Signals:
 	Trip Content Trip Distance System Setting On
 	Vehicle Pitch Angle
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+	Accelerator Pedal Position
+	Accelerator Pedal Position Kick Down Switch
+	Accelerator Peddle Not Pressed
+	Auto Off Button Pressed
+	Auto Off Not Active
+	Auto Start Stop
+	Brake Not Pressed
+	Brake Pressed
+	Brake Pressure
+	Calculated Engine Load
+	Calculated Engine Torque
+	Convenience Easy Entry Exit Setting Changing
+	Convenience Easy Entry Exit System Setting Set To On
+	Convenience Feature Auto High Beam System Setting Changing
+	Convenience Feature Auto High Beam System Setting Set To On
+	Cruise Control And Speed Limter Active
+	Cruise Control Or Limter Set Speed
+	Cruise Control Resume Pressed
+	Cruise Control Set Minus Pressed
+	Cruise Control Set Plus Pressed
+	Cruisecontrol Cancel Pressed
+	Current Gear
+	Downshift Paddle Pressed
+	Drive Away Locking System Setting Changing
+	Drive Away Locking System Setting Set To
+	Drive Mode
+	Driver Door Closed
+	Driver Seat Belt Fastened
+	Eco Button Pressed
+	Eco Mode Active
+	Electronic Parking Brake State
+	Engine Coolant Temperature
+	Engine Net Torque
+	Engine Reference Torque
+	Engine Speed
+	Engine Torque Limit
+	Engine Warning Light
+	Exterior Light Switch Status
+	Fog Lights Active
+	Front Left Tire Pressure
+	Front Right Tire Pressure
+	Headlight Delay System Setting Changed
+	Headlight Delay System Setting Set To
+	High Beam Switch State
+	Hood Closed
+	Int Wiper Setting
+	Interior Back Light Level
+	Manual Gear
+	Odo
+	Outside Temp
+	Parking Brake Indicator Active
+	Passenger Door Closed
+	Passenger Seat Belt Fastened
+	Power Mode
+	Prndl D
+	Prndl N
+	Prndl R
+	Prndl S
+	Rear Driver Door Closed
+	Rear Left Seat Buckled
+	Rear Left Tire Pressure
+	Rear Middle Seat Buckled
+	Rear Passenger Door Closed
+	Rear Right Seat Buckled
+	Rear Right Tire Pressure
+	Rear Wiper Mister Button Pressed
+	Rear Wiper Set To Int
+	Rear Wiper Set To On
+	Relative Throttle Position
+	Security Feature 2 Stage Unlock System Setting Changing
+	Security Feature 2 Stage Unlock System Setting Set To On
+	Security Feature Audible Lock Warning System Setting Changing
+	Security Feature Audible Lock Warning System Setting Set To On
+	Shifting Into Park
+	Speed Limiter Active
+	Steering Wheel Angle
+	Torque Request Acknowledge
+	Traction Control Off
+	Transmission Oil Temperature
+	Transmission Output Shaft Speed
+	Transmission Turbine Speed
+	Trunk Closed
+	Upshift Paddle Pressed
+	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wipers Active Alt
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
 	Clock Day
 	Clock Hours 24 Hour Format
 	Clock Minutes
@@ -160,7 +250,7 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Child Lock Active
 	Child Lock Button Engaged
 	Child Lock Not Active

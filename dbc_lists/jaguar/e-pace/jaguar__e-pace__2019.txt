@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Jaguar 'E-Pace' (2019)
-Signals:
+Signal Descriptions:
 	Abs Fault
 	Abs In Action
 	Acceleration Lateral S1
@@ -151,7 +151,7 @@ Signals:
 	Wiper Rear On
 	Yaw Rate S1
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral S2
 	Adas Speed Limiter Active
 	Adas Speed Limiter And Cruise Control Speed Set
@@ -267,7 +267,7 @@ Signals:
 	Wheel Speed Rear Right
 	Yaw Rate S2
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Battery Voltage
 	Car Ecu Run Time
 	Car Locked
@@ -344,7 +344,7 @@ Signals:
 	Window Rear Left Status
 	Window Rear Right Status
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Fault
 	Abs In Action
 	Acceleration Lateral S1
@@ -461,14 +461,14 @@ Signals:
 	Wiper Rear On
 	Yaw Rate S1
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Not Pressed
 	Brake Pressed
 	Transmission Input Speed
 	Transmission Output Speed
 	Transmission Overheating Dash Prompt
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Accelerator Pedal Position
 	Accelerator Pedal Pressed
@@ -609,7 +609,7 @@ Signals:
 	Water In Fuel See Handbook Dash Prompt
 	Year On Instrument Cluster
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Auto Start Stop System Off
 	Auto Start Stop System On
 	Car Ecu Run Time
@@ -677,7 +677,7 @@ Signals:
 	Window And Child Locks Active
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adaptive Dynamics Fault Dash Prompt Active
 	Aspc Button Not Pressed
 	Aspc Button Pressed

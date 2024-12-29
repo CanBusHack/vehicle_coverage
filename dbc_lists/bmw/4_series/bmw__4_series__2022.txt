@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Bmw '4 Series' (2022)
-Signals:
+Signal Descriptions:
 	Ambient Air Pressure
 	Ambient Air Temp
 	Auto Start Stop Off
@@ -132,7 +132,7 @@ Signals:
 	Wiper Rear Active
 	Wiper Rear Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Brake Pressure
 	Coasting Mode Not Active
@@ -190,7 +190,7 @@ Signals:
 	Turn Signal States
 	Warn When Speeding Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Active Blind Spot Detection Level
 	Active Blind Spot Detection On
 	Air Conditioning Active
@@ -408,7 +408,7 @@ Signals:
 	Write Pathway Lighting Setting
 	Write Pathway Lighting Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Cruise Control Active
 	Cruise Control Not Active
 	Cruise Off Through Brake Request

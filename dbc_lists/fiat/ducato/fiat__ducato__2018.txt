@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Fiat 'Ducato' (2018)
-Signals:
+Signal Descriptions:
 	Ambient Air Temperature
 	Brake Prompt Change Pads On
 	Door Front Driver Open
@@ -48,7 +48,7 @@ Signals:
 	Steering Wheel Button Volume Down Pressed
 	Steering Wheel Button Volume Up Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Adas Cruise Control Button On Released
@@ -148,7 +148,7 @@ Signals:
 	Wiper Front Speed
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Deceleration Lateral
 	Acceleration Lateral
 	Adas Cruise Control Tell Tale On
@@ -229,7 +229,7 @@ Signals:
 	Wheel Speed Undetermined Location 4
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Cruise Control Active
 	Adas Cruise Control Button On Off Pressed
 	Adas Cruise Control Button Res Check Active

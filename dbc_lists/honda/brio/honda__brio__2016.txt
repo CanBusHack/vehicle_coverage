@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Honda 'Brio' (2016)
-Signals:
+Signal Descriptions:
 	A C Off
 	A C On
 	Amperage To Low Active
@@ -166,7 +166,7 @@ Signals:
 	Write Setting Memory Position Link Off
 	Write Setting Power Slide Door Keyless Open Mode When Unlocked
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Compressor Active
 	Acc Active
 	Accelerator Pedal Applied

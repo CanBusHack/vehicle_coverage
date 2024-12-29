@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Trafic' (2020)
-Signals:
+Signal Descriptions:
 	Abs Active
 	Accelerator Pedal Released
 	Adas Speed Setting

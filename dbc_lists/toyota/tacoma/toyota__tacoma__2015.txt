@@ -1,8 +1,10 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Toyota 'Tacoma' (2015)
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A B S Tell Tale Blinking
 	A B S Tell Tale On
 	A W D Power Delivery Active State
@@ -37,7 +39,7 @@ Signals:
 	Seatbelt Tell Tale On 4
 	Turn Signals
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A C C Pedal Pressed 50
 	Accelerator Pedal Not Pressed
 	Brake Pedal Position Sensor A
@@ -65,7 +67,7 @@ Signals:
 	Wheel Speed R L
 	Wheel Speed R R
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A B S Tell Tale Blinking
 	A B S Tell Tale On
 	A C Active 1
@@ -211,7 +213,7 @@ Signals:
 	Vin 1 Of 3
 	Yaw Rate Value
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A B S Active
 	Adjusting Forward D Camera Message
 	Adjusting Front Radar Beam Message
@@ -304,7 +306,7 @@ Signals:
 	Wheel Speed R R
 	Would You Like To Take A Break Message
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A C Inactive
 	Activate Blower
 	Auto A C Mode On 0 Read

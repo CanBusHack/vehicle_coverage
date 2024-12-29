@@ -1,0 +1,152 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Kia 'Sorento' (2022)
+Signal Descriptions:
+	Abs
+	Abs Motor Active Test 1
+	Abs Motor Active Test 2
+	Ac On
+	Accelerator Pedal Position
+	Accelerator Pedal Position
+	Accelerator Pedal Status Pressed
+	Accessory Power Active
+	Adas Cruise Control Speed Set
+	Auto Stop Start
+	Battery Cell Voltage 1
+	Battery Cell Voltage 10
+	Battery Cell Voltage 11
+	Battery Cell Voltage 12
+	Battery Cell Voltage 13
+	Battery Cell Voltage 14
+	Battery Cell Voltage 15
+	Battery Cell Voltage 16
+	Battery Cell Voltage 17
+	Battery Cell Voltage 18
+	Battery Cell Voltage 19
+	Battery Cell Voltage 2
+	Battery Cell Voltage 20
+	Battery Cell Voltage 21
+	Battery Cell Voltage 22
+	Battery Cell Voltage 23
+	Battery Cell Voltage 24
+	Battery Cell Voltage 25
+	Battery Cell Voltage 26
+	Battery Cell Voltage 27
+	Battery Cell Voltage 28
+	Battery Cell Voltage 29
+	Battery Cell Voltage 3
+	Battery Cell Voltage 30
+	Battery Cell Voltage 31
+	Battery Cell Voltage 32
+	Battery Cell Voltage 33
+	Battery Cell Voltage 34
+	Battery Cell Voltage 35
+	Battery Cell Voltage 36
+	Battery Cell Voltage 37
+	Battery Cell Voltage 38
+	Battery Cell Voltage 39
+	Battery Cell Voltage 4
+	Battery Cell Voltage 40
+	Battery Cell Voltage 41
+	Battery Cell Voltage 42
+	Battery Cell Voltage 5
+	Battery Cell Voltage 6
+	Battery Cell Voltage 7
+	Battery Cell Voltage 8
+	Battery Cell Voltage 9
+	Battery Current Ams
+	Battery Voltage Ams
+	Brake Pedal Pressed
+	Brake Pedall Status
+	Brake Pressure
+	Cruise Control On 1
+	Cruise Control On 2
+	Cruise Control Standby
+	Current Gear
+	Dash Illumination Level
+	Door Trunk Open
+	Downhillbrake Control Off
+	Downhillbrake Control On
+	Drive Mode Snow Active
+	Drive Mode State
+	Drive Motor Torque
+	Driver Door Open
+	Driver Door Unlocked
+	Driver Seatbelt Buckled
+	Engine Intake Manifold Pressure
+	Engine Speed
+	Engine Speed High Res
+	Engine Warning Light
+	Ev Power Status
+	Front Left Tire Pressure See Unit And Scaler
+	Front Right Tire Pressure See Unit And Scaler
+	Fuel Level
+	Fuel Related
+	Haptic Warning System Off
+	Haptic Warning System On
+	Hazard Light On
+	Hood Open
+	Hv Batt Current
+	Hv Batt Soc
+	Hvac Ac On
+	Hvac Cabin Air Recirculation Active
+	Hvac Cabin Air Recirculation Inactive
+	Ice Ignition Status
+	Lane Safety State
+	Lane Safety System On
+	Left High Beam Active
+	Left Low Beam Active
+	Left Side Markers Active
+	Left Turn Indicator Position Active
+	Left Turn Lane Change Position Active
+	Left Turn Signal Active
+	Light Control Status
+	Light High Beam On
+	Light Stock Pulled Active
+	Light Stock Pushed Active
+	Lights Left Turn Tail Active
+	Lights Low Beams
+	Lights Right Turn Tail Active
+	Longitudinal G Sensor
+	Mass Fuel Flow Pulse Individual
+	Odometer
+	One Touch Turn Signal Setting
+	Park Button At Rest
+	Park Button Pressed
+	Parking Brake
+	Parking Brake Active
+	Parking Camera
+	Passenger Airbag Off
+	Passenger Door Open
+	Passenger Door Unlocked
+	Passenger Seat Belt
+	Prndl
+	Prndl State
+	Prndl Switch Status
+	Rear Driver Door Open
+	Rear Driver Door Unlocked
+	Rear Left Tire Pressure See Unit And Scaler
+	Rear Passenger Door Open
+	Rear Passenger Door Unlocked
+	Rear Right Tire Pressure See Unit And Scaler
+	Requested Gear
+	Right High Beam Active
+	Right Low Beam Active
+	Right Side Markers Active
+	Right Turn Indicator Position Active
+	Right Turn Lane Change Position Active
+	Right Turn Signal Active
+	Sifter Inter Lock
+	Speed Limit Offset
+	Speed Limit System State
+	Steering Rate
+	Steering Wheel Angle
+	Tire Pressure Unit And Scaler
+	Tpms Warning Light
+	Traction Control Level
+	Traction Control Off
+	Traction Control On
+	Vehicle Speed
+	Wheel Speed 1  Front Right
+	Wheel Speed 2  Front Left
+	Wheel Speed 3  Rear Right
+	Wheel Speed 4 Rear Left

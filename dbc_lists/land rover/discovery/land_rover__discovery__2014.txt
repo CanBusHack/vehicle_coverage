@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Land Rover 'Discovery' (2014)
-Signals:
+Signal Descriptions:
 	Audio System Button Cd Eject Status
 	Brake Fluid Low 0 True
 	Car Clock Date Day
@@ -104,7 +104,7 @@ Signals:
 	Window Rear Left Position Sensor
 	Window Rear Right Position Sensor
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Buzz On
 	Abs Fault
 	Abs In Action
@@ -271,7 +271,7 @@ Signals:
 	Wipers Front Status
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Fault Message Active
 	Abs Tell Tale Not Active
 	Accelerator Pedal Position
@@ -414,7 +414,7 @@ Signals:
 	Wiper Setting Winter Wiper Park System Setting Set To On
 	Wipers Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Engine Oil Level Critically Low Dash Prompt
 	Engine Oil Level Low Add 1 L Dash Prompt
@@ -433,7 +433,7 @@ Signals:
 	Temperature Units Set To Fahrenheit
 	Tire Pressure Unit Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ambient Air Temperature
 	Child Lock Active
 	Child Lock Button Engaged
@@ -468,7 +468,7 @@ Signals:
 	Sun Roof Open
 	Trunk Unlatching
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Aeb System Set To Off
 	Auto Start Stop Button Pressed

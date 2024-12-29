@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Sprinter' (2024)
-Signals:
+Signal Descriptions:
 	Ac Active
 	Accelerator Pedal Position
 	Acoustic Lock Option Active

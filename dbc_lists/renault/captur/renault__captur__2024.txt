@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Captur' (2024)
-Signals:
+Signal Descriptions:
 	 Hazards On
 	Abs Active
 	Abs Computer Current Mileage
@@ -185,7 +185,7 @@ Signals:
 	Windshield Sprayer Active
 	Windshield Sprayer Not Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Light Pressed
 	Brake Not Pressed
 	Brake Pressed

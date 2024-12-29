@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Gmc 'Yukon' (2021)
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Brake Pedal Percentage
 	Charger Active
@@ -89,7 +89,7 @@ Signals:
 	Vin Part 2
 	Vin Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 4Wd Active
 	Auto Hold Button Pressed
 	Cruise Active
@@ -128,7 +128,7 @@ Signals:
 	Wheel Angle Displayed
 	Wheel Angle Error Bit
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Driver Control Button State Change
 	Driver Control Panel Rear Driver Side Window Button State
 	Driver Control Panel Rear Passenger Side Window Button State
@@ -139,7 +139,7 @@ Signals:
 	Trunk Status
 	Window Lock Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adaptive Volume Active
 	Air Filter Life
 	All Rear Windows Closed
@@ -396,7 +396,7 @@ Signals:
 	Treble
 	Units Set To Us
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Battery Voltage
 	Engine Speed
@@ -405,7 +405,7 @@ Signals:
 	Vin Part 1
 	Vin Part 2
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Switch Active
 	Cruise Control Button Not Pushed Up More
 	Cruise Control Button Not Pushed Up Or Hitting Cancel

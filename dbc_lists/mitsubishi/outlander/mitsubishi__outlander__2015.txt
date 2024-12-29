@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Outlander' (2015)
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Abs Tell Tale Active
 	Ac Clutch
@@ -145,7 +145,7 @@ Signals:
 	Vin Part 1
 	Water In Fuel Tell Tale On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ab Tps Main
 	Abs Active
 	Ac Compressor Active

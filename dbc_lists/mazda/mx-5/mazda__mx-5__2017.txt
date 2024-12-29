@@ -1,12 +1,12 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mazda 'Mx-5' (2017)
-Signals:
+Signal Descriptions:
 	Langue Setting
 	Left Bsw
 	Rear Right Object Alert Active
 	Right Bsw
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Not Active
 	Acceleration Lateral
 	Acceleration Longitudinal
@@ -262,7 +262,7 @@ Signals:
 	Wipers Washer Active
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Not Active
 	Abs Tell Tale Active
 	Acc Set Follow Distance

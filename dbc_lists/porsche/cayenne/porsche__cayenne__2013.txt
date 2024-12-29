@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Porsche 'Cayenne' (2013)
-Signals:
+Signal Descriptions:
 	A Front Overhead Interior Light Is On
 	Abs Active
 	Abs Lamp Active
@@ -176,7 +176,7 @@ Signals:
 	Wiper Intermittent Speed
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Lamp Active
 	Absolute Load Value
@@ -490,7 +490,7 @@ Signals:
 	Window Rear Right Switch Up
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A Front Overhead Interior Light Is On
 	Abs Active
 	Abs Active Alt
@@ -969,7 +969,7 @@ Signals:
 	Yaw Value Is Negative Alt
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Gearbox Shifting Mode Manual
 	Hvac Ctrl Front Driver Temp
 	Hvac Ctrl Front Passenger Temp
@@ -981,7 +981,7 @@ Signals:
 	Vin Character 4 To 10
 	Vin Index
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ambient Temperature Outside
 	Door Driver Seat Memory Button 1 Pressed
 	Door Driver Seat Memory Button 2 Pressed

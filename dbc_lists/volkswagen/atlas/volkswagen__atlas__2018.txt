@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'Atlas' (2018)
-Signals:
+Signal Descriptions:
 	Aag Trailer Recognized
 	Abs Active
 	Abs Lamp Active
@@ -147,7 +147,7 @@ Signals:
 	Window Lock Button Pressed 2
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Aag Trailer Recognized
 	Abs Active
 	Abs Lamp Active
@@ -372,7 +372,7 @@ Signals:
 	Wiper Intermittent Speed
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Desired Speed Achieved
 	Acc Display Time Gap
 	Acc Optical Driver Notice
@@ -408,7 +408,7 @@ Signals:
 	Winter Tires Speed Warning Active
 	Winter Tires Speed Warning Target Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Alarm Arm Request
 	Alarm Disarm Request
 	Any Door Ajar

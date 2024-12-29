@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ram '1500 Rev Xr' (2024)
-Signals:
+Signal Descriptions:
 	Abs Indication Status
 	Acceleration Lateral
 	Acceleration Longitudinal

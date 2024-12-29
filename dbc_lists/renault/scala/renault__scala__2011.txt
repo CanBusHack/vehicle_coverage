@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Renault 'Scala' (2011)
-Signals:
+Signal Descriptions:
 	Audio Displayed Minute
 	Audio Displayed Second
 	Center Console Joystick Last Command
@@ -29,7 +29,7 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Not Available
 	Abs Warning Fault

@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ram '700' (2011)
-Signals:
+Signal Descriptions:
 	Abs Control Unit Active
 	Abs Tell Tale On
 	Abs Tell Tale On
@@ -150,7 +150,7 @@ Signals:
 	Water In Diesel Filter Tell Tale On
 	Wiper Front Automatic Rain Sensitivity Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs In Action
 	Asr Deactivated
 	Auto Tell Tale Active

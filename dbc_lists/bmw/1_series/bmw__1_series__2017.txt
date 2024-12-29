@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Bmw '1 Series' (2017)
-Signals:
+Signal Descriptions:
 	Adas Cruise Control On Off Button Pressed
 	Adas Cruise Control Speed Decrease 1Mph Request
 	Adas Cruise Control Speed Decrease 5Mph Request
@@ -47,7 +47,7 @@ Signals:
 	Wiper Rear Active
 	Wiper Rear Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral
 	Acceleration Lateral
 	Acceleration Latitude
@@ -194,7 +194,7 @@ Signals:
 	Yaw Rate
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A B S Active
 	Acc Pedal Position
 	Acc Pedal Pressed
@@ -355,7 +355,7 @@ Signals:
 	Water Temperature
 	Window Lock Button Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Current Gear
 	Displayed Gear
 	Eco Mode Active
@@ -383,7 +383,7 @@ Signals:
 	Windshield Wiper Rear Spray
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Adaptive Cruise Control Follow Distance
 	Adas Cruise Control Active
 	Adas Cruise Control Shaft Position State Change

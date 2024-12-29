@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Toyota 'Venza' (2024)
-Signals:
+Signal Descriptions:
 	Abs Warning Tell Tale
 	Ac Active
 	Accelerator Pedal Position
@@ -268,7 +268,7 @@ Signals:
 	Write Setting Set Automatic Door Lock By Speed
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Any Fob Button Being Pressed
 	Auto Lights
@@ -327,9 +327,11 @@ Signals:
 	Windshield Wiper Mist
 	Windshield Wiper Off
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Warning Tell Tale
 	Ac Active
 	Adaptive Cruise Control Following
@@ -462,7 +464,7 @@ Signals:
 	Would You Like To Take A Break
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Auto Head Lights
 	Awd Power Delivery Active State
 	Awd Power Delivery Front Left Current Value Max Value 5
@@ -557,11 +559,11 @@ Signals:
 	Write Setting Set Automatic Door Lock By Shift From P
 	Write Setting Set Automatic Door Lock By Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Forward And Rearward G Longitudinal
 	Lateral G
 	Yaw Rate Value
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Hvac Fan Speed
 	Recirculation Not Active

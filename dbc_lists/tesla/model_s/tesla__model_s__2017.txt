@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Tesla 'Model S' (2017)
-Signals:
+Signal Descriptions:
 	Bms Socmin
 	Bms Socui
 	Cmpd Inputhvcurrent

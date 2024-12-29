@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Subaru 'Legacy' (2022)
-Signals:
+Signal Descriptions:
 	Abs Dash Prompt Active
 	Access Key Battery Low Dash Prompt Active
 	Airbag 2 On Tell Tale Active
@@ -71,11 +71,15 @@ Signals:
 	Vehicle Speed
 	Wipers Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Access Key Battery Low Dash Prompt Active

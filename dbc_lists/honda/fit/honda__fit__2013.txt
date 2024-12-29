@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Honda 'Fit' (2013)
-Signals:
+Signal Descriptions:
 	A C Off
 	A C On
 	Amperage To Low Active
@@ -126,7 +126,7 @@ Signals:
 	Write Setting Interior Lighting Dimming Time
 	Write Setting Keyless Access Beep Off
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Applied
 	Accelerator Pedal Position
 	Air Intake Temp

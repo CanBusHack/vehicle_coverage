@@ -1,0 +1,1055 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mini 'Clubman' (2015)
+Signal Descriptions:
+	Absolute Throttle Position Sensor
+	Acceleration Lateral
+	Acceleration Latitude
+	Acceleration Longitudinal
+	Adad Stalk Cruise Control Position
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
+	Ambient Air Temperature
+	Baro Challenge
+	Battery Voltage
+	Boost Pressure Displayed
+	Brake Active
+	Brake Emergency Active
+	Brake Pedal Position
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Pressure Wheel Rear Left
+	Brake Pressure Wheel Rear Right
+	Clutch Pressed
+	Clutch Pressed Alt
+	Convertible Switch Pressed Down
+	Convertible Switch Pressed Up
+	Coolant Temperature
+	Cruise Control Active
+	Cruise Control Not Set
+	Cruise Control Set
+	Cruise Control Set Speed
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Open
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driving Mode Eco Pro Active
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed Alt
+	Engine Torque
+	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off Alt
+	Esp Traction Control On Alt
+	Fuel Level In Liters
+	Fuel Range
+	Gearbox Shift In Progress
+	Hill Descent Control Active
+	Hvac System Active
+	Ic Backlight Level
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Lighting Interior Dome Active
+	Lighting Interior Rear Dome Active
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Parking Active
+	Lights Rear Fog Active
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Low Fuel Tell Tale Active
+	Manual Gear Displayed
+	Manual Mode Active
+	Manual Mode Started
+	Mil Tell Tale Active
+	Odometer
+	Oil Pressure Displayed
+	Oil Temperature
+	Output Shaft Speed
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Partial Network Information 0003
+	Partial Network Information 0004
+	Pedal Accelerator Position
+	Pedal Accelerator Position Kickdown
+	Pedal Accelerator Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Power Mode Acc
+	Power Mode Change Request
+	Power Mode Crank Active
+	Power Mode Key In
+	Power Mode Key Out
+	Power Mode Recently Changed
+	Power Mode Run
+	Power Mode Run
+	Power Mode Start Button Pressed
+	Power Steering Consistency Count
+	Prndl And Gear
+	Reverse Engage
+	Reverse Not Engage
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Shift Lever Position In Drive
+	Shift Lever Position In Neutral
+	Shift Lever Position In Park
+	Shift Lever Position In Reverse
+	Sport Mode Active
+	Sport Mode Not Active
+	Stalk Lights Bc Button Pressed
+	Stalk Lights Position High Beam Flash Pulled
+	Stalk Lights Position High Beam Pushed
+	Stalk Lights Position Turn Left Full
+	Stalk Lights Position Turn Left Partial
+	Stalk Lights Position Turn Right Full
+	Stalk Lights Position Turn Right Partial
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Sun Roof In Motion
+	Target Idle Speed
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Torque Dynamic Cruise Control Demand
+	Torque Max Available
+	Torque Minimum Available
+	Torque Spark Negative Available
+	Torque Spark Positive Available
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Traction Control Off
+	Transmission Temperature
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Moving
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Conditioning Active
+	Ambient Air Temp
+	Average Fuel Consumed
+	Average Speed
+	Baro Challenge
+	Brightness Level
+	Brightness Switch Backward
+	Brightness Switch Forward D
+	Car Alarm Equipped
+	Current Gearbox State
+	Date Format
+	Date Format Option Period Selected
+	Date Format Option Slash Selected
+	Distance Units Kilometers Selected
+	Distance Units Miles Selected
+	Driver Door Open
+	Driver Side Dash Light Sensor
+	Driver Window Fully Open
+	Driver Window In Motion Down
+	Driver Window In Motion Up
+	Driver Window Open Percentage
+	Driver Window Partially Open
+	Driver Window Switch Position
+	External Range
+	Feedback On Remote Lock Options
+	Feedback On Remote Unlock Options
+	Fob Panic Trigger
+	Fob Request Lock
+	Fob Request Unlock
+	Fob Trunk Open Button Pressed
+	Fob Trunk Open Request
+	Fuel Consumption Rate Units Selected
+	Fuel Sensor 1
+	Fuel Sensor 2
+	Hand Brake Disengaged
+	Hand Brake Engaged
+	Hazard Button Pressed
+	Hvac Driver Air Dash Baffle Open Percentage
+	Hvac Driver Air Floor Baffle Open Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Air Windscreen Baffle Open Percentage
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temp
+	Hvac Passenger Air Dash Baffle Open Percentage
+	Hvac Passenger Air Floor Baffle Open Percentage
+	Hvac Passenger Air Mode
+	Hvac Passenger Air Windscreen Baffle Open Percentage
+	Hvac Passenger Cabin Fan Speed Setting
+	Hvac Passenger Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Passenger Climate Zone Set Temp
+	Internal Air Temp
+	Internal Temp
+	Language
+	Left Rear Window Fully Open
+	Left Rear Window Lock Active
+	Left Rear Window Partially Open
+	Light Sensor
+	Lock State
+	Momentary Turn Signals Length 1X Option Selected
+	Momentary Turn Signals Length 3X Option Selected
+	Outside Air Temp
+	Parking Light Delay Value After Exit
+	Passenger Door Locked With Button
+	Passenger Door Locked With Key Fob
+	Passenger Door Open
+	Passenger Door Open
+	Passenger Door Unlocked
+	Passenger Side Dash Light Sensor
+	Passenger Window Fully Open
+	Passenger Window In Motion Down
+	Passenger Window In Motion Up
+	Passenger Window Open Percentage
+	Passenger Window Partially Open
+	Passenger Window Switch Position
+	Pressure Unit Setting
+	Rear Defrost Active
+	Rear Defroster Active
+	Rear Driver Door Locked With Button
+	Rear Driver Door Locked With Key Fob
+	Rear Driver Door Open
+	Rear Driver Door Open
+	Rear Driver Door Unlocked
+	Rear Left Window Switch Position
+	Rear Passenger Door Open
+	Rear Passenger Door Unlocked
+	Rear Passenger Driver Door Locked With Button
+	Rear Passenger Driver Door Locked With Key Fob
+	Rear Passenger Driver Door Open
+	Right Rear Window Fully Open
+	Right Rear Window Lock Active
+	Right Rear Window Partially Open
+	Right Rear Window Switch Position
+	Roll Down Rear Left Window
+	Roll Down Rear Right Window
+	Roll Driver Window Down
+	Roll Driver Window Up
+	Roll Passenger Window Down
+	Roll Passenger Window Up
+	Roll Up Rear Left Window
+	Roll Up Rear Right Window
+	Seatbelt Tell Tales
+	Sport Mode Active
+	Sport Mode Not Active
+	Sunroof Fully Open
+	Sunroof Partially Open
+	Sunroof Percentage Open
+	Sunroof Rear Partially Open
+	Sunroof Switch State
+	Temp Format Option C Selected
+	Temp Format Option F Selected
+	Time Format 12 Hours Selected
+	Time Format 24 Hours Selected
+	Traction Control Off Button State Pressed
+	Trunk Latch Open Request
+	Turn Signal Latched
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Turn Signal Temporarily Active
+	Unlock All Doors On Fob Unlock Request Option Selected
+	Unlock Driver Door On Fob Unlock Request Option Selected
+	Vin
+	Water Temperature
+	Window Lock Active
+	Window Lock Button Pressed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Driver Unlocked
+	Door Front Passenger Locked
+	Door Front Passenger Open
+	Door Front Passenger Unlocked
+	Door Rear Driver Locked
+	Door Rear Driver Open
+	Door Rear Driver Unlocked
+	Door Rear Passenger Locked
+	Door Rear Passenger Open
+	Door Rear Passenger Unlocked
+	Driver Heated Seat Button Pressed
+	Driver Heated Seat Level
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Cabin Fan Load Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Passenger Air Mode
+	Hvac Passenger Cabin Fan Speed Set
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Temperature Set
+	Hvac Recirculation
+	Hvac Sync Active
+	Left Arrow Being Pressed
+	Passenger Heated Seat Button Pressed
+	Passenger Heated Seat Level
+	Radio Eject Button Active
+	Radio Favorites Button 1 Press
+	Radio Favorites Button 1 Touch
+	Radio Favorites Button 2 Press
+	Radio Favorites Button 2 Touch
+	Radio Favorites Button 3 Press
+	Radio Favorites Button 3 Touch
+	Radio Favorites Button 4 Press
+	Radio Favorites Button 4 Touch
+	Radio Favorites Button 5 Press
+	Radio Favorites Button 5 Touch
+	Radio Favorites Button 6 Press
+	Radio Favorites Button 6 Touch
+	Radio Favorites Button 7 Press
+	Radio Favorites Button 7 Touch
+	Radio Favorites Button 8 Press
+	Radio Favorites Button 8 Touch
+	Radio Fm Am Button Active
+	Radio Mode Button Active
+	Radio Power Button Active
+	Radio Volume Knob Turn Clockwise
+	Radio Volume Knob Turn Count
+	Read Backup Camera Active
+	Read Backup Camera Brightness Percentage
+	Read Backup Camera Contrast Percentage
+	Read Backup Camera Inactive
+	Read Last Seat Position Auto Active
+	Read Last Seat Position Auto Inactive
+	Read Parking Aid Lines Active
+	Read Parking Obstacle Detection Active
+	Right Arrow Being Pressed
+	Window Front Left Auto Resistance Detection
+	Window Front Left Fully Open
+	Window Front Left Moving Down
+	Window Front Left Moving Up
+	Window Front Left Open Percent
+	Window Front Left Partially Open
+	Window Front Right Auto Resistance Detection
+	Window Front Right Fully Open
+	Window Front Right Moving Down
+	Window Front Right Moving Up
+	Window Front Right Open Percentage
+	Window Front Right Partially Open
+	Window Rear Left Auto Resistance Detection
+	Window Rear Left Fully Open
+	Window Rear Left Locked By Driver
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open Percentage
+	Window Rear Left Partially Open
+	Window Rear Right Auto Resistance Detection
+	Window Rear Right Fully Open
+	Window Rear Right Locked By Driver
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open Percentage
+	Window Rear Right Partially Open
+	Write Backup Camera Active
+	Write Backup Camera Brightness Percentage
+	Write Backup Camera Contrast Percentage
+	Write Backup Camera Inactive
+	Write Last Seat Position Auto Active
+	Write Last Seat Position Auto Inactive
+	Write Parking Aid Lines Active
+	Write Parking Obstacle Detection Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acc Active
+	Car Moving
+	Crank Active
+	Idrive Button Being Pressed
+	Idrive Dial Pushed Down Active
+	Idrive Dial Pushed Left Active
+	Idrive Dial Pushed Right Active
+	Idrive Dial Pushed Up Active
+	Idrive Last Button Pressed Back
+	Idrive Last Button Pressed Media
+	Idrive Last Button Pressed Menu
+	Idrive Last Button Pressed Nav
+	Idrive Last Button Pressed Option
+	Idrive Last Button Pressed Radio
+	Idrive Last Button Pressed Tel
+	Ignition Active
+	Key In
+	Read Acoustic Signal For Lock And Unlock Active
+	Read Acoustic Signal For Lock And Unlock Inactive
+	Read Ambient Light Set To Classic
+	Read Ambient Light Set To Modern
+	Read Coasting Setting Active
+	Read Daytime Running Lamps Active
+	Read Daytime Running Lamps Inactive
+	Read Eco Pro Climate Ctrl Active
+	Read Eco Pro Speed Warning Active
+	Read Flash For Lock And Unlock Active
+	Read Flash For Lock And Unlock Inactive
+	Read Interior Light Brightness
+	Read Key Button Setting All Doors
+	Read Single Turn Signal Active
+	Read Triple Turn Signal Active
+	Read Welcome Lights Active
+	Read Welcome Lights Inactive
+	Vehicle Speed
+	Window Front Left Driver Switch
+	Window Front Right Driver Switch
+	Window Front Right Switch
+	Window Rear Driver Lock Button Active
+	Window Rear Left Driver Switch
+	Window Rear Left Switch
+	Window Rear Right Driver Switch
+	Window Rear Right Switch
+	Write Acoustic Signal For Lock And Unlock Active
+	Write Acoustic Signal For Lock And Unlock Inactive
+	Write Ambient Light Set To Classic
+	Write Ambient Light Set To Modern
+	Write Coasting Setting Active
+	Write Eco Pro Climate Ctrl Active
+	Write Eco Pro Speed Warning Active
+	Write Flash For Lock And Unlock Active
+	Write Flash For Lock And Unlock Inactive
+	Write Interior Light Brightness
+	Write Key Button Setting All Doors
+	Write Single Turn Signal Active
+	Write Triple Turn Signal Active
+	Write Welcome Lights Active
+	Write Welcome Lights Inactive
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Air Pressure
+	Ambient Air Temp
+	Auto Start Stop Off
+	Auto Start Stop Off
+	Auto Start Stop On
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Passenger Open
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driver Seatbelt Buckled
+	Engine Load Alt
+	Engine Speed
+	Engine Torque
+	Fuel Level In Liters
+	Fuel Range
+	Hill Assist Active
+	Ic Backlight Level
+	Ignition Button Pressed
+	Left Steering Wheel Up Down Switch
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Powermode
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate Alt
+	Throttle Position Alt
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Transmission Engaged
+	Transmission Temperature
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Speed
+	Vin Part 3
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position Sensor
+	Acceleration Lateral
+	Acceleration Latitude
+	Acceleration Longitudinal
+	Adad Stalk Cruise Control Position
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
+	Ambient Air Temperature
+	Baro Challenge
+	Battery Voltage
+	Boost Pressure Displayed
+	Brake Active
+	Brake Emergency Active
+	Brake Pedal Position
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Pressure Wheel Rear Left
+	Brake Pressure Wheel Rear Right
+	Clutch Pressed
+	Clutch Pressed Alt
+	Convertible Switch Pressed Down
+	Convertible Switch Pressed Up
+	Coolant Temperature
+	Cruise Control Active
+	Cruise Control Not Set
+	Cruise Control Set
+	Cruise Control Set Speed
+	Cruise Pedal Active
+	Cruise Pedal Inactive
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Ajar Alt
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Ajar Alt
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Left Ajar Alt
+	Door Rear Passenger Open
+	Door Rear Right Ajar Alt
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driving Mode Eco Pro Active
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed Alt
+	Engine Torque
+	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off Alt
+	Esp Traction Control On Alt
+	Fuel Level In Liters
+	Fuel Range
+	Gearbox Shift In Progress
+	Hill Descent Control Active
+	Hvac System Active
+	Ic Backlight Level
+	Key Fob Lock Command
+	Key Fob Open Hatch Command
+	Key Fob Panic
+	Key Fob Unlock Command
+	Lighting Interior Dome Active
+	Lighting Interior Rear Dome Active
+	Lights Brake Active
+	Lights Front Fog Active
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Parking Active
+	Lights Rear Fog Active
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Low Fuel Tell Tale Active
+	Manual Gear Displayed
+	Manual Mode Active
+	Manual Mode Started
+	Mil Tell Tale Active
+	Odometer
+	Oil Pressure Displayed
+	Oil Temperature
+	Output Shaft Speed
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Partial Network Information 0003
+	Partial Network Information 0004
+	Pedal Accelerator Position
+	Pedal Accelerator Position Kickdown
+	Pedal Accelerator Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressed
+	Power Mode Acc
+	Power Mode Change Request
+	Power Mode Crank Active
+	Power Mode Key In
+	Power Mode Key Out
+	Power Mode Recently Changed
+	Power Mode Run
+	Power Mode Run
+	Power Mode Start Button Pressed
+	Power Steering Consistency Count
+	Prndl And Gear
+	Reverse Engage
+	Reverse Not Engage
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Shift Lever Position In Drive
+	Shift Lever Position In Neutral
+	Shift Lever Position In Park
+	Shift Lever Position In Reverse
+	Sport Mode Active
+	Sport Mode Not Active
+	Stalk Lights Bc Button Pressed
+	Stalk Lights Position High Beam Flash Pulled
+	Stalk Lights Position High Beam Pushed
+	Stalk Lights Position Turn Left Full
+	Stalk Lights Position Turn Left Partial
+	Stalk Lights Position Turn Right Full
+	Stalk Lights Position Turn Right Partial
+	Steering Wheel Angle
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Alt
+	Steering Wheel Button Ac Pressed
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button Disc Change Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Pick Up Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	Sun Roof In Motion
+	Target Idle Speed
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Torque Dynamic Cruise Control Demand
+	Torque Max Available
+	Torque Minimum Available
+	Torque Spark Negative Available
+	Torque Spark Positive Available
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
+	Traction Control Off
+	Transmission Temperature
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Moving
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Single Swipe
+	Wiper Front Speed Adjustment
+	Wiper Front State
+	Wiper Front Washer Active
+	Wiper Rear Active
+	Wiper Rear Washer Active
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Conditioning Active
+	Ambient Air Temp
+	Average Fuel Consumed
+	Average Speed
+	Baro Challenge
+	Brightness Level
+	Brightness Switch Backward
+	Brightness Switch Forward D
+	Car Alarm Equipped
+	Current Gearbox State
+	Date Format
+	Date Format Option Period Selected
+	Date Format Option Slash Selected
+	Distance Units Kilometers Selected
+	Distance Units Miles Selected
+	Driver Door Open
+	Driver Side Dash Light Sensor
+	Driver Window Fully Open
+	Driver Window In Motion Down
+	Driver Window In Motion Up
+	Driver Window Open Percentage
+	Driver Window Partially Open
+	Driver Window Switch Position
+	External Range
+	Feedback On Remote Lock Options
+	Feedback On Remote Unlock Options
+	Fob Panic Trigger
+	Fob Request Lock
+	Fob Request Unlock
+	Fob Trunk Open Button Pressed
+	Fob Trunk Open Request
+	Fuel Consumption Rate Units Selected
+	Fuel Sensor 1
+	Fuel Sensor 2
+	Hand Brake Disengaged
+	Hand Brake Engaged
+	Hazard Button Pressed
+	Hvac Driver Air Dash Baffle Open Percentage
+	Hvac Driver Air Floor Baffle Open Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Air Windscreen Baffle Open Percentage
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temp
+	Hvac Passenger Air Dash Baffle Open Percentage
+	Hvac Passenger Air Floor Baffle Open Percentage
+	Hvac Passenger Air Mode
+	Hvac Passenger Air Windscreen Baffle Open Percentage
+	Hvac Passenger Cabin Fan Speed Setting
+	Hvac Passenger Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Passenger Climate Zone Set Temp
+	Internal Air Temp
+	Internal Temp
+	Language
+	Left Rear Window Fully Open
+	Left Rear Window Lock Active
+	Left Rear Window Partially Open
+	Light Sensor
+	Lock State
+	Momentary Turn Signals Length 1X Option Selected
+	Momentary Turn Signals Length 3X Option Selected
+	Outside Air Temp
+	Parking Light Delay Value After Exit
+	Passenger Door Locked With Button
+	Passenger Door Locked With Key Fob
+	Passenger Door Open
+	Passenger Door Open
+	Passenger Door Unlocked
+	Passenger Side Dash Light Sensor
+	Passenger Window Fully Open
+	Passenger Window In Motion Down
+	Passenger Window In Motion Up
+	Passenger Window Open Percentage
+	Passenger Window Partially Open
+	Passenger Window Switch Position
+	Pressure Unit Setting
+	Rear Defrost Active
+	Rear Defroster Active
+	Rear Driver Door Locked With Button
+	Rear Driver Door Locked With Key Fob
+	Rear Driver Door Open
+	Rear Driver Door Open
+	Rear Driver Door Unlocked
+	Rear Left Window Switch Position
+	Rear Passenger Door Open
+	Rear Passenger Door Unlocked
+	Rear Passenger Driver Door Locked With Button
+	Rear Passenger Driver Door Locked With Key Fob
+	Rear Passenger Driver Door Open
+	Right Rear Window Fully Open
+	Right Rear Window Lock Active
+	Right Rear Window Partially Open
+	Right Rear Window Switch Position
+	Roll Down Rear Left Window
+	Roll Down Rear Right Window
+	Roll Driver Window Down
+	Roll Driver Window Up
+	Roll Passenger Window Down
+	Roll Passenger Window Up
+	Roll Up Rear Left Window
+	Roll Up Rear Right Window
+	Seatbelt Tell Tales
+	Sport Mode Active
+	Sport Mode Not Active
+	Sunroof Fully Open
+	Sunroof Partially Open
+	Sunroof Percentage Open
+	Sunroof Rear Partially Open
+	Sunroof Switch State
+	Temp Format Option C Selected
+	Temp Format Option F Selected
+	Time Format 12 Hours Selected
+	Time Format 24 Hours Selected
+	Traction Control Off Button State Pressed
+	Trunk Latch Open Request
+	Turn Signal Latched
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Turn Signal Temporarily Active
+	Unlock All Doors On Fob Unlock Request Option Selected
+	Unlock Driver Door On Fob Unlock Request Option Selected
+	Vin
+	Water Temperature
+	Window Lock Active
+	Window Lock Button Pressed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Driver Unlocked
+	Door Front Passenger Locked
+	Door Front Passenger Open
+	Door Front Passenger Unlocked
+	Door Rear Driver Locked
+	Door Rear Driver Open
+	Door Rear Driver Unlocked
+	Door Rear Passenger Locked
+	Door Rear Passenger Open
+	Door Rear Passenger Unlocked
+	Driver Heated Seat Button Pressed
+	Driver Heated Seat Level
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Cabin Fan Load Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Passenger Air Mode
+	Hvac Passenger Cabin Fan Speed Set
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Temperature Set
+	Hvac Recirculation
+	Hvac Sync Active
+	Left Arrow Being Pressed
+	Passenger Heated Seat Button Pressed
+	Passenger Heated Seat Level
+	Radio Eject Button Active
+	Radio Favorites Button 1 Press
+	Radio Favorites Button 1 Touch
+	Radio Favorites Button 2 Press
+	Radio Favorites Button 2 Touch
+	Radio Favorites Button 3 Press
+	Radio Favorites Button 3 Touch
+	Radio Favorites Button 4 Press
+	Radio Favorites Button 4 Touch
+	Radio Favorites Button 5 Press
+	Radio Favorites Button 5 Touch
+	Radio Favorites Button 6 Press
+	Radio Favorites Button 6 Touch
+	Radio Favorites Button 7 Press
+	Radio Favorites Button 7 Touch
+	Radio Favorites Button 8 Press
+	Radio Favorites Button 8 Touch
+	Radio Fm Am Button Active
+	Radio Mode Button Active
+	Radio Power Button Active
+	Radio Volume Knob Turn Clockwise
+	Radio Volume Knob Turn Count
+	Read Backup Camera Active
+	Read Backup Camera Brightness Percentage
+	Read Backup Camera Contrast Percentage
+	Read Backup Camera Inactive
+	Read Last Seat Position Auto Active
+	Read Last Seat Position Auto Inactive
+	Read Parking Aid Lines Active
+	Read Parking Obstacle Detection Active
+	Right Arrow Being Pressed
+	Window Front Left Auto Resistance Detection
+	Window Front Left Fully Open
+	Window Front Left Moving Down
+	Window Front Left Moving Up
+	Window Front Left Open Percent
+	Window Front Left Partially Open
+	Window Front Right Auto Resistance Detection
+	Window Front Right Fully Open
+	Window Front Right Moving Down
+	Window Front Right Moving Up
+	Window Front Right Open Percentage
+	Window Front Right Partially Open
+	Window Rear Left Auto Resistance Detection
+	Window Rear Left Fully Open
+	Window Rear Left Locked By Driver
+	Window Rear Left Moving Down
+	Window Rear Left Moving Up
+	Window Rear Left Open Percentage
+	Window Rear Left Partially Open
+	Window Rear Right Auto Resistance Detection
+	Window Rear Right Fully Open
+	Window Rear Right Locked By Driver
+	Window Rear Right Moving Down
+	Window Rear Right Moving Up
+	Window Rear Right Open Percentage
+	Window Rear Right Partially Open
+	Write Backup Camera Active
+	Write Backup Camera Brightness Percentage
+	Write Backup Camera Contrast Percentage
+	Write Backup Camera Inactive
+	Write Last Seat Position Auto Active
+	Write Last Seat Position Auto Inactive
+	Write Parking Aid Lines Active
+	Write Parking Obstacle Detection Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acc Active
+	Car Moving
+	Crank Active
+	Idrive Button Being Pressed
+	Idrive Dial Pushed Down Active
+	Idrive Dial Pushed Left Active
+	Idrive Dial Pushed Right Active
+	Idrive Dial Pushed Up Active
+	Idrive Last Button Pressed Back
+	Idrive Last Button Pressed Media
+	Idrive Last Button Pressed Menu
+	Idrive Last Button Pressed Nav
+	Idrive Last Button Pressed Option
+	Idrive Last Button Pressed Radio
+	Idrive Last Button Pressed Tel
+	Ignition Active
+	Key In
+	Read Acoustic Signal For Lock And Unlock Active
+	Read Acoustic Signal For Lock And Unlock Inactive
+	Read Ambient Light Set To Classic
+	Read Ambient Light Set To Modern
+	Read Coasting Setting Active
+	Read Daytime Running Lamps Active
+	Read Daytime Running Lamps Inactive
+	Read Eco Pro Climate Ctrl Active
+	Read Eco Pro Speed Warning Active
+	Read Flash For Lock And Unlock Active
+	Read Flash For Lock And Unlock Inactive
+	Read Interior Light Brightness
+	Read Key Button Setting All Doors
+	Read Single Turn Signal Active
+	Read Triple Turn Signal Active
+	Read Welcome Lights Active
+	Read Welcome Lights Inactive
+	Vehicle Speed
+	Window Front Left Driver Switch
+	Window Front Right Driver Switch
+	Window Front Right Switch
+	Window Rear Driver Lock Button Active
+	Window Rear Left Driver Switch
+	Window Rear Left Switch
+	Window Rear Right Driver Switch
+	Window Rear Right Switch
+	Write Acoustic Signal For Lock And Unlock Active
+	Write Acoustic Signal For Lock And Unlock Inactive
+	Write Ambient Light Set To Classic
+	Write Ambient Light Set To Modern
+	Write Coasting Setting Active
+	Write Eco Pro Climate Ctrl Active
+	Write Eco Pro Speed Warning Active
+	Write Flash For Lock And Unlock Active
+	Write Flash For Lock And Unlock Inactive
+	Write Interior Light Brightness
+	Write Key Button Setting All Doors
+	Write Single Turn Signal Active
+	Write Triple Turn Signal Active
+	Write Welcome Lights Active
+	Write Welcome Lights Inactive
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Air Pressure
+	Ambient Air Temp
+	Auto Start Stop Off
+	Auto Start Stop Off
+	Auto Start Stop On
+	Brake Pressure Front
+	Brake Pressure Rear
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch 3 Active
+	Coolant Temperature
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Door Driver Open
+	Door Hood Open
+	Door Passenger Open
+	Door Rear Driver Open
+	Door Rear Passenger Open
+	Door Trunk Open
+	Doors Locked
+	Doors Unlocked
+	Driver Seatbelt Buckled
+	Engine Load Alt
+	Engine Speed
+	Engine Torque
+	Fuel Level In Liters
+	Fuel Range
+	Hill Assist Active
+	Ic Backlight Level
+	Ignition Button Pressed
+	Left Steering Wheel Up Down Switch
+	Lock Button Pressed
+	Lock State Not Changing
+	Locking Command
+	Mil Tell Tale Active
+	Odometer
+	Oil Temperature
+	Paddle Shifter Status
+	Parking Brake Disengaging
+	Parking Brake Engaged
+	Parking Brake Engaging
+	Passenger Seatbelt Buckled
+	Pedal Accelerator
+	Powermode
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
+	Steering Wheel Angle Alt
+	Steering Wheel Angle Rate Alt
+	Throttle Position Alt
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	Transmission Engaged
+	Transmission Temperature
+	Transmission Torque
+	Turn Signal Left Active
+	Turn Signal Right Active
+	Unlock Button Pressed
+	Unlocking Command
+	Vehicle Speed
+	Vin Part 3
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right

@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mazda 'Cx-30' (2019)
-Signals:
+Signal Descriptions:
 	Accelerator Depressed Message
 	Accessory Power Off Command
 	At Transmission Malfunction Dash Prompt Active
@@ -177,7 +177,7 @@ Signals:
 	Warning Left Lane Indicator
 	Warning Right Lane Indicator
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Not Active
 	Acceleration Lateral
 	Acceleration Longitudinal
@@ -388,7 +388,7 @@ Signals:
 	Water Must Be Drained From Fuel Filter Prompt
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Switch Active
 	Brake Switch Not Active
 	Coupling Solenoid Duty Cycle
@@ -400,9 +400,11 @@ Signals:
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
+No qualifying signals found on this network
+
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Brake Pedal Not Pressed
 	Brake Pedal Not Pressed With Engine On

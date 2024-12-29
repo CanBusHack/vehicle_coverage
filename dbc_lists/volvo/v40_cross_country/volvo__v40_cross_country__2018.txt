@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volvo 'V40 Cross Country' (2018)
-Signals:
+Signal Descriptions:
 	Accelerometer Lateral
 	Brake Switch Active
 	Date Displayed Day
@@ -81,7 +81,7 @@ Signals:
 	Wiper Windshield Int Speed Level
 	Wiper Windshield Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Esc Failure Service Required Dash Prompt Message Active
 	Abs Tell Tale Not Active
 	Accelerator Pedal Application Rate
@@ -320,7 +320,7 @@ Signals:
 	Wiper Failure Service Required Message Active
 	Wiper Intermittent Speed Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerometer Lateral
 	Accelerometer Longitudinal
 	Adas Button Cancel Pressed
@@ -420,7 +420,7 @@ Signals:
 	Wiper Windshield Speed
 	Wiper Windshield Sprayer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Esc Failure Service Required Dash Prompt Message Active
 	Abs Tell Tale Not Active
 	Adaptive Headlights Tell Tale Active

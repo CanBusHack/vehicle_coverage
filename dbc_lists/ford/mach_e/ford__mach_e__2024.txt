@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Mach E' (2024)
-Signals:
+Signal Descriptions:
 	Ac Compressor Battery System Error State
 	Ac Compressor Battery Voltage Error State
 	Ac Compressor Internal Performance Error State
@@ -39,7 +39,7 @@ Signals:
 	Yaw Rate Linear
 	Yaw Rate Nonlinear
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	 120V Outlet Generator Mode On
 	 120V Outlet Low Powermode On
 	Abs Active
@@ -577,7 +577,7 @@ Signals:
 	Wiper Heater
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accessory Delay Power Active
 	Actual Ambient Air Temperature
 	Air Flow Hvac

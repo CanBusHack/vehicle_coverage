@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Fiat 'Tipo' (2019)
-Signals:
+Signal Descriptions:
 	Abs In Action
 	Accelerator Application Rate
 	Accelerator Pedal Pressed
@@ -160,7 +160,7 @@ Signals:
 	Writing System Settings Brake Control
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Pressure
 	Auto Start Stop Off
 	Battery State Extremely Low

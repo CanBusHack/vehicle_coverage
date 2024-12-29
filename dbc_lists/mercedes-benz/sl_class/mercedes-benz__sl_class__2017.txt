@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Sl Class' (2017)
-Signals:
+Signal Descriptions:
 	Ac Active
 	Accelerator Pedal Position
 	Acoustic Lock Setting Active
@@ -102,7 +102,7 @@ Signals:
 	Wheel Moving In Reverse
 	Wipers In Motion
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Accelerator Pedal Position
 	Acoustic Lock Setting Active
@@ -242,7 +242,7 @@ Signals:
 	Wiper Movement Speed
 	Yellow Auto Start Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Bag 3Rd Row Left Malfunction Consult Workshop Dash Prompt
 	Air Bag 3Rd Row Right Malfunction Consult Workshop Dash Prompt
 	Air Bag Front Left Malfunction Service Required Dash Prompt

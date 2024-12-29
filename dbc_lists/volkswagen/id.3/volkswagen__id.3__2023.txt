@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volkswagen 'Id.3' (2023)
-Signals:
+Signal Descriptions:
 	Audio Reduction For Radio Started
 	Auto Lights
 	Cruise Control Set Speed
@@ -43,7 +43,7 @@ Signals:
 	Side Mirrors Folding Out
 	Trigger Image Activation
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal
 	Accelerator Pedal Let Off Sig
 	Accelerator Pedal Not Pressed
@@ -61,7 +61,7 @@ Signals:
 	Time Seconds
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Care Active
 	Brake Fluid Warning Active
 	Brake Pad Warning Active
@@ -88,7 +88,7 @@ Signals:
 	Warning Light Active
 	Washer Fluid Low Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Aag Trailer Recognized
 	Ac Switch Active
 	Acc Button Pressed
@@ -195,7 +195,7 @@ Signals:
 	Wiper Right Stock Position Low
 	Wiper Speed Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Acc Key Position Active
 	Automatic Off Active
@@ -334,7 +334,7 @@ Signals:
 	Yaw Rate
 	Yaw Value Is Negative
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brake Not Pressed
 	Rear Traffic Driver Assist Active
 	Steering Angle

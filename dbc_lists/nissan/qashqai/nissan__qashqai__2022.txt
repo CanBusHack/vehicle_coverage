@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Nissan 'Qashqai' (2022)
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Auto Door Lock Changing Setting
 	Auto Headlight Turn On Setting Changing To
@@ -88,7 +88,7 @@ Signals:
 	Wipers Speed Sensing Changing To Off
 	Wipers Speed Sensing Changing To On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral S1
 	Acceleration Lateral S2
 	Acceleration Longitudinal S1
@@ -243,7 +243,7 @@ Signals:
 	Window Rear Right Status
 	Window Sunroof Open Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accent Lighting Brightness Change Setting
 	Cruise Control Off
 	Cruise Control On
@@ -274,7 +274,7 @@ Signals:
 	Traffic Sign Icon Display 2
 	Traffic Sign Icon Display 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	All Doors Locked
 	Any Door Open
 	Asc Off
@@ -321,7 +321,7 @@ Signals:
 	Up Shift Paddle Pressed
 	Wiper Frequency Position
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brightness For Head Up Display Changing Setting
 	Camera Unavailable Camera Temperature High Dash Prompt Active
 	Chassis Control System Error See Owners Manual Dash Prompt Active

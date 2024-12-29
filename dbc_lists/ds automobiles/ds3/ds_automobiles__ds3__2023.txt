@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ds Automobiles 'Ds3' (2023)
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac Compressor Active
 	Acceleration Lateral
@@ -136,7 +136,7 @@ Signals:
 	Window Windshield Defroster Acti
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Adas Cruise Control Speed Limite
 	Adas Speed Limiter Cruise Contro
 	Chime Style

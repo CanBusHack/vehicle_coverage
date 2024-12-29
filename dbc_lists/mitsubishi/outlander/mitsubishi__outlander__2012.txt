@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Outlander' (2012)
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Absolute Load Value
 	Ac Clutch
@@ -119,7 +119,7 @@ Signals:
 	Wheel Tcl Drive Abs Active
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Ac Condenser Fan
 	Ac Condenser Fan Active

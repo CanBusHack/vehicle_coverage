@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Mirage' (2023)
-Signals:
+Signal Descriptions:
 	Actual Gear
 	Adas Cruise Control Active
 	Adas Cruise Control Speed Set

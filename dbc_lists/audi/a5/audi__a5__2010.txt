@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Audi 'A5' (2010)
-Signals:
+Signal Descriptions:
 	Abs Active
 	Acc Key Position Active
 	Acc Pedal Position
@@ -59,7 +59,7 @@ Signals:
 	Yaw Value Is Negative
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Key Position Active
 	Acc Selected
 	Ambient Air Temperature Sensor
@@ -279,7 +279,7 @@ Signals:
 	Wiper Service Position State On
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Lamp Active
 	Acc Display Active
@@ -407,7 +407,7 @@ Signals:
 	Yaw Value Is Negative
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Lamp Active
 	Acc Display Active
@@ -484,7 +484,7 @@ Signals:
 	Yaw Value Is Negative
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Lamp Active
 	Absolute Load Value

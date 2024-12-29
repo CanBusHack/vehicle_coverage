@@ -1,11 +1,11 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Ford 'Galaxy' (2016)
-Signals:
+Signal Descriptions:
 	Cylinder Head Temperature
 	Pitch
 	Roll
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Ac High Side Pressure
 	Ac Recirculation
@@ -270,7 +270,7 @@ Signals:
 	Window Lockout Switch
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Abs Active Freshness
 	Abs Failure

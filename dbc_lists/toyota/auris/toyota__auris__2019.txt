@@ -1,13 +1,13 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Toyota 'Auris' (2019)
-Signals:
+Signal Descriptions:
 	 4 Requested Engine Torque
 	Real Engine Torque
 	Roll Gradient  Left To Right
 	Steer Override Active
 	Steering Wheel Torque
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	A C Active
 	A C Command
 	A C Room Temp
@@ -348,7 +348,7 @@ Signals:
 	Year 1
 	Year 2
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Not Pressed
 	Cancel Cruise Control Request
 	Cruise Target Acceleration

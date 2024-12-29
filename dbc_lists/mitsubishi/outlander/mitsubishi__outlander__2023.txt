@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Outlander' (2023)
-Signals:
+Signal Descriptions:
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Adas Cruise Control Speed Set
@@ -134,7 +134,7 @@ Signals:
 	Window Rear Right Status
 	Window Sunroof Open Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Brightness For Head Up Display Changing Setting
 	Dash Prompt Front Radar Not Available
 	Dash Prompt Land Keep Assist Warning Not Available System Malfunction
@@ -162,7 +162,7 @@ Signals:
 	Speed Adjust By Route Setting Changing To On
 	Speed Limit Assist Change Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Accelerator Pedal Position
 	Accent Lighting Brightness Change Setting
 	Cruise Control Active
@@ -212,7 +212,7 @@ Signals:
 	Wipers Speed Sensing Changing To Off
 	Wipers Speed Sensing Changing To On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Asc Off
 	Brake Switch Not Pressed
 	Brake Switch Pressed
@@ -238,7 +238,7 @@ Signals:
 	Unable To Manually Shift
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Auto Door Lock Changing Setting
 	Battery Voltage
 	Blind Spot Active Assist Setting Changing To Off

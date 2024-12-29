@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Vito Combi' (2020)
-Signals:
+Signal Descriptions:
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Accelerator Pedal Position S1
@@ -232,7 +232,7 @@ Signals:
 	Wiper Front Sprayer Level 2
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Ac Active
 	Auto Lamp Function Inoperative Dash Prompt
 	Auto Start Stop Active
@@ -297,7 +297,7 @@ Signals:
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
 	Traction Control Off Button Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acc Pedal Position
 	Apply Brake To Shift From P Dash Prompt
 	Battery Voltage
@@ -325,7 +325,7 @@ Signals:
 	Transmission Malfunction Dash Prompt
 	Transmission Malfunction Stop Dash Prompt
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Tell Tale Active
 	Accelerator Pedal Position
 	Acoustic Lock Feedback Setting Activated

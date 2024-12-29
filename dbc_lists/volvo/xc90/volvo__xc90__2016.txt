@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Volvo 'Xc90' (2016)
-Signals:
+Signal Descriptions:
 	Acceleration Data Raw Safe Validity
 	Accelerator Pedal Rate
 	Accelerator Pedal Rate Validity
@@ -254,7 +254,7 @@ Signals:
 	Yaw Stability Control Active
 	Yaw Stability Control Active Validity
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	All Doors Closed
 	Any Door Ajar
 	Change Bit
@@ -345,7 +345,7 @@ Signals:
 	Trunk Static
 	Vin 1Of3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Left Turn Signal Active
 	Radar Rear Center Right Distance
 	Radar Rear Corner Left Distance
@@ -359,7 +359,7 @@ Signals:
 	Trunk Ajar
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Data Raw Safe Validity
 	Acceleration Lateral
 	Acceleration Lateral Quality Flag
@@ -565,7 +565,7 @@ Signals:
 	Yaw Stability Control Active
 	Yaw Stability Control Active Validity
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Abs Active
 	Acc Pedal Not Pressed
 	Allwheel Drive Reduced Performance Front Wheel Drive Only Dash Prompt
@@ -592,7 +592,7 @@ Signals:
 	Reduced Performance Max Vehicle Speed Limited Dash Prompt
 	Shift Lever Position Displayed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Awd Prompt Reduced Performance Forward D Only
 	Dashboard Illumination Level
 	Date Displayed Day

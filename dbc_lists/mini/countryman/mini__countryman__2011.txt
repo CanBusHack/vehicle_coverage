@@ -1,6 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Mini 'Countryman' (2011)
-Signals:
+Signal Descriptions:
 	Absolute Throttle Position Sensor
 	Acceleration Lateral
 	Acceleration Latitude
@@ -169,7 +169,7 @@ Signals:
 	Wiper Rear Washer Active
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Air Conditioning Active
 	Ambient Air Temp
 	Average Fuel Consumed

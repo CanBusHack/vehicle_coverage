@@ -1,94 +1,6 @@
-Version 0.1 Copyright CanBusHack 2024
+Version 0.2 Copyright CanBusHack 2024
 Platform: Nissan 'Rogue' (2021)
-Signals:
-	Accelerator Pedal Position
-	Auto Door Lock Changing Setting
-	Auto Headlight Turn On Setting Changing To
-	Battery Voltage
-	Blind Spot Active Assist Setting Changing To Off
-	Blind Spot Active Assist Setting Off
-	Blind Spot Warning Setting Changing To Off
-	Blind Spot Warning Setting Off
-	Compression Ratio Power To Eco
-	Cruise Control Active
-	Cruise Control Active Set
-	Cruise Control Set Speed
-	Cruise Control Standby Active
-	Cvt Hot Power Reduced Dash Prompt Active
-	Cvt Malfunction Service Now Dash Prompt Active
-	Cvt Malfunction Stop Safely Dash Prompt Active
-	Cvt Stop The Vehicle Dash Prompt Active
-	Distance Units Set To Miles
-	Driver Assistance Rear Cross Traffic Alert Changing Setting To Off
-	Driver Assistance Rear Cross Traffic Alert Changing Setting To On
-	Driver Side Hvac Blower Position
-	Driver Side Hvac Percentage Of Heat
-	Eco Customize Air Conditioning Setting Changing To Off
-	Eco Customize Air Conditioning Setting Changing To On
-	Eco Customize Cruise Control Setting Changing To Off
-	Eco Customize Cruise Control Setting Changing To On
-	Emergency Brake Front Setting Changing To Off
-	Emergency Brake Front Setting Changing To On
-	Engine Speed
-	Fahrenheit Selelected
-	Front Max Defrost Active
-	Front Windshield Heater Active
-	Instrument Cluster Back Light Level
-	Key Fob Button Pressed
-	Lane Departure Prevention Setting Changing To Off
-	Lane Departure Prevention Setting Off
-	Lane Departure Warning Setting Changing To Off
-	Lane Departure Warning Setting Off
-	Light Off Delay Setting Changing To
-	Lighting Welcome Light Changing Setting To Off
-	Lighting Welcome Light Changing Setting To On
-	Locking Auto Door Unlock
-	Locking Driver Selective Unlock Changing Setting To Off
-	Locking Driver Selective Unlock Changing Setting To On
-	Locking Ext Door Switch Changing Setting To Off
-	Locking Ext Door Switch Changing Setting To On
-	Locking Selective Unlock Changing Setting To Off
-	Locking Selective Unlock Changing Setting To On
-	Outside Air Tempature
-	Parking Sensor Distance Setting Change
-	Parking Sensor Volume Setting Change
-	Parking Sensors Auto Show Sonar Changing Setting To Off
-	Parking Sensors Auto Show Sonar Changing Setting To On
-	Parking Sensors Front Changing Setting To Off
-	Parking Sensors Front Changing Setting To On
-	Parking Sensors Moving Object Changing Setting To Off
-	Parking Sensors Moving Object Changing Setting To On
-	Parking Sensors Rear Changing Setting To Off
-	Parking Sensors Rear Changing Setting To On
-	Passenger Side Hvac Blower Position
-	Passenger Side Hvac Percentage Of Heat
-	Rear Defrost Active
-	Rear Driver Seat Buckled
-	Rear Driver Seat Unbuckled
-	Rear Middle Seat Buckled
-	Rear Middle Seat Unbuckled
-	Rear Passenger Seat Buckled
-	Rear Passenger Seat Unbuckled
-	Rear Seat Alert Changing Setting
-	Service Cvt Power Reduced Dash Prompt Active
-	Shift Down Tell Tale Active
-	Shift Up Tell Tale Active
-	Speed Adjust By Route Setting Changing To Off
-	Speed Adjust By Route Setting Changing To On
-	Speed Limit Assist Change Setting
-	Steering Assist Setting Changing To Off
-	Steering Assist Setting On
-	Steering Vibration Setting Changing To
-	Traffic Sign Setting Changing Setting To Off
-	Traffic Sign Setting Changing Setting To On
-	Wipers Rain Sensor Changing Setting To Off
-	Wipers Rain Sensor Changing Setting To On
-	Wipers Reverse Link Changing Setting To Off
-	Wipers Reverse Link Changing Setting To On
-	Wipers Speed Sensing Changing To Off
-	Wipers Speed Sensing Changing To On
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
+Signal Descriptions:
 	Acceleration Lateral S1
 	Acceleration Lateral S2
 	Acceleration Longitudinal S1
@@ -104,6 +16,7 @@ Signals:
 	Adas Steering Assist Status Switching On
 	Ambient Temperature Displayed
 	Asc Traction Control Off
+	Auto Start Stop System Ready
 	Battery Voltage
 	Blind Spot Assist Intervention Status Switching Off
 	Blind Spot Assist Intervention Status Switching On
@@ -113,11 +26,10 @@ Signals:
 	Brake Emergency System On
 	Brake Emergency System Status Switching Off
 	Brake Emergency System Status Switching On
-	Brake Rear Auto Off
 	Central Lock Active
+	Closed Throttle Switch On
 	Compression Ratio Power To Eco
 	Coolant Temperature
-	Cross Traffic Rear Alert System Off
 	Cvt Prompt Service Power Reduced
 	Cvt Warning Hot Power Reduced
 	Cvt Warning Malfunction Service Now
@@ -137,24 +49,26 @@ Signals:
 	Door Trunk Open
 	Driver Cross Traffic Alert Switching Off
 	Driver Cross Traffic Alert Switching On
+	Driver Seat Belt Fastened
+	Driver Seat Belt Unfastened
+	Driver Seat Hvac Setting
 	Driving Mode Selected
 	Engine Oil Lamp Active
 	Engine Oil Temperature
 	Engine Speed
 	Engine Torque
+	Front Wheel Speed Average
 	Fuel Economy Average
 	Fuel Economy Average Unit
 	Fuel Level
 	Gear Engaged
 	Headlights Stalk Position High Beam
 	Headlights Stalk Position Low Beam
-	Hvac Ac Off
-	Hvac Ac On
-	Hvac Fan Duty
-	Hvac Window Heater Front Active
-	Hvac Window Heater Rear Active
+	Heated Steering Wheel Off
+	Heated Steering Wheel On
 	Ignition On
 	Intake Air Temperature
+	Keyfob Button Pressed
 	Lamp Indicator Left Active
 	Lamp Indicator Right Active
 	Lane Assist Intervention Switching Off
@@ -172,19 +86,15 @@ Signals:
 	Odometer
 	Park Assist Sensors Moving Object Switching Off
 	Park Assist Sensors Moving Object Switching On
-	Park Assist Sonal Volume
-	Park Assist Sonar Auto Show Off
-	Park Assist Sonar Auto Show On
 	Park Assist Sonar Auto Show Switching Off
 	Park Assist Sonar Auto Show Switching On
-	Park Assist Sonar Distance
-	Park Assist Sonar Rear On
 	Parking Brake Button Pressed Down
 	Parking Brake Button Pulled Up
 	Parking Brake Disengaged
 	Parking Brake Engaged
 	Passenger Occupancy Sensor Detected
 	Passenger Occupancy Sensor Not Detected
+	Passenger Seat Hvac Setting
 	Pedal Accelerator Position S1
 	Pedal Accelerator Position S2
 	Pedal Brake Not Pressed
@@ -195,6 +105,17 @@ Signals:
 	Prndl Position 2
 	Prndl Position Not In Park
 	Prndl Position Park
+	Rescirculation Active
+	Rescirculation Not Active
+	Seat Back Moving Back
+	Seat Back Moving Forward D
+	Seat Moving Backword
+	Seat Moving Down
+	Seat Moving Forward D
+	Seat Moving Up
+	Seat Setting Button Press
+	Seat Tilt Down
+	Seat Tilt Up
 	Seatbelt Front Passenger Fastened
 	Seatbelt Front Passenger No Violation
 	Seatbelt Front Passenger Unfastened
@@ -215,7 +136,6 @@ Signals:
 	Steering Wheel Adas Panel Button Pressed
 	Steering Wheel Angle
 	Steering Wheel Motor Rotation Speed
-	Throttle Position Closed
 	Tire Pressure Front Left
 	Tire Pressure Front Right
 	Tire Pressure Rear Left
@@ -242,136 +162,4 @@ Signals:
 	Window Rear Left Status
 	Window Rear Right Status
 	Window Sunroof Open Level
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
-	Accent Lighting Brightness Change Setting
-	Cruise Control Off
-	Cruise Control On
-	Cruise Control Set Speed States
-	Cruise Control Set Speed Unit Dependent
-	Dash Prompt Front Radar Not Available
-	Dash Prompt Land Keep Assist Warning Not Available System Malfunction
-	Dash Prompt Side Radar Obstruction
-	Dash Prompt Steering Lane Keep Warning Not Available
-	Dash Prompt Warning Malfunction See Owner Manual
-	Electric Parking Brake Button Pressed Down
-	Electric Parking Brake Button Pulled Up
-	Electric Parking Brake Engaged
-	Lane Keep Assist Lines Green Displayed
-	Lane Keep Assist Lines Grey Displayed
-	Lane Keep Assist Tell Tale Active
-	Lane Keep Display Active
-	Lane Keep Tone Alert
-	Max Speed In Circle
-	Max Speed In Km
-	Max Speed In Speed Limit Sign
-	Max Speed Sign In Yellow
-	Maximum Speed 1
-	Maximum Speed 2
-	Steering Assist Off Active
-	Steering Assist Off Active Check
-	Traffic Sign Icon Display 1
-	Traffic Sign Icon Display 2
-	Traffic Sign Icon Display 3
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
-	All Doors Locked
-	Any Door Open
-	Asc Off
-	Brake Switch Not Pressed
-	Brake Switch Pressed
-	Car In Motion
-	Current Driving Mode
-	Down Shift Paddle Pressed
-	Driver Door Closed
-	Driver Door Open
-	Front Axel Driving Forward D
-	Front Wiper Active
-	Front Wiper Not Wiping
-	Front Wiper Signal Wipe Active
-	Front Wiper Speed Stock Position Pushing Down Level
-	Hazards Active
-	Hba Auto Headlight System On
-	Headlight Switch Position
-	High Beams Active
-	Left Indicator Active
-	Left Indicator Status Active
-	Low Beams Active
-	Manual Active
-	Passenger Door Closed
-	Passenger Door Open
-	Passenger Seatbelt
-	Prndl
-	Prndl Display
-	Rear Axel Driving Forward D
-	Rear Driver Door Closed
-	Rear Driver Door Open
-	Rear Passenger Door Closed
-	Rear Passenger Door Open
-	Rear Wiper Constant Active
-	Rear Wiper Intermittent Active
-	Request Driving Mode
-	Right Indicator Active
-	Right Indicator Status Active
-	Right Steering Wheel Buttons
-	Transmission Speed
-	Trunk Closed
-	Trunk Open
-	Unable To Manually Shift
-	Up Shift Paddle Pressed
-	Wiper Frequency Position
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signals:
-	Brightness For Head Up Display Changing Setting
-	Camera Unavailable Camera Temperature High Dash Prompt Active
-	Chassis Control System Error See Owners Manual Dash Prompt Active
-	Driver Assistance Driver Attention Alert Changing Setting To Off
-	Driver Assistance Driver Attention Alert Changing Setting To On
-	Driver Hvac Tempature Setting In C
-	Driver Hvac Tempature Setting In F
-	Eco Icon Active
-	Emergency Brake Rear Setting Changing To Off
-	Emergency Brake Rear Setting Changing To On
-	Engine Coolant Temp
-	Front Center
-	Front Collision Avoidence Unavailable Camera Temperature High Dash Prompt Active
-	Front Follow Radar Currently Unavailable Dash Prompt Active
-	Front Hvac Fan Speed
-	Front Left Corner
-	Front Right
-	Green Hold Tell Tale Active
-	Instrument Cluster Parking Sensor Screen Active
-	Instrument Cluster Parking Sensor Screen Front Center Area Active
-	Instrument Cluster Parking Sensor Screen Front Left Area Active
-	Instrument Cluster Parking Sensor Screen Front Right Area Active
-	Instrument Cluster Parking Sensor Screen Rear Center Area Active
-	Instrument Cluster Parking Sensor Screen Rear Left Area Active
-	Instrument Cluster Parking Sensor Screen Rear Right Area Active
-	Left Yellow Lane Keep Line Blinking Active
-	Off Road Icon Active
-	Parking Sensor States
-	Passenger Hvac Tempature Setting In C
-	Passenger Hvac Tempature Setting In F
-	Press Brake Pedal To Prevent Rolling Dash Prompt Active
-	Radar Alarm Frequency
-	Radar Alarm Solid Tone Active
-	Radar Beep Active
-	Radar Beep Active 1
-	Radar Beep Active 2
-	Radar System Currently Unavailable Dash Prompt Active
-	Rear Center
-	Rear Left Corner
-	Rear Right Corner Red  4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
-	Right Yellow Lane Keep Line Blinking Active
-	Side Radar Blinking Tell Tale Active
-	Side Radar Malfunction See Owners Manual Dash Prompt Active
-	Side Radar System Off Dash Prompt Active
-	Side Radar Tell Tale Active
-	Sport Icon Active
-	Steering Unavailable Low Visibility Dash Prompt Active
-	Unavailable Seatbelt Is Unfastened Dash Prompt Active
-	Unavailable Side Radar Obstruction Dash Prompt Active
-	Unavailable Slippery Road Dash Prompt Active
-	Vdc Setting Changing To Off
-	Vdc Setting Changing To On
-	White Hold Tell Tale Active
+	Wipers Not In Motion

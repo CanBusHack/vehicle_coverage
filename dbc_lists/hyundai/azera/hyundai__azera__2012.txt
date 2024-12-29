@@ -1,0 +1,147 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Hyundai 'Azera' (2012)
+Signal Descriptions:
+	Abs Active
+	Abs Diagnostic Mode Active
+	Abs System Failure
+	Abs Tell Tale
+	Absolute Throttle Position
+	Ac Compressor Active
+	Ac Compressor On
+	Ac Compressor Requested
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Accelerator Pedal Position
+	Adaptive Cruise Control Active
+	Adas Cruise Control Active
+	Adas Cruise Control Canceled
+	Adas Cruise Control Enabled
+	Adas Cruise Control Speed Set
+	Adas Follow Distance Level
+	Alternator Request
+	Barometric Pressure
+	Battery Alternator Duty Cycle
+	Battery Voltage
+	Brake Control System Failure
+	Brake Control System On
+	Brake Hill Control Active
+	Brake Pressure
+	Brake Stability Distribution Sys
+	Brake State
+	Buzzer Requested Active Alt
+	Calculated Engine Load
+	Change Oil Tell Tale Active
+	Clutch Functioning
+	Cruise Control Set Tell Tale On
+	Cruise Control Tell Tale On
+	Current Gear
+	Current Spark Ignition Time
+	Diagnostics Inhibited
+	Distance Left
+	Distance Right
+	Door Trunk Open
+	Driver Door Open
+	Driver Seatbelt Not Buckled
+	Ebd Tell Tale
+	Electronic Control Failure
+	Electronic Control Gear Override
+	Electronic Stability Control Bra
+	Electronic Stability Vehicle Act
+	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Fai
+	Electronic Stability Vehicle In
+	Engine Coolant Temperature
+	Engine Current Torque
+	Engine Displacement
+	Engine Drag Torque Control Activ
+	Engine Limp Mode Active
+	Engine Requested Torque
+	Engine Running
+	Engine Running State
+	Engine Speed
+	Engine Speed
+	Engine Speed Sensor Failure
+	Engine Start Stop System State
+	Engine Stop Acknowledgement
+	Engine Temperature
+	Engine Torque Alt
+	Engine Type
+	Estimated Manual Gear Display
+	Fuel Cut Off Active
+	Fuel Cut Tell Tale
+	Fuel System Status
+	Gear Engaged Number
+	Gear Shift Down Tell Tale Active
+	Gear Shift Up Tell Tale Active
+	Glow Plug State
+	Glow Plug Tell Tale On
+	Headlights Active
+	Hill Start Active
+	Hill Start System Failure
+	Hill Start System On
+	Hood Open
+	Hvac Blower Active
+	Hvac Max Blower
+	Ignition Status
+	Immobilizer State
+	Immobilizer Status
+	Intake Air Temperature
+	Intake Manifold Absolute Pressure
+	Key On
+	Lateral G Sensor
+	Lights Indicator Left On
+	Lights Indicator Right On
+	Long Term Fuel Trim Bank 1
+	Mil Lamp Active
+	Mil Tell Tale Alt
+	Network Management 4Wd Command
+	Network Management 4Wd Key
+	Network Management 4Wd Sleep Indic
+	Outside Air Temp
+	Overdrive Off
+	Parking Brake Button Pulled Up
+	Parking Brake Button Pushed Down
+	Parking Brake Disengage Request
+	Parking Brake Disengaged
+	Parking Brake Engaged
+	Passenger Seatbelt Not Buckled
+	Prndl
+	Raw Engine Torque
+	Relative Throttle Position
+	Requested Torq Fix Or Delete
+	Seat Front Passenger Occupancy Detected
+	Seat Front Passenger Occupancy Not Violation
+	Shift In Progress
+	Short Term Fuel Trim Bank 1
+	Speed Limit Active
+	Sport Mode Active
+	Steering Wheel Angle
+	Steering Wheel Angle Gradient
+	Steering Wheel Torque
+	Target Engine Idle Speed
+	Tcs Off Tell Tale
+	Tcs Tell Tale
+	Torque Measurement Error
+	Traction Control System Active
+	Traction Control System And Esp
+	Traction Control System Disabled
+	Traction Control System Failure
+	Traction Control System Gear Cha
+	Transmission Control Can Message
+	Transmission Output Speed
+	Vehicle Battery Failed
+	Vehicle Speed
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Left Mph
+	Wheel Speed Front Right
+	Wheel Speed Front Right Mph
+	Wheel Speed Rear Left
+	Wheel Speed Rear Left Mph
+	Wheel Speed Rear Right
+	Wheel Speed Rear Right Mph
+	Wipers Speed Auto
+	Wipers Speed High
+	Wipers Speed Low
+	Yaw Rate
+	Yaw Rate
