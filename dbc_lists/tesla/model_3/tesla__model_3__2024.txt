@@ -309,36 +309,36 @@ Signal Descriptions:
 	DI Vehicleholdstate
 	DI Vehiclespeed
 	DI Vehiclestandstillrqst
-	DIS Aps12V
-	DIS Dccaptmax
-	DIS Dissipation
-	DIS Drivepowermax
-	DIS Inletpassivetargett
-	DIS Invertertmax
-	DIS Limitbasespeed
-	DIS Limitdccaptemp
-	DIS Limitdeltafluidtemp
-	DIS Limitdiff
-	DIS Limitdischargepower
-	DIS Limitgracefulpoweroff
-	DIS Limitigbtjuncttemp
-	DIS Limitinvertertemp
-	DIS Limitlimpmode
-	DIS Limitmotorcurrent
-	DIS Limitmotorspeed
-	DIS Limitmotorvoltage
-	DIS Limitpcbtemp
-	DIS Limitpoletemp
-	DIS Limitstatortemp
-	DIS Limittcdrive
-	DIS Limittcregen
-	DIS Mechpower
-	DIS Motorcurrent
-	DIS Noflowneeded
-	DIS Pcbtmax
-	DIS Statorcurrent
-	DIS Statortmax
-	DIS Vbat
+	DISPLAY (OR DISABLED OR DISTANCE) Aps12V
+	DISPLAY (OR DISABLED OR DISTANCE) Dccaptmax
+	DISPLAY (OR DISABLED OR DISTANCE) Dissipation
+	DISPLAY (OR DISABLED OR DISTANCE) Drivepowermax
+	DISPLAY (OR DISABLED OR DISTANCE) Inletpassivetargett
+	DISPLAY (OR DISABLED OR DISTANCE) Invertertmax
+	DISPLAY (OR DISABLED OR DISTANCE) Limitbasespeed
+	DISPLAY (OR DISABLED OR DISTANCE) Limitdccaptemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitdeltafluidtemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitdiff
+	DISPLAY (OR DISABLED OR DISTANCE) Limitdischargepower
+	DISPLAY (OR DISABLED OR DISTANCE) Limitgracefulpoweroff
+	DISPLAY (OR DISABLED OR DISTANCE) Limitigbtjuncttemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitinvertertemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitlimpmode
+	DISPLAY (OR DISABLED OR DISTANCE) Limitmotorcurrent
+	DISPLAY (OR DISABLED OR DISTANCE) Limitmotorspeed
+	DISPLAY (OR DISABLED OR DISTANCE) Limitmotorvoltage
+	DISPLAY (OR DISABLED OR DISTANCE) Limitpcbtemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitpoletemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limitstatortemp
+	DISPLAY (OR DISABLED OR DISTANCE) Limittcdrive
+	DISPLAY (OR DISABLED OR DISTANCE) Limittcregen
+	DISPLAY (OR DISABLED OR DISTANCE) Mechpower
+	DISPLAY (OR DISABLED OR DISTANCE) Motorcurrent
+	DISPLAY (OR DISABLED OR DISTANCE) Noflowneeded
+	DISPLAY (OR DISABLED OR DISTANCE) Pcbtmax
+	DISPLAY (OR DISABLED OR DISTANCE) Statorcurrent
+	DISPLAY (OR DISABLED OR DISTANCE) Statortmax
+	DISPLAY (OR DISABLED OR DISTANCE) Vbat
 	EPB Brakeapplied
 	EPB Brakelight
 	EPB Ignorecan

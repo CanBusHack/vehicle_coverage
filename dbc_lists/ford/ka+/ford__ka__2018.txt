@@ -291,7 +291,7 @@ Signal Descriptions:
 	Trailer Light Hitch
 	Trailer Sway Event
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Input Shaft Torque
 	VIN Part 1
 	Vehicle Not Moving

@@ -62,7 +62,7 @@ Signal Descriptions:
 	Gearbox Engaged
 	Gearbox Shifting
 	Glow Plug Tell Tale Active
-	Glowplug Tell Tale Blinking Active
+	Glow Plug Tell Tale Blinking Active
 	Headlight Low Beam On
 	Headlight Low Beam On
 	High Beam Active

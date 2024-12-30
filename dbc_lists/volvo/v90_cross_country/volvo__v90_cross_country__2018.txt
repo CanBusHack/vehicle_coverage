@@ -120,7 +120,7 @@ Signal Descriptions:
 	Powertrain Torque At Rear Axle Max Request Validity
 	Powertrain Torque At Rear Axle Min Request
 	Powertrain Torque At Rear Axle Min Request Validity
-	Powertrain Torque At Wheel Front Act Group Validity
+	Powertrain Torque At Wheel Front Active Group Validity
 	Powertrain Torque At Wheel Front Left
 	Powertrain Torque At Wheel Front Right
 	Powertrain Torque At Wheels Front Quality
@@ -164,7 +164,7 @@ Signal Descriptions:
 	Transmission Flt Indication
 	Transmission Flt Indication Validity
 	Transmission Gear
-	Transmission Gear Act Validity
+	Transmission Gear Active Validity
 	Transmission Gear Ratio
 	Transmission Gear Ratio Target Validity
 	Transmission Gear Ratio Validity
@@ -174,7 +174,7 @@ Signal Descriptions:
 	Transmission Intervention
 	Transmission Intervention Validity
 	Transmission Lock Up State
-	Transmission Lock Up State Act Validity
+	Transmission Lock Up State Active Validity
 	Transmission Lock Up State Target
 	Transmission Lock Up State Target Validity
 	Transmission Mode

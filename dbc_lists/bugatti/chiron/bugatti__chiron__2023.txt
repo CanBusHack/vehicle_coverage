@@ -136,16 +136,16 @@ Signal Descriptions:
 	ADAS Button Plus Pressed
 	ADAS Button Res Pressed
 	ADAS Button Set Pressed
-	ADAS Cross Traffic Rear Sensors Act
+	ADAS Cross Traffic Rear Sensors Active
 	ADAS Cruise Control Fault
 	ADAS Cruise Control Speed Set
 	ADAS Speed Limiter Active
 	ADAS Speed Limiter Standby
 	Acceleration Lateral Timer Tic
 	Acceleration Longitudinal
-	Actuators Combination Test Act
-	Airbag Actuator Test Act
-	Airbag Diagnostics Mode Act
+	Actuators Combination Test Active
+	Airbag Actuator Test Active
+	Airbag Diagnostics Mode Active
 	Airbag Disabled
 	Airbag System Fault
 	Airbag Tell Tale Active
@@ -156,7 +156,7 @@ Signal Descriptions:
 	Battery Voltage
 	Brake Boost Active
 	Brake Function Active
-	Brake Intervention Release Act
+	Brake Intervention Release Active
 	Brake Light ECD Active
 	Brake Message Time Out
 	Brake Pressure
@@ -166,7 +166,7 @@ Signal Descriptions:
 	Brake Tell Tale Active
 	Brake Temperature Warning Active
 	Brake Torque Input Error
-	Charge Control Tell Tale Act
+	Charge Control Tell Tale Active
 	Child Seat Detected
 	Clutch Pressed
 	Crash Front Detected
@@ -185,20 +185,20 @@ Signal Descriptions:
 	ESP Tell Tale Active
 	Engine Acceleration
 	Engine Acceleration Positive
-	Engine Coolant Level Low Tell Tale Act
+	Engine Coolant Level Low Tell Tale Active
 	Engine Coolant Temperature
 	Engine Coolant Temperature Alt
-	Engine Coolant Temperature Warning Act
+	Engine Coolant Temperature Warning Active
 	Engine Cooling Fan Rate
-	Engine Oil Pressure Tell Tale Act
-	Engine Oil Pressure Warning Act
+	Engine Oil Pressure Tell Tale Active
+	Engine Oil Pressure Warning Active
 	Engine Oil Temperature
-	Engine Oil Temperature Protection Act
-	Engine Protection Overtemp Act
-	Engine Protection Transmission And Converter Act
+	Engine Oil Temperature Protection Active
+	Engine Protection Over-Temperature Active
+	Engine Protection Transmission And Converter Active
 	Engine Running
 	Engine Speed
-	Engine Speed Desired Priority System Act
+	Engine Speed Desired Priority System Active
 	Engine Speed Max Warning Configuration
 	Engine Speed Override
 	Engine Torque Info Inaccurate
@@ -212,23 +212,23 @@ Signal Descriptions:
 	Fuel Consumption Overflow
 	Fuel Cut Off Active
 	Fuel Level
-	Fuel Level Error Act
+	Fuel Level Error Active
 	Fuel Level Low Tell Tale Active
-	Fuel Level Low Warning Act
+	Fuel Level Low Warning Active
 	Fuel Stop Warning Active
 	Gear Reverse Engaged
 	Gear Torque Instant
 	Gear Torque Target
 	Gearbox EGS Request
 	Gearbox Gear Engaged
-	Gearbox Shift Act
+	Gearbox Shift Active
 	Gearbox Shift Interlock Tell Tale Active
-	Glowplug Active
+	Glow Plug Active
 	HVAC Compressor Off
 	HVAC Compressor Off Request Transmission
-	HVAC Compressor Power Reduction Act
+	HVAC Compressor Power Reduction Active
 	Headlights High Beam Active
-	Headlights High Temperature Warning Act
+	Headlights High Temperature Warning Active
 	Headlights Low Beam Active
 	Headlights Range Adjustment Active
 	Heated Exterior Mirrors Off
@@ -258,10 +258,10 @@ Signal Descriptions:
 	PRNDL Position
 	Parking Brake Engaged
 	Passenger Door Open
-	Pedal Accelerator Kickdown Switch Act
+	Pedal Accelerator Kickdown Switch Active
 	Pedal Accelerator Position
 	Pedal Accelerator Raw Position
-	Pedal Accelerator Release Act
+	Pedal Accelerator Release Active
 	Pedal Accelerator Released
 	Pedal Accelerator Value Inaccurate
 	Pedal Accelerator Value Inaccurate
@@ -273,11 +273,11 @@ Signal Descriptions:
 	Rear Driver Door Open
 	Rear Passenger Door Open
 	Seatbelt Front Driver Buckled Alt
-	Seatbelt Front Driver Switch Act
-	Seatbelt Front Driver Warning Act
+	Seatbelt Front Driver Switch Active
+	Seatbelt Front Driver Warning Active
 	Seatbelt Front Passenger Buckled Alt
-	Seatbelt Front Passenger Switch Act
-	Seatbelt Front Passenger Warning Act
+	Seatbelt Front Passenger Switch Active
+	Seatbelt Front Passenger Warning Active
 	Seatbelt Tell Tale Inactive
 	Second
 	Stalk Lights Position High Beam
@@ -305,7 +305,7 @@ Signal Descriptions:
 	Vehicle Speed
 	Vehicle Speed
 	Vehicle Speed Displayed
-	Vehicle Speed Signal Source Act
+	Vehicle Speed Signal Source Active
 	Water In Fuel Filter
 	Wheel Front Left Free
 	Wheel Front Right Free
@@ -355,9 +355,9 @@ Signal Descriptions:
 	Trailer Indicator Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Blind Spot Side Left Act
-	ADAS Blind Spot Side Right Act
-	ADAS Blind Spot System Act
+	ADAS Blind Spot Side Left Active
+	ADAS Blind Spot Side Right Active
+	ADAS Blind Spot System Active
 	ADAS Blind Spot System Standby
 	ADAS Cross Traffic Warn Status
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -497,16 +497,16 @@ Signal Descriptions:
 	ADAS Button Plus Pressed
 	ADAS Button Res Pressed
 	ADAS Button Set Pressed
-	ADAS Cross Traffic Rear Sensors Act
+	ADAS Cross Traffic Rear Sensors Active
 	ADAS Cruise Control Fault
 	ADAS Cruise Control Speed Set
 	ADAS Speed Limiter Active
 	ADAS Speed Limiter Standby
 	Acceleration Lateral Timer Tic
 	Acceleration Longitudinal
-	Actuators Combination Test Act
-	Airbag Actuator Test Act
-	Airbag Diagnostics Mode Act
+	Actuators Combination Test Active
+	Airbag Actuator Test Active
+	Airbag Diagnostics Mode Active
 	Airbag Disabled
 	Airbag System Fault
 	Airbag Tell Tale Active
@@ -517,7 +517,7 @@ Signal Descriptions:
 	Battery Voltage
 	Brake Boost Active
 	Brake Function Active
-	Brake Intervention Release Act
+	Brake Intervention Release Active
 	Brake Light ECD Active
 	Brake Message Time Out
 	Brake Pressure
@@ -527,7 +527,7 @@ Signal Descriptions:
 	Brake Tell Tale Active
 	Brake Temperature Warning Active
 	Brake Torque Input Error
-	Charge Control Tell Tale Act
+	Charge Control Tell Tale Active
 	Child Seat Detected
 	Clutch Pressed
 	Crash Front Detected
@@ -546,20 +546,20 @@ Signal Descriptions:
 	ESP Tell Tale Active
 	Engine Acceleration
 	Engine Acceleration Positive
-	Engine Coolant Level Low Tell Tale Act
+	Engine Coolant Level Low Tell Tale Active
 	Engine Coolant Temperature
 	Engine Coolant Temperature Alt
-	Engine Coolant Temperature Warning Act
+	Engine Coolant Temperature Warning Active
 	Engine Cooling Fan Rate
-	Engine Oil Pressure Tell Tale Act
-	Engine Oil Pressure Warning Act
+	Engine Oil Pressure Tell Tale Active
+	Engine Oil Pressure Warning Active
 	Engine Oil Temperature
-	Engine Oil Temperature Protection Act
-	Engine Protection Overtemp Act
-	Engine Protection Transmission And Converter Act
+	Engine Oil Temperature Protection Active
+	Engine Protection Over-Temperature Active
+	Engine Protection Transmission And Converter Active
 	Engine Running
 	Engine Speed
-	Engine Speed Desired Priority System Act
+	Engine Speed Desired Priority System Active
 	Engine Speed Max Warning Configuration
 	Engine Speed Override
 	Engine Torque Info Inaccurate
@@ -573,23 +573,23 @@ Signal Descriptions:
 	Fuel Consumption Overflow
 	Fuel Cut Off Active
 	Fuel Level
-	Fuel Level Error Act
+	Fuel Level Error Active
 	Fuel Level Low Tell Tale Active
-	Fuel Level Low Warning Act
+	Fuel Level Low Warning Active
 	Fuel Stop Warning Active
 	Gear Reverse Engaged
 	Gear Torque Instant
 	Gear Torque Target
 	Gearbox EGS Request
 	Gearbox Gear Engaged
-	Gearbox Shift Act
+	Gearbox Shift Active
 	Gearbox Shift Interlock Tell Tale Active
-	Glowplug Active
+	Glow Plug Active
 	HVAC Compressor Off
 	HVAC Compressor Off Request Transmission
-	HVAC Compressor Power Reduction Act
+	HVAC Compressor Power Reduction Active
 	Headlights High Beam Active
-	Headlights High Temperature Warning Act
+	Headlights High Temperature Warning Active
 	Headlights Low Beam Active
 	Headlights Range Adjustment Active
 	Heated Exterior Mirrors Off
@@ -619,10 +619,10 @@ Signal Descriptions:
 	PRNDL Position
 	Parking Brake Engaged
 	Passenger Door Open
-	Pedal Accelerator Kickdown Switch Act
+	Pedal Accelerator Kickdown Switch Active
 	Pedal Accelerator Position
 	Pedal Accelerator Raw Position
-	Pedal Accelerator Release Act
+	Pedal Accelerator Release Active
 	Pedal Accelerator Released
 	Pedal Accelerator Value Inaccurate
 	Pedal Accelerator Value Inaccurate
@@ -634,11 +634,11 @@ Signal Descriptions:
 	Rear Driver Door Open
 	Rear Passenger Door Open
 	Seatbelt Front Driver Buckled Alt
-	Seatbelt Front Driver Switch Act
-	Seatbelt Front Driver Warning Act
+	Seatbelt Front Driver Switch Active
+	Seatbelt Front Driver Warning Active
 	Seatbelt Front Passenger Buckled Alt
-	Seatbelt Front Passenger Switch Act
-	Seatbelt Front Passenger Warning Act
+	Seatbelt Front Passenger Switch Active
+	Seatbelt Front Passenger Warning Active
 	Seatbelt Tell Tale Inactive
 	Second
 	Stalk Lights Position High Beam
@@ -666,7 +666,7 @@ Signal Descriptions:
 	Vehicle Speed
 	Vehicle Speed
 	Vehicle Speed Displayed
-	Vehicle Speed Signal Source Act
+	Vehicle Speed Signal Source Active
 	Water In Fuel Filter
 	Wheel Front Left Free
 	Wheel Front Right Free
@@ -716,8 +716,8 @@ Signal Descriptions:
 	Trailer Indicator Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Blind Spot Side Left Act
-	ADAS Blind Spot Side Right Act
-	ADAS Blind Spot System Act
+	ADAS Blind Spot Side Left Active
+	ADAS Blind Spot Side Right Active
+	ADAS Blind Spot System Active
 	ADAS Blind Spot System Standby
 	ADAS Cross Traffic Warn Status

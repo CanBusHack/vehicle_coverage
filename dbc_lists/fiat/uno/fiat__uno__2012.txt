@@ -67,7 +67,7 @@ Signal Descriptions:
 	Gear Displayed
 	Gear Displayed Flashing
 	Gear Reverse Engaged
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Status
 	HVAC Defroster Rear On
 	HVAC Defroster Rear Tell Tale On
@@ -174,7 +174,7 @@ Signal Descriptions:
 	Dashboard Tell Tale Electric Power Steering Fault On
 	Dashboard Tell Tale Engine Oil Low Level On
 	Dashboard Tell Tale Engine Oil Low Pressure On
-	Dashboard Tell Tale Glowplug On
+	Dashboard Tell Tale Glow Plug On
 	Dashboard Tell Tale Low Battery Charge On
 	Dashboard Tell Tale Malfunction Flashing
 	Dashboard Tell Tale Malfunction On

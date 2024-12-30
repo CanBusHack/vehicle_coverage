@@ -46,8 +46,8 @@ Signal Descriptions:
 	Electronic Control Failure
 	Electronic Control Gear Override
 	Electronic Stability Control Bra
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Engine Coolant Temperature

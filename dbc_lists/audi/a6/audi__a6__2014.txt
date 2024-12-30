@@ -45,7 +45,7 @@ Signal Descriptions:
 	Fog Lights Active
 	Fuel Level
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Head Light Switch State
 	Hours
@@ -249,7 +249,7 @@ Signal Descriptions:
 	Fuel Tank Capacity
 	Fuel Tank Level Percent
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	HVAC Compress Active
 	Handbrake Active
 	Hazards Active

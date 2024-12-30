@@ -92,7 +92,7 @@ Signal Descriptions:
 	Average MPG Tank 00
 	Average MPG Total 00
 	Average Vehicle Speed
-	Brake Message Act
+	Brake Message Active
 	Brake Pressure
 	Brake Switch
 	Brake Switch Pressed
@@ -141,7 +141,7 @@ Signal Descriptions:
 	Front Left Corner Radar Distance
 	Front Left Wheel Speed
 	Front Passenger Seat Belt
-	Front Right Corner Radar Dis
+	Front Right Corner Radar Display (Or Disabled Or Distance)
 	Front Right Wheel Speed
 	Fuel Consumption Per 10 Injection
 	Gauge Cluster Back Light
@@ -162,7 +162,7 @@ Signal Descriptions:
 	Idle Up Signal Active
 	Ignition Cycle Count
 	In Revers Gear
-	Infotainment Setting Change Act
+	Infotainment Setting Change Active
 	Instrument Cluster Backlight Level
 	Intake Manifold Absolute Pressure
 	Key Fob Lock
@@ -332,7 +332,7 @@ Signal Descriptions:
 	Front Camera Unavailable Remove
 	Front Left Corner Radar Distance
 	Front Right Corner Radar Distance
-	Gauge Cluster Back Light And Dis
+	Gauge Cluster Back Light And Display (Or Disabled Or Distance)
 	Gear Indicator
 	Gear Indicator Drive 1
 	Gear Indicator Drive 2

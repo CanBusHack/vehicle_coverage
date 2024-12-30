@@ -55,7 +55,7 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Brake Switch Status
 	Brake System Failure Tell Tale On
-	Catalyst Temperature Overtemp Status
+	Catalyst Temperature Over-Temperature Status
 	Clutch Pedal Position Manual Transmission Only
 	Clutch Slip
 	Collision Preparation System Alert Only Tell Tale On

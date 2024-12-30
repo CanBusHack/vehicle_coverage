@@ -81,7 +81,7 @@ Signal Descriptions:
 	Door Right Sliding Display Status
 	Door Tailgate Open
 	Dyn Str Torque Overlay Fault
-	Dyn Str Torque Overlay Int Act
+	Dyn Str Torque Overlay Int Active
 	ECM Battery Voltage
 	ECM Vehicle Type
 	EPS Hands On Recognition
@@ -92,7 +92,7 @@ Signal Descriptions:
 	EV Pump State
 	Electronic Brake Active
 	Electronic Park Brake Activation Tel
-	Electronic Park Brake Warning Tellta
+	Electronic Park Brake Warning Tell Tale
 	Electronic Stability Control Control
 	Electronic Stability Program Tell Tale
 	Electronic Stability Program Torque
@@ -371,7 +371,7 @@ Signal Descriptions:
 	Vehicle Configuration Child Display Presen
 	Vehicle Configuration Country
 	Vehicle Configuration Cruise Control Prese
-	Vehicle Configuration Disable Clock Displa
+	Vehicle Configuration Disable Clock Display
 	Vehicle Configuration Door Alarm Present
 	Vehicle Configuration Dual Fuel Sensors
 	Vehicle Configuration ECO Tell Tale
@@ -394,7 +394,7 @@ Signal Descriptions:
 	Vehicle Configuration Light Load Tire Prs R
 	Vehicle Configuration Max Tire Psr Front
 	Vehicle Configuration Max Tire Psr Rear
-	Vehicle Configuration Maximum Vehicle Spee
+	Vehicle Configuration Maximum Vehicle Speed
 	Vehicle Configuration Model Year
 	Vehicle Configuration Multi Function Modul
 	Vehicle Configuration Non Registered TPIS
@@ -405,7 +405,7 @@ Signal Descriptions:
 	Vehicle Configuration PP Present
 	Vehicle Configuration Park Stop Present
 	Vehicle Configuration Parktronic System Con
-	Vehicle Configuration Parktronic System Dis
+	Vehicle Configuration Parktronic System Display (Or Disabled Or Distance)
 	Vehicle Configuration Perpendicular Park A
 	Vehicle Configuration Police Upfit
 	Vehicle Configuration Power Liftgate

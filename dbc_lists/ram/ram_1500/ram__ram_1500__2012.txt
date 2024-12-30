@@ -114,7 +114,7 @@ Signal Descriptions:
 	Engine Speed
 	Flash Lamp With Lock
 	Fuse Ignition Off Draw Active
-	Glowplug Warning Tell Tale Active
+	Glow Plug Warning Tell Tale Active
 	HVAC AC Active
 	HVAC AC Status Light Active
 	HVAC Blower Position Floor
@@ -291,7 +291,7 @@ Signal Descriptions:
 	Gear Current
 	Gear Displayed
 	Gear Target
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Active
 	HVAC AC Clutch Active
 	HVAC AC Request Active
@@ -423,7 +423,7 @@ Signal Descriptions:
 	Fuel Type
 	Gear Current
 	Gear Displayed
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Active
 	HVAC AC Clutch Active
 	Headlights Flash To Pass Active

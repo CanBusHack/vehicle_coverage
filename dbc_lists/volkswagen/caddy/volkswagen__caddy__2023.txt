@@ -57,7 +57,7 @@ Signal Descriptions:
 	Front Wiper Active
 	Fuel Level
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Hard Brake Press
 	Hazard Status Active
@@ -263,8 +263,8 @@ Signal Descriptions:
 	Fuel Parking Heater Control Active
 	Fuel Tank Warning Lamp Active
 	Gearbox Shifting Mode Manual
+	Glow Plug Lamp Active
 	Glow Plug Tell Tale Active
-	Glowplug Lamp Active
 	Handbrake Active
 	Hazard Button Pressed
 	Head Light Settings

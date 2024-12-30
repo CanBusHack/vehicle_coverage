@@ -114,7 +114,7 @@ Signal Descriptions:
 	Engine Speed
 	Flash Lamp With Lock
 	Fuse Ignition Off Draw Active
-	Glowplug Warning Tell Tale Active
+	Glow Plug Warning Tell Tale Active
 	HVAC AC Active
 	HVAC AC Status Light Active
 	HVAC Blower Position Floor
@@ -291,7 +291,7 @@ Signal Descriptions:
 	Fuel Type
 	Gear Current
 	Gear Displayed
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Active
 	HVAC AC Clutch Active
 	Headlights Flash To Pass Active
@@ -453,7 +453,7 @@ Signal Descriptions:
 	Gear Displayed
 	Gear Displayed Flashing
 	Gear Reverse Engaged
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Status
 	HVAC Defroster Rear On
 	HVAC Defroster Rear Tell Tale On
@@ -560,7 +560,7 @@ Signal Descriptions:
 	Dashboard Tell Tale Electric Power Steering Fault On
 	Dashboard Tell Tale Engine Oil Low Level On
 	Dashboard Tell Tale Engine Oil Low Pressure On
-	Dashboard Tell Tale Glowplug On
+	Dashboard Tell Tale Glow Plug On
 	Dashboard Tell Tale Low Battery Charge On
 	Dashboard Tell Tale Malfunction Flashing
 	Dashboard Tell Tale Malfunction On

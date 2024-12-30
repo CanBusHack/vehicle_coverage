@@ -78,7 +78,7 @@ Signal Descriptions:
 	Fuel Level
 	Gear Displayed Number
 	Glow Plug Tell Tale Active
-	Glowplug Tell Tale Blinking Active
+	Glow Plug Tell Tale Blinking Active
 	High Beam Active
 	Hours
 	Immobilizer Tell Tale Active

@@ -60,7 +60,7 @@ Signal Descriptions:
 	Center Right Rear Cnr Sen Range
 	Charging Voltage
 	Clutch Converter State
-	Coll Avoid Dis Forward Movement
+	Coll Avoid Display (Or Disabled Or Distance) Forward Movement
 	Compass Heading Tell Tale
 	Coolant Temperature
 	Cross Traffic System On

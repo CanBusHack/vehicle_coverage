@@ -249,7 +249,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -679,7 +679,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Sway Event
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged

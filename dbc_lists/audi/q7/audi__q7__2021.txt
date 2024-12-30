@@ -71,7 +71,7 @@ Signal Descriptions:
 	Front Wiper Mist Switch
 	Front Wipers Wash Switch
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Hard Brake Press
 	Head Light Settings
@@ -320,8 +320,8 @@ Signal Descriptions:
 	Fuel Tank Level Percent
 	Fuel Tank Warning Lamp Active
 	Gearbox Shifting Mode Manual
+	Glow Plug Lamp Active
 	Glow Plug Tell Tale Active
-	Glowplug Lamp Active
 	Handbrake Active
 	Head Light Settings
 	Heated Steering Wheel Level
@@ -674,7 +674,7 @@ Signal Descriptions:
 	Fuel Tank Capacity
 	Fuel Tank Level Percent
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Head Light Settings
 	Heated Mirrors Selected

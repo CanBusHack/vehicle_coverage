@@ -19,7 +19,7 @@ Signal Descriptions:
 	Adaptive Cruise Control
 	Adaptive Cruise Error Tell Tale
 	Adaptive Cruise Follow Vehicle
-	Adaptive Park Assist Act Side
+	Adaptive Park Assist Active Side
 	Adaptive Park Assist Chime
 	Airbag Deployment Emergency Call
 	Airbag Deployment Event Type
@@ -522,7 +522,7 @@ Signal Descriptions:
 	AWD System Tell Tale On
 	Accelerator Pedal Position
 	Actual Current
-	Adaptive Park Assist Act Side
+	Adaptive Park Assist Active Side
 	Adaptive Park Assist Chime
 	Airbag Deployment Emergency Call
 	Airbag Deployment Event Type

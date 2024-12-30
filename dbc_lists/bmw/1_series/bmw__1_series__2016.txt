@@ -240,7 +240,7 @@ Signal Descriptions:
 	Drive Seat Warmer Button Pre
 	Driver Climate Control Temperature
 	Driver Door Ajar
-	Driver Or Passenger Light Act
+	Driver Or Passenger Light Active
 	Driver Seat Adjust Back 0000
 	Driver Seat Adjust Back Rest
 	Driver Seat Adjust Backwards
@@ -315,7 +315,7 @@ Signal Descriptions:
 	Passenger Seat Heater Level
 	Passenger Seat Warmer Button
 	Rear Fog Lights Active
-	Rear Interior Dome Light Act
+	Rear Interior Dome Light Active
 	Rear Left Door Ajar
 	Rear Left Window Fully Open
 	Rear Left Window Locked

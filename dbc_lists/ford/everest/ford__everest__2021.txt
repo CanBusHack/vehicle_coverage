@@ -210,7 +210,7 @@ Signal Descriptions:
 	Traction Control Switch Pressed
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -629,7 +629,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -889,7 +889,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -1157,7 +1157,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -1587,7 +1587,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Sway Event
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged
@@ -1911,7 +1911,7 @@ Signal Descriptions:
 	Trailer Light Hitch
 	Trailer Sway Event
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Input Shaft Torque
 	VIN Part 1
 	Vehicle Not Moving
@@ -2027,7 +2027,7 @@ Signal Descriptions:
 	Center Right Rear Cnr Sen Range
 	Charging Voltage
 	Clutch Converter State
-	Coll Avoid Dis Forward Movement
+	Coll Avoid Display (Or Disabled Or Distance) Forward Movement
 	Compass Heading Tell Tale
 	Coolant Temperature
 	Cross Traffic System On
@@ -2326,7 +2326,7 @@ Signal Descriptions:
 	Adaptive Cruise Control
 	Adaptive Cruise Error Tell Tale
 	Adaptive Cruise Follow Vehicle
-	Adaptive Park Assist Act Side
+	Adaptive Park Assist Active Side
 	Adaptive Park Assist Chime
 	Airbag Deployment Emergency Call
 	Airbag Deployment Event Type
@@ -2829,7 +2829,7 @@ Signal Descriptions:
 	AWD System Tell Tale On
 	Accelerator Pedal Position
 	Actual Current
-	Adaptive Park Assist Act Side
+	Adaptive Park Assist Active Side
 	Adaptive Park Assist Chime
 	Airbag Deployment Emergency Call
 	Airbag Deployment Event Type
@@ -3457,7 +3457,7 @@ Signal Descriptions:
 	Pitch Rate
 	Power Liftgate Enabled
 	Power Liftgate State
-	Power Reduction Overtemp
+	Power Reduction Over-Temperature
 	Quick Drop Driver Door Window
 	Quiescent Battery Draw
 	RCM Tell Tale
@@ -4281,7 +4281,7 @@ Signal Descriptions:
 	Trailer Hitch Light
 	Trailer Hitch Light
 	Trans And Steering Interlock
-	Trans Shifter Interlock Shift Act
+	Trans Shifter Interlock Shift Active
 	Transmission Active Shift
 	Transmission Clutch
 	Transmission Clutch Engaged

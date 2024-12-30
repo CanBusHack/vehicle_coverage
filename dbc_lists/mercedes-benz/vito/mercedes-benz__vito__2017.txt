@@ -112,7 +112,7 @@ Signal Descriptions:
 	Fuel Range
 	Fuel Rate
 	Fuel Tell Tale Level Low Active
-	Glowplug Tell Tale On
+	Glow Plug Tell Tale On
 	HVAC AC Off
 	HVAC Blower Duty
 	HVAC Blower Speed Max

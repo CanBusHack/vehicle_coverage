@@ -64,8 +64,8 @@ Signal Descriptions:
 	Driver Seatbelt Status
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Engine Coolant Temperature

@@ -135,8 +135,8 @@ Signal Descriptions:
 	ECO Tell Tale Active
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Engine Displacement
@@ -299,7 +299,7 @@ Signal Descriptions:
 	Torque Min Max Ratio
 	Torque Minimum
 	Torque Percentage
-	Traction Control Brake Light Act
+	Traction Control Brake Light Active
 	Traction Control System Active
 	Traction Control System And ESP
 	Traction Control System Disabled
@@ -410,7 +410,7 @@ Signal Descriptions:
 	Adaptive Cruise Following Level
 	Adaptive Cruise Speed Setting
 	Adaptive Cruise Vehicle Ahead
-	Automatic Defrost Flashing Tellta
+	Automatic Defrost Flashing Tell Tale
 	Automatic Display
 	B1 S1 O2 Voltage
 	B1 S2 O2 Voltage
@@ -459,8 +459,8 @@ Signal Descriptions:
 	Electronic Parking Brake Switched Pushed
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Electronic Throttle Control Duty
@@ -485,7 +485,7 @@ Signal Descriptions:
 	Front Left Tire Pressure
 	Front Left Tire Pressure Tell Tale
 	Front Right Tire Pressure
-	Front Right Tire Pressure Tellta
+	Front Right Tire Pressure Tell Tale
 	Front Window Defrost Tell Tale Ac
 	Fuel Cut Off Active
 	Fuel Cut Tell Tale

@@ -186,7 +186,7 @@ Signal Descriptions:
 	INT Wiper Setting
 	Interior Back Light Level
 	Manual Gear
-	ODO
+	ODOMETER
 	Outside Temperature
 	PRNDL D
 	PRNDL N

@@ -326,7 +326,7 @@ Signal Descriptions:
 	Pitch Rate
 	Power Liftgate Enabled
 	Power Liftgate State
-	Power Reduction Overtemp
+	Power Reduction Over-Temperature
 	Quick Drop Driver Door Window
 	Quiescent Battery Draw
 	RCM Tell Tale

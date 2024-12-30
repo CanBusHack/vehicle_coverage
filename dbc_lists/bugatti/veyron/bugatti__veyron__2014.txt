@@ -334,7 +334,7 @@ Signal Descriptions:
 	Fuel Level Liters
 	Fuel Tank Warning Lamp Active
 	Gear Temperature
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Hours
 	Ignition Key Position Active
@@ -440,7 +440,7 @@ Signal Descriptions:
 	Front Passenger Air Bag Off
 	Front Right Wheel Speed
 	Fuel Tank Warning Lamp Active
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Hill Roll Active
 	Hours
@@ -554,7 +554,7 @@ Signal Descriptions:
 	Fuel Parking Heater Control Active
 	Fuel Tank Warning Lamp Active
 	Gear Temperature
-	Glowplug Lamp Active
+	Glow Plug Lamp Active
 	Handbrake Active
 	Headlights Active
 	High Beams Active

@@ -123,8 +123,8 @@ Signal Descriptions:
 	ECO Tell Tale Active
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Electronic Throttle Control Duty
@@ -151,7 +151,7 @@ Signal Descriptions:
 	Front Left Tire Pressure
 	Front Left Tire Pressure Tell Tale
 	Front Right Tire Pressure
-	Front Right Tire Pressure Tellta
+	Front Right Tire Pressure Tell Tale
 	Front Window Defrost Tell Tale Ac
 	Fuel Cut Off Active
 	Fuel Cut Tell Tale
@@ -290,10 +290,10 @@ Signal Descriptions:
 	Short Term Fuel Trim Bank 1
 	Short Term Fuel Trim Bank 2
 	Speed Limit Active
-	Stability Control Front Left Act
+	Stability Control Front Left Active
 	Stability Control Front Right Ac
 	Stability Control Rear Left Acti
-	Stability Control Rear Right Act
+	Stability Control Rear Right Active
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Sun Roof Open
@@ -337,7 +337,7 @@ Signal Descriptions:
 	Torque Min Max Ration
 	Torque Minimum
 	Torque Percentage
-	Traction Control Brake Light Act
+	Traction Control Brake Light Active
 	Traction Control System Active
 	Traction Control System And ESP
 	Traction Control System Disabled
@@ -512,8 +512,8 @@ Signal Descriptions:
 	ECO Tell Tale Active
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
-	Electronic Stability Vehicle Act
-	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Active
+	Electronic Stability Vehicle Display (Or Disabled Or Distance)
 	Electronic Stability Vehicle Fai
 	Electronic Stability Vehicle In
 	Electronic Throttle Control Duty
@@ -540,7 +540,7 @@ Signal Descriptions:
 	Front Left Tire Pressure
 	Front Left Tire Pressure Tell Tale
 	Front Right Tire Pressure
-	Front Right Tire Pressure Tellta
+	Front Right Tire Pressure Tell Tale
 	Front Window Defrost Tell Tale Ac
 	Fuel Cut Off Active
 	Fuel Cut Tell Tale
@@ -679,10 +679,10 @@ Signal Descriptions:
 	Short Term Fuel Trim Bank 1
 	Short Term Fuel Trim Bank 2
 	Speed Limit Active
-	Stability Control Front Left Act
+	Stability Control Front Left Active
 	Stability Control Front Right Ac
 	Stability Control Rear Left Acti
-	Stability Control Rear Right Act
+	Stability Control Rear Right Active
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Sun Roof Open
@@ -726,7 +726,7 @@ Signal Descriptions:
 	Torque Min Max Ration
 	Torque Minimum
 	Torque Percentage
-	Traction Control Brake Light Act
+	Traction Control Brake Light Active
 	Traction Control System Active
 	Traction Control System And ESP
 	Traction Control System Disabled
