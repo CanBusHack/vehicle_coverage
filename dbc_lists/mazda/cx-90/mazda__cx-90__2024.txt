@@ -1,0 +1,421 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mazda 'Cx-90' (2024)
+Signal Descriptions:
+	AT Transmission Malfunction Dash Prompt Active
+	AWD Tell Tale Active
+	Accelerator Depressed Message
+	Accessory Power Off Command
+	Auto High Beam Button Active
+	Auto Hold Switch Pressed
+	Brake Pedal Switch
+	Brake Pressure
+	Crossing Left Line Warning
+	Crossing Right Line Warning
+	Cruise Control Cancel Button Pressed
+	Cruise Control Decrease Follow Distance
+	Cruise Control Fail Tone
+	Cruise Control Increase Follow Distance
+	Cruise Control On Off Button Pressed
+	Cruise Control RES Button Pressed
+	Cruise Control Set Button Pressed
+	Cruise Control Set Speed
+	Cruise Control System On
+	Current Gear
+	Dash Backlight Adjust Down
+	Dash Backlight Adjust Up
+	Dash Prompt BRAKE Massage Active
+	Depress Brake Pedal To Start Engine Message Active
+	Depress Clutch Pedal To Start Engine Message Active
+	Diesel Exhaust Fluid Low Tell Tale Active
+	Display Engine Speed
+	Drive
+	Driver Door Front Passenger Window Control
+	Driver Door Lock Command
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Rear Passenger Window Control
+	Driver Door Side Mirror Selected
+	Driver Door Unlock Command
+	Driver Seat Belt Fastened
+	Electronic Parking Brake Disengaging
+	Electronic Parking Brake Engaged
+	Electronic Parking Brake Switch Down
+	Electronic Parking Brake Switch Up
+	Emergency Braking Activated Depress Brake Pedal To Hold Stop Message
+	Engine Coolant Temperature
+	Engine Speed
+	Front Passenger Door Open
+	Front Passenger Door Unlocked
+	Front Passenger Seat Belt Fastened
+	Front Wiper Int Speed
+	Front Wiper Setting
+	Front Wiper Washer Active
+	Frost Defrost Active
+	Gear Selector Lever Not In Park Message Active
+	Green Immobilizer Blinking Tell Tale Active
+	Green Immobilizer Tell Tale Active
+	HVAC A C On
+	HVAC Cabin Fan Speed
+	HVAC Cabin Recirculation Active
+	HVAC Driver Climate Zone Temperature Setting
+	HVAC Passenger Climate Zone Temperature Setting
+	HVAC Rear Deicer Active
+	HVAC Vent Selected
+	Headlight Stock Position
+	Headlights Off Position
+	Hood Open
+	I ACTIVSENSE Off Switch Pressed
+	I Activeness Warning Indicator
+	Ignition Not Switched Off Message Active
+	Instant Fuel Economy
+	Instant Fuel Economy 2
+	Keep Hands On Wheel Red
+	Keep Hands On Wheel Yellow
+	Key Not Detected Message Active
+	Keyless Entry System Malfunction Have The Vehicle Inspected Message Active
+	Left Blind Spot Mirror Light On Command
+	Left Stock Pulled Forward
+	Left Stock Pushed Back
+	Left Turn Signal Stock Position Active
+	Lights Hazard Active
+	Low Key Fob Battery Replace Battery Message Active
+	Manual Gear
+	Manual Mode
+	Master Warning Indicator
+	Odometer
+	Odometer
+	Off Road Traction Assist Switch Pressed
+	Oil Change Distance Reset Active
+	PRNDL Display
+	Passenger Door Side Mirror Selected
+	Power Mode
+	Power Steering Malfunction Dash Prompt Active
+	Power Steering Tell Tale Active
+	Press Push Button Start Switch While Turning Steering Wheel Left Or Right Message Active
+	Rear Driver Door Open
+	Rear Driver Side Seat Belt Fastened
+	Rear Middle Seat Belt Fastened
+	Rear Mister Active
+	Rear Passenger Door Open
+	Rear Passenger Side Seat Belt Fastened
+	Rear Wiper INT Active
+	Rear Wiper On Active
+	Red Immobilizer Blinking Tell Tale Active
+	Red Immobilizer Tell Tale Active
+	Right Blind Spot Mirror Light On Command
+	Right Turn Signal Stock Position Active
+	Setting Automatic Headlight Timeout
+	Settings Active Safety Lane Keep Assist System Off
+	Settings Active Safety Lane Keep Assist System On
+	Settings Automatic Door Locks
+	Settings Automatic Headlight Sensitivity
+	Settings Automatic Relock Wait Time
+	Settings Collision Avoidance Smart Brake Support Alert Timing
+	Settings Collision Avoidance Smart Brake Support Off
+	Settings Collision Avoidance Smart Brake Support On
+	Settings Distance Speed Kilometer Kmph Selected
+	Settings Distance Speed Miles Mph Selected
+	Settings Driver Assistance System Cruise Confirmation Off
+	Settings Driver Assistance System Cruise Confirmation On
+	Settings Driver Assistance System Driver Attention Alert On
+	Settings Driver Assistance System Mazda Radar Cruise Control Off
+	Settings Driver Assistance System Mazda Radar Cruise Control On
+	Settings Exterior Lighting Coming Home Light
+	Settings Exterior Lighting Daytime Running Lights DRL Off
+	Settings Exterior Lighting Daytime Running Lights DRL On
+	Settings Exterior Lighting High Beam Control System Off
+	Settings Exterior Lighting High Beam Control System On
+	Settings Exterior Lighting Manual Headlight Leveling
+	Settings External Lighting Leaving Home Light Off
+	Settings External Lighting Leaving Home Light On
+	Settings Instrument Cluster Display Fuel Efficiency And Range Display
+	Settings Interior Lighting Illuminated Entry Duration
+	Settings Keyless Auto Lock Off
+	Settings Keyless Auto Lock On
+	Settings Keyless Beep Confirmation Volume
+	Settings Keyless Unlock Mode Once All Doors
+	Settings Keyless Unlock Mode Once Driver S Door Twice All Doors
+	Settings Pedal Misuse Alert Off
+	Settings Pedal Misuse Alert On
+	Settings Pressure Selected
+	Settings Safety Alerts Blind Spot Monitoring
+	Settings Safety Alerts Blind Spot Monitoring Alert Timing
+	Settings Safety Alerts Lane Departure Warning System Alert Type Audible
+	Settings Safety Alerts Lane Departure Warning System Alert Type Steering Wheel Vibration
+	Settings Safety Alerts Lane Departure Warning System Off
+	Settings Safety Alerts Lane Departure Warning System On
+	Settings Safety Alerts Rear Cross Traffic Alert Off
+	Settings Safety Alerts Rear Cross Traffic Alert On
+	Settings Temperature Celsius Selected
+	Settings Temperature Fahrenheit Selected
+	Settings Turn Signals Three Flash Turn Signal Off
+	Settings Turn Signals Three Flash Turn Signal On
+	Settings Turn Signals Turn Signal Indicator Volume
+	Settings Vehicle Settings Fuel Door Lock Delay
+	Settings Vehicle Settings Rain Sensing Wipers Off
+	Settings Vehicle Settings Rain Sensing Wipers On
+	Settings Vehicle Settings Rear Window Defogger Automatic Shut Off On
+	Settings Vehicle Settings Rear Window Defogger Continuous On
+	Shift In Progress
+	Side Mirror Adjustment Controls
+	Smart Brake Support Off Indicator On
+	Sport Mode Active
+	Sport Mode Switch Off Active
+	Sport Mode Switch On Active
+	Steering Shaft Torque Sensor
+	Steering Wheel Angle 1
+	Steering Wheel Angle 2
+	Steering Wheel Rate Change
+	Sun Sensor Driver Side
+	Sun Sensor Passenger Side
+	Touch Key Fob To Push Button Start Switch Message Active
+	Transmission In Non Power Gear
+	Transmission In Power Gear
+	Trunk Open
+	Vehicle Speed
+	Vin Part 1
+	Warning Left Lane Indicator
+	Warning Right Lane Indicator
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Not Active
+	AT Transmission Malfunction Dash Prompt Active
+	AWD Tell Tale Active
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Accelerator Depressed Message
+	Accelerator Pedal Position
+	Accelerator Pedal Position Sensor 1
+	Accessory Power Off Command
+	Actual Engine Torque
+	Ambient Temperature
+	Auto Headlight Button Pressed
+	Auto Hold Switch Pressed
+	Battery Management System Malfunction Dash Prompt Active
+	Brake Override System Malfunction Dash Prompt Active
+	Brake Pedal Switch
+	Brake Tell Tale Active
+	Cancel Off Button Not Pressed
+	Car In Reverse
+	Charging System Malfunction
+	Coolant Tell Tale Blue Active
+	Coolant Temperature
+	Crossing Left Line Warning
+	Crossing Right Line Warning
+	Cruise Control Fail Tone
+	Cruise Control Negative Set Button Pressed
+	Cruise Control On Off Pressed
+	Cruise Control Positive Set Button Pressed
+	Cruise Control RES Button Pressed
+	Cruise Control Set Speed
+	Cruise Control System On
+	Current Gear
+	DTR Lights On
+	Dash Prompt BRAKE Massage Active
+	Dashboard Brightness Level
+	Depress Brake Pedal To Start Engine Message Active
+	Depress Clutch Pedal To Start Engine Message Active
+	Diesel Exhaust Fluid Low Tell Tale Active
+	Display Engine Speed
+	Driver Door Front Passenger Window Control
+	Driver Door Lock Command
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Rear Passenger Window Control
+	Driver Door Side Mirror Selected
+	Driver Door Unlock Command
+	Driver Seat Belt Buckled
+	Electronic Parking Brake Disengaging
+	Electronic Parking Brake Engaged
+	Electronic Parking Brake Switch Down
+	Electronic Parking Brake Switch Up
+	Emergency Braking Activated Depress Brake Pedal To Hold Stop Message
+	Engine Speed
+	Engine Speed Desired
+	Flow Distance Down Button Pressed
+	Flow Distance Up Button Pressed
+	Front Passenger Door Open
+	Front Passenger Door Unlocked
+	Front Wiper Auto Speed
+	Front Wiper State
+	Frost Defrost Active
+	Fuel Cap Check Prompt
+	Fuel Filter Needs Service Prompt
+	Fuel Level Percentage
+	Gear Selector Lever Not In Park Message Active
+	Green Immobilizer Blinking Tell Tale Active
+	Green Immobilizer Tell Tale Active
+	HVAC A C On
+	HVAC Cabin Fan Speed
+	HVAC Cabin Recirculation Active
+	HVAC Driver Climate Zone Temperature Setting
+	HVAC Passenger Climate Zone Temperature Setting
+	HVAC Rear Deicer Active
+	HVAC Vent Selected
+	Head Lights Set To On
+	Headlight Stock Position
+	Headlights Off Position
+	High Beams Active
+	High Beams On
+	Hood Open
+	I Activeness Warning Indicator
+	Ignition Not Switched Off Message Active
+	Instant Fuel Economy
+	Instant Fuel Economy 2
+	Keep Hands On Wheel Red
+	Keep Hands On Wheel Yellow
+	Key Not Detected Message Active
+	Keyless Entry System Malfunction Have The Vehicle Inspected Message Active
+	Left Blind Spot Mirror Light On Command
+	Left Stock Pulled Forward
+	Left Stock Pushed Back
+	Left Turn Indicator Active
+	Left Turn Signal Stock Position Active
+	Lights Hazard Active
+	Low Beams On
+	Low Key Fob Battery Replace Battery Message Active
+	Malfunction Lamp Active
+	Malfunction Lamp Flashing
+	Manual Gear
+	Model Code
+	Odometer
+	Oil Change Distance Reset Active
+	Oil Change Due Prompt
+	Oil Change Setting Interval Set To Fixed Active
+	Oil Lamp Active
+	Oil Prompt Excessive Oil Level
+	Oil Prompt Level Sensor Malfunction
+	Oil Tell Tale Active
+	PRNDL
+	Passenger Door Side Mirror Selected
+	Passenger Seatbelt Buckled
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Released
+	Power Mode
+	Power Steering Malfunction Dash Prompt Active
+	Power Steering Tell Tale Active
+	Press Push Button Start Switch While Turning Steering Wheel Left Or Right Message Active
+	Rear Driver Door Open
+	Rear Driver Side Seat Belt Fastened
+	Rear Middle Seat Belt Fastened
+	Rear Mister Active
+	Rear Passenger Door Open
+	Rear Passenger Side Seat Belt Fastened
+	Rear Wiper INT Active
+	Rear Wiper On Active
+	Red Immobilizer Blinking Tell Tale Active
+	Red Immobilizer Tell Tale Active
+	Right Blind Spot Mirror Light On Command
+	Right Turn Indicator Active
+	Right Turn Signal Stock Position Active
+	Setting Automatic Headlight Timeout
+	Settings Active Safety Lane Keep Assist System Off
+	Settings Active Safety Lane Keep Assist System On
+	Settings Automatic Door Locks
+	Settings Automatic Headlight Sensitivity
+	Settings Automatic Relock Wait Time
+	Settings Collision Avoidance Smart Brake Support Alert Timing
+	Settings Collision Avoidance Smart Brake Support Off
+	Settings Collision Avoidance Smart Brake Support On
+	Settings Distance Speed Kilometer Kmph Selected
+	Settings Distance Speed Miles Mph Selected
+	Settings Driver Assistance System Cruise Confirmation Off
+	Settings Driver Assistance System Cruise Confirmation On
+	Settings Driver Assistance System Driver Attention Alert On
+	Settings Driver Assistance System Mazda Radar Cruise Control Off
+	Settings Driver Assistance System Mazda Radar Cruise Control On
+	Settings Exterior Lighting Coming Home Light
+	Settings Exterior Lighting Daytime Running Lights DRL Off
+	Settings Exterior Lighting Daytime Running Lights DRL On
+	Settings Exterior Lighting High Beam Control System Off
+	Settings Exterior Lighting High Beam Control System On
+	Settings Exterior Lighting Manual Headlight Leveling
+	Settings External Lighting Leaving Home Light Off
+	Settings External Lighting Leaving Home Light On
+	Settings Instrument Cluster Display Fuel Efficiency And Range Display
+	Settings Interior Lighting Illuminated Entry Duration
+	Settings Keyless Auto Lock Off
+	Settings Keyless Auto Lock On
+	Settings Keyless Beep Confirmation Volume
+	Settings Keyless Unlock Mode Once All Doors
+	Settings Keyless Unlock Mode Once Driver S Door Twice All Doors
+	Settings Pedal Misuse Alert Off
+	Settings Pedal Misuse Alert On
+	Settings Pressure Selected
+	Settings Safety Alerts Blind Spot Monitoring
+	Settings Safety Alerts Blind Spot Monitoring Alert Timing
+	Settings Safety Alerts Lane Departure Warning System Alert Type Audible
+	Settings Safety Alerts Lane Departure Warning System Alert Type Steering Wheel Vibration
+	Settings Safety Alerts Lane Departure Warning System Off
+	Settings Safety Alerts Lane Departure Warning System On
+	Settings Safety Alerts Rear Cross Traffic Alert Off
+	Settings Safety Alerts Rear Cross Traffic Alert On
+	Settings Temperature Celsius Selected
+	Settings Temperature Fahrenheit Selected
+	Settings Turn Signals Three Flash Turn Signal Off
+	Settings Turn Signals Three Flash Turn Signal On
+	Settings Turn Signals Turn Signal Indicator Volume
+	Settings Vehicle Settings Fuel Door Lock Delay
+	Settings Vehicle Settings Rain Sensing Wipers Off
+	Settings Vehicle Settings Rain Sensing Wipers On
+	Settings Vehicle Settings Rear Window Defogger Automatic Shut Off On
+	Settings Vehicle Settings Rear Window Defogger Continuous On
+	Shift In Progress
+	Side Lights Active
+	Side Lights On
+	Side Mirror Adjustment Controls
+	Smart Brake Support Off Indicator On
+	Sport Mode Switch Off Pressed
+	Sport Mode Switch On Pressed
+	Steering Shaft Torque Sensor
+	Steering Wheel Absolute Angle
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Estimated Angle
+	Sun Sensor Driver Side
+	Sun Sensor Passenger Side
+	Touch Key Fob To Push Button Start Switch Message Active
+	Transmission In Non Power Gear
+	Transmission In Power Gear
+	Trunk Open
+	VIN Characters 1 To 6
+	VIN Characters 13 To 17
+	VIN Characters 7 To 12
+	Vehicle Speed
+	Warning Left Lane Indicator
+	Warning Right Lane Indicator
+	Water Must Be Drained From Fuel Filter Prompt
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch Active
+	Brake Switch Not Active
+	Coupling Solenoid Duty Cycle
+	Kick Down Switch Active
+	Left Lane Detected
+	Right Lane Detected
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+No qualifying signals found on this network
+
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Brake Pedal Not Pressed
+	Brake Pedal Not Pressed With Engine On
+	Brake Pedal Pressed
+	Brake Pedal Pressed With Engine On
+	Car In Reverse
+	Car Moving Forward
+	Engine Off
+	Engine On
+	Engine Speed Display
+	Lateral Acceleration Sensor
+	Left Blinker Status
+	Right Blinker Status
+	Steering Wheel Left Bit

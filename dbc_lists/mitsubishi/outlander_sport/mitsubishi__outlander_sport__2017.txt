@@ -1,0 +1,213 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Outlander Sport' (2017)
+Signal Descriptions:
+	ABS Tell Tale Active
+	AC Clutch
+	AC Relay Active
+	ASC System Service Required Dash Prompt Active
+	AYC Brake Off Dash Prompt Active
+	Absolute Load Value
+	Accelerator Pedal Not Pressed
+	Alternator Use Rate Target
+	Autokick Manual Mode Active
+	Automatic Oil Change Indicator Active
+	Brake Fluid Low Active
+	Brake Fluid Sensor Error Active
+	Brake Pressure
+	Brake Switch 1
+	Brake Switch 2
+	Brake System Service Required Dash Prompt Active
+	Brake Tell Tale Active
+	CVT Target Line Pressure
+	CVT Target Line Pressure 1
+	CVT Target Line Pressure 2
+	Charging System Failure
+	Charging System Voltage Low
+	Check Engine Tell Tale On
+	Chime Active
+	Cooling Fan Active
+	Cooling Fan Rate
+	Courtesy Lamps Active
+	Cruise Control Active
+	Cruise Control Set Speed
+	Cruise Control Set Tell Tale Active
+	Current Gear
+	Cut Fuel Active
+	Driver Door Open
+	Driver Door Window Motor Active
+	Driver Seatbelt Not Buckled
+	ECO Active
+	ESP BAS Tell Tale Active
+	ESP Feature Is Completely Disabled
+	ESS Test Mode Active
+	Engine Coolant Temperature
+	Engine Cranking
+	Engine Overheat Fan High
+	Engine Overheat Fan Low
+	Engine Running
+	Engine Speed
+	Engine TCL Drive Active
+	Engine Torque
+	Engine Torque Request
+	Front Left Wheel Speed
+	Front Right Wheel Speed
+	Front Wiper
+	Fuel Level 2
+	Fuel Level Displayed
+	Fuel Level Gauge Resistance
+	Gas Pedal Not Pressed
+	Glow Plug Tell Tale On
+	HVAC Pressure Sensor
+	Hazards Active
+	High Beams Active
+	Hill Descent ON Below 20 MPH To
+	Ignition Switch State
+	Intake Air Temperature
+	Inter Cooler Spray Indicator Active
+	Key In On Position
+	Lateral G Sensor
+	Left Turn Signal Active
+	Logical Throttle Pedal Position
+	Longitudinal G Sensor
+	Longitudinal G Sensor
+	Low Beams Active
+	Low Beams Stock Position Active
+	Low Fuel Tell Tale Active
+	MAP Sensor
+	MIL Tell Tale Blinking
+	Mass Air Flow Sensor Active
+	Maximum Hard Breaking
+	Odometer
+	PRNDL
+	PTC Relay 1 Status Active
+	PTC Relay 2 Status Active
+	PTC Relay 3 Status Active
+	Park Neutral Active
+	Parking Brake Active
+	Radiator Fan 1 Duty Cycle
+	Radiator Fan 2 Duty Cycle
+	Rear Wiper
+	Request Tachometer To Freeze On
+	Right Turn Signal Active
+	SAS Initialization Complete Not
+	Shift In Progress
+	Side Lights Stock Position Active
+	Starter Motor Running
+	Steering Angle
+	Steering Motor Current 1
+	Steering Motor Current 2
+	Steering Speed
+	System Voltage
+	Target Gear
+	Target Idle Speed
+	Throttle Actuator
+	Throttle Control Tell Tale Active 1
+	Throttle Control Tell Tale Active 2
+	Throttle Position Sensor
+	Throttle Position Sensor Input
+	Traction Control Off Button Being Pressed
+	Traction Control Off Tell Tale Ac
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale And Ch
+	Transmission Overheating Slow Down Dash Prompt Active
+	Transmission Temperature Overheat
+	Transmission Temperature Tell Tale And C
+	Vehicle Speed
+	Water In Fuel Tell Tale On
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheel TCL Drive ABS Active
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Tell Tale Active
+	AC Condenser Fan
+	AC Condenser Fan Active
+	AFS OFF Tell Tale Active
+	AS G Active
+	AS G Off Active
+	AT Lock Open Active
+	AVG A A Selected At 0 M Is Selected
+	AVG Fuel Trip A
+	AVG Fuel Trip B
+	AVG Speed Trip A
+	AVG Speed Trip B
+	Accelerator Pedal Position
+	Adaptive Front Lighting Service Required Dash Prompt Active
+	Airbag System Service Required Dash Prompt Active
+	Airbag System Service Required Dash Prompt Active
+	Airbag System Service Required Dash Prompt Active
+	Alarm Activating Dash Prompt Active
+	Alternator Use Rate
+	Battery Voltage
+	Blower Position
+	Brake Switch 1
+	Brake Switch 2
+	Brake Switch Active
+	Brake System Service Required Dash Prompt Active
+	Brake Tell Tale Active
+	Change Air Filter Dash Prompt Active
+	Close Hood Dash Prompt Active
+	Cooling Fan Active
+	Driver Door Open
+	Driver Seatbelt Buckled
+	Driver Seatbelt Not Buckled
+	ESS Service Required Dash Prompt Active
+	ETACS System Error Dash Prompt Active
+	Engine Coolant Temperature
+	Engine Speed
+	Engine System Service Required Dash Prompt Active
+	Exterior Lights Tell Tale
+	Fog Lights Tell Tale Active
+	Front Center Radar Active
+	Front Left Radar Active
+	Front Right Radar Active
+	Fuel Level
+	Fuel Level Sensor 1
+	Fuel Level Sensor 2
+	Fuel Range
+	HVAC AC Clutch Engaged
+	HVAC AC On
+	HVAC Change Bit
+	HVAC Fan Speed
+	HVAC Pressure
+	HVAC Recirculation Active
+	HVAC Recirculation Not Active
+	High Beam Tell Tale Active
+	Immobilizer Active
+	Instant Fuel Usage
+	Instrument Cluster Unit
+	Key Fob Lock Command
+	Key Fob Unlock Command
+	Key In Ignition
+	Language Setting
+	Language Setting
+	Left Turn Indicator Active
+	Low Tire Pressure Dash Prompt Active
+	MAP Sensor
+	MIL Tell Tale Active
+	Mass Air Flow Sensor Active
+	Max Compressor Power Active
+	Odometer
+	Outside Air Temperature 2
+	Parking Brake Active
+	Passenger Door Open
+	Passenger Seatbelt Not Buckled
+	Power Mode
+	Power Steering Service Required Dash Prompt Active
+	Rear Center Radar Active
+	Rear Driver Door Open
+	Rear Left Radar Active
+	Rear Passenger Door Open
+	Rear Right Radar Active
+	Right Turn Indicator Active
+	Seconds Engine Has Been On
+	Settings Temperature Units Set To F
+	Side Lights Tell Tale Active
+	Steering Wheel Angel
+	Steering Wheel Angel Speed
+	Throttle Position Sensor
+	Throttle Position Sensor Input
+	Tire Pressure Monitor Service Required Dash Prompt Active
+	Trunk Open
+	Vehicle Speed

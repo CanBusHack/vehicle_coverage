@@ -1,0 +1,390 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Hyundai 'Hb20' (2015)
+Signal Descriptions:
+	ABS Active
+	ABS Diagnostic Mode Active
+	ABS System Failure
+	ABS Tell Tale Active
+	AC Active
+	AC Automatic Controls Active
+	AC Blower Active
+	AC Clutch Disable Active
+	AC Compressor On
+	AC Compressor State
+	AC Compressor Type
+	AC Engine Stop Disable Active
+	AC Max Active
+	AC Remote Start Request
+	AC Switch On
+	AC System Fault Active
+	AC System Manufacturer
+	Accelerator Pedal Position
+	Accelerator Pedal Position
+	Accelerator Pedal Pressed
+	Activate Brake Lights Request
+	Actual Engine Torque
+	Adaptive Cruise Acceleration Ref
+	Adaptive Cruise Available On Vehicle
+	Adaptive Cruise Control Active
+	Adaptive Cruise Control Limit Re
+	Adaptive Cruise Control Mode
+	Adaptive Cruise Driver Override
+	Adaptive Cruise Enabled
+	Adaptive Cruise Enabled
+	Adaptive Cruise Following Level
+	Adaptive Cruise Speed Setting
+	Adaptive Cruise Torque Percent
+	Adaptive Cruise Torque Request
+	Adaptive Cruise Vehicle Ahead
+	Airbag Controller DTC State
+	Airbag Controller DTC Value
+	Airbag Controller Fault Count
+	Airbag Controller Side Airbag St
+	Ambient Air Temperature
+	Ambient Air Temperature In Deg Celsius
+	Ambient Air Temperature In Deg Fahrenheit
+	Automatic Defrost Flashing Tell Tale
+	Automatic Display
+	Automatic Emergency Braking Syst
+	B1 S1 O2 Voltage
+	B1 S2 O2 Voltage
+	B2 S1 O2 Voltage
+	B2 S2 O2 Voltage
+	Bank 1 Timing
+	Bank 2 Timing
+	Barometric Pressure
+	Bassis Acceleration
+	Battery Alternator Duty Cycle
+	Battery Current
+	Battery Sensor Error
+	Battery Sensor Invalid
+	Battery Sensor Response Error
+	Battery State Of Charge
+	Battery State Of Function
+	Battery State Of Heath
+	Battery Temperature
+	Battery Voltage
+	Battery Voltage
+	Battery Voltage
+	Battery Warning Tell Tale Active
+	Boost Pressure
+	Brake Control System Failure
+	Brake Control System On
+	Brake Hill Control Active
+	Brake Hold Chime Active
+	Brake Hold State
+	Brake Hold Tell Tale Active
+	Brake Hold Tell Tale State
+	Brake Pedal Pressure
+	Brake Prefill Active
+	Brake Request Active
+	Brake Stability Distribution Sys
+	Brake Stability Distribution Sys
+	Brake State
+	Buzzer Requested Active
+	Calculated Engine Load
+	Calculated Engine Load
+	Carbon Dioxide Warning Indicator
+	Change Display Requester
+	Change Oil Tell Tale Active
+	Chime Blind Spot Warning Active
+	Chime Lane Keep Warning Active
+	Climate Scan Display Active
+	Cluster Fuel Display Level
+	Clutch Functioning
+	Cruise Control Active
+	Cruise Control Set Tell Tale On
+	Cruise Control Speed
+	Cruise Control Speed In KPH
+	Cruise Control Switch State
+	Cruise Control Tell Tale On
+	Current Fuel Consumption
+	Current Spark Ignition Time
+	Current Torque
+	DTC Count
+	Deceleration Active
+	Deceleration Request
+	Defogger On
+	Defrost Button Activated
+	Differential Braking Error Activ
+	Distance Till Empty
+	Driver Door State
+	Driver Pressing Brake
+	Driver Rear Door Open
+	Driver Seatbelt Failed
+	Driver Seatbelt State
+	Driver Seatbelt Status
+	Driver Seatbelt Tell Tale Active
+	Driver Take Over Tell Tale
+	Driver Temperature In Celsius
+	Driver Temperature In Fahrenheit
+	Driver Window Open
+	Driving Style Tell Tale
+	ECO Tell Tale Active
+	Electronic Stability Control Bra
+	Electronic Stability Control Sta
+	Electronic Stability Vehicle Act
+	Electronic Stability Vehicle Dis
+	Electronic Stability Vehicle Fai
+	Electronic Stability Vehicle In
+	Electronic Throttle Control Duty
+	Engine Coolant Temperature
+	Engine Displacement
+	Engine Drag Torque Control Activ
+	Engine Drag Torque Limit Percent
+	Engine Limp Mode Active
+	Engine Oil Temperature
+	Engine Running
+	Engine Running State
+	Engine Soak Time
+	Engine Soak Time Failure
+	Engine Speed
+	Engine Speed
+	Engine Speed Sensor Failure
+	Engine Start Stop System State
+	Engine Stop Acknowledgement
+	Engine Temperature
+	Engine Type
+	Estimated Manual Gear Display
+	Filtered Fuel Tank Level Value
+	Front Blower
+	Front Left Tire Pressure
+	Front Left Tire Pressure Tell Tale
+	Front Right Tire Pressure
+	Front Right Tire Pressure Tellta
+	Front Window Defrost Tell Tale Ac
+	Fuel Cut Off Active
+	Fuel Cut Tell Tale
+	Fuel Economy
+	Fuel Pressure Actual
+	Fuel Pressure Desired
+	Fuel Pump Pressure
+	Fuel Pump Tell Tale State
+	Fuel Rail Gauge Pressure
+	Fuel System Status
+	Fuel Tank Pressure Tell Tale Acti
+	Fuel Tank Refueled
+	Fuel Temperature
+	Fuel Units In Metric
+	Gear Downshift Request
+	Gear Shift Down Tell Tale Active
+	Gear Shift Up Tell Tale Active
+	Glow Plug State
+	Glow Plug Tell Tale On
+	HD Maps Support
+	HVAC Current Torque
+	HVAC Mode
+	HVAC State
+	Hazards
+	Headlight Switch State
+	Headlights High
+	Headlights Low
+	Heated Steering Wheel Active
+	Hill Brake Tell Tale State
+	Hill Brake Warning Tell Tale Acti
+	Hill Start Active
+	Hill Start System Failure
+	Hill Start System On
+	Hood State
+	Ignition Cycle Count
+	Ignition Status
+	Immobilizer State
+	Immobilizer Status
+	Inbetween Gears
+	Intake Air Temperature
+	Intake Manifold Absolute Pressur
+	Key Fob Command
+	Key On
+	Lateral Acceleration
+	Left Turn Signal
+	Long Term Fuel Trim Bank 1
+	Long Term Fuel Trim Bank 2
+	Longitudinal Acceleration
+	Low Fuel Tell Tale Active
+	MIL Lamp Active
+	Mass Air Flow
+	Mass Air Flow
+	Max Acceleration Request
+	Maximum Torque
+	Minimum Acceleration Request
+	Module Reprogramming State
+	Navigation Distance Units
+	Navigation Estimated Distance
+	Navigation Hour Time Hour
+	Navigation Hour Time Minute
+	Navigation On
+	Navigation Preset Number
+	Navigation Time Format
+	Navigation Time Type
+	Network Management 4WD Command
+	Network Management 4WD Key
+	Network Management 4WD Sleep Indic
+	Network Management DATC Command
+	Network Management DATC Key
+	Network Management DATC Sleep Indi
+	Odometer
+	Odometer
+	Oil Pressure Tell Tale Active
+	Outside Air Temperature Correcte
+	Outside Air Temperature In Deg C
+	Outside Air Temperature In Deg F
+	Outside Air Temperature Raw
+	Outside Mirror Temperature
+	Overdrive Off
+	PTC Relay Active
+	Park Aid System Center Front
+	Park Aid System Center Rear
+	Park Aid System Enabled
+	Park Aid System Left Front
+	Park Aid System Left Rear
+	Park Aid System Right Front
+	Park Aid System Right Rear
+	Park Aid System Sound Check
+	Parking Brake Active
+	Parking Brake Set
+	Passenger Door Status
+	Passenger HVAC Mode
+	Passenger Rear Door Open
+	Passenger Seatbelt Failure
+	Passenger Seatbelt State
+	Passenger Seatbelt Status
+	Passenger Seatbelt Tell Tale Acti
+	Passenger Temperature In Celsius
+	Passenger Temperature In Fahrenheit
+	Passenger Window Open
+	Passive Access Lock
+	Phone Call Active
+	Playback Disc Number
+	Playback Time Hour
+	Playback Time Minute
+	Playback Time Seconds
+	Playback Track Number
+	Radio Country Setting
+	Radio Language Setting
+	Radio Mute Active
+	Radio Navigation Display Availab
+	Radio Navigation On
+	Radio Navigation Ready State
+	Radio Navigation Units
+	Radio Vehicle Speed
+	Radio Volume
+	Rear Actual Torque
+	Rear Automatic HVAC Active
+	Rear Blower State
+	Rear Driver Window Open
+	Rear HVAC Display State
+	Rear HVAC Mode
+	Rear Left Tire Pressure
+	Rear Left Tire Pressure Tell Tale
+	Rear Passenger Window Open
+	Rear Right Tire Pressure
+	Rear Right Tire Pressure Tell Tale
+	Rear Temperature In Celsius
+	Rear Temperature In Fahrenheit
+	Refuel Message Warning Active
+	Requested Torque
+	Requested Torque
+	Right Turn Signal
+	Seatbelt Buzzer Warning Active
+	Selected Gear
+	Short Term Fuel Trim Bank 1
+	Short Term Fuel Trim Bank 2
+	Speed Limit Active
+	Stability Control Front Left Act
+	Stability Control Front Right Ac
+	Stability Control Rear Left Acti
+	Stability Control Rear Right Act
+	Steering Wheel Angle
+	Steering Wheel Angle Gradient
+	Sun Roof Open
+	TCU Failure State
+	Target Engine Idle Speed
+	Telematics Current Gear
+	Telematics Cylinder Displacement
+	Telematics Defrost Activate
+	Telematics ECO Available
+	Telematics Electronics Starter T
+	Telematics Engine Speed Limit Va
+	Telematics Fuel Cut Inhibit Requ
+	Telematics Fuel Cut Request
+	Telematics Increase Engine Speed
+	Telematics Increase Idle Speed
+	Telematics Inertia Phase Shift E
+	Telematics Shift Park Switch Rel
+	Telematics Speed Limit Value
+	Telematics Starter Inhibit
+	Telematics Target Engine Speed
+	Telematics Target Gear
+	Telematics Target Safe Gear
+	Telematics Target Shift Pattern
+	Telematics Temperature Set Point
+	Telematics Torque Acceleration Li
+	Telematics Torque Limiting
+	Telematics Variable Length Intak
+	Telematics Vehicle In Park
+	Telematics Vehicle Speed
+	Temperature Controls In Fahrenheit
+	Temperature Units In F
+	Throttle Position
+	Throttle Position
+	Tire Pressure Monitor Active
+	Tire Pressure Monitor Tell Tale S
+	Tire Pressure Units
+	Tire Tread Monitor Tell Tale Stat
+	Torque
+	Torque Converter State
+	Torque Measurement Error
+	Torque Min Max Ration
+	Torque Minimum
+	Torque Percentage
+	Traction Control Brake Light Act
+	Traction Control System Active
+	Traction Control System And ESP
+	Traction Control System Disabled
+	Traction Control System Error Te
+	Traction Control System Failure
+	Traction Control System Gear Cha
+	Traction Control System Torque R
+	Traction Control System Warning
+	Tranmission Output Speed
+	Tranmission Temperature
+	Transmission Control CAN Message
+	Transmission Reduction Percent
+	Transmission Torque Limit Percent
+	Transmission Type
+	Transmission Type
+	Trip Unit Of Measure State
+	Trunk State
+	Vehicle Angle Percent
+	Vehicle Battery Failed
+	Vehicle Immobilizer Active
+	Vehicle In D Drive
+	Vehicle In N Neutral
+	Vehicle In P Park
+	Vehicle In R Reverse
+	Vehicle Reprogramming State
+	Vehicle Rolled Over
+	Vehicle Security Governor Enable
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Stationary
+	Wheel Direction Front Left
+	Wheel Direction Front Right
+	Wheel Direction Rear Left
+	Wheel Direction Rear Right
+	Wheel Speed Front Left
+	Wheel Speed Front Left Rolling C
+	Wheel Speed Front Right
+	Wheel Speed Front Right Rolling
+	Wheel Speed Rear Left
+	Wheel Speed Rear Left Rolling Co
+	Wheel Speed Rear Right
+	Wheel Speed Rear Right Rolling C
+	Wiper Automatic
+	Wiper High
+	Wiper Intermittent
+	Wiper Low
+	Wiper Parked
+	Wiper State
+	Yaw Rate

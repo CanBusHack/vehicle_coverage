@@ -1,0 +1,363 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Scion 'Xd' (2010)
+Signal Descriptions:
+	4 Requested Engine Torque
+	Real Engine Torque
+	Roll Gradient Left To Right
+	Steer Override Active
+	Steering Wheel Torque
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A C Active
+	A C Command
+	A C Room Temperature
+	A C Status Active
+	ABS Tell Tale
+	AT OIL Temperature Tell Tale
+	Accelerator And Brake Pedals
+	Accelerator Pedal
+	Accelerator Pedal Not Pressed
+	Accelerator Stuck Depress Bra
+	Adjusting Forward Camera Mess
+	Adjusting Front Radar Beam M
+	Adjusting Front Radar Beam V
+	Air Conditioner Signal Active
+	Air Priority
+	Ambient Air Temperature
+	Any Fob Button Being Pressed
+	Auto A C Mode On 0 Read
+	Auto A C Mode On 0 Write
+	Auto A C Status Active
+	Auto Adjust By GPS
+	Auto Lights
+	Automatic Door Lock Read
+	Automatic Door Lock Write
+	Automatic Door Unlock Read
+	Automatic Door Unlock Write
+	Average MPG Tank 00
+	Average MPG Total 00
+	Average Vehicle Speed
+	BSM Brightness Set To Brigh
+	BSM Brightness Setting Chan
+	BSM Option Changed Active
+	BSM Sensitivity
+	BSM Sensitivity Setting Cha
+	Blind Spot Monitor On 1
+	Blind Spot Monitor On 2
+	Blower Position
+	Body Control Lock Commands
+	Brake Message
+	Brake Not Pressed
+	Brake Pressure
+	Brake Switch Pressed
+	Brake System Warning Active
+	Brake Warning Tell Tale Active
+	Cabin Air Mode Command
+	Cabin Fan Speed Down Command
+	Cabin Fan Speed Up Command
+	Cabin Thermostat Set Temperature Do
+	Cabin Thermostat Set Temperature Up
+	Camera Display Change Active
+	Car On
+	Charging System Malfunction S
+	Check Speed Limiter System
+	Climate System Active
+	Convenience Services Setting
+	Cruise Cancel Button Pressed
+	Cruise Control Active
+	Cruise Control Set Speed
+	Cruise Control Set Tell Tale
+	Cruise Control Target Speed
+	Cruise Control Tell Tale Gree
+	Cruise Control Tell Tale On N
+	Cruise Control Tell Tale On S
+	Cruise Control Tell Tale Yell
+	Cruise R E S Button Pressed
+	Cruise Set Button Pressed
+	Current Key Cycle Elapsed Ti
+	D Pad Left Side Of Steering
+	DRCC RSA Option Change
+	Dash Telltales
+	Day 1
+	Day 2
+	Daylight Saving Time Active
+	Daytime Running Lights
+	Display Brightness Change Active
+	Display Messages
+	Downhill Assist Control Warning Level
+	Drive Mode
+	Drive Start Control Malfuncti
+	Drive Start Control Malfuntio
+	Driver Door Lock State
+	Driver Door Open
+	Driver Door State Change
+	Driver Seatbelt Unbuckled
+	Driver Side Sun Sensor
+	Driver Window Position Changing
+	Driver Window State
+	ECO Mode Button Pressed
+	ECO Tell Tale
+	EPS Tell Tale
+	Electric Load Signal 3 Active
+	Electric Power Steering Syste
+	Engine Coolant Temperature
+	Engine Speed Displayed
+	Error Adjusting Front Radar
+	Fan Speed
+	Flat Tire Notification 5Th Tire
+	Flat Tire Notification Left Front Active
+	Flat Tire Notification Left Rear Active
+	Flat Tire Notification Right Front Active
+	Flat Tire Notification Right Rear Active
+	Fob Lock
+	Fob Panic Button
+	Fob Trunk Open
+	Fob Unlock
+	Following Distance Setting
+	Forward And Rearward G Longitudinal
+	Front Blower Only Status Act
+	Front Camera Low Visibility
+	Front Camera Out Of Temperatu
+	Front Camera Unavailable See
+	Front Defroster Command
+	Front Left Wheel Speed
+	Front Right Wheel Speed
+	Fuel Consumption Per 10 Injecti
+	Fuel Level
+	Gauge Cluster Back Light And
+	Gear
+	Gear Indicator B
+	Gear Indicator Drive 1
+	Gear Indicator Drive 2
+	Gear Indicator Neutral
+	Gear Indicator Park
+	Gear Indicator Reverse
+	Gear Number Displayed
+	Green Cruise Control Tell Tale
+	Grill Shutter Malfunction Mes
+	HVAC Auto Command
+	HVAC OFF Command
+	HVAC Set Temperature Driver Side
+	HVAC Set Temperature Passenger Side
+	Hazard Button Enabled
+	Headlight State
+	High Beams
+	High Beams Active
+	High Beams Enabled
+	Hold Brake Tell Tale
+	Hold Tell Tale Blinking
+	Hood Status
+	Hour 1
+	Hour 2
+	Hour Format 24 Hour Clock Ac
+	Hour Format 24 Hour Clock In
+	Hours Negative Pressed Active
+	Hours Plus Pressed Active
+	IC Dimmed Active
+	IC Illumination
+	IC Illumination Dimmer Max
+	Idle Up Signal Active
+	Ignition Button Pressed State
+	Ignition Cycle Count
+	Infotainment Setting Change Ac
+	Instant Power Assist System
+	Intake Manifold Absolute Pressure
+	Key Fob Warning Prompts
+	Key In Ignition
+	LAD Unavailable Message
+	LDA Hold Steering Wheel
+	LDA Hold Steering Wheel Me
+	LDA Left Line
+	LDA Malfunction Message
+	LDA Right Line
+	LDA Steering Assist Active
+	LDA Steering Assist Inactiv
+	LDA Steering Assist Unavail
+	LDA Turned ON Steering As
+	LDA Unavailable At Current
+	LDW Sensitivity High
+	LDW Sensitivity Low
+	Lane Center Option Changed
+	Lane Departure Alert Green T
+	Lane Departure Alert Turned
+	Lane Departure Alert Yellow
+	Lane Keep Assistant Status
+	Language Setting
+	Lateral G
+	Latitude Hour
+	Latitude Minute
+	Latitude Second
+	Left Turn Signal
+	Left Turn Signal 3 Blink
+	Left Turn Signal Not Enabled
+	Limited Slip Differential Warning Level
+	Longitude Hour
+	Longitude Minute
+	Longitude Second
+	Low Beams
+	Low Beams Enabled
+	Low Fuel Level Warning Light
+	MIL Tell Tale
+	Main Sun Sensor
+	Max Blower Active
+	Minute 1
+	Minute 2
+	Minutes Negative Pressed Active
+	Minutes Plus Pressed Active
+	Month 1
+	Month 2
+	Mute Radio Active
+	Not In Park
+	Not In Reverse Active
+	Odometer
+	Oil Pressure Low Message
+	Ok Button Steering Wheel
+	Ok Button Steering Wheel Long
+	PRNDL
+	PRNDL Background Color
+	Parking Brake Enabled
+	Parking Lights
+	Pass Lights
+	Passenger Door Lock State
+	Passenger Door Open
+	Passenger Seatbelt Unbuckled
+	Passenger Side Sun Sensor
+	Passenger Window Position Changing
+	Passenger Window State
+	Please Take A Break Message
+	Power Mode Status
+	Power Steering Malfunction Tell
+	Power Steering Malfunctions Mess
+	Power Steering Tell Tale Turn
+	Pre Collision Active
+	Pre Collision Sensitivity
+	Pre Collision System Out Of
+	Pre Collision System Radar I
+	Pre Collision System Radar S
+	Pre Collision System Sensitiv
+	Pre Collision System Status
+	Pre Collision System Tell Tale 1
+	Pre Collision System Tell Tale 2
+	Pre Collision System Una 0000
+	Pre Collision System Unavaila
+	RCD Active
+	RCD Option Change Active
+	RCTA Active
+	RCTA Change Active
+	RCTA Volume
+	RCTA Volume Setting Change
+	RSA Above Speed Limit Noti
+	RSA Enabled
+	RSA Notification Level
+	RSA Others Notification Met
+	Radio Clock Hour
+	Radio Clock Minutes
+	Radio Clock Seconds
+	Range 10
+	Real Engine Torque
+	Rear Camera Detection Setting
+	Rear Defroster
+	Rear Defroster Command
+	Rear Defroster Status Active
+	Rear Door Drive Side Unlock
+	Rear Door Passenger Side Unlock
+	Rear Driver Door Open
+	Rear Driver Window
+	Rear Left Wheel Speed
+	Rear Passenger Door Open
+	Rear Passenger Window State
+	Rear Right Wheel Speed
+	Rear Seat Reminder Active
+	Recirculation Command
+	Recirculation Not Active
+	Recirculation Status Active
+	Relay Fan NO1 IG B Act
+	Release Accelerator Message
+	Requested Engine Torque
+	Return Arrow Pressed
+	Right Turn Signal
+	Right Turn Signal 3 Blink
+	Right Turn Signal Not Enable
+	SRS Airbag System Malfunction
+	Seatbelt Tell Tale Active
+	Second
+	Sensitivity High Change Activ
+	Sensitivity Standard Change A
+	Service Menu Active
+	Set HVCA Temperature
+	Side Lights Enabled
+	Sidelights
+	Small Letter On LCD Display
+	Speed Limit Displayed
+	Speed Limit Displayed On Clus
+	Speed Reduction Option Change
+	Spot Mode Tell Tale Active
+	Steering Angle Gradient
+	Steering Assist Off Change A
+	Steering Assist On Change Ac
+	Steering Control Indicator Ac
+	Steering Wheel Angle
+	Stock Position
+	Sway Sensitivity Option Chang
+	Sway Warning Active
+	Sway Warning Option Changed
+	Sway Warning Sensitivity
+	Temperature Unit In C Active
+	Theme Setting
+	Throttle Position
+	Throttle Wide Open
+	Time Format 24 Hour Pressed
+	Time Zone GMT Offset
+	Tire Pressure 5Th Tire
+	Tire Pressure Left Front
+	Tire Pressure Left Rear
+	Tire Pressure Right Front
+	Tire Pressure Right Rear
+	Transmission In Manual Mode
+	Transmission Output Speed
+	Trip Button Pressed
+	Trip Reset
+	Trip Timer
+	Trip Timer On IC 10
+	Truck Button Pressed
+	Trunk Open Active
+	Trunk Release
+	Units In Imperial US 20
+	Units In Kilometers Active
+	Units In Metric 20
+	Units In Miles Active
+	Units Of Measurement
+	Units Setting 00
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
+	Valet Mode Unlocking Active
+	Vehicle Speed
+	Warning Cross Traffic Prompt
+	Wide Angel Camera View Activ
+	Windshield Washer Command
+	Windshield Wiper Hi
+	Windshield Wiper Int
+	Windshield Wiper Int Volume
+	Windshield Wiper Lo
+	Windshield Wiper Mist
+	Windshield Wiper OFF
+	Wiper Speed
+	Wipers Not Active
+	Yaw Rate Value
+	Year 1
+	Year 2
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Not Pressed
+	Cancel Cruise Control Request
+	Cruise Target Acceleration
+	Current Gear
+	Instant Power Assist System
+	Lane Keep Assistant Status
+	P R N D L
+	Pre Collision Active
+	Transmission Speed
+	V I N Part 1
+	V I N Part 2
+	V I N Part 3

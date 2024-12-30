@@ -1,0 +1,213 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Renault 'Thalia' (2020)
+Signal Descriptions:
+	ABS Active
+	ABS Computer Current Mileage
+	Airbag Front Right Passenger Off
+	Alternator Duty Cycle
+	Ambient Temperature
+	Auto Door Lock On
+	Battery Voltage
+	Battery Voltage
+	Brake Switch Pressed
+	Car Lifetime
+	Car Put In Reverse Sound
+	Center Display On
+	Central Lock System Locked By Key FOB
+	Check Auto Lighting
+	Command Unlock Doors
+	Command Unlock Doors And Turn On Hazards
+	Dash Message Check Parking Sensor
+	Dash Message Power Steering Fault Active
+	Dash Prompt Battery Low Start Engine
+	Dash Prompt Check Lighting Active
+	Dash Prompt Electrical Failure Danger
+	Dash Prompt Keycard Battery Low
+	Dash Prompt Keycard Not Recognised
+	Dash Prompt Press Brake And Start
+	Dash Prompt Press Clutch
+	Dash Prompt Press Clutch And Start
+	Dash Prompt Put In Neutral
+	Dash Prompt Rearelectric Windows Locked
+	Dash Prompt Select Neutral
+	Dash Prompt Steering Wheel Not Locked
+	Dashboard Display Indication CRUISE On
+	Dashboard Speedometer Indication
+	Dashboard Tell Tale Airbag Left On
+	Dashboard Tell Tale Oil Pressure Warning On
+	Distance Remaining Until Oil Change
+	Door Front Left Closed
+	Door Front Left Open
+	Door Front Right Closed
+	Door Front Right Open
+	Door Hood Closed
+	Door Hood Open
+	Door Rear Left Closed
+	Door Rear Left Open
+	Door Rear Right Closed
+	Door Rear Right Open
+	Door Trunk Closed
+	Door Trunk Open
+	ECO Mode On
+	Eco Mode Off
+	Engine Coolant Temperature
+	Engine Immobiliser Active
+	Engine Off
+	Engine On
+	Engine Running
+	Engine Speed
+	Engine Speed Idling Reference
+	Engine Torque Net
+	Engine Torque Reference
+	Flow Rate Function Status Low
+	Flow Rate Function Status OK
+	Flywheel Signal Detected Qq
+	Flywheel Signal Not Detected Qq
+	Fuel Level
+	Fuel Pump Off
+	Fuel Pump On
+	Gear Lever Position Neutral
+	Gear Reverse Engaged 0 True When Car Off
+	Gear Reverse Not Engaged
+	Gearbox Manual Position Not Neutral
+	HVAC A C Authorisation Yes
+	HVAC Cabin Fan Speed
+	HVAC Change States
+	HVAC Fan Active
+	HVAC Lower Vents Active
+	HVAC Mid Vents Active
+	HVAC Motor Driven Fan Unit Request Active
+	HVAC Recirculation Off
+	HVAC Recirculation On
+	HVAC Upper Vents Active
+	Hazards On
+	Injection Protection Inactive
+	Inlet Air Temperature
+	Instrument Cluster Dashboard Chime On
+	Instrument Cluster Door Front Left Open Alarm
+	Instrument Cluster Door Front Right Open Alarm
+	Instrument Cluster Door Rear Left Open Alarm
+	Instrument Cluster Door Rear Right Open Alarm
+	Instrument Cluster Warning ABS Chime
+	Key Button Unlock Held
+	Key Locking Or Unlocking
+	Key Unlocking Or Button Lock Held
+	Lights Off
+	Lights On
+	Lights Stalk Left Anti Fog Front Lights Active
+	Lights Stalk Left Anti Fog Rear Lights Active
+	Lights Stalk Left High Beam On
+	Lights Stalk Left Indicator Left Turn On
+	Lights Stalk Left Indicator Right Turn On
+	Lights Stalk Left Left Turn Indicator Active
+	Lights Stalk Left Low Beam On
+	Lights Stalk Left Right Turn Indicator Active
+	Lights Stalk Left Sidelights On
+	Limiter Speed Set
+	Locking System Active
+	Odometer
+	Parking Brake Applied
+	Parking Brake Not Applied
+	Parking Sensors Sound
+	Parking Sonar Active
+	Parking Sonar Backup Display Active
+	Parking Sonar Center
+	Parking Sonar Rear Left
+	Parking Sonar Rear Right
+	Parking Sonar Sound Level
+	Pedal Accelerator Kickdown Switch
+	Pedal Accelerator Position With Kickdown Switch
+	Pedal Accelerator Position Without Kickdown Switch
+	Pedal Accelerator Release
+	Pedal Brake Multiplex Signal Intermediate
+	Pedal Brake Multiplex Signal Missing
+	Pedal Brake Multiplex Signal Present
+	Pedal Clutch Full Pressed
+	Pedal Clutch Not Full Pressed
+	Pedal Clutch Not Pressed
+	Pedal Clutch Pressed
+	Power Draw
+	Power Mode
+	Power Mode Accessory Or Off
+	Power Mode Ignition Or Engine Running
+	Power Mode Switching To Ignition
+	Rear Sonar Displayed
+	Refrigerant Pressure
+	Seatbelt Front Left Fastened
+	Seatbelt Rear Left Passenger Fastened
+	Seatbelt Rear Left Passenger Unfastened
+	Seatbelt Rear Middle Passenger Fastened
+	Seatbelt Rear Middle Passenger Unfastened
+	Seatbelt Rear Right Passenger Fastened
+	Seatbelt Rear Right Passenger Unfastened
+	Seatbelt Unfastened Warning Front Left On
+	Seatbelt Unfastened Warning Front Right On
+	See Me Home Setting Message
+	Smart Key In Holder
+	Smart Key Out Of Holder
+	Speed Limiter Active
+	Speed Limiter On And Not Active
+	Speed Limiter Speed Set Exceeded
+	Start Stop Button At Rest
+	Start Stop Button Pressed
+	Start Stop Button Pressed
+	Start Stop Button Unpressed
+	Start Stop System Activated
+	Start Stop System Deactivated
+	Steering Wheel Angle
+	TPMS Light On
+	TPMS Resetting Values
+	TPMS Service
+	Tell Tale Exhaust Particulate Filter
+	Tell Tale Instrument Cluster ABS Flashing
+	Tell Tale Instrument Cluster ABS On
+	Tell Tale Instrument Cluster Airbag Warning On
+	Tell Tale Instrument Cluster Door Front Left Open
+	Tell Tale Instrument Cluster Door Front Right Open
+	Tell Tale Instrument Cluster Door Rear Left Open
+	Tell Tale Instrument Cluster Door Rear Right Open
+	Tell Tale Instrument Cluster ECO Mode On
+	Tell Tale Instrument Cluster Orange Engine Malfunction Light On
+	Tell Tale Instrument Cluster Traction Control Flashing
+	Tell Tale Instrument Cluster Traction Control On
+	Tell Tale Seatbelt Front Right Passenger Active
+	Traction Control System Status
+	Traction Mode
+	Vacuum Sensor Circuit
+	Vehicle Speed
+	Vehicle Speed Units
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Rear Heater Active
+	Window Rear Heater Relay Active
+	Windshield Sprayer Active
+	Windshield Sprayer Not Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Light Pressed
+	Brake Not Pressed
+	Brake Pressed
+	Car In Reverse
+	Car Out Of Reverse
+	Engine On
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Master Cylinder Pressure
+	Pedal Clutch Fully Pressed
+	Pedal Clutch Not Fully Pressed
+	Pedal Clutch Not Pressed
+	Pedal Clutch Pressed
+	Signal 0
+	Steering Wheel Rate
+	Trip Average Fuel Economy
+	Trip Average Speed
+	Trip Computer Reset
+	Trip Distance
+	Trip Fuel Used
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Yaw Rate

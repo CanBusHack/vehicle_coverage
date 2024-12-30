@@ -1,0 +1,81 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Toyota 'Agya' (2022)
+Signal Descriptions:
+	Alternator Duty Cycle
+	Brake Park Active
+	Door Auto Unlock
+	Door Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Rear Driver Open
+	Door Rear Passenger Open
+	Door Trunk Open
+	Doors Unlocked
+	Engine Control Unit Model
+	Engine Coolant Temperature
+	Engine Cranking
+	Engine Speed
+	Fuel Cut Condition
+	Fuel Pump Relay Active
+	Fuel Pump Status
+	HVAC AC Clutch Active
+	HVAC System AC On
+	HVAC System Evaporative Emission Temperature
+	HVAC System Ventilation On
+	HVAC System Windscreen Rear Defroster On
+	Idle Switch Position On
+	Ignition Mode
+	Intake Air Temperature
+	Lights High Beams Active
+	Lights High Beams Passing Active
+	Lights Lowbeam Active
+	Lights Sidelights Active
+	Lights Stalk Left Set To Downward Position Left Turn Signal Active
+	Lights Stalk Left Set To Upward Position Right Turn Signal Active
+	Lights Turn Signal Left Active
+	Lights Turn Signal Right Active
+	Lock Up Solenoid Status
+	PRNDL 2 Engaged
+	PRNDL 3 Engaged
+	PRNDL D4 Engaged
+	PRNDL Neutral Engaged
+	PRNDL Park Engaged
+	PRNDL Reverse Engaged
+	Pedal Accelerator In Rest Position
+	Pedal Accelerator Position
+	Pedal Brake Engaged
+	Power Steering Signal On
+	Shift Switch Position D Range
+	Shift Switch Position R Range
+	Stalk Left Turn Signal Set To Up Or Down Position
+	Steering Wheel Torque
+	Tell Tale Brake Park Active
+	Tell Tale Doors Open
+	Tell Tale Inactive Door Open
+	Tell Tale Key Not In Vehicle
+	Tell Tale Lights High Beams Active
+	Tell Tale Lights Turn Signal Left Active
+	Tell Tale Lights Turn Signal Right Active
+	Tell Tale Seatbelt Unfastened Active
+	Throttle Position
+	Total Minutes Of The Day
+	Vehicle Speed
+	Vehicle Trip Time Time Since Last Ignition Cycle
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Windscreen Front Sprayer Active
+	Windscreen Front Sprayer Inactive
+	Windscreen Front Wiper Continuous Mode Not Set
+	Windscreen Front Wiper Continuous Mode Set
+	Windscreen Rear Sprayer Active
+	Windscreen Rear Sprayer Inactive
+	Windscreen Rear Wiper Active
+	Windscreen Rear Wiper Constant Wiping
+	Windscreen Rear Wiper Inactive
+	Windscreen Rear Wiper Intermittent
+	Windscreen Wiper Front Motor High Speed Setting
+	Windscreen Wiper Front Motor Low Speed Setting
+	Windscreen Wipers Front Intermittent Active
+	Windscreen Wipers Front Intermittent Not Active

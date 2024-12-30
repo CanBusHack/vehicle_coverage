@@ -1,0 +1,175 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Dacia 'Lodgy' (2020)
+Signal Descriptions:
+	ABS Computer Current Mileage
+	ABS In Action
+	ADAS Speed Limiter Exceeded
+	ADAS Speed Set
+	ADAS Status
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Airbag Left On
+	Airbag Right Off
+	Alternator Duty Cycle
+	Ambient Temperature
+	Car Lifetime
+	Command Hazards And Unlock Doors
+	Command Unlock Doors
+	Crankshaft Synchronisation Correct
+	Crankshaft Synchronisation Incorrect
+	Dash Indication Shift Down
+	Dash Indication Shift Up
+	Dash Indication Water In Diesel
+	Dashboard Bright Mode
+	Dashboard Chime
+	Dashboard Speedometer Indication
+	Dashboard Tell Tale ABS Flashing
+	Dashboard Tell Tale ABS On
+	Dashboard Tell Tale Airbag Left On
+	Dashboard Tell Tale Malfunction On Orange
+	Dashboard Tell Tale Oil Pressure Warning On
+	Dashboard Tell Tale Traction Control Flashing
+	Dashboard Tell Tale Traction Control On
+	Dashboard Warning ABS Chime
+	Distance Remaining Until Refueling
+	Distance Remaining Until Service
+	Door Front Left Closed
+	Door Front Left Open
+	Door Front Right Closed
+	Door Front Right Open
+	Door Open Tell Tale Front Left
+	Door Open Tell Tale Front Right
+	Door Open Tell Tale Rear Left
+	Door Open Tell Tale Rear Right
+	Door Open Warning Front Left
+	Door Open Warning Front Right
+	Door Open Warning Rear Left
+	Door Open Warning Rear Right
+	Door Rear All Closed
+	Door Rear Any Open
+	ECO Mode Active
+	ECO Mode Inactive
+	Engine Coolant Temperature
+	Engine Immobilizer Reading Code
+	Engine Immobilizeractive
+	Engine Speed
+	Engine Speed Idling Reference
+	Engine Stalled
+	Engine Status
+	Engine Torque Net
+	Engine Torque Ref Test Active
+	Engine Torque Reference
+	Fan Speed Required By Injection
+	Flow Rate Function Status Low
+	Flow Rate Function Status OK
+	Flywheel Signal Detected
+	Flywheel Signal Not Detected
+	Fuel Level Displayed
+	Fuel Pump Off
+	Fuel Pump On
+	Fuel Rail Pressure Sensor Open Circuit Disconnected
+	Gear Lever Position Neutral
+	Gear Reverse Engaged
+	Gear Reverse Engaged 0 True When Car Off
+	Gear Reverse Not Engaged
+	Gearbox Manual Position Not Neutral
+	HVAC A C Authorisation Yes
+	HVAC Fan Active
+	HVAC Motor Driven Fan Unit Request Active
+	Hazards Test Request In Progress
+	Hazards Test Request Inactive
+	Injection Protection Inactive
+	Inlet Air Temperature
+	Instrument Cluster Warning Trunk Open
+	Key Button Unlock Held
+	Key Locking Or Unlocking
+	Key Unlocking Or Button Lock Held
+	Lights Auto Dipped Beam Off
+	Lights Auto Dipped Beam On
+	Lights Indicator Left On
+	Lights Indicator Right On
+	Lights Off
+	Lights On
+	Locking System Active
+	Locking System Automatic On
+	Locking System Locked By Key
+	MAP Sensor Not Available
+	Odometer
+	Parking Brake Applied
+	Parking Brake Not Applied
+	Pedal Accelerator Position With Switch
+	Pedal Accelerator Position Without Switch
+	Pedal Accelerator Release
+	Pedal Accelerator Switch
+	Pedal Brake Signal Intermediate
+	Pedal Brake Signal Missing
+	Pedal Brake Signal Present
+	Pedal Clutch Not Pressed
+	Pedal Clutch Pressed
+	Power Mode
+	Power Mode Accessory Or Off
+	Power Mode Ignition Or Engine Running
+	Prompt Anti Theft Steering Lock
+	Prompt Check Airbag
+	Prompt Check Anti Pollution System
+	Prompt Check Auto Lighting
+	Prompt Check Child Safety Device
+	Prompt Check Injection System
+	Prompt Check Keyfob Reader
+	Prompt Check Vehicle
+	Prompt Declutch
+	Prompt Gear Lever To Neutral
+	Prompt Keycard Battery Low
+	Prompt See Me Home
+	Prompt Select Gear
+	Prompt Select Neutral
+	Prompt Start Status
+	Prompt Steering Wheel Not Locked
+	Radio Mute Active
+	Radio Mute Decrease
+	Refrigerant Pressure
+	Seatbelt Fastened Rear Left
+	Seatbelt Fastened Rear Middle
+	Seatbelt Fastened Rear Right
+	Seatbelt Indication Front Left
+	Seatbelt Indication Front Right
+	Seatbelt Warning Front Left
+	Seatbelt Warning Front Right
+	Stalk Right Menu Button Down Pressed
+	Stalk Right Menu Button Up Pressed
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Tell Tale Airbag Fault On
+	Tell Tale Airbag Right Green On
+	Tell Tale Battery Flashing
+	Tell Tale Diesel Particulate Filter
+	Tell Tale ECO
+	Tell Tale Glow Plug On
+	Tell Tale Indicator Left
+	Tell Tale Indicator Right
+	Tell Tale Lights Anti Fog Front
+	Tell Tale Lights Anti Fog Rear
+	Tell Tale Lights High Beam
+	Tell Tale Lights Low Beam
+	Tell Tale Malfunction
+	Tell Tale Malfunction Status
+	Traction Control System Status
+	Vehicle Speed
+	Vehicle Speed Units
+	Warning Check Brake Lights
+	Warning Check ESP System
+	Warning Engine Temperature
+	Warning Injection System Fault
+	Warning Injection System Fault
+	Warning Risk Of Steering Locking
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Rear Heater Active
+	Window Rear Heater Relay Active
+	Windshield Sprayer Active
+	Windshield Sprayer Not Active
+	Wiper Rear Auto With Reverse Off
+	Wiper Rear Auto With Reverse On
+	Yaw Rate

@@ -1,0 +1,172 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'Eqe Suv' (2023)
+Signal Descriptions:
+	AC Active
+	AC Active
+	Accelerator Pedal Position Percentage
+	Acoustic Lock Option Active
+	Active Brake Assist Setting
+	Air Pressure Outside
+	Air Temperature Outside
+	All Front Doors Closed
+	Attention Assist Setting
+	Auto Head Lights Active
+	Auto Lamp Function Inoperative Dash Prompt
+	Auto Mirror Folding Option Active
+	Battery Voltage
+	Blind Spot Assist System On
+	Brake Pressure1
+	Brake Pressure2
+	Brake Switch Pressed
+	Calculated ICE Engine Load
+	Charging Program Selected
+	Check Engine Tell Tale Active
+	Check Fuel Filter Dash Prompt Active
+	Climate Control Driver Level In F
+	Climate Control Passenger Level In F
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Coffee Icon Displayed
+	Cruise Set Speed
+	Current Fuel Consumption
+	Dash Prompt Auxiliary Battery Malfunction
+	Dash Prompt Auxiliary Battery Malfunction Red
+	Dash Prompt Auxiliary Battery Malfunction White
+	Dash Prompt Before Starting The Engine Turn The Steering Wheel
+	Dash Prompt Development Mode Service Required
+	Dash Prompt Dont Forget Your Key
+	Dash Prompt Function Available Again After Engine Start 1
+	Dash Prompt Function Available Again After Engine Start 2
+	Dash Prompt Inoperative Battery Low 1
+	Dash Prompt Inoperative Battery Low 2
+	Dash Prompt Inoperative Refuel Vehicle 1
+	Dash Prompt Inoperative Refuel Vehicle 2
+	Dash Prompt Inoperative See Operators Manual 1
+	Dash Prompt Inoperative See Operators Manual 2
+	Dash Prompt Key Not Detected
+	Dash Prompt Key Not Detected Place The Smartphone In The Charge Bracket Red And Tone
+	Dash Prompt Key Not Detected Place The Smartphone In The Charge Bracket White
+	Dash Prompt Place The Key In The Marked Place See Operators Manual
+	Dash Prompt Replace Key See Operators Manual
+	Dash Prompt Shift To P Or N To Start Vehicle
+	Dash Prompt Start Engine See Operators Manual
+	Dash Prompt Steering Malfunction See Operators Manual
+	Dash Prompt Stop Vehicle Leave Engine Running
+	Driver Seat Unbuckled
+	Driver Side Door Lock Button Pressed
+	Driver Side Door Unlock Button Pressed
+	Driver Side Temperature In F
+	East Entry And Exit Seat Setting Active
+	East Entry And Exit Steering Wheel Setting Active
+	Engine Actual Torque
+	Engine Coolant Temperature
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Oil Temperature
+	Engine Performance Torque
+	Fan Speed Driver Side
+	Fan Speed Passenger Side
+	Fog Light Button Pressed
+	Fog Lights Active
+	Font Wipers Movement Speed
+	Front Left Wheel Speed
+	Fuel Tell Tale Blinking
+	HVAC Auto Active
+	HVAC Blower Position
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Max Active
+	HVAC Recirculation Active
+	HVAC Recirculation Button Pressed
+	Hazard Lights Active
+	Hazards Active
+	Head Lights Active
+	Headlights Active
+	High Beams Active
+	Hood Ajar
+	Hood Closed
+	Horn Active
+	ICE Engine Speed
+	ICE Engine Torque
+	INT Wiper Active
+	Ignition Button Pressed
+	Ignition Power Mode
+	Instrument Cluster Brightness Level
+	Intake Air Temperature
+	Intake Air Temperature
+	Interior Accent Light Level
+	Interior Ambiance Level
+	Interior Front Light Level
+	Interior Vents Light Level
+	Key Fob Commands
+	Left Mirror Selected For Adjustment
+	Left Rear Wheel Speed
+	Left Turn Signal Active
+	Left Turn Signal Active
+	Light Lights Active
+	Locator Lighting Setting Active
+	Master Brake Pressure
+	Max State Of Charge
+	Mirror States
+	Odometer
+	Oil Temperature
+	Outside Air Pressure
+	PRNDL
+	PRNDL Stock Position
+	Park Assist In Progress
+	Parking Assist Active
+	Parking Assist Inactive
+	Parking Brake Active
+	Parking Brake Active Alt
+	Parking Light Left Active
+	Parking Light Right Active
+	Parking Lights Active
+	Passenger Lock Button Pressed
+	Passenger Seat Unbuckled
+	Passenger Side Temperature In F
+	Passenger Unlock Button Pressed
+	Power Mode
+	Power Output Percent
+	Rate Of Charge
+	Rear Heated Seats Active
+	Rear INT Wiper Active
+	Rear Left Wheel Speed
+	Rear Wiper In Motion
+	Recirculation Status Active
+	Right Mirror Selected For Adjustment
+	Right Rear Wheel Speed
+	Right Turn Signal Active
+	Right Turn Signal Active
+	State Of Charge
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	TPMS Front Left
+	TPMS Front Left Low Tier Low Tell Tale
+	TPMS Front Right
+	TPMS Front Right Low Tier Low Tell Tale
+	TPMS Rear Left
+	TPMS Rear Left Low Tier Low Tell Tale
+	TPMS Rear Right
+	TPMS Rear Right Low Tier Low Tell Tale
+	Time Since Start In Minutes
+	Time Since Trip Reset In Minutes
+	Traction Control Active
+	Traction Control Off
+	Transmission Oil Temperature
+	Trunk Close Request
+	Trunk Open Request
+	Turn Signal Active
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse
+	Wipers In Motion

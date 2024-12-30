@@ -1,0 +1,454 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'Gls' (2013)
+Signal Descriptions:
+	Brake Pressure1
+	Brake Pressure2
+	Brake Switch
+	Current Drive Mode
+	Distance Units Miles Selected
+	Driver Back Rest Down
+	Driver Back Rest Up
+	Driver Control Window Button States
+	Driver Door Ajar
+	Driver Head Rest Down
+	Driver Head Rest Up
+	Driver Mirror Setting Buttons
+	Driver Reading Light Brightness
+	Driver Seat Back
+	Driver Seat Down
+	Driver Seat Font Angle Down
+	Driver Seat Font Angle Up
+	Driver Seat Forward
+	Driver Seat Or 1 3 And M Buttons Being Pressed Active
+	Driver Seat Up
+	Driver Seat Warmer Button Pressed
+	Driver Thigh Support Extend
+	Driver Thigh Support Retract
+	Exterior Light Level Brightness
+	Front Driver Window Open Length
+	Front Passenger Window Open Length
+	Interior Front Light Level
+	Interior Illumination On Door Ajar Off
+	Interior Light Level Selected
+	Mirror Position Adjustment In Progress
+	Odometer
+	Park Brake Disengage Request
+	Park Brake Disengaged
+	Park Brake Engage Request
+	Park Brake Engaged
+	Passenger Backrest Down
+	Passenger Backrest Up
+	Passenger Door Ajar
+	Passenger Head Rest Down
+	Passenger Head Rest Up
+	Passenger Lock Button Pressed
+	Passenger Reading Light Brightness
+	Passenger Seat Backwards
+	Passenger Seat Down
+	Passenger Seat Forward
+	Passenger Seat Up
+	Passenger Thigh Support Down
+	Passenger Thigh Support Extend
+	Passenger Thigh Support Retract
+	Passenger Thigh Support Up
+	Passenger Unlock Button Pressed
+	Passenger Window Controls
+	Passenger Window Moving
+	Passenger Window Open
+	Rear Driver Control Window Button States
+	Rear Driver Door Ajar
+	Rear Driver Window Open Length
+	Rear Passenger Door Ajar
+	Rear Passenger Window Moving
+	Rear Passenger Window Moving
+	Rear Passenger Window Moving
+	Rear Passenger Window Open
+	Rear Passenger Window Open
+	Rear Passenger Window Open
+	Rear Passenger Window Open Length
+	Review Mirror Glare Control Sensor
+	Seat Heat Button Pressed
+	Steering Angle
+	Steering Angle
+	Traction Control Active
+	Trunk Lid Restriction Option Active
+	Vehicle Speed
+	Vehicle Speed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Adjust Tire Pressure Dash Prompt Active
+	Air Bag 3Rd Row Left Malfunction Consult Workshop Dash Prompt
+	Air Bag 3Rd Row Right Malfunction Consult Workshop Dash Prompt
+	Air Bag Front Left Malfunction Service Required Dash Prompt
+	Air Bag Front Right Malfunction Service Required Dash Prompt
+	Air Bag Rear Center Malfunction Service Required Dash Prompt
+	Air Bag Rear Left Malfunction Service Required Dash Prompt
+	Air Bag Rear Right Malfunction Service Required Dash Prompt
+	Air Bag Tell Tale Active
+	Air Bag Tell Tale Blinking Active
+	Ambient Temperature Inside Car
+	Battery Voltage
+	Brake Hold Active
+	Brake Pedal Percentage
+	Brake Switch Active
+	Check Child Seat Position Dash Prompt
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Moth
+	Clock Seconds
+	Clock Year
+	Computer Brake Active
+	Cruise Control Accel By 1
+	Cruise Control Accel By 5
+	Cruise Control Decel By 1
+	Cruise Control Decel By 5
+	Cruise Control Off
+	Cruise Control Resume
+	Cruise Control Set Speed
+	Driver Brake
+	Driver Door Locked
+	Driver Door Unlocked
+	Driver Seat Belt Unbuckled
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Torque
+	Foot Parking Brake Active
+	Front Misting Button Level One Pressed
+	Front Misting Button Level Two Pressed
+	Front Wiper In Motion
+	Fuel Level Vol
+	Fuel Rate
+	Gear Current
+	Gear Request
+	Heated Steering Wheel Stock Position Off
+	Heated Steering Wheel Stock Position On
+	High Beam Active
+	Horn Active
+	Indicator Status
+	Intake Air Temperature
+	Kick Down
+	Lateral Acceleration
+	Left Front Door Status
+	Left Rear Door Status
+	Left Side Curtain Airbag Malfunction Service Required Dash Prompt
+	Left Turn Signal Stock Position
+	Longitudinal Acceleration
+	Low Beam Active
+	Malfunction Service Required Dash Prompt
+	Odometer
+	Odometer Dash Display
+	Oil Temperature
+	Outside Air Pressure
+	PRNDL
+	Paddle Shifter Down Paddle Active
+	Paddle Shifter Up Paddle Active
+	Passenger Door Locked
+	Passenger Door Unlocked
+	Passenger Seat Belt Unbuckled
+	Power Mode
+	Rear Left Door Locked
+	Rear Left Door Unlocked
+	Rear Right Door Locked
+	Rear Right Door Unlocked
+	Rear Wiper Set To Intermediate
+	Rear Wiper Set To Mister
+	Right Front Door Status
+	Right Rear Door Status
+	Right Side Curtain Airbag Malfunction Service Required Dash Prompt
+	Right Turn Signal Stock Position
+	SRS Malfunction Service Required Dash Prompt
+	Shifter Level Pressed Down One
+	Shifter Level Pressed Down Two
+	Shifter Level Pressed Park Button
+	Shifter Level Pressed Up One
+	Shifter Level Pressed Up Two
+	Steering Wheel Angle
+	Steering Wheel Back Button Active
+	Steering Wheel Call Button Active
+	Steering Wheel Direction Right
+	Steering Wheel Down Arrow Button Active
+	Steering Wheel End Call Button Active
+	Steering Wheel Left Arrow Button Active
+	Steering Wheel Mute Button Active
+	Steering Wheel OK Button Active
+	Steering Wheel Rate
+	Steering Wheel Right Arrow Button Active
+	Steering Wheel Up Arrow Button Active
+	Steering Wheel Voice Button Active
+	Steering Wheel Volume Down Button Active
+	Steering Wheel Volume Up Button Active
+	Steering Wheel X Y And Z Control Stock Position
+	TPMS Tell Tale Active
+	TPMS Tell Tale Blinking Active
+	Tire Pressure Check Tires Dash Prompt
+	Tire Pressure Front Left
+	Tire Pressure Front Left Low Tier Low Tell Tale
+	Tire Pressure Front Right
+	Tire Pressure Front Right Low Tier Low Tell Tale
+	Tire Pressure Rear Left
+	Tire Pressure Rear Left Low Tier Low Tell Tale
+	Tire Pressure Rear Right
+	Tire Pressure Rear Right Low Tier Low Tell Tale
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
+	Vehicle Speed
+	Wheel Power Direction Front Left
+	Wheel Power Direction Front Right
+	Wheel Power Direction Rear Left
+	Wheel Power Direction Rear Right
+	Wheel Sensors Missing Dash Prompt Active
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Movement Speed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	AC Active
+	Acoustic Lock Option Active
+	Air Pressure Outside
+	Auto Head Lights Active
+	Auto Lamp Function Inoperative Dash Prompt
+	Auto Mirror Folding Option Active
+	Auto Start Icon On Dash
+	Auto Start Stop Active
+	Auto Start Stop Button Pressed
+	Automatic Door Lock Option Active
+	Battery Voltage
+	Belt Adjustment Option Active
+	Blind Spot Assist Active
+	Call List Menu Text
+	Cellular Power Bars
+	Center Console Main Dial Pressed
+	Center Console Touch Control Back Touch Present
+	Center Console Touch Control Fast Forward Skip Touch Present
+	Center Console Touch Control General Area Touch Present
+	Center Console Touch Control Home Touch Present
+	Check Engine Tell Tale Active
+	Check Fuel Filter Dash Prompt Active
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Clutch Overheated Avoid Pulling Away Dash Prompt
+	Cruise Set Speed
+	Current Fuel Consumption
+	Current Gear
+	Dash Prompt Auxiliary Battery Malfunction
+	Dash Prompt Auxiliary Battery Malfunction Red
+	Dash Prompt Auxiliary Battery Malfunction White
+	Dash Prompt Before Starting The Engine Turn The Steering Wheel
+	Dash Prompt Blind Spot Assist Currently Unavailable See Operators Manual
+	Dash Prompt Blind Spot Assist Inoperative
+	Dash Prompt Blind Spot Assist Not Available When Towing A Trailer
+	Dash Prompt Call And Phone Prompts
+	Dash Prompt Development Mode Service Required
+	Dash Prompt Dont Forget Your Key
+	Dash Prompt Factory Settings Activated
+	Dash Prompt Function Available Again After Engine Start 1
+	Dash Prompt Function Available Again After Engine Start 2
+	Dash Prompt HV Battery
+	Dash Prompt Inoperative Battery Low 1
+	Dash Prompt Inoperative Battery Low 2
+	Dash Prompt Inoperative Refuel Vehicle 1
+	Dash Prompt Inoperative Refuel Vehicle 2
+	Dash Prompt Inoperative See Operators Manual 1
+	Dash Prompt Inoperative See Operators Manual 2
+	Dash Prompt Key Not Detected
+	Dash Prompt Key Not Detected Place The Smartphone In The Charge Bracket Red And Tone
+	Dash Prompt Key Not Detected Place The Smartphone In The Charge Bracket White
+	Dash Prompt Place The Key In The Marked Place See Operators Manual
+	Dash Prompt Pre Entry Climate Control Available Again Via Week Profile After Engine Start
+	Dash Prompt Replace Key See Operators Manual
+	Dash Prompt SOS Inoperative
+	Dash Prompt Shift To P Or N To Start Vehicle
+	Dash Prompt Start Engine See Operators Manual
+	Dash Prompt Steering Malfunction See Operators Manual
+	Dash Prompt Stop Vehicle Leave Engine Running
+	Daytime Running Lights Setting Active
+	Depress Clutch Fully To Start Engine Dash Prompt
+	Displayed Gear
+	Distance From Reset
+	Distance From Start
+	Distance To Empty
+	Driver Heated Seat Level
+	Driver Side Door Lock Button Pressed
+	Driver Side Door Unlock Button Pressed
+	Driver Side Seatbelt Unlatched
+	Driver Side Temperature In F
+	ECO Display AVG
+	ECO Display Accel Score
+	ECO Display Coast Score
+	East Entry And Exit Seat Setting Active
+	East Entry And Exit Steering Wheel Setting Active
+	Emergency SOS Ready
+	Engine Coolant Temperature
+	Engine Oil Temperature
+	Engine Speed
+	Ening Oil Pressure Stop Switch Off Engine Dash Prompt
+	Fan Speed Driver Side
+	Fan Speed Passenger Side
+	Fob Requests
+	Fog Light Button Pressed
+	Front Left Bumper Parking Sensor Level
+	Front Left Center Bumper Sensor Level
+	Front Left Quarter Panel Parking Sensor Level
+	Front Right Bumper Parking Sensor Level
+	Front Right Center Bumper Parking Sensor Level
+	Fuel Tank Error Active
+	Fuel Tank Level
+	Fuel Tell Tale Blinking
+	GPS Latitude Degrees
+	GPS Latitude Hemisphere
+	GPS Latitude Minutes
+	GPS Latitude Seconds
+	GPS Longitude Degrees
+	GPS Longitude Hemisphere
+	GPS Longitude Minutes
+	GPS Longitude Seconds
+	HP
+	HVAC Blower Position Driver Side
+	HVAC Blower Position Passenger Side
+	HVAC Max Active
+	Hazard Lights Active
+	Hazards Active
+	Head Lights Active
+	Hood Ajar
+	Hood Closed
+	Ignition Button Pressed
+	Incoming Telemetry Call Info
+	Index Byte
+	Infotainment Power Button Pressed
+	Infotainment Prompt HVAC Climate Control Overview
+	Infotainment System Active
+	Infotainment System Inactive
+	Infotainment User Engagement In Progress
+	Instrument Cluster Brightness Level
+	Int Light Delay Switch Off Time Selected
+	Intake Air Temperature
+	Left Mirror Selected For Adjustment
+	Locator Lighting Setting Active
+	Locator Lighting Time Selected
+	Low Coolant Temperature Tell Tale Active
+	Low Fuel Tell Tale Active
+	Mirror States
+	Park Assist In Progress
+	Park Assist Over Head View
+	Park Assist Wide Angle
+	Parking Light Left Active
+	Parking Light Right Active
+	Parking Lights Active
+	Parking Pilot Audio Fadeout During Warning Tones Active
+	Parking Pilot Maneuvering Assist Active
+	Parking Pilot Maneuvering Assist Inactive
+	Parking Pilot Warn Early Active
+	Parking Pilot Warn Early Inactive
+	Parking Pilot Warning Tone Volume
+	Passenger Heated Seat Level
+	Passenger Lock Button Pressed
+	Passenger Side Seatbelt Latched
+	Passenger Side Temperature In F
+	Passenger Unlock Button Pressed
+	Power Mode
+	Real Left Quarter Panel Parking Sensor Level
+	Rear Heated Seats Active
+	Rear Left Bumper Parking Sensor Quarter Panel
+	Rear Left Center Bumper Parking Sensor Level
+	Rear Radar Alarm Active
+	Rear Radar Distance Alarm Level
+	Rear Right Bumper Parking Sensor Level
+	Rear Right Center Bumper Parking Sensor Level
+	Rear Right Quarter Panel Parking Sensor Level
+	Recirculation Status Active
+	Right Front Quarter Panel Parking Sensor Level
+	Right Mirror Selected For Adjustment
+	See Operators Manual Dash Prompt
+	Shifter Position Sensor
+	Steering Left Side Back Home Button Selected
+	Steering Left Side Mute Button Selected
+	Steering Left Side Volume Control Down Pressed
+	Steering Left Side Volume Control Up Pressed
+	Steering Right Side Answer Call Button Pressed
+	Steering Right Side Back Home Button Pressed
+	Steering Right Side End Call Button Pressed
+	Steering Right Side Voice Command Button Pressed
+	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
+	TEL Button Pressed
+	Tank Ventilation Malfunction Service Required Dash Prompt
+	Tell Tale Parking Lights Active
+	Tell Tale Windshield Wiper
+	Throttle Pedal Position Percentage
+	Time Since Start In Minutes
+	Time Since Trip Reset In Minutes
+	Torque
+	Transmission Oil Temperature
+	Trunk Close Request
+	Trunk Open Request
+	Turn Signal Active
+	Vin Part 1
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Center Dome Light Active
+	Driver Reading Light Active
+	INT Wiper Active
+	Left Turn Signal Active
+	Park Button Pressed
+	Passenger Reading Light Active
+	Rear INT Wiper Active
+	Rear Reading Lights Active
+	Rear Wiper In Motion
+	Right Turn Signal Active
+	Vehicle Speed Average
+	Windshield Wipers In Motion
+	Wipers
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	AC Active
+	ACC Pedal Position
+	Blend Position Switched Up Or Down Pressed
+	Center Console Back Button State Change
+	Center Console Car Icon Button Pressed
+	Center Console Volum Dial Pressed
+	Climate Control Driver Level
+	Climate Control Passenger Level
+	Climate SYNC Active
+	Cruise Stock Down Decel
+	Cruise Stock Pull Resume
+	Cruise Stock Push Cancel
+	Cruise Stock Up Accel
+	Driver Temperature Switch Up Or Down Pressed
+	Driver Window Moving
+	Driver Window Open
+	Dynamic Button State Down
+	Dynamic Button State Up
+	Fan Speed Change Request
+	Fog Lights Active
+	HVAC Auto Active
+	HVAC Blower Position
+	HVAC Fan Speed
+	HVAC Max Active
+	HVAC Recirculation Active
+	HVAC Recirculation Button Pressed
+	Headlights Active
+	Heated Steering Wheel Down Knob Position Active
+	Heated Steering Wheel Up Knob Position Active
+	High Beams Active
+	Home Button State Change
+	Home Button State Pressed
+	Menu Switched Up Or Down Pressed
+	Paddle Shifter Down Pressed
+	Paddle Shifter Up Pressed
+	Park Button Pressed
+	Parking Alert On Off Button Pressed
+	Passenger Temperature Switch Up Or Down Pressed
+	Steering Column Adjustment Shaft Position
+	Traction Control Active
+	Windows Child Lock Active
+	Windshield Wiper Mode Continuous
+	Windshield Wiper Speed High
+	Windshield Wiper Speed Low

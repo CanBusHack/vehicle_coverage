@@ -1,0 +1,362 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Volkswagen 'Gol' (2014)
+Signal Descriptions:
+	Audio Player Radio Power On
+	Battery Voltage
+	Central Lock Doors Setting
+	Convenience ATA Confirm On
+	DDP Front Driver Window Switch Auto Down
+	DDP Front Driver Window Switch Auto Up
+	DDP Front Driver Window Switch Down
+	DDP Front Driver Window Switch Up
+	DDP Front Passenger Window Switch Auto Down
+	DDP Front Passenger Window Switch Auto Up
+	DDP Front Passenger Window Switch Down
+	DDP Front Passenger Window Switch Up
+	DDP Rear Left Window Lock Off
+	DDP Rear Left Window Switch Auto Down
+	DDP Rear Left Window Switch Auto Up
+	DDP Rear Left Window Switch Down
+	DDP Rear Left Window Switch Up
+	DDP Rear Right Window Lock Off
+	DDP Rear Right Window Switch Auto Down
+	DDP Rear Right Window Switch Auto Up
+	DDP Rear Right Window Switch Down
+	DDP Rear Right Window Switch Up
+	DDP Trunk Release Switch Pressed
+	Door Front Driver Lock Switch Pressed
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Driver Unlock Switch Pressed
+	Door Front Passenger Door Lock Switch Pressed
+	Door Front Passenger Door Locked
+	Door Front Passenger Door Unlock Switch Pressed
+	Door Front Passenger Open
+	Gearbox Shifter Interlock Engaged
+	HVAC Fan Speed
+	HVAC Function Current
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Headlights Mode Auto
+	Headlights Park Lights Active
+	Headlights Side Lights Active
+	Horn Active
+	Key Fob Command
+	Language Selected
+	Lights Hazard
+	Lights Indicator Turn Left Active
+	Lights Indicator Turn Right Active
+	Lights Indicator Turn Signals Active
+	Mirror Side Deicer On
+	Odometer
+	Power Mode Accessory Active
+	Power Mode Run
+	Seat Heater Front Driver Level
+	Seat Heater Front Passenger Level
+	Stalk Lights High Beam Flash Pulled
+	Stalk Lights Position Turn Left
+	Stalk Lights Position Turn Right
+	Stalk Wiper 1X Switch
+	Stalk Wiper Intermittent Speed Level
+	Stalk Wiper Intermittent Switch
+	Stalk Wiper Speed High
+	Stalk Wiper Speed Low
+	Stalk Wiper Washer Active
+	Start Prompt Apply Brake
+	Start Prompt Move Selector Lever To Position P
+	Start Prompt Move Selector Lever To Position P Or N
+	Start Prompt Move Steering Wheel
+	Start Prompt Press Clutch
+	Start Prompt Steering Lock Faulty
+	Start Prompt Steering Lock Service Vehicle
+	Start Prompt Steering Wheel Still Locked
+	Start Stop Switch
+	Start System Prompt Displayed
+	Steering Wheel Button Pressed
+	Steering Wheel Tell Tale Red Active
+	Steering Wheel Tell Tale Yellow Active
+	Sun Light Sensor
+	Sunroof Open Position
+	Sunroof Safety Retraction Active
+	Sunroof Sliding Back Open
+	Time Current Hours
+	Time Current Minutes
+	Time Current Seconds
+	VIN Characters 1 To 3
+	VIN Characters 11 To 17
+	VIN Characters 4 To 10
+	VIN Index
+	Window Front Driver Fully Closed
+	Window Front Driver Moving Down
+	Window Front Driver Moving Up
+	Window Front Driver Open Position
+	Window Front Driver Overheat Timeout
+	Window Front Driver Position Limit Switch Active
+	Window Front Driver Safety Retraction Active
+	Window Front Driver Switch Auto Down
+	Window Front Driver Switch Auto Up
+	Window Front Driver Switch Down
+	Window Front Driver Switch Up
+	Window Front Passenger Fully Closed
+	Window Front Passenger Moving Down
+	Window Front Passenger Moving Up
+	Window Front Passenger Open Position
+	Window Front Passenger Overheat Timeout
+	Window Front Passenger Position Limit Switch Active
+	Window Front Passenger Safety Retraction Active
+	Window Front Passenger Switch Auto Down
+	Window Front Passenger Switch Auto Up
+	Window Front Passenger Switch Down
+	Window Front Passenger Switch Up
+	Window Rear Left Lock Active
+	Window Rear Left Open Position
+	Window Rear Left Switch Auto Down
+	Window Rear Left Switch Auto Up
+	Window Rear Left Switch Down
+	Window Rear Left Switch Up
+	Window Rear Right Lock Active
+	Window Rear Right Open Position
+	Window Rear Right Switch Auto Down
+	Window Rear Right Switch Auto Up
+	Window Rear Right Switch Down
+	Window Rear Right Switch Up
+	Wiper Front Moving
+	Wiper Front Position Parked
+	Wiper Front Speed High
+	Wiper Front Speed Low
+	Wiper Front Washer Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Diagnostics Mode Active
+	ABS Tell Tale Active
+	AC Compressor Active
+	ADAS Button Cancel Pressed
+	ADAS Button Minus Pressed
+	ADAS Button On Off Pressed
+	ADAS Button Plus Pressed
+	ADAS Button Res Pressed
+	ADAS Button Set Pressed
+	ADAS Cross Traffic Rear Sensors Act
+	ADAS Cruise Control Fault
+	ADAS Cruise Control Speed Set
+	ADAS Speed Limiter Active
+	ADAS Speed Limiter Standby
+	Acceleration Lateral Timer Tic
+	Acceleration Longitudinal
+	Actuators Combination Test Act
+	Airbag Actuator Test Act
+	Airbag Diagnostics Mode Act
+	Airbag Disabled
+	Airbag System Fault
+	Airbag Tell Tale Active
+	Alternator Output
+	Ambient Temperature Outside
+	Ambient Temperature Outside Filtered
+	Auto Start Stop System Active
+	Battery Voltage
+	Brake Boost Active
+	Brake Function Active
+	Brake Intervention Release Act
+	Brake Light ECD Active
+	Brake Message Time Out
+	Brake Pressure
+	Brake Pressure Invalid
+	Brake Request ESP System
+	Brake Switch Active
+	Brake Tell Tale Active
+	Brake Temperature Warning Active
+	Brake Torque Input Error
+	Charge Control Tell Tale Act
+	Child Seat Detected
+	Clutch Pressed
+	Crash Front Detected
+	Crash Intensity
+	Crash Rear Detected
+	Crash Rollover Detected
+	Crash Side Driver Detected
+	Crash Side Passenger Detected
+	Cruise Control Set Speed
+	Current Gear
+	Day
+	Distance Impulses Front Axle
+	Driver Door Open
+	Driving Resistance Index
+	EPC Tell Tale Active
+	ESP Tell Tale Active
+	Engine Acceleration
+	Engine Acceleration Positive
+	Engine Coolant Level Low Tell Tale Act
+	Engine Coolant Temperature
+	Engine Coolant Temperature Alt
+	Engine Coolant Temperature Warning Act
+	Engine Cooling Fan Rate
+	Engine Oil Pressure Tell Tale Act
+	Engine Oil Pressure Warning Act
+	Engine Oil Temperature
+	Engine Oil Temperature Protection Act
+	Engine Protection Overtemp Act
+	Engine Protection Transmission And Converter Act
+	Engine Running
+	Engine Speed
+	Engine Speed Desired Priority System Act
+	Engine Speed Max Warning Configuration
+	Engine Speed Override
+	Engine Torque Info Inaccurate
+	Engine Torque Internal Target
+	Engine Torque Motor Loss
+	Engine Torque Net
+	Engine Torque Reference
+	Engine Torque Request Driver
+	Fuel Cap Tell Tale Active
+	Fuel Consumption
+	Fuel Consumption Overflow
+	Fuel Cut Off Active
+	Fuel Level
+	Fuel Level Error Act
+	Fuel Level Low Tell Tale Active
+	Fuel Level Low Warning Act
+	Fuel Stop Warning Active
+	Gear Reverse Engaged
+	Gear Torque Instant
+	Gear Torque Target
+	Gearbox EGS Request
+	Gearbox Gear Engaged
+	Gearbox Shift Act
+	Gearbox Shift Interlock Tell Tale Active
+	Glowplug Active
+	HVAC Compressor Off
+	HVAC Compressor Off Request Transmission
+	HVAC Compressor Power Reduction Act
+	Headlights High Beam Active
+	Headlights High Temperature Warning Act
+	Headlights Low Beam Active
+	Headlights Range Adjustment Active
+	Heated Exterior Mirrors Off
+	Heated Seats Off
+	Heated Window Front Off
+	Heated Window Rear Off
+	Hood Open
+	Hour
+	Idle Speed Target
+	Idle Speed Target Increase
+	Idle Target Set To Max
+	Ignition ACC
+	Ignition Active
+	Ignition Cranking
+	Intake Air Temperature
+	Intake Air Temperature Fault
+	Intermediate Gas Flag
+	Key In Ignition
+	Lights Brake Active
+	Lights Fog Active
+	Lights Hazards Active
+	MIL Tell Tale Active
+	MKB Safe
+	Minute
+	Month
+	Odometer
+	PRNDL Position
+	Parking Brake Engaged
+	Passenger Door Open
+	Pedal Accelerator Kickdown Switch Act
+	Pedal Accelerator Position
+	Pedal Accelerator Raw Position
+	Pedal Accelerator Release Act
+	Pedal Accelerator Released
+	Pedal Accelerator Value Inaccurate
+	Pedal Accelerator Value Inaccurate
+	Pedal Brake Pressed
+	Pedal Clutch Switch Released
+	Power Steering Fluid Level
+	Power Steering Tell Tale Active
+	Power Steering Temperature
+	Rear Driver Door Open
+	Rear Passenger Door Open
+	Seatbelt Front Driver Buckled Alt
+	Seatbelt Front Driver Switch Act
+	Seatbelt Front Driver Warning Act
+	Seatbelt Front Passenger Buckled Alt
+	Seatbelt Front Passenger Switch Act
+	Seatbelt Front Passenger Warning Act
+	Seatbelt Tell Tale Inactive
+	Second
+	Stalk Lights Position High Beam
+	Stalk Lights Position Indicator Turn Left
+	Stalk Lights Position Indicator Turn Right
+	Start Prompt Pre Heat
+	Start Remote Active
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Torque
+	Steering Wheel Turn Clockwise
+	TPMS Tell Tale Active
+	Throttle Angle Value Inaccurate
+	Throttle Position
+	Torque Converter Loss
+	Traction Control Off Tell Tale Active
+	Traction Control System Initialization Active
+	Trailer Tell Tale Active
+	Transmission Prompt Overheat Stop See Owners Manual
+	Transmission Torque Error
+	Turbo Boost Pressure
+	VIN Part 1
+	VIN Part 2
+	Vehicle Acceleration
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Vehicle Speed Signal Source Act
+	Water In Fuel Filter
+	Wheel Front Left Free
+	Wheel Front Right Free
+	Wheel Rear Left Free
+	Wheel Rear Right Free
+	Wheel Reverse Direction Rear Left
+	Wheel Reverse Direction Rear Right
+	Wheel Speed Average
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheel Torque Desired
+	Wheel Torque Desired Increasing
+	Wiper Front Active
+	Wipers In Down Position
+	Yaw Rate
+	Yaw Rate Clockwise
+	Yaw Rate Invalid
+	Yaw Rate Offset
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ADAS Prompt Button For Driver Assistant System Defective
+	Door Trunk Open Displayed
+	Fob Buttons Released
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Indicator Tell Tale Active
+	Dashboard Backlight Brightness Output
+	Dashboard Backlight Brightness Setting
+	Dashboard Under Voltage Present
+	Door Front Left Open
+	Door Front Right Open
+	Door Hood Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Headlights High Beam Automatic Tell Tale Active
+	Lights Exterior Fault Tell Tale Active
+	Lights Hazards Active
+	Lights Prompt Fault Light Assist
+	Lights Prompt Light Assist Clean Windshield
+	Lights Reverse Active
+	Start Prompt Move Selector Lever To Position P Or N
+	Start Prompt Renew Key Battery
+	Trailer Indicator Tell Tale Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ADAS Blind Spot Side Left Act
+	ADAS Blind Spot Side Right Act
+	ADAS Blind Spot System Act
+	ADAS Blind Spot System Standby
+	ADAS Cross Traffic Warn Status

@@ -1,0 +1,224 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Outlander' (2016)
+Signal Descriptions:
+	ABS Tell Tale Active
+	ABS Tell Tale Active
+	AC Clutch
+	AC Compressor Active
+	AC High Side Pressure
+	ANG Mode Selected
+	AVG Unit Selected
+	Accelerator Pedal Not Pressed
+	Accelerator Pedal Not Pressed
+	Alternator Use Rate Target
+	Any Door Open
+	Auto Hold Alerts
+	Auto Hold Engaged
+	Automatic Oil Change Indicator On
+	Battery Voltage
+	Blower Position
+	Brake Tell Tale Active
+	Brake Tell Tale Active
+	Charging System Failure
+	Charging System Voltage Low
+	Check DPF System Dash Prompt Active
+	Check Engine Oil Level Dash Prompt Active
+	Coolant Temperature
+	Cruise Control Set Tell Tale Active
+	Cruise Control Tell Tale Active
+	DPF System Service Required Dash Prompt Active
+	Dash Prompt 4WD System Overheating Slow Down Dash Prompt Active
+	Dash Prompt 4WD System Required
+	Dash Prompt 4WD System Service Required Dash Prompt Active
+	Dash Prompt Charging System Service Required
+	Dash Prompt Parking Brake Service Required
+	Dash Prompt Parking Brake Temporarily Not Available
+	Dash Prompt Release Parking Brake
+	Dash Prompt Transmission Over Heating Slow Down
+	Dash Prompt Vehicle With Padlock Icon
+	Dash Prompt Vehicle With Padlock Icon Flashing
+	Display PRNDL
+	Displayed Vehicle Speed
+	Drive Mode
+	Driver Seatbelt Not Buckled
+	Driver Seatbelt Unbuckled
+	Driver Window In Motion
+	ECO Button Being Pressed
+	ESP Feature Is Completely Disabled
+	EV Dash Prompts
+	Engine Overheat Fan High
+	Engine Overheat Fan Low
+	Engine Speed
+	Engine Torque
+	Error From Engine Coolant Sensor
+	Fog Lights Active
+	Front Left Radar Alert Dash Animation
+	Front Left Wheel Speed
+	Front Radar Alert Dash Animation
+	Front Right Radar Alert Dash Animation
+	Front Right Wheel Speed
+	Front Wipers In Motion
+	Full Range
+	Glow Plug Tell Tale On
+	HVAC AC Active
+	HVAC Auto Active
+	HVAC Button Being Pressed
+	HVAC Condenser Fan
+	HVAC Fan Speed
+	Hazards Active
+	Hazards Inactive
+	High Beams Active
+	Instant Fuel Usage
+	Key In Ignition
+	Language Selected
+	Language Selection
+	Left Turn Indicator Active
+	Logical Throttle Pedal Position
+	Low Beams Active
+	Low Beams Active
+	Low Tire Pressure Dash Prompt Active
+	MIL Tell Tale Blinking
+	Max Compressor Power Active
+	Mode Active
+	No Doors Open
+	Odometer
+	Oil Engine Temperature
+	PRNDL
+	PTC Relay 1 Status Active
+	PTC Relay 2 Status Active
+	PTC Relay 3 Status Active
+	Parking Brake
+	Parking Lights Active
+	Passenger Seatbelt Not Buckled
+	Passenger Window In Motion
+	Posted Speed Limit
+	Posted Speed Limit Value Max150
+	Power Mode
+	Radiator Fan 1 Duty Cycle
+	Radiator Fan 2 Duty Cycle
+	Rear Defroster Active
+	Rear Driver Window In Motion
+	Rear Left Radar Alert Dash Animation
+	Rear Passenger Window In Motion
+	Rear Radar Alert Dash Animation
+	Rear Right Radar Alert Dash Animation
+	Rear Wipers In Motion
+	Request Tachometer To Freeze On
+	Reverse Lights Active
+	Right Turn Indicator Active
+	Set Cruise Control Tell Tale Active
+	Set Temperature Units To C
+	Set Temperature Units To F
+	Starter Motor Running
+	Steering Angle
+	Steering Motor Current 1
+	Steering Motor Current 2
+	Tell Tale Auto Hold Flashing
+	Tell Tale Auto Start Stop Active
+	Tell Tale Auto Start Stop On
+	Tell Tale Parking Brake
+	Tell Tale Parking Brake Alert
+	Tell Tale Parking Brake Alert Flashing
+	Tell Tale Parking Brake Flashing
+	Tell Tale Service Engine Soon
+	Tell Tale Service Engine Soon Flashing
+	Tell Tale Traction Control Off With Chime
+	Temperature Unit Selected
+	Throttle Actuator
+	Throttle Control Tell Tale Active 1
+	Throttle Control Tell Tale Active 2
+	Time Day
+	Time Hour
+	Time Minute
+	Time Month
+	Time Second
+	Time Year
+	Tire Pressure Monitor Service Required Dash Prompt Active
+	Torque Sensor Voltage
+	Traction Control Off Tell Tale Ac
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale And Ch
+	Transmission Temperature Tell Tale Active
+	VIN Part 1
+	Vehicle Speed
+	Vehicle Speed
+	Water In Fuel Tell Tale On
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	AB TPS Main
+	ABS Active
+	AC Compressor Active
+	AC High Side Pressure
+	ASC System Service Required Dash Prompt
+	All Doors Locking
+	All Doors Unlocking
+	Any Door Or Trunk Open
+	Auto Hold Active
+	Auto Hold Button Pressed
+	Autokick Manual Mode Active
+	BE APS Sub
+	Brake Pressure
+	Brake Switch 1
+	Brake Switch 2
+	CVT Secondary Pressure
+	CVT Target Line Pressure
+	Current Gear
+	Dash Prompt LED Headlight Service Required
+	Dash Prompt Parking Brake Service Required
+	Dash Prompt Parking Brake Temporarily Not Available
+	Dash Prompt Release Parking Brake
+	Driver Door Locked
+	Driver Door Open
+	Driver Door Unlocked
+	Driver Seatbelt Unbuckled
+	ESP BAS Tell Tale Active
+	Electronic Parking Brake Pulled Up
+	Electronic Parking Brake Pushed Down
+	Engine Cranking
+	Engine Running
+	Engine Speed
+	Engine Torque
+	Front Wiper Int Active
+	Front Wiper Status
+	Fuel Level
+	Fuel Rate
+	G Sensor
+	Gear Display
+	HVAC Condenser Fan
+	Hazards Active
+	Last Lock Command Lock
+	Last Lock Command Unlock
+	Lateral Acceleration
+	Left Rear Wheel Speed
+	Longitudinal Acceleration
+	MAP Sensor
+	Mass Air Flow Sensor Initializing
+	Max Compressor Power Active
+	Maximum Hard Breaking
+	PRNDL
+	Park Neutral Active
+	Parking Brake
+	Passenger Door Open
+	Rear Driver Door Open
+	Rear Passenger Door Open
+	Right Rear Wheel Speed
+	SAS Initialization Complete Not
+	Shift In Progress
+	Steering Angle
+	Steering Angle Rate
+	Tell Tale Check Engine
+	Tell Tale Parking Brake Alert
+	Tell Tale Parking Brake Alert Flashing
+	Tell Tale Parking Brake Flashing
+	Traction Control Active
+	Traction Control Switch Pressed
+	Transmission Temperature Overheat
+	Trunk Open
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
+	Vehicle On
+	Vehicle Speed
+	Wiper Out Of Park
+	Yaw Rate

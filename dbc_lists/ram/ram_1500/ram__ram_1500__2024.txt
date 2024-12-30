@@ -1,0 +1,302 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Ram 'Ram 1500' (2024)
+Signal Descriptions:
+	ABS Indication Status
+	ADAS Cruise Control Button CANC Pressed
+	ADAS Cruise Control Button Decrease Pressed
+	ADAS Cruise Control Button Increase Pressed
+	ADAS Cruise Control Button Pressed
+	ADAS Cruise Control Button RES Pressed
+	ADAS Cruise Control Ready
+	ADAS Prompt
+	AWD Service Status
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Ambient Temperature Average C
+	Ambient Temperature Average F
+	Battery Charge Status
+	Brake Indication Status
+	Brake Pads Status
+	Brake System Active
+	Calendar Day
+	Calendar Month
+	Calendar Year
+	Catalyst Temperature Status
+	Cntlr EC Config 10 State
+	Cntlr EC Config 11 State
+	Cntlr EC Config 12 State
+	Cntlr EC Config 13 State
+	Cntlr EC Config 9 State
+	Compass Calibration Mode Active
+	Compass Direction
+	Compass Heading
+	Configuration Brakes A
+	Configuration Brakes B
+	Configuration Cluster 1A
+	Configuration Cluster 1B
+	Configuration Cluster 2
+	Configuration Doors
+	Configuration Intrusion Transceiver
+	Configuration Memory
+	Configuration Powertrain
+	Configuration Safety
+	Configuration Steering
+	Configuration Telephone Audio 1A
+	Configuration Telephone Audio 1B
+	Configuration Telephone Audio 2
+	Configuration Wireless A
+	Configuration Wireless B
+	Control EC Configuration 1 State
+	Control EC Configuration 2 State
+	Control EC Configuration 3 State
+	Control EC Configuration 4 State
+	Control EC Configuration 5 State
+	Control EC Configuration 6 State
+	Control EC Configuration 7 State
+	Control EC Configuration 8 State
+	Coolant Level Status
+	Cylinder Count
+	DEF Status
+	Damping System Status
+	Displacement
+	Distance Until Turn
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Doors Unlock
+	ECM Vehicle Type
+	EPB Warning Status
+	EPS Status
+	ESC System Status
+	ESP Traction Control Off
+	ETC Control Status
+	Electric Power Steering Motor Torque
+	Engine Aspiration Type
+	Engine Load
+	Engine Running
+	Engine Speed
+	Engine Temperature Status
+	FCW System Status
+	Fuel Cap Status
+	Fuel Consumption Unit
+	Fuel Level
+	Fuel Range
+	Fuel Rate
+	Fuel Type
+	Function Requester
+	Gear Current
+	Gear Not Engaged
+	Gear Target
+	HVAC AC Active
+	HVAC Defrost Windshield Active
+	HVAC Evaporator Temperature
+	HVAC Fan Speed
+	Headlight High Beam Switch State
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Ignition Status
+	Key Fob ID
+	Lane Assist Status
+	Light Indicator Switch State
+	Lights Fog Front Active
+	Lights Fog Rear Active
+	Lights Hazards Active
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Malfunction Lamp Status
+	Manifold Air Pressure
+	Mass Air Flow
+	Navigation Arrow
+	Navigation Present
+	Odometer
+	Oil Level Status
+	Oil Pressure Status
+	Oil Temperature Status
+	Park Aid Front Off
+	Park Aid Front On
+	Park Aid Rear Off
+	Park Aid Rear On
+	Parking Brake Button Pressed
+	Parking Brake Button Pulled
+	Parking Brake Engaged
+	Parktronics Chime Repetition Rate
+	Parktronics Front Volume
+	Parktronics Left Front Chime
+	Parktronics Left Rear Chime
+	Parktronics Right Front Chime
+	Parktronics Right Rear Chime
+	Parktronics Right Rear Volume
+	Passenger Seat Occupant Detection Status
+	Pedal Accelerator Position
+	Pedal Brake Position
+	Pedal Brake Pressed
+	Power Entry Enabled
+	Primary Circuit Pressure
+	Primary Circuit Pressure 2
+	Request Function
+	Seat Front Driver Memory Recall Status
+	Seat Front Driver Memory Status
+	Seatbelt Front Left Sensor Status
+	Seatbelt Front Left Status
+	Seatbelt Front Right Sensor Status
+	Service Vehicle Status
+	Start Stop System Off
+	Steering Wheel Angle
+	Steering Wheel Button Gear Limit Down Pressed
+	Steering Wheel Button Gear Limit Up Pressed
+	Steering Wheel Panel Left Button Down Pressed
+	Steering Wheel Panel Left Button Left Pressed
+	Steering Wheel Panel Left Button OK Pressed
+	Steering Wheel Panel Left Button Right Pressed
+	Steering Wheel Panel Left Button Up Pressed
+	Steering Wheel Torque
+	Steering Wheel Torque Assist
+	TPMS Front Left Tire Low
+	TPMS Front Right Tire Low
+	TPMS Rear Left Tire Low
+	TPMS Rear Right Tire Low
+	TPMS Tire Pressure Front Left
+	TPMS Tire Pressure Front Right
+	TPMS Tire Pressure Rear Left
+	TPMS Tire Pressure Rear Right
+	Telematics Gateway ASCII Text
+	Terrain Mode 2WD Active
+	Terrain Mode 2WD Request
+	Terrain Mode 4WD Auto Active
+	Terrain Mode 4WD Auto Request
+	Terrain Mode 4WD High Active
+	Terrain Mode 4WD High Request
+	Terrain Mode 4WD Low Active
+	Terrain Mode 4WD Low Request
+	Terrain Mode 4WD Service Status
+	Terrain Prompt
+	Theft Alarm State
+	Throttle Blade Position
+	Throttle Delta
+	Throttle Electronic Control Present
+	Throttle Position
+	Time Format
+	Time Hours
+	Time Minutes
+	Time Seconds
+	Torque Actual
+	Tow Haul Button Pressed
+	Transmission Turbine Speed
+	Turn By Turn Navigation On
+	Turn Complete
+	Units Direction
+	VIN Characters 1 To 7
+	VIN Characters 15 To 17
+	VIN Characters 8 To 14
+	VIN Index
+	Valves Per Cylinder
+	Vehicle Configuration AC Present
+	Vehicle Configuration AQS Present
+	Vehicle Configuration ASCII String
+	Vehicle Configuration ASCII String
+	Vehicle Configuration Ambient Lighting Present
+	Vehicle Configuration Ambient Temperature Present
+	Vehicle Configuration Analog Driver Sensor
+	Vehicle Configuration Auto High Beam
+	Vehicle Configuration Automatic Headlamps
+	Vehicle Configuration Autopark Present
+	Vehicle Configuration Axle Ratio
+	Vehicle Configuration Base TPM
+	Vehicle Configuration Body Style
+	Vehicle Configuration Brake Type
+	Vehicle Configuration CMP Display Present
+	Vehicle Configuration CMS
+	Vehicle Configuration Chassis Type
+	Vehicle Configuration Child Display Present
+	Vehicle Configuration Country
+	Vehicle Configuration Cruise Control Present
+	Vehicle Configuration Disable Clock Display Present
+	Vehicle Configuration Door Alarm Present
+	Vehicle Configuration Dual Fuel Sensors
+	Vehicle Configuration ECO Tell Tale
+	Vehicle Configuration Electronic Steering Present
+	Vehicle Configuration End Of Life Present
+	Vehicle Configuration Engine Power Drive M
+	Vehicle Configuration FCW Present
+	Vehicle Configuration FG Present
+	Vehicle Configuration Fob Safe Enabled
+	Vehicle Configuration Fuel Capacity
+	Vehicle Configuration Gas Pedal Adjustment
+	Vehicle Configuration HID Beams
+	Vehicle Configuration HVAC Configuration
+	Vehicle Configuration Hill Descent Control
+	Vehicle Configuration Immobilizer Present
+	Vehicle Configuration KG Present
+	Vehicle Configuration LUCI Present
+	Vehicle Configuration Liftgate Trunk
+	Vehicle Configuration Light Load Tire Pressure Front
+	Vehicle Configuration Light Load Tire Pressure Rrear
+	Vehicle Configuration Max Tire Pressure Front
+	Vehicle Configuration Max Tire Pressure Rear
+	Vehicle Configuration Maximum Vehicle Speed
+	Vehicle Configuration Model Year
+	Vehicle Configuration Multifunction Module
+	Vehicle Configuration Non Registered TPIS
+	Vehicle Configuration Offroad
+	Vehicle Configuration Offroad Package Present
+	Vehicle Configuration PDDL Present
+	Vehicle Configuration PE Present
+	Vehicle Configuration PP Present
+	Vehicle Configuration Park Stop Present
+	Vehicle Configuration Parktronic System Connected
+	Vehicle Configuration Parktronic System Disconnected
+	Vehicle Configuration Perpendicular Park Assist Present
+	Vehicle Configuration Police Upfit
+	Vehicle Configuration Power Liftgate
+	Vehicle Configuration Power Sliding Left Door
+	Vehicle Configuration Power Sliding Right Door
+	Vehicle Configuration Premium Tire Pressure Present
+	Vehicle Configuration RKE Present
+	Vehicle Configuration RR Dually Present
+	Vehicle Configuration RVCM Present
+	Vehicle Configuration Rain Sensor Present
+	Vehicle Configuration Rear Door Locks 2 DC
+	Vehicle Configuration Remote Start Present
+	Vehicle Configuration Run Flat Tire Present
+	Vehicle Configuration SBR Present
+	Vehicle Configuration SCR Present
+	Vehicle Configuration SKIM Present
+	Vehicle Configuration SRT Present
+	Vehicle Configuration SSC Present
+	Vehicle Configuration Security Lock Present
+	Vehicle Configuration Spare Tire Present
+	Vehicle Configuration Speed Limit Present
+	Vehicle Configuration Sport Present
+	Vehicle Configuration Stability Controller
+	Vehicle Configuration State
+	Vehicle Configuration State
+	Vehicle Configuration State
+	Vehicle Configuration State
+	Vehicle Configuration State
+	Vehicle Configuration Status
+	Vehicle Configuration Steering Wheel Locat
+	Vehicle Configuration Sunshade Present
+	Vehicle Configuration Temperature Display
+	Vehicle Configuration Tire Circumference
+	Vehicle Configuration Tire Circumference
+	Vehicle Configuration Transfer Case High Rate
+	Vehicle Configuration Transfer Case Low Rate
+	Vehicle Configuration Transfer Case Type
+	Vehicle Configuration Vehicle Brand
+	Vehicle Configuration Vehicle Line
+	Vehicle Configuration WTS Present
+	Vehicle Configuration Watchdog Present
+	Vehicle Configuration Wheel Base
+	Vehicle Configuration Wheel Drive Mode
+	Vehicle Speed KPH
+	Vehicle Speed MPH
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Switch State
+	Wiper Washer Switch Position
+	Wiper Washer Switch State
+	Yaw Rate

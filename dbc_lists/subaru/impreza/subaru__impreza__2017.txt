@@ -1,0 +1,205 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Subaru 'Impreza' (2017)
+Signal Descriptions:
+	AC Active
+	AT Oil Temperature Tell Tale Flash
+	AT Oil Temperature Tell Tale Solid
+	Acc Pedal Not Pressed
+	Acc Pedal Percentage
+	Access Key Battery Low Dash Prompt Active
+	Accessory Or Run Mode Active
+	Adaptive Cruise Settings Displayed
+	Ambient Air Temperature Sensor
+	Any Door Status
+	Apply Brake To Hold Position Dash Prompt Message Active
+	Backward Speed Limiter Off
+	Battery Voltage
+	Blind Spot Detection Active
+	Blind Spot Left Rear Object Detected
+	Blind Spot Left Side Object Detected
+	Blind Spot Right Rear Object Detected
+	Blind Spot Right Side Object Detected
+	Brake Light Active
+	Brake Line Pressure Left
+	Brake Line Pressure Right
+	Brake Or Accelerator Or Cruise Button Inactive
+	Brake Pedal Pressure
+	Brake Pressure Change Active
+	Brake Switch Active 1
+	Brake Switch Active 2
+	Brake Switch Active 3
+	Brake Switch Active 4
+	Brake Switch Active 5
+	Button
+	Cancel Cruise Control Seatbelt Not Buckled Brake Pressed
+	Car Not In Park Active
+	Car Started By Remote
+	Car Unlocked Active
+	Center Back Up Radar Alert Active
+	Clock Hours
+	Clock In 24 Hour Setting
+	Clock Minutes
+	Clock Seconds
+	Crash Avoidance Off Tell Tale Active
+	Crash Avoidance On Off Pressed
+	Cruise Activated
+	Cruise Control Button Pressed
+	Cruise Control Set Speed
+	Cruise Control Set Speed 1
+	Cruise Off Tell Tale
+	Cruise On
+	Current Amperage From Battery
+	Current Gear
+	Current Gear Manual Mode
+	Dash Both Lanes Alternating Flash
+	Dash Both Lanes Flash
+	Dash Left Lane Illuminated
+	Dash Left Lane Outline
+	Dash Light Level
+	Dash Prompt Eyesight Off Check Manual Alert
+	Dash Prompt Low Engine Oil Message
+	Dash Prompt Vehicle Detected In Blind Spot Alert 1
+	Dash Prompt Vehicle Detected In Blind Spot Alert 2
+	Dash Prompt Vehicle Detected In Blind Spot Alert 3
+	Dash Prompt Vehicle Detected In Blind Spot Alert 4
+	Dash Prompts Alert
+	Dash Prompts Eyesight Disabled
+	Dash Prompts TPMS
+	Dash Right Lane Illuminated
+	Dash Right Lane Outline
+	Dash Steering Wheel Icon Flash
+	Dash Steering Wheel Icon Solid
+	Display Engine Speed
+	Displayed Gear Only Displays In Manual Mode
+	Distance Of Other Car In Car Lengths
+	Door Open Dash Prompt Active
+	Driver Door Open
+	Driver Door Unlocked
+	Driver Seatbelt Buckled
+	Driver Seatbelt Unbuckled
+	ES Brake Active
+	Electronic Parking Brake Active Dash Prompt
+	Engine Coolant Temperature
+	Engine Not Running
+	Engine On Time
+	Engine Running
+	Engine Speed
+	Engine Torque
+	Follow Distance Car Image Displayed
+	Front Abs Active
+	Front Left Low Tire Warning
+	Front Left Tire Pressure
+	Front Left Wheel Speed
+	Front Passenger Seat Occupied
+	Front Right Low Tire Warning
+	Front Right Tire Pressure
+	Front Right Wheel Speed
+	Fuel Consumption
+	Gear Ratio
+	HVAC Fan Speed
+	Headlights Active
+	High Beams Active
+	Hill Hold Tell Tale Active
+	Ignition In Run Position
+	Key Fob Active
+	Key Fob Lock Active
+	Key Fob Unlock Active
+	Key In Ignition
+	Lane Departure Alert Off Tell Tale Active
+	Lane Departure Alert On Off Button Pressed
+	Lane Keep Icon Green
+	Lane Keep Icon White
+	Lateral
+	Left Back Up Radar Alert Active
+	Left Cylinder Brake Pressure
+	Left Indicator Active
+	Lock Or Unlock Doors Active
+	Lock Or Unlock Doors Active From Inside Button
+	Longitudinal
+	Low Tire Pressure Dash Prompt Active
+	Manifold Absolute Pressure Sensor
+	Manifold Absolute Pressure Sensor Open Circuit
+	Mass Air Flow Sensor Circuit Open
+	Object Close Behind Dash Prompt Message Active
+	Odometer
+	Oil Temperature
+	PRNDL Position
+	Park Tell Tale Active
+	Parking Brake Active
+	Parking Brake Disengaging
+	Parking Brake Engage
+	Parking Brake Not Engage
+	Parking Brake Tell Tale Active
+	Parking Switch Not Pushed Down
+	Passenger Door Open
+	Passenger Door Unlocked
+	Passenger Seat Occupied
+	Power Steering Tell Tale Active
+	RES BUTTON
+	Rear Abs Active
+	Rear And Mirror Defrosters Active
+	Rear Driver Door Open
+	Rear Left Low Tire Warning
+	Rear Left Tire Pressure
+	Rear Left Wheel Speed
+	Rear Passenger Door Open
+	Rear Right Low Tire Warning
+	Rear Right Tire Pressure
+	Rear Right Wheel Speed
+	Remote Start Signal Pressed
+	Request For More Voltage From Steering System Active
+	Requested Gear
+	Reverse Active
+	Right Cylinder Brake Pressure
+	Right Indicator Active
+	Right Or Left Back Up Radar Alert Active
+	Roll Angle
+	Running Lights Active
+	SET BUTTON
+	SRS Airbag System Dash Prompt Message
+	Set Cruise Button Pressed
+	Settings Imperial Units Selected
+	Shift Lever Into P Dash Prompt Active
+	Shift Lever Into P Dash Prompt Active 2
+	Shift Lever Position Invalid No Gear Selected
+	Signal 15
+	Speed Not Reached To Activate Cruise Control
+	Start Stop Button Active
+	Steer Error Active
+	Steer Torque Output
+	Steer Torque Sensor 1
+	Steer Torque Sensor 2
+	Steering Angle 1
+	Steering Angle 2
+	Steering Motor Flat
+	Steering Voltage Flat
+	TPMS Dash Prompt Active
+	TPMS Light Status
+	TPMS Tell Tale Active
+	Tell Tale Front Passenger Seatbelt
+	Tell Tale Park Assist Off
+	Tell Tale Pass Seatbelt 1
+	Tell Tale Pass Seatbelt 2
+	Tell Tale Passenger Airbag Off Not Illuminated
+	Tell Tale Passenger Airbag On Not Illuminated
+	Tell Tale RAB Off 1
+	Tell Tale RAB Off 2
+	Tell Tale RAB Off 3
+	Tell Tale SRS
+	Throttle Position
+	Throttle Position B
+	Traction Control State Off
+	Traction Control State On
+	Transmission Oil Temperature
+	Transmission Speed
+	Transmission Warning Dash Prompt Message
+	Trip A
+	Trip B
+	Trip B Selected
+	Trunk Open 1
+	Trunk Open 2
+	Unlock Doors Active
+	Vehicle Speed
+	Wheel Steering Angle
+	Wiper Active
+	Xmode Active

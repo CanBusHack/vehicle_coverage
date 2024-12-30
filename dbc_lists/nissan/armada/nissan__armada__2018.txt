@@ -1,0 +1,155 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Nissan 'Armada' (2018)
+Signal Descriptions:
+	ABS W L Active
+	AC Relay
+	Accelerator Pedal Position
+	Accelerator Pedal Position Nega
+	Accelerator Pedal Position Posi
+	Accelerator Pedal Pressed 1
+	Accelerator Pedal Pressed 2
+	Accelerator Pedal Pressed 3
+	Accelerator Pedal Voltage Negati
+	Accelerator Pedal Voltage Positi
+	Accelerator Position Sensor
+	Accessory Mode
+	Adaptive Cruise Control Follow D
+	Adaptive Cruise Currently Unavai 1
+	Adaptive Cruise Currently Unavai 2
+	Adaptive Cruise Unavailable Fron
+	Alarm Active
+	Blind Spot Detection System Off
+	Blind Spot Detection Unavailable 1
+	Blind Spot Detection Unavailable 2
+	Blind Spot Monitoring State
+	Brake Pedal Pressed
+	Brake Press At Idle
+	Brake Pressure
+	Brake State
+	Brake Switch
+	Brake W L Active
+	Collision Avoidance Unavailable
+	Crank Status
+	Crash Avoidance Unavailable High
+	Cruise Cancel Button
+	Cruise Control Button
+	Cruise Control Ready
+	Cruise Control Set Speed
+	Cruise Control State
+	Cruise Follow Distance Button
+	Cruise Reset Accel
+	Cruise Set Coast
+	Driver Seat Belt Unfastened
+	Driving Aid Emergency Braking Of
+	Driving Aid Emergency Braking On
+	ENGINE Torque
+	Eco Button Pressed
+	Eco Mode Active
+	Engine Coolant Temperature Displayed
+	Engine Fan High
+	Engine Fan Low
+	Engine Speed
+	Engine Speed Displayed
+	Exterior Light Level
+	Fob Unlock
+	Fob Unlock All Doors
+	Fog Lights Active 1
+	Fog Lights Active 2
+	Forward Collision Monitoring
+	Front Avg Speed
+	Front Left Door Open Message And
+	Front Left Flat Tire
+	Front Left Tire Low
+	Front Left Tire Pressure
+	Front Left Wheel Speed
+	Front Radar Unavailable Front Ra 1
+	Front Radar Unavailable Front Ra 2
+	Front Radar Unavailable High Acc
+	Front Right Door Open Message An
+	Front Right Flat Tire
+	Front Right Tire Low
+	Front Right Tire Pressure
+	Front Right Wheel Speed
+	Gear Park Or Neutral
+	Gear Position Indicator
+	Headlamp Status
+	High Beam Lights Active
+	Hood Open
+	Horn Chirp Answer Back Alarm A
+	Horn Chirp Answer Back Door Lo
+	KPH For Fuel Economy Calculation
+	Lane Departure Malfunction Acti
+	Lane Departure Unavailable Clean
+	Lane Departure Unavailable High 1
+	Lane Departure Unavailable High 2
+	Lane Keep State
+	Left Turn Lever Pressed
+	Left Turn Tell Tale
+	Loose Fuel Cap Message And Cauti
+	Low Beam Headlights Active
+	M Mode SW Active
+	MIL Tell Tale Active
+	Night Running Lights Rear Active
+	Odometer Units Dependent
+	Overdrive Disable Off Command
+	Overdrive Off
+	Overdrive Shift Button
+	PRNDL State
+	Park Brake Tell Tale
+	Parking Lights Active
+	Power Mode
+	Power Steering Tell Tale Active
+	Primary Torque
+	Range
+	Rear Defroster Status
+	Rear Left Door Open Message And
+	Rear Left Flat Tire
+	Rear Left Tire Low
+	Rear Left Tire Pressure
+	Rear Left Wheel Speed
+	Rear Radar Unavailable Clean Rea
+	Rear Radar Unavailable High Cabi
+	Rear Radar Unavailable Side Rada 1
+	Rear Radar Unavailable Side Rada 2
+	Rear Right Door Open Message And
+	Rear Right Flat Tire
+	Rear Right Tire Low
+	Rear Right Tire Pressure
+	Rear Right Wheel Speed
+	Right Turn Lever Pressed
+	Right Turn Tell Tale
+	Set Cruise Speed
+	Shift Button
+	Shift Lever Button Not Pressed
+	Start Stop Button Pressed Active
+	Steering Wheel Angle 1
+	Steering Wheel Angle 2
+	Steering Wheel Angle Validity
+	Steering Wheel Speed
+	Switch Except M Mode
+	TPMS Error See Owners Manual
+	Throttle Position A Sensor
+	Throttle Position B Sensor
+	Tire Pressure Registered
+	Tire Pressure Tell Tale Warning L
+	Traction Control Active
+	Traction Control Tell Tale Active
+	Trunk Door Open Message And Caut
+	Trunk Open Dash Prompt
+	Unavailable Select Driving Aids 1
+	Unavailable Select Driving Aids 2
+	Unavailable Select Driving Aids 3
+	Vehicle Dynamics Control Active
+	Vehicle Speed 1
+	Vehicle Speed 2
+	Vehicle Speed Dash Display
+	Vehicle Stationary
+	Warning Blind Spot Detection Mal
+	Warning Collision Avoidance Malf
+	Warning Front Radar Malfunction
+	Warning Front Radar Malfunction
+	Warning Lane Departure Malfuncti
+	Warning Lane Departure Warning M
+	Warning Pedal Misapplication Sys
+	Warning Rear Radar Malfunction
+	Warning Rear Radar Malfunction H

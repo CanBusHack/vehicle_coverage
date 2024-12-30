@@ -1,0 +1,252 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Fiat 'Tipo' (2016)
+Signal Descriptions:
+	ABS In Action
+	ADAS ACC Speed Set
+	ADAS ACC State
+	ADAS Cruise Control On
+	Accelerator Application Rate
+	Accelerator Pedal Pressed
+	Adblue Level
+	Airbag Tell Tale Active
+	Alarm Status
+	BMS Error Detected
+	BMS Lateral Acceleration
+	BMS Longitudinal Acceleration
+	BMS Yaw Rate
+	Battery Current
+	Battery Voltage
+	Brake Light Status
+	Calculated Engine Load Value
+	Camera Sees A Car In Front
+	Check Engine Tell Tale Active
+	Check Engine Tell Tale Blinking
+	City Mode On
+	Cluster Navigation Display On
+	Coolant Temperature High Tell Tale Active
+	Cranking Bit
+	Cruise Control Tell Tale Speed
+	Dash Prompt ABS Unavailable
+	Dash Prompt Adblue Range Low Refill Soon
+	Dash Prompt Attention Assist Take A Break
+	Dash Prompt Attention Assist Unavailable Service Required
+	Dash Prompt Brake Fluid Low
+	Dash Prompt Change Engine Oil
+	Dash Prompt Check AEB Control 1
+	Dash Prompt Check AEB Control 2
+	Dash Prompt Check Adblue System 1
+	Dash Prompt Check Adblue System 2
+	Dash Prompt Check Airbag
+	Dash Prompt Check Brakes
+	Dash Prompt Check Diesel Fuel Filter
+	Dash Prompt Check Keyless Entry System
+	Dash Prompt Check Tire Pressure Level Reset Required Front Left
+	Dash Prompt Check Tire Pressure Level Reset Required Front Right
+	Dash Prompt Check Tire Pressure Level Reset Required Rear Left
+	Dash Prompt Check Tire Pressure Level Reset Required Rear Right
+	Dash Prompt ESC Unavailable
+	Dash Prompt Engine Will Not Restart In 4094Km Check Adblue System 0
+	Dash Prompt Engine Will Not Restart In 4094Km Check Adblue System 1
+	Dash Prompt Engine Will Not Restart In 4094Km Refill Adblue 0
+	Dash Prompt Engine Will Not Restart In 4094Km Refill Adblue 1
+	Dash Prompt High Beams Control Unavailable
+	Dash Prompt High Beams Control Unavailable Clean Windscreen
+	Dash Prompt Hill Hold Control Unavailable
+	Dash Prompt Key FOB Battery Low
+	Dash Prompt Key Not In Car
+	Dash Prompt Low Tire Unavailable
+	Dash Prompt Oil Change Done
+	Dash Prompt Place Hands On Steering Wheel
+	Dash Prompt Service Keyless Entry Vehicle Will Not Shut Off Or Restart
+	Dash Prompt TPMS Reset Saved
+	Dash Prompt Traffic Sign Recognition Unavailable Clean Front Windshield
+	Dash Prompt Traffic Sign Recognition Unavailable Service Requested
+	Days
+	Door Front Left Status Open
+	Door Front Right Status Open
+	Door Rear Left Status Open
+	Door Rear Right Status Open
+	Door Trunk Open
+	Doors Locked
+	Drift Correction Active
+	Driver Seatbelt Fastened Status
+	ESC Off
+	Engine Speed
+	Follow Cruise Control Active
+	Follow Distance
+	Front Fog Lights Active
+	Fuel Level
+	Gear Displayed Number
+	Glow Plug Tell Tale Active
+	Glowplug Tell Tale Blinking Active
+	High Beam Active
+	Hours
+	Immobilizer Tell Tale Active
+	Instrument Display Dimmer Level
+	Key Position Status
+	Lane Control System Active
+	Lane Control System Active
+	Lane Control System Standby Active
+	Left Side Front Spin Direction
+	Left Side Parking Lamp Status
+	Left Side Rear Spin Direction
+	Left Side Turn Signal Status
+	Left Turn Signal Status
+	Low Beam Status
+	Low Fuel Tell Tale Active
+	Master Cylinder Pressure
+	Minutes
+	Months
+	Odometer
+	Oil Life
+	Oil Temperature Display Level
+	Outside Air Temperature
+	Parking Brake Tell Tale Active
+	Passenger Seatbelt State Status
+	Pedal Accelerator Position
+	Pedal Accelerator Position D
+	Pedal Clutch Position
+	Power Mode Status
+	Rear Defrost Active
+	Rear Fog Light Status
+	Rear Left Passenger Seat Belt Unfastened
+	Rear Middle Passenger Seat Belt Unfastened
+	Rear Right Passenger Seat Belt Unfastened
+	Remote Start Active
+	Reversing Active
+	Right Lane Marker Blinking Yellow
+	Right Side Front Spin Direction
+	Right Side Parking Lamp Status
+	Right Side Rear Spin Direction
+	Right Side Turn Signal Status
+	Right Turn Signal Status
+	Seatbelt Tell Tale Active
+	Settings Attention Assist Off
+	Settings New Speed Zone Indication Chime On
+	Settings New Speed Zone Indication Visual On
+	Settings Security Passenger AIRBAG Off In Progress
+	Settings Security Passenger AIRBAG On In Progress
+	Settings Traffic Sign Assist Warning
+	Settings Unite Speed Set To MPH
+	Settings Units Distance Set To Mi
+	Speed Limiter Or Cruise Auto Set To Speed Limit Active
+	Speed Limiter Or Cruise Set Speed Km
+	Speed Limiter Or Cruise Set Speed Miles
+	Speed Limiter Or Cruise State
+	Steering Column Left Stock Button Pressed
+	Steering Wheel ACC Button Pressed
+	Steering Wheel ACC Follow Distance Button Pressed
+	Steering Wheel Angle
+	Steering Wheel Cruise Control Button Pressed
+	Steering Wheel Cruise Control Cancel Button Pressed
+	Steering Wheel Cruise Control Reset Button Pressed
+	Steering Wheel Cruise Control Set Down Button Pressed
+	Steering Wheel Cruise Control Set Up Button Pressed
+	Steering Wheel Speed Limiter Button Pressed
+	Steering Wheel Turn Rate
+	Suggested Gear Displayed Number
+	Tell Tale Off Passenger Airbag On
+	Traction Control Tell Tale Blinking Active
+	Traffic Sign Speed Displayed On IC
+	Traffic Sign Speed From Camera
+	Transmission Manual In Gear
+	Transmission Manual Out Of Gear
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wipers Speed
+	Writing System Settings Brake Control
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	AC Pressure
+	Auto Start Stop Off
+	Battery State Extremely Low
+	Cabin Light Level
+	Charger Status
+	Compressor Status
+	Door Lock State
+	Driver Door Tell Tale Active
+	Electronic Start Stop Engine Sta
+	Engine Coolant Temperature
+	Engine Status
+	Front Wiper Active
+	Fuel Consumption
+	Fuel Level
+	HVAC AC On
+	HVAC Max Defrost Off
+	HVAC Max Defrost On
+	HVAC Rear Deicer Switch State
+	Hood Ajar Tell Tale Active
+	Instrument Display Setting See Navigation On
+	Key State Status
+	Lane Control On
+	Left Side Rear Door Tell Tale Active
+	Lights Brake Lights On Tell Tale Active
+	Lights Front Fog Tell Tale Active
+	Lights High Beam Tell Tale Active
+	Lights Left Turn Signal Tell Tale Active
+	Lights Low Beams Tell Tale Active
+	Lights Rear Fog Tell Tale Active
+	Lights Right Turn Signal Tell Tale Active
+	Low Fuel Tell Tale Status
+	Outside Air Temperature In Deg F
+	Parking Brake Active
+	Passenger Door Tell Tale Active
+	Pedal Brake Pressed
+	Power Mode State
+	RDS Text 10
+	RDS Text 11
+	RDS Text 12
+	Range
+	Rear Hatch Tell Tale Active
+	Remote Start Active
+	Right Side Rear Door Tell Tale Active
+	Setting ADAS Lane Keep Alert
+	Setting Blind Spot Assist
+	Setting Cornering Lights Off
+	Setting Driver Easy Exit On
+	Setting Flash Lights With Lock On
+	Setting Greeting Lights Off
+	Setting Hands Free Liftgate
+	Setting High Beam Control On
+	Setting Keyless Entry Off
+	Setting Language
+	Setting Remote Start Normal State Enable
+	Setting Windows Down With FOB
+	Settings Active Rear View Camera Guidelines On
+	Settings Brake Control
+	Settings Brake Control Sensitivity
+	Settings Headlight Sensitivity Level
+	Settings Lane Control Strength
+	Settings Rain Sensing Wipers On
+	Settings Reset Trip B
+	Settings Time Date 12 Hrs Clock Set
+	Settings Traffic Sign Assist On
+	Settings Units Consumption
+	Settings Units Temperature Set To Fahrenheit
+	Steering Wheel Controls Call Button Pressed
+	Steering Wheel Controls Down Menu Button Pressed
+	Steering Wheel Controls End Call Button Pressed
+	Steering Wheel Controls Left Menu Button Pressed
+	Steering Wheel Controls Mute Button Pressed
+	Steering Wheel Controls Ok Menu Button Pressed
+	Steering Wheel Controls Radio Source Button Pressed
+	Steering Wheel Controls Right Menu Button Pressed
+	Steering Wheel Controls Tune Down Button Pressed
+	Steering Wheel Controls Tune Up Button Pressed
+	Steering Wheel Controls Up Menu Button Pressed
+	Steering Wheel Controls Voice Command Button Pressed
+	Steering Wheel Controls Volume Down Button Pressed
+	Steering Wheel Controls Volume Up Button Pressed
+	Stop Start Tell Tale Status
+	Trip A Travel Time Hour
+	Trip A Travel Time Min
+	Trip A Travel Time Sec
+	Trip B Travel Time Hour
+	Trip B Travel Time Min
+	Trip B Travel Time Sec
+	Trunk Ajar Tell Tale Active
+	Vehicle Speed Displayed

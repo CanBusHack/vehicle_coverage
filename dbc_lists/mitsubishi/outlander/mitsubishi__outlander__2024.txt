@@ -1,0 +1,317 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Outlander' (2024)
+Signal Descriptions:
+	ADAS Cruise Control Speed Set
+	ADAS Cruise Control Status
+	ADAS Follow Distance Level
+	ASC Traction Control Off
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Ambient Temperature
+	Brake Emergency Rear Changing To Off
+	Brake Emergency Rear Changing To On
+	Central Lock Active
+	Coolant Temperature
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Front Driver Open
+	Door Front Passenger Closed
+	Door Front Passenger Open
+	Door Front Passenger Open
+	Door Hood Closed
+	Door Hood Open
+	Door Rear Left Closed
+	Door Rear Left Open
+	Door Rear Left Open
+	Door Rear Right Closed
+	Door Rear Right Open
+	Door Rear Right Open
+	Door Trunk Closed
+	Door Trunk Open
+	Door Trunk Open
+	Driver Attention Alert Changing To Off
+	Driver Attention Alert Changing To On
+	Driving Mode Selected
+	Driving Position Seat Exit Slide Changing To Off
+	Driving Position Seat Exit Slide Changing To On
+	Engine Oil Lamp Active
+	Engine Oil Temperature
+	Engine Speed
+	Engine Torque
+	Fuel Economy Average
+	Fuel Economy Average Unit
+	Fuel Level
+	Fuel Rate
+	Gear Manual Engaged
+	HUD Brightness Changing To Level
+	HVAC AC Off
+	HVAC AC On
+	HVAC Fan Duty
+	HVAC Window Heater Front Active
+	HVAC Window Heater Rear Active
+	Headlights Active
+	Headlights High Beam Active
+	Headlights Low Beam Active
+	Ignition On
+	Ignition On
+	Intake Air Temperature
+	Lamp Indicator Left Active
+	Lamp Indicator Right Active
+	Lights Fog Front Active
+	Malfunction Lamp Active
+	Malfunction Lamp Flashing
+	Manifold Absolute Pressure Sensor Voltage
+	Odometer
+	PRNDL Position
+	PRNDL Position 1
+	PRNDL Position 2
+	PRNDL Position Not In Park
+	PRNDL Position Park
+	Parking Brake Button Pressed Down
+	Parking Brake Button Pulled Up
+	Parking Brake Engaged
+	Passenger Occupancy Sensor Detected
+	Passenger Occupancy Sensor Not Detected
+	Pedal Accelerator Position S1
+	Pedal Accelerator Position S2
+	Pedal Brake Not Pressed
+	Pedal Brake Position
+	Pedal Brake Pressed
+	Power Mode Status
+	Seat Driver Adjust Backrest Backward Pressed
+	Seat Driver Adjust Backrest Forward Pressed
+	Seat Driver Adjust Height Button Down Pressed
+	Seat Driver Adjust Height Button Up Pressed
+	Seat Driver Adjust Position Button Backward Pressed
+	Seat Driver Adjust Position Button Forward Pressed
+	Seat Driver Adjust Tilt Button Down Pressed
+	Seat Driver Adjust Tilt Button Up Pressed
+	Seatbelt Front Passenger Fastened
+	Seatbelt Front Passenger No Violation
+	Seatbelt Front Passenger Unfastened
+	Seatbelt Front Passenger Violation
+	Settings ASC Traction Control Changing To Off
+	Settings ASC Traction Control Changing To On
+	Settings Unit Distance Metric
+	Settings Unit Distance Miles
+	Speed Adjust By Route Setting Changing To Off
+	Speed Adjust By Route Setting Changing To On
+	Speed Limit Assist Change Setting
+	Stalk Lights Position
+	Stalk Wiper Front Auto Speed
+	Stalk Wiper Front Position
+	Stalk Wiper Rear Position
+	Start Prompt Push Brake And Start Switch To Drive
+	Start Prompt Push Clutch And Start Switch To Drive
+	Start Prompt Put Key Near Switch
+	Start Stop Engine Button Pressed
+	Starter Motor Active
+	Starter Motor Active
+	Starter Motor Not Active
+	Steering Wheel ADAS Panel Button Pressed
+	Steering Wheel Angle
+	Steering Wheel Motor Rotation Speed
+	TELL TALE
+	Throttle Position Closed
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Transmission Speed
+	Vehicle Moving Backwards
+	Vehicle Moving Forward
+	Vehicle Speed
+	Warning Engine Hot Power Reduced
+	Warning Engine Malfunction Power Reduced Service Now
+	Warning Engine Stalled Stop Safely
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Window Front Driver Status
+	Window Front Passenger Status
+	Window Lock Active
+	Window Lock Inactive
+	Window Rear Left Status
+	Window Rear Right Status
+	Window Sunroof Open Level
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brightness For Head Up Display Changing Setting
+	Dash Prompt Front Radar Not Available
+	Dash Prompt Land Keep Assist Warning Not Available System Malfunction
+	Dash Prompt Side Radar Obstruction
+	Dash Prompt Steering Lane Keep Warning Not Available
+	Driver Assistance Driver Attention Alert Changing Setting To Off
+	Driver Assistance Driver Attention Alert Changing Setting To On
+	Electric Parking Brake Button Pressed Down
+	Electric Parking Brake Button Pulled Up
+	Electric Parking Brake Engaged
+	Emergency Brake Rear Setting Changing To Off
+	Emergency Brake Rear Setting Changing To On
+	Lane Keep Assist Lines Green Displayed
+	Lane Keep Assist Lines Grey Displayed
+	Lane Keep Display Active
+	Lane Keep Tone Alert
+	Langue Setting
+	Rear Driver Seat Buckled
+	Rear Driver Seat Unbuckled
+	Rear Middle Seat Buckled
+	Rear Middle Seat Unbuckled
+	Rear Passenger Seat Buckled
+	Rear Passenger Seat Unbuckled
+	Speed Adjust By Route Setting Changing To Off
+	Speed Adjust By Route Setting Changing To On
+	Speed Limit Assist Change Setting
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Accent Lighting Brightness Change Setting
+	Cruise Control Active
+	Cruise Control Active Set
+	Cruise Control Set Speed
+	Cruise Control Standby Active
+	Dash Prompt Warning Malfunction See Owner Manual
+	Driver Seat Back Incline Active
+	Driver Seat Back Recline Active
+	Driver Seat Seat Moving Back
+	Driver Seat Seat Moving Forward
+	Driver Side HVAC Blower Position
+	Driver Side HVAC Percentage Of Heat
+	Driving Position Exit Seat Slide Off
+	Driving Position Exit Seat Slide On
+	Engine Speed
+	Front HVAC Fan Speed
+	Front Max Defrost Active
+	Front Windshield Heater Active
+	Fuel Level Voltage
+	Head Up Display TEL SMS Setting Off
+	Heads Up Display Audio Setting Off
+	Heads Up Display Audio Setting On
+	Heads Up Display Driving Assist Setting Off
+	Heads Up Display Driving Assist Setting On
+	Heads Up Display Navigation Setting Off
+	Heads Up Display Navigation Setting On
+	Heads Up Display Rotation Positive Is To The Right And Negative To The Left
+	Heads Up Display Traffic Sign Setting Off
+	Heads Up Display Traffic Sign Setting On
+	Max Speed In Circle
+	Max Speed In Km K
+	Max Speed In Speed Limit Sign
+	Max Speed Sign In Yellow
+	Maximum Speed 1
+	Maximum Speed 2
+	Passenger Side HVAC Blower Position
+	Passenger Side HVAC Percentage Of Heat
+	Rear Defrost Active
+	Rear HVAC Percentage Of Heat
+	Rear Seat Alert Changing Setting
+	Seat Memory Buttons
+	Traffic Sign Icon Display 1
+	Traffic Sign Icon Display 2
+	Traffic Sign Icon Display 3
+	Warning Door Open
+	Wipers Speed Sensing Changing To Off
+	Wipers Speed Sensing Changing To On
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ASC Off
+	Brake Switch Not Pressed
+	Brake Switch Pressed
+	Car In Motion
+	Current Driving Mode
+	Front Wiper Active
+	Front Wiper Not Wiping
+	Left Indicator Active
+	Left Indicator Status Active
+	Manual Active
+	PRNDL
+	PRNDL
+	PRNDL At Rest
+	PRNDL Pulled Back
+	PRNDL Pushed Forward
+	Park Button Pressed
+	Rate Of Steering Wheel Change Or Steering Wheel Torque
+	Request Driving Mode
+	Right Indicator Active
+	Right Indicator Status Active
+	Trunk Closed
+	Trunk Open
+	Unable To Manually Shift
+	Vehicle Speed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Auto Door Lock Changing Setting
+	Battery Voltage
+	Blind Spot Active Assist Setting Changing To Off
+	Blind Spot Active Assist Setting Off
+	Blind Spot Warning Setting Changing To Off
+	Blind Spot Warning Setting Off
+	Car In Reverse
+	Cruise Control Off
+	Cruise Control On
+	Cruise Control Set Speed States
+	Cruise Control Set Speed Unit Dependent
+	Dash Prompt Neutral Hold Mode Has Been Activated To Exit This Mode Please Shift To A Different Gear
+	Dash Prompt To Exit Vehicle In Neutral Engine On Brake On Push P Shift Into N Twice
+	Distance Units Set To Miles
+	Driver Assistance Rear Cross Traffic Alert Changing Setting To Off
+	Driver Assistance Rear Cross Traffic Alert Changing Setting To On
+	Driver Window Open Length 64
+	Emergency Brake Front Setting Changing To Off
+	Emergency Brake Front Setting Changing To On
+	Engine Coolant Temperature
+	Front Center
+	Front Left Corner
+	Front Right
+	High Beams Active Length 20
+	Instrument Cluster Parking Sensor Screen Active
+	Instrument Cluster Parking Sensor Screen Front Center Area Active
+	Instrument Cluster Parking Sensor Screen Front Left Area Active
+	Instrument Cluster Parking Sensor Screen Front Right Area Active
+	Instrument Cluster Parking Sensor Screen Rear Center Area Active
+	Instrument Cluster Parking Sensor Screen Rear Left Area Active
+	Instrument Cluster Parking Sensor Screen Rear Right Area Active
+	Lane Departure Prevention Setting Changing To Off
+	Lane Departure Prevention Setting Off
+	Lane Departure Warning Setting Changing To Off
+	Lane Departure Warning Setting Off
+	Lighting Welcome Light Changing Setting To Off
+	Lighting Welcome Light Changing Setting To On
+	Locking Auto Door Unlock
+	Locking Driver Selective Unlock Changing Setting To Off
+	Locking Driver Selective Unlock Changing Setting To On
+	Locking Ext Door Switch Changing Setting To Off
+	Locking Ext Door Switch Changing Setting To On
+	Locking Selective Unlock Changing Setting To Off
+	Locking Selective Unlock Changing Setting To On
+	Parking Sensor Distance Setting Change
+	Parking Sensor Moving Object Setting Off
+	Parking Sensor States
+	Parking Sensor Volume Setting Change
+	Parking Sensors Auto Show Sonar Changing Setting To Off
+	Parking Sensors Auto Show Sonar Changing Setting To On
+	Parking Sensors Front Changing Setting To Off
+	Parking Sensors Front Changing Setting To On
+	Parking Sensors Moving Object Changing Setting To Off
+	Parking Sensors Moving Object Changing Setting To On
+	Parking Sensors Rear Changing Setting To Off
+	Parking Sensors Rear Changing Setting To On
+	Passenger Window Open Length 64
+	Radar Alarm Frequency
+	Radar Alarm Solid Tone Active
+	Rear Center
+	Rear Driver Window Open Length 64
+	Rear Left Corner
+	Rear Passenger Window Open Length 64
+	Rear Right Corner Red 4 Orange 3 Greenl2 2 Greenl1 1 Nothing 0
+	Right Side Steering Wheel Buttons
+	Signal 16
+	Signal 17
+	Signal 9
+	Steering Assist Setting Changing To Off
+	Steering Assist Setting On
+	Traffic Sign Setting Changing Setting To Off
+	Traffic Sign Setting Changing Setting To On
+	Wipers Rain Sensor Changing Setting To Off
+	Wipers Rain Sensor Changing Setting To On
+	Wipers Reverse Link Changing Setting To Off
+	Wipers Reverse Link Changing Setting To On

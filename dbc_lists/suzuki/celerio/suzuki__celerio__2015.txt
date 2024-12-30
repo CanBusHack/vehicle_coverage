@@ -1,0 +1,135 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Suzuki 'Celerio' (2015)
+Signal Descriptions:
+	ABS In Action
+	ADAS Cruise Control Speed Set
+	ADAS Cruise Control State
+	ADAS Speed Limiter Active
+	ADAS Speed Limiter On Standby
+	ADAS Speed Limiter Speed Set
+	BSM And RCTA Status Changing To
+	Battery Low Warning On
+	Brake Switch Active
+	Cabin Temperature
+	Coolant Tell Tale Blue Flashing
+	Coolant Tell Tale Blue On
+	Coolant Tell Tale Red Flashing
+	Coolant Tell Tale Red On
+	Coolant Temperature
+	Dashboard Chime Long Beep
+	Dashboard Chime Short Beep
+	Dashboard Chime Speed
+	Dashboard Night Mode Active
+	Door Any Other Open
+	Door Front Left Locked
+	Door Front Left Open
+	Door Front Right Locked
+	Door Rear Left Locked
+	Door Rear Right Locked
+	ESP ABS Active
+	ESP ABS Tell Tale On
+	ESP Initialization Active
+	ESP System Deactivated
+	ESP TC Tell Tale Flashing
+	ESP TC Tell Tale On
+	ESP TCSS Off Tell Tale On
+	ESP Tell Tale On
+	Engine Oil Temperature
+	Engine Speed
+	Engine Speed
+	Engine Torque Actual
+	Engine Torque Requested
+	Evaporator Temperature
+	Fuel Injection Rate
+	Fuel Level Current
+	Fuel Level Displayed
+	Fuel Pump On
+	G Sensor Lateral
+	G Sensor Longitudinal
+	Gear Engaged
+	Gear Target Indication Flashing
+	Gear Target Indication On
+	HVAC AC Active
+	HVAC AC Compressor Active
+	HVAC AC Setting Changing To
+	HVAC Defroster Rear Active
+	Headlights High Beam On
+	Headlights On
+	Headlights Side On
+	Hill Descent Tell Tale Flashing
+	Hill Descent Tell Tale On
+	Lamp Immobilizer Flashing
+	Lamp Immobilizer On
+	Lamp Malfunction Flashing
+	Lamp Malfunction On
+	Lamp Oil Flashing
+	Lamp Oil On
+	Lane Assist Off
+	Master Cylinder Pressure
+	Odometer
+	Pedal Accelerator Position
+	Power Mode Engine Running
+	Power Mode Ignition On
+	Prompt 4WD Mode Unselectable Auto Mode On
+	Prompt Hold Steering Wheel
+	Prompt Key Fob Detected
+	Prompt Key Fob Low Battery
+	Prompt LDP System Requires Inspection
+	Prompt Lock Mode Cannot Be Set
+	Prompt Low Tire Pressure
+	Prompt Place Key Fob On Start Switch
+	Prompt Press Brake Shift To P To Start
+	Prompt Push Start Switch
+	Prompt Service Start System
+	Prompt Service Steering Lock System
+	Prompt Service TPMS
+	Prompt TURN Steering Wheel To Release Lock
+	Prompt Warning 4WD Mode Switch
+	Refrigerant Pressure
+	Seatbelt Front Left Unfastened
+	Seatbelt Tell Tale Front Right Unfastened Flashing
+	Seatbelt Tell Tale Front Right Unfastened On
+	Seatbelt Tell Tale Rear Center Unfastened Flashing
+	Seatbelt Tell Tale Rear Center Unfastened On
+	Seatbelt Tell Tale Rear Left Unfastened Flashing
+	Seatbelt Tell Tale Rear Left Unfastened On
+	Seatbelt Tell Tale Rear Right Unfastened Flashing
+	Seatbelt Tell Tale Rear Right Unfastened On
+	Settings Door Unlock All Door
+	Settings Door Unlock Driver Door
+	Settings Units To Miles
+	Shift Down Indication Flashing
+	Shift Down Indication On
+	Shift Up Indication Flashing
+	Shift Up Indication On
+	Sign Recognition System Activating
+	Sign Recognition System Deactivating
+	Steering Wheel Angle Deviation From Start Position
+	Steering Wheel Angle Sensor 1
+	Steering Wheel Angle Sensor 2
+	Steering Wheel Motor Current
+	Steering Wheel Torque Main
+	TCSS Off
+	TPMS Mode Changing To
+	TPMS System Active
+	Tell Tale Battery On
+	Tell Tale Hands On Steering Wheel On
+	Tell Tale Immobilizer Flashing
+	Tell Tale Immobilizer On
+	Tell Tale Indicator Left On
+	Tell Tale Indicator Right On
+	Tell Tale Lane Assist Green On
+	Tell Tale Oil On
+	Tell Tale Parking Brake Fault
+	Tell Tale Parking Brake On
+	Tell Tale Power Steering On
+	Tell Tale Seatbelt Flashing
+	Tell Tale Seatbelt On
+	Throttle Position Relative
+	Units Temperature Set To F
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Yaw Rate

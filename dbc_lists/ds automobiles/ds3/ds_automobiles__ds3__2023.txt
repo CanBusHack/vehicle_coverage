@@ -1,0 +1,210 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Ds Automobiles 'Ds3' (2023)
+Signal Descriptions:
+	ABS Active
+	AC Compressor Active
+	ADAS Cruise Control Speed Limite
+	ADAS Speed Limiter Active
+	ADAS Speed Limiter On Paused Or
+	ADAS System Speed Set
+	ASR In Normal Operation
+	Acceleration Lateral
+	Auto Start Stop System Off
+	Auto Start Stop System On
+	Battery Current Draw
+	Battery State Of Charge
+	Battery Voltage
+	Calibrated Steering Wheel Angle
+	Clutch Status
+	Coolant Tempature
+	Dash Message Declutch Fully
+	Dash Prompt Enginge Fault Stop T
+	Dash Prompt Hill Start System Fa
+	Dash Prompt Stop Start Deactivat
+	Dashbard Warning Engine Fault Re
+	Dashboard Gear Indication Neutra
+	Dashboard Malfunction Lamp Activ
+	Dashboard Speedometer
+	Dashboard Tell Tale ESP System De
+	Dashboard Tell Tale Glow Plug
+	Dashboard Tell Tale Service And S
+	Dashboard Warning ABS Fault Have
+	Dashboard Warning Battery Charge
+	Dashboard Warning Braking System 1
+	Dashboard Warning Braking System 2
+	Dashboard Warning ESP ASR System
+	Dashboard Warning ESP System Dea
+	Dashboard Warning Engine Oil Pre
+	Dashboard Warning Engine Tempera
+	Dashboard Warning Have The Brake
+	Dashboard Warning Power Steering 1
+	Dashboard Warning Power Steering 2
+	Dashboard Warning Power Steering 3
+	Dashboard Warning Tire Pressure
+	Distance Travelled
+	Door Driver Open
+	Door Front Passenger Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	ESP Sydashboard Tell Tale Seatbel
+	Engine Load
+	Engine Operational Time
+	Engine Speed
+	Engine Torque Actual 1
+	Engine Torque Actual 2
+	Filter Regeneration Request
+	Fuel Tank
+	Gear Requested
+	Gear Reverse Engaged
+	HVAC A C On
+	HVAC Air Blower Supply Passenger
+	HVAC Defroster Windshield Active 1
+	HVAC Defroster Windshield Active 2
+	Head Light Setting Adaptive Ligh
+	Internal Status Steering Wheel A
+	Key In Ignition Position
+	Lights Blinker Left Active
+	Lights Blinker Right Active
+	Lights Brake On
+	Lights Hazards On
+	Lights High Beam Active
+	Lights Low Beam Active
+	Lights Not Active
+	Lights Reverse On
+	NEW SIGNAL 1 1
+	NEW SIGNAL 1 2
+	NEW SIGNAL 1 3
+	NEW SIGNAL 1 4
+	NEW SIGNAL 1 5
+	NEW SIGNAL 2
+	NEW SIGNAL 3
+	NEW SIGNAL 4
+	Odometer
+	Oil Temperature
+	Operating Law Used By A T Adapti
+	Parking Brake Applied
+	Pedal Accelerator Position
+	Pedal Accelerator Release
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Switch
+	Power Mode Accesory
+	Power Mode Cranking Off
+	Power Mode Cranking On
+	Power Mode Engine Cranking
+	Power Mode Engine Not Cranking
+	Power Mode Engine Not Cranking D
+	Power Mode Engine Running
+	Power Mode Ignition Off
+	Power Mode Ignition On
+	Power Mode Ignition Or Running
+	Power Mode Preparing To Ignition 1
+	Power Mode Preparing To Ignition 2
+	Power Mode Switching To Ignition
+	Rear Wheels Average Speed
+	Request For Freezing Of Disturba
+	Requested Torque
+	Seatbelt Driver Fastened
+	Seatbelt Driver Unfastened
+	Seatbelt Front Passenger Fastene
+	Seatbelt Front Passenger Unfaste
+	Snow Switch Pressed
+	Status Of The ASR MSR Function
+	Steering Wheel Angle
+	Steering Wheel Angle Sensor Faul
+	Steering Wheel Rate
+	Steering Wheel Torque
+	Steering Wheel Turning Clockwise
+	Torque Estimated Uncertain
+	Total Motor Loss Torque
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
+	Vehicle Acceleration
+	Wheel Front Average Speed
+	Wheel Front Left Distance Counte
+	Wheel Front Left Speed
+	Wheel Front Right Distance Count
+	Wheel Front Right Speed
+	Wheel Rear Left Speed
+	Wheel Rear Right Distance Counte
+	Wheel Rear Right Rotation Counte
+	Wheel Rear Right Speed
+	Window Front Or Rear Spraying Ac
+	Window Front Water Sensor Detect
+	Window Windshield Defroster Acti
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ADAS Cruise Control Speed Limite
+	ADAS Speed Limiter Cruise Contro
+	Chime Style
+	Chime Volume
+	Dashboard Fuel Low Light On
+	Dashboard Tell Tale Airbag Fault
+	Dashboard Tell Tale Airbag Front
+	Dashboard Tell Tale Seatbelt Driv 1
+	Dashboard Tell Tale Seatbelt Driv 2
+	HVAC A C Off
+	HVAC Air Distribution
+	HVAC Auto Mode Auto
+	HVAC Auto Mode Fast
+	HVAC Evaporator Temperature Sens
+	HVAC Fan Speed Selected
+	HVAC Max Blower On
+	HVAC Motor Air Intake And Recirculation
+	HVAC Motor Distribution Position
+	HVAC Motor Front Mixing Left Pos
+	HVAC Motor Front Mixing Right Po
+	HVAC Recirculation Active
+	HVAC Sunshine Sensor Value
+	HVAC System Available
+	HVAC Temperature Driver
+	HVAC Temperature Front Passenger
+	HVAC Ventilation Reference Value
+	Headlight Status
+	Lights Side Mirror Left
+	Lights Side Mirror Right
+	SOS Call Active
+	Stalk ADAS Button Down Pressed
+	Stalk ADAS Button Outter Pressed
+	Stalk ADAS Button Up Pressed
+	Stalk ADAS Ring Position Cruise
+	Stalk ADAS Ring Position Limit
+	Stalk Left Button Pressed
+	Stalk Left Inner Ring Pressed Do
+	Stalk Left Inner Ring Pressed Up
+	Stalk Left Outer Ring Position A
+	Stalk Left Outer Ring Position L
+	Stalk Left Outer Ring Position S
+	Stalk Left Outer Ring Position Z
+	Stalk Left Pressed Down
+	Stalk Left Pressed Up
+	Stalk Left Pulled Double
+	Stalk Left Pulled Single
+	Stalk Right Button Pressed
+	Stalk Right Position 1
+	Stalk Right Position 2
+	Stalk Right Position Auto
+	Stalk Right Position Int
+	Stalk Right Pulled
+	Stalk Right Ring Rear Window Spr
+	Stalk Right Ring Rear Window Wip
+	Steering Wheel Honk Active
+	Steering Wheel LIST Button Press
+	Steering Wheel SRC Button Presse
+	Steering Wheel Thumbwheel Left P 1
+	Steering Wheel Thumbwheel Left P 2
+	Steering Wheel Thumbwheel Left P 3
+	Steering Wheel Thumbwheel Right 1
+	Steering Wheel Thumbwheel Right 2
+	Steering Wheel Turning Clockwise
+	System Settings Distance And Fue
+	Total Mileage Memorized In The B
+	Transmission Input Shaft
+	Wheel Rear Right Rotation Counte
+	Window Defroster Windshield Acti 1
+	Window Defroster Windshield Acti 2
+	Window Rear Defroster Active
+	Window Rear Defroster Relay Swit

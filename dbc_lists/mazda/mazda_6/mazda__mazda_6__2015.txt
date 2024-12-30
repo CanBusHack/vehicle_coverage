@@ -1,0 +1,562 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mazda 'Mazda 6' (2015)
+Signal Descriptions:
+	Langue Setting
+	Left BSW
+	Rear Right Object Alert Active
+	Right BSW
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Not Active
+	ADAS ACC Set Follow Distance
+	ADAS Blind Spot Warning Left Active
+	ADAS Blind Spot Warning Right Active
+	ADAS Cruise Control Active
+	ADAS Cruise Control Button Cancel Pressed
+	ADAS Cruise Control Button Cancel Released
+	ADAS Cruise Control Button Decrease Pressed
+	ADAS Cruise Control Button Decrease Released
+	ADAS Cruise Control Button Increase Pressed
+	ADAS Cruise Control Button Increase Released
+	ADAS Cruise Control Button ON Pressed
+	ADAS Cruise Control Button ON Released
+	ADAS Cruise Control Button RES Pressed
+	ADAS Cruise Control Button RES Released
+	ADAS Cruise Control Speed Set
+	ADAS Cruise Control Standby
+	ADAS Distance Recognition Support System On
+	ADAS Follow Distance Alert
+	ADAS Follow Distance Button Down Pressed
+	ADAS Follow Distance Button Down Released
+	ADAS Follow Distance Button Up Pressed
+	ADAS Follow Distance Button Up Released
+	ADAS Follow Distance Current Close
+	ADAS Follow Distance Current Far
+	ADAS Follow Distance Current Medium
+	ADAS Lane Departure Warning Error
+	ADAS Lane Departure Warning Left Side
+	ADAS Lane Departure Warning Right Side
+	ADAS Lane Detection Status
+	ADAS Lane Detection System On
+	ADAS Object Alert Rear Right Ative
+	ADAS Upcoming Vehicle Detected
+	AEB Not Active
+	AT Transmission Malfunction Prompt
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Airbag Tell Tale Active
+	Ambient Temperature
+	Auto Door Lock Mode
+	Auto Headlight On
+	Auto Hold Button Pressed
+	Auto Relock Time
+	Battery Management System Malfunction Prompt
+	Battery Voltage
+	Brake Dash Prompt Active
+	Brake Depress Pedal To Release Parking Brake Prompt Active
+	Brake Override System Malfunction Prompt
+	Brake Switch 1 On
+	Brake Switch 2 On
+	Brake Switch Off
+	Brake Tell Tale Active
+	Brake Tell Tale Active
+	Brake Tell Tale Flashing
+	Camera Calibration Needed Please Contact Your Mazda Dealer Dash Prompt Active
+	Car Lifetime
+	Change In Oil Setting Interval Active
+	Charging System Malfunction
+	Coming Home Light
+	Compass Direction Indication
+	Coolant Tell Tale Blue Active
+	Coolant Temperature
+	Dashboard Brightness Level
+	Dashboard Brightness Level Max
+	Dashboard Chime Active
+	Distance To Next Service
+	Door Front Driver Locked
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Hood Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Doors All Unlocked
+	Driving Mode Sport Active
+	EPS Prompt Brake Pedal Must Be Depressed To Deactivate Auto Hold System
+	EPS Prompt Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position
+	EPS Prompt Parking Brake Now Activated Press Accelerator Pedal To Release
+	ESP ABS Tell Tale Active
+	ESP ABS Tell Tale Flashing
+	ESP Traction Control Off Button Pressed
+	ESP Traction Control Off Tell Tale Active
+	ESP Traction Control Status Off
+	ESP Traction Control Tell Tale Active
+	ESP Traction Control Tell Tale Flashing
+	Engine Running
+	Engine Running Chime Active
+	Engine Speed
+	Engine Speed
+	Engine Speed Desired
+	Engine Speed Displayed
+	Engine Torque Actual
+	Engine Torque Desired
+	Engine Torque Reference
+	Flash Turn Signal 3 Active
+	Flash Turn Signal Not 3 Active
+	Forward Collision System Active
+	Fuel Cap Check Prompt
+	Fuel Cut Off
+	Fuel Filter Needs Service Prompt
+	Fuel Level Volume
+	Fuel Rate Average
+	Gear Current
+	Gear Target
+	Gearbox Engaged
+	Gearbox Out Of Gear
+	HVAC Compressor Active
+	HVAC Compressor Not Active
+	HVAC Defrost Front Active
+	HVAC Defrost Rear Active
+	Hands On Steering Wheel Warning 1
+	Hands On Steering Wheel Warning 2
+	Hands On Steering Wheel Warning Level
+	Hazards Command
+	Headlight Automatic Tell Tale Active
+	Headlight Off Timer
+	Headlight Stalk Position
+	Headlights High Beam Active
+	Headlights High Beam Control Active
+	Headlights High Beam Control Not Active
+	Headlights Low Beam Active
+	Headlights Side Light Active
+	Headlights Stalk Position Off
+	Ignition On
+	Ignition On Chime Active
+	Ignition Ready To Start Engine
+	Immobilizer Tell Tale Active
+	Immobilizer Tell Tale Flashing
+	Inside Car Temperature Sensor
+	Intake Air Temperature
+	Interior Light Timeout Door Close
+	Interior Light Timeout Door Open
+	Key Fob Command Horn
+	Key Fob Command Lock
+	Key Fob Command Panic
+	Key Fob Command Received
+	Key Fob Command Unlock
+	Lane Departure Off Button Pressed
+	Leaving Home Light Active
+	Leaving Home Light Not Active
+	Lights Fog Front Active
+	Lights Hazards Active
+	Lights Hazards Command
+	Lights Indicator Left Active
+	Lights Indicator Right Active
+	Lights Stalk Position Flash
+	Lights Stalk Position High Beam
+	Lights Stalk Position Indicator Left
+	Lights Stalk Position Indicator Right
+	Lock Keyless Beep Volume
+	Malfunction Lamp Active
+	Malfunction Lamp Flashing
+	Manifold Absolute Pressure Sensor
+	Night Mode Active
+	Odometer
+	Oil Change Due Prompt
+	Oil Change Setting Interval Set To Fixed Active
+	Oil Lamp Active
+	Oil Prompt Excessive Oil Level
+	Oil Prompt Level Sensor Malfunction
+	Oil Tell Tale Active
+	PRNDL Display
+	PRNDL Position Manual
+	PRNDL Position Manual Decrease Gear
+	PRNDL Position Manual Increase Gear
+	Parking Brake Button Pressed Down
+	Parking Brake Button Pulled Up
+	Parking Brake Engaged
+	Parking Brake Engaged Prompt Active
+	Parking Brake Switching State
+	Parking Brake Temporarily Unavailable Prompt Active
+	Pedal Accelerator Kickout Active
+	Pedal Accelerator Position
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Released
+	Pedestrian Warning Active
+	Power Mode
+	Power Steering Malfunction Prompt
+	Power Steering Tell Tale Active
+	Rain Light Sensor Humidity Level
+	Rain Light Sensor Temperature
+	Rain Light Sensor Windshield Temperature
+	Rain Sensing Wiper Active
+	Rain Sensing Wiper Not Active
+	Safety Settings Distance Recognition Support System Active
+	Safety Settings Distance Recognition Support System Inactive
+	Safety Settings Distance Recognition Support System Warning Distance
+	Safety Settings Lane Keep Assist System Lane Alert Off
+	Safety Settings Lane Keep Assist System Lane Alert On
+	Safety Settings Lane Keep Assist System Sensitivity High
+	Safety Settings Lane Keep Assist System Sensitivity Low
+	Safety Settings SBS SCBS System Active
+	Safety Settings SBS SCBS System Inactive
+	Safety Settings SBS SCBS Warning Distance
+	Seatbelt Front Driver Fastened
+	Seatbelt Front Passenger Fastened
+	Seatbelt Rear Left Fastened
+	Seatbelt Rear Middle Fastened
+	Seatbelt Rear Right Fastened
+	Settings AD Display Height
+	Settings Active Driving Display Brightness Auto
+	Settings Active Driving Display Brightness Control Manual
+	Settings Active Driving Display Brightness Manual
+	Settings Active Driving Display On
+	Settings Light On Volume
+	Settings Temperature Unit C
+	Settings Temperature Unit F
+	Settings Turn Signal Volume High
+	Settings Turn Signal Volume Low
+	Settings Unit Distance Km
+	Settings Unit Distance Mi
+	Shift In Progress
+	Shifter Paddle Decrease Pressed
+	Shifter Paddle Increase Pressed
+	Sign Recognition Sign On Display
+	Sign Recognition Speed
+	Sign Recognition Speed Sign Detected
+	Sign Recognition Stop Sign On Display
+	Start Prompt Depress Clutch Pedal To Start Engine
+	Start Prompt Ignition Is On
+	Start Prompt Key Not Detected
+	Start Prompt Keyless System Malfunction
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Rate Signed
+	Steering Wheel Angle S1
+	Steering Wheel Angle S2
+	Tire Pressure Warning Active
+	Transmission Mode Automatic
+	Transmission Mode Manual
+	Unlock All Doors Once
+	Unlock Mode Driver Once All Doors Twice Active
+	VIN Characters 1 To 6
+	VIN Characters 13 To 17
+	VIN Characters 7 To 12
+	Vehicle Speed
+	Vehicle System Malfunction Prompt
+	Walk Away Lock Active
+	Walk Away Unlock Active
+	Water Must Be Drained From Fuel Filter Prompt
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Front Auto Speed Level
+	Wiper Front Speed High
+	Wiper Front Speed Low
+	Wiper Front Status
+	Wiper Rear Command
+	Wiper Rear Status
+	Wiper Rear Washer Active
+	Wipers Washer Active
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Not Active
+	ABS Tell Tale Active
+	ACC Set Follow Distance
+	AEB Not Active
+	AT Transmission Malfunction Dash Prompt Active
+	AVG
+	Accelerator Pedal Position
+	Active Miles Per Gallon
+	Airbag Tell Tale Active
+	Auto Door Lock Mode
+	Auto Headlight On
+	Auto Hold Button Pressed
+	Auto Hold System Temporarily Unavailable Dash Prompt Active
+	Auto Relock Time
+	Automatic Headlight Tell Tale Active
+	Battery Management System Malfunction Dash Prompt Active
+	Battery Voltage
+	Blind Spot Monitoring System Malfunction Active
+	Blue Coolant Tell Tale Active
+	Brake Dash Prompt Active
+	Brake Override System Malfunction Dash Prompt Active
+	Brake Pedal Must Be Depressed To Deactivate Auto Hold System Dash Prompt Active
+	Brake Pressure
+	Brake Switch Active
+	Brake Switch Not Active
+	Brake Tell Tale Active
+	Brake Tell Tale Active
+	Brake Tell Tale Blinking Active
+	Camera Calibration Needed Please Contact Your Mazda Dealer Dash Prompt Active
+	Cancel Off Button Not Pressed
+	Car In P Or N
+	Car Not In P Or N
+	Change In Oil Setting Interval Active
+	Charging System Malfunction Active
+	Charging System Malfunction Dash Prompt Active
+	Check Fuel Cap Dash Prompt Active
+	Check Fuel Cap Tell Tale Active
+	Cluster Backlight Level
+	Cluster Backlight Set To Max
+	Coming Home Light
+	Compass
+	Cruise Control Negative Set Button Pressed
+	Cruise Control On
+	Cruise Control Positive Set Button Pressed
+	Cruise Control RES Button Pressed
+	Cruise Control System On
+	Current Follow Distance Close
+	Current Follow Distance Far
+	Current Follow Distance Medium
+	Current Gear
+	Depress Brake Pedal To Release Parking Brake Dash Prompt Active
+	Depress Clutch Pedal To Start Engine Dash Prompt Active
+	Display Engine Speed
+	Distance Recognition Support System On
+	Distance To Next Service
+	Drive Active
+	Driver Door Ajar
+	Driver Seatbelt Buckled
+	Engine Oil Level Sensor Malfunction Dash Prompt Active
+	Engine Speed
+	Engine Water Temperature
+	Flash Turn Signal 3 Active
+	Flash Turn Signal Not 3 Active
+	Flow Distance Down Button Pressed
+	Flow Distance Up Button Pressed
+	Follow Distance Close Alert
+	Forward Collision Active
+	Front Wiper High Active
+	Front Wiper Low Active
+	Frost Defrost Active
+	Fuel Level
+	HVAC Compressor Active
+	HVAC Compressor Not Active
+	Hands On Steering Wheel Warning 1
+	Hands On Steering Wheel Warning 2
+	Hands On Steering Wheel Warning Level
+	Hazards Command Active
+	Headlight Off Timer
+	Headlight Stock Position
+	Headlights Off Position
+	High Beam Control Active
+	High Beam Control Not Active
+	High Beams Active
+	Horn Command From Key Fob
+	Ignition Is On Dash Prompt Active
+	Immobilizer Tell Tale Active
+	Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position Dash Prompt Active
+	Instrument Cluster Chime Active
+	Interior Light Timeout Door Close
+	Interior Light Timeout Door Open
+	Key Fob Command Received
+	Key Not Detected Dash Prompt Active
+	Keyless Lock Beep Volume
+	Keyless System Malfunction Dash Prompt Active
+	Kick Down Switch Active
+	Lane Departure Lane Detection States
+	Lane Departure Off Button State Pressed
+	Lane Departure Warning Error
+	Lane Departure Warning Left Side
+	Lane Departure Warning Right Side
+	Lane Detection System On
+	Lane Line Detection Active
+	Lane Line Not Visible
+	Lane Line Visible
+	Leaving Home Light Active
+	Leaving Home Light Not Active
+	Left Rear Door Ajar
+	Left Stock Pulled Forward
+	Left Stock Pushed Back
+	Left Turn Indicator Active
+	Left Turn Signal Stock Position Active
+	Lock Command From Key Fob
+	Low Beams Active
+	Low Engine Oil Pressure
+	Manual Mode
+	Manual Shift In Progress
+	Mode On Button Pressed
+	Night Mode Active
+	No Steering Wheel Button Pressed On Right Side
+	Oil Change Setting Interval Set To Fixed Active
+	Oil Level Tell Tale Active
+	Oil Tell Tale Active
+	PRNDL Display
+	PRNDL Stock In M Position
+	PRNDL Stock Pushed To Negative
+	PRNDL Stock Pushed To Pulse
+	Paddle Negative Active
+	Paddle Positive Active
+	Panic Command From Key Fob
+	Parking Brake Button Pressed Down
+	Parking Brake Button Pulled Up
+	Parking Brake Engaged
+	Parking Brake Engaged Dash Prompt Active
+	Parking Brake Not Engaged
+	Parking Brake Now Activated Press Accelerator Pedal To Release Dash Prompt Active
+	Parking Brake Temporarily Unavailable Dash Prompt Active
+	Passenger Door Ajar
+	Passenger Seatbelt Buckled
+	Pedestrian Warning Active
+	Power Steering Malfunction Dash Prompt Active
+	Power Steering Tell Tale Active
+	Rain Sensing Wiper Active
+	Rain Sensing Wiper Not Active
+	Read Lane Keep Assist System Intervention Active
+	Read Lane Keep Assist System Sensitivity Setting High
+	Read Lane Keep Assist System Sensitivity Setting Low
+	Read Lane Keep Assist System Setting Lane Departure Alert Active
+	Read Lane Keep Assist System Setting Lane Departure Alert Not Active
+	Read Safety Setting Alert Type
+	Read Setting 3 Flash Turn Signal Active
+	Read Setting 3 Flash Turn Signal Not Active
+	Read Setting Auto Door Lock Mode
+	Read Setting Auto Headlight On
+	Read Setting Auto Relock Time
+	Read Setting Beep Volume High
+	Read Setting Blind Spot Monitoring System Active
+	Read Setting Blind Spot Monitoring System Inactive
+	Read Setting Blind Spot Monitoring System Warning Volume
+	Read Setting Coming Home Light
+	Read Setting Distance Recognition Support System Active
+	Read Setting Distance Recognition Support System Not Active
+	Read Setting Distance Recognition Support System Warning Distance
+	Read Setting HUD Navigation Displayed
+	Read Setting HUD Navigation Off
+	Read Setting HUD Navigation On
+	Read Setting HUD Navigation Reset
+	Read Setting Headlight Off Timer
+	Read Setting High Beam Control Active
+	Read Setting High Beam Control Not Active
+	Read Setting Interior Light Timeout Door Close
+	Read Setting Interior Light Timeout Door Open
+	Read Setting Keyless Lock Beep Volume
+	Read Setting Leaving Home Light Active
+	Read Setting Leaving Home Light Not Active
+	Read Setting Light On Vol
+	Read Setting Rain Sensing Wiper Active
+	Read Setting Rain Sensing Wiper Not Active
+	Read Setting SBS SCBS System Active
+	Read Setting SBS SCBS System Not Active
+	Read Setting SBS SCBS System Warning Distance
+	Read Setting SBS SCBS Warning Volume
+	Read Setting Traffic Sign Display Speed Limit Alert
+	Read Setting Traffic Sign Display Speed Limit Alert Threshold
+	Read Setting Traffic Sign Display System Off
+	Read Setting Traffic Sign Display System On
+	Read Setting Turn Signal Volume High
+	Read Setting Turn Signal Volume High
+	Read Setting Turn Signal Volume Low
+	Read Setting Turn Signal Volume Low
+	Read Setting Unlock All Doors Once
+	Read Setting Unlock Mode Driver Once All Doors Twice Active
+	Read Setting Walk Away Lock Active
+	Read Setting Walk Away Unlock Active
+	Rear Defrost Active
+	Rear Defrost Active
+	Rear Mister Active
+	Rear Right Door Ajar
+	Rear Wiper Command Active
+	Rear Wiper INT Active
+	Rear Wiper On Active
+	Request Gear
+	Right Turn Indicator Active
+	Right Turn Signal Stock Position Active
+	Safety Settings Distance Recognition Support System Active
+	Safety Settings Distance Recognition Support System Inactive
+	Safety Settings Distance Recognition Support System Warning Distance
+	Safety Settings Lane Keep Assist System Lane Alert Off
+	Safety Settings Lane Keep Assist System Lane Alert On
+	Safety Settings Lane Keep Assist System Senstivity High
+	Safety Settings Lane Keep Assist System Senstivity Low
+	Safety Settings SBS SCBS System Active
+	Safety Settings SBS SCBS System Inactive
+	Safety Settings SBS SCBS Warning Distance
+	Selected Unit Miles
+	Setting Active Driving Display On
+	Setting Ad Display Brightness Control Manual True Auto False
+	Settings AD Display Height
+	Settings Ad Display Brightness Auto
+	Settings Ad Display Brightness Manual
+	Settings Temperature Units C Selected
+	Settings Temperature Units F Selected
+	Shift In Progress
+	Speed Sign
+	Speed Sign Cam Seen
+	Speed Sign On Display
+	Sport Mode Active
+	Steering Wheel Angle 1
+	Steering Wheel Angle 2
+	Steering Wheel Rate
+	Stop Sign On Display
+	Tire Pressure Tell Tale Not Active
+	Traction Control Off
+	Traction Control Off Button State Pressed
+	Traction Control Off Tell Tale Active
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale Blinking Active
+	Trunk Ajar
+	Unlock All Doors Once
+	Unlock Command From Key Fob
+	Unlock Mode Driver Once All Doors Twice Active
+	Upcoming Vehicle Detected
+	Vehicle Speed
+	Vehicle Speed
+	Walk Away Lock Active
+	Walk Away Unlock Active
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Write Lane Keep Assist System Intervention Active
+	Write Lane Keep Assist System Sensitivity Setting High
+	Write Lane Keep Assist System Sensitivity Setting Low
+	Write Lane Keep Assist System Setting Lane Departure Alert Active
+	Write Lane Keep Assist System Setting Lane Departure Alert Not Active
+	Write Safety Setting Alert Type
+	Write Setting 3 Flash Turn Signal Active
+	Write Setting 3 Flash Turn Signal Not Active
+	Write Setting Auto Door Lock Mode
+	Write Setting Auto Headlight On
+	Write Setting Auto Relock Time
+	Write Setting Beep Volume High
+	Write Setting Blind Spot Monitoring System Active
+	Write Setting Blind Spot Monitoring System Inactive
+	Write Setting Blind Spot Monitoring System Warning Volume
+	Write Setting Coming Home Light
+	Write Setting Distance Recognition Support System Active
+	Write Setting Distance Recognition Support System Not Active
+	Write Setting Distance Recognition Support System Warning Distance
+	Write Setting HUD Navigation Displayed
+	Write Setting HUD Navigation Off
+	Write Setting HUD Navigation On
+	Write Setting HUD Navigation Reset
+	Write Setting Headlight Off Timer
+	Write Setting High Beam Control Active
+	Write Setting High Beam Control Not Active
+	Write Setting Interior Light Timeout Door Close
+	Write Setting Interior Light Timeout Door Open
+	Write Setting Keyless Lock Beep Volume
+	Write Setting Leaving Home Light Active
+	Write Setting Leaving Home Light Not Active
+	Write Setting Light On Vol
+	Write Setting Rain Sensing Wiper Active
+	Write Setting Rain Sensing Wiper Not Active
+	Write Setting SBS SCBS System Active
+	Write Setting SBS SCBS System Not Active
+	Write Setting SBS SCBS System Warning Distance
+	Write Setting SBS SCBS Warning Volume
+	Write Setting Traffic Sign Display Speed Limit Alert
+	Write Setting Traffic Sign Display Speed Limit Alert Threshold
+	Write Setting Traffic Sign Display System Off
+	Write Setting Traffic Sign Display System On
+	Write Setting Turn Signal Volume High
+	Write Setting Turn Signal Volume Low
+	Write Setting Unlock All Doors Once
+	Write Setting Unlock Mode Driver Once All Doors Twice Active
+	Write Setting Walk Away Lock Active
+	Write Setting Walk Away Unlock Active

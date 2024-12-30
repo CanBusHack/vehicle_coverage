@@ -1,0 +1,186 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Peugeot 'Rcz' (2012)
+Signal Descriptions:
+	A C Compressor Power Consumed
+	AC Compressor Active
+	ADAS SL Active
+	ADAS SL On And Paused
+	ADAS SP Or CC State
+	ADAS Speed Set
+	ASR In Normal Operation
+	ASR Off
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Air Quantity Measured Corrected
+	Ambient Temperature
+	Auto Start Stop System Off
+	Auto Start Stop System On
+	Battery Current
+	Battery State Of Charge
+	Battery Voltage
+	Brake Lamp Switch On
+	Brake Parking Disengaged
+	Brake Parking Disengaging
+	Brake Parking Engaged
+	Clutch Status
+	Coolant Temperature
+	Dash Message Declutch Fully
+	Dash Msg Stop Start System Deactivated
+	Dash Press Park Button
+	Dash Prompt Press The Brake Pedal
+	Dash Shift Up Indication
+	Dash Speedometer
+	Dash Warn Eng Fault Repair Needed
+	Dash Warn Eng Fault Repair Needed
+	Dash Warn Eng Fault Stop Vehicle
+	Dash Warn Eng Oil Press Fault Stop Vehicle
+	Dash Warn Gearbox Fault Repair Needed
+	Dash Warning ABS Fault
+	Dash Warning Brake Pads Change
+	Dash Warning Braking System Fault
+	Dash Warning ESP ASR Fault
+	Dash Warning Eng Fault Repair Needed
+	Dash Warning Eng Temperature Fault
+	Dash Warning Park Brake Fault
+	Dash Warning Power Steering Fault
+	Dashboard Gear Indication Neutral Engaged
+	Dashboard Tell Tale ESP System Deactivated
+	Dashboard Tell Tale Service And Stop Warning Blinking On
+	Dashboard Tell Tale Service And Stop Warning On
+	Dashboard Warning Battery Charge Fault Stop The Vehicle
+	Dashboard Warning ESP System Deactivated
+	Dashboard Warning Tire Pressure Monitoring System Fault
+	Declutching Status Stationary
+	Diagnosis Network Communication
+	Distance Since Engine Start
+	Door Front Left Open
+	Door Front Right Open
+	Door Rear Left Open
+	Door Rear Right Open
+	Door Trunk Open
+	Down Shift Paddle Pressed
+	Driving Mode
+	Driving Mode Snow Pressed
+	Driving Mode Sport Button Pressed
+	ECU Wake Up Status Main Triggering
+	ESP ABS Active
+	ESP System Activated
+	ESP Traction Control Deactivated
+	Electrical System Emergency Mode
+	Engine Operation Cut Off
+	Engine Operation Driving Starting
+	Engine Operation Running
+	Engine Speed
+	Engine Torque Actual
+	Engine Torque Managing Air Flow
+	Engine Torque Request By Driver
+	Engine Torque Resistive Estimated
+	Fault With Lane Departure System Warning And Service Tell Tale
+	Filter Regeneration Request
+	Gear Displayed Dashboard
+	Gear Engaged
+	Gear Position Drive 0 True
+	Gear Position Drive Or Reverse
+	Gear Requested
+	Gear Shifting Status
+	HVAC A C On
+	HVAC Fan Control Via CAN
+	Hazards On Sharp Speed Reduction
+	Headlight Setting Adaptive Active
+	Headlights System Setting Directional Headlamps System Set To On
+	Hill Start System Fault Warning
+	IC Warning Power Steering Fault Have The Vehicle Repaired
+	IC Warning Power Steering Fault Stop The Vehicle
+	Intake Air Temperature At Manifold
+	Key In Cranking Position
+	Key In Ignition Position
+	Key Position Not In START
+	Key Position START
+	Lights Antifog Front On
+	Lights High Beam On
+	Lights Low Beam On
+	Lights Not Active
+	Lights Reversing On
+	Lights Side On
+	Oil Temperature
+	PRNDL Position
+	Park Brake Button Light On
+	Park Brake Button Position Pulled Upwards
+	Park Brake Disengaged
+	Park Brake Disengaging
+	Park Brake Engaging
+	Park Brake Force To Primary Cable
+	Park Brake Status
+	Park Brake Switch Hold Up
+	Park Neutral Switch Fault
+	Parking Brake Switch Pressed Down
+	Parking Brake Tell Tale Blinking Active
+	Parking Brake Tell Tale Solid On Active
+	Pedal Accelerator Position
+	Pedal Accelerator Release
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Switch
+	Pedal Brake Switch Active
+	Power Mode Accessory
+	Power Mode Changing To Ignition
+	Power Mode Engine Cranking
+	Power Mode Engine Cranking 0 True
+	Power Mode Engine Running
+	Power Mode Ignition Active
+	Power Mode Ignition Off
+	Power Mode Ignition Or Cranking
+	Power Mode Off
+	Power Mode Switching To RAP Or Ignition
+	Raw Fuel Level
+	Refrigerant Circuit Pressure
+	Request For Freezing Of Disturbances Torque
+	Seatbelt Front Left Unfastened
+	Service Tell Tale Blinking
+	Shift Down Icon Active
+	Shift Up Icon Active
+	Starting Inhibit Ctrl Lock Active
+	Starting Inhibit Ctrl Lock Inactive
+	Status Of The ASR MSR Function
+	Steering Wheel Angle
+	Steering Wheel Rate
+	Steering Wheel Sensor Adjusted
+	Steering Wheel Sensor Calibrated
+	Steering Wheel Sensor Faulty
+	Steering Wheel Turning Clockwise
+	Tell Tale Drive Mode Selected Sport Mode
+	Tell Tale Glow Plug
+	Tell Tale MIL
+	Tell Tale MIL Flashing
+	Tell Tale Park Brake
+	Tell Tale Park Brake Auto Off
+	Tell Tale Park Brake Auto Off
+	Tell Tale Park Brake Fault
+	Tell Tale Park Brake Flashing
+	Tell Tale Press Brake Pedal
+	Tell Tale Traction Control Flashing
+	Torque Reduction Request By A T
+	Torque Request By A T Reference
+	Traction Control Off
+	Transmission Input Speed Calculated
+	Transmission Oil Temperature
+	Up Shift Paddle Pressed
+	VIN Part 1
+	VIN Part 2
+	VIN Part 3
+	Vehicle Acceleration
+	Vehicle Speed 40Ms Frequency
+	Water In Diesel
+	Wheel Speed Front Average
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Front Or Rear Spraying Active
+	Wiper Sprayer Front Command
+	Wipers Front Active Speed 1
+	Wipers Front Active Speed 2
+	Wipers Front Active Speed 3
+	Wipers Front Moving
+	Wipers Front Moving
+	Yaw Rate

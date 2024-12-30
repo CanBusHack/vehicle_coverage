@@ -1,0 +1,135 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Mazda 'Cx 9' (2012)
+Signal Descriptions:
+	Car In Reverse
+	Car In Reverse
+	Car In Reverse
+	Car Is Moving
+	Car Is Stopped
+	Car Not In Reverse
+	Clock Hour Button
+	Clock Minute Button
+	Clock Second Button
+	Current Displayed Fuel Consumption
+	HVAC Compressor Active
+	Head Lights Set To On
+	Info Button Pressed
+	Info Button Pressed
+	LCD Display Test
+	LCD Trip Info Reset
+	LCD Units Displayed In Miles
+	Left Blind Spot Active
+	Left Indicator Active
+	Outdoor Temperature
+	Range Unit Dependent
+	Right Blind Spot Active
+	Right Indicator Active
+	Steering Wheel Angel
+	Vehicle Speed
+	Vehicle Speed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS Blinking Tell Tale Active
+	ABS Event Alert Active
+	ABS Fail 01 Alert Active
+	ABS Tell Tale Active
+	AT Tell Tale Active
+	Accelerator Not Pedal Pressed 1
+	Accelerator Not Pedal Pressed 2
+	Accelerator Pedal Position
+	Accelerator Pedal Position Sensor 1
+	Accelerator Pedal Position Sensor 2 Voltage
+	Airbag Tell Tale Active
+	Auto Hold System Temporarily Unavailable Dash Prompt Active
+	Battery Tell Tale Active
+	Battery Voltage
+	Blinking Airbag Tell Tale Active
+	Blinking Traction Control Slipping Tell Tale Active
+	Blue Coolant Tell Tale Active
+	Brake Pedal Must Be Depressed To Deactivate Auto Hold System Dash Prompt Active
+	Brake Pressed 1
+	Brake Pressed 2
+	Brake Pressure
+	Charging System Malfunction Active
+	Check Fuel Cap Dash Prompt Active
+	Check Fuel Cap Tell Tale Active
+	Coupling Solenoid Duty Cycle
+	Cruise Control Active
+	Cruise Control Ready Active
+	Display Engine Speed
+	Displayed Vehicle Speed
+	Driver Door Locked Active
+	Driver Door Open
+	Driver Seatbelt Buckled
+	Engine Coolant Temperature
+	Engine Coolant Temperature
+	Engine Load
+	Engine Torque 1
+	Engine Torque 2
+	Fob Recognized Without Key
+	Front Wipers Set To Hi
+	Front Wipers Set To Lo
+	Fuel Leve Related 33 Is Max Might Be Range Or Something Avg Related
+	Fuel Level
+	Gas Cap Tell Tale Active
+	Gear Info
+	Hazards Command Active
+	Immobilizer Status
+	Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position Dash Prompt Active
+	Instrument Cluster Chime Active
+	Intake Air Temperature 1
+	Intake Air Temperature 2
+	Key In Ignition Active
+	Lateral Accelerometer
+	Left Turn Signal Indicator Active
+	Lights Auto
+	Lights Low Beams
+	Longitudinal Acceleration
+	MIL Light Active
+	MIL Light Active
+	Manual Active
+	Oil Level Tell Tale Active
+	Oil Tell Tale Active
+	Oil Tell Tale Active
+	Outdoor Temperature
+	Outside Temperature
+	PRNDL
+	Parking Brake Active
+	Parking Brake Active
+	Parking Brake Not Active
+	Parking Brake Now Activated Press Accelerator Pedal To Release Dash Prompt Active
+	Passenger Door Open
+	Passenger Seatbelt Buckled
+	Raw Fuel Level Sensor
+	Rear Door Open Tell Tale Active 2 Either Door Activates
+	Rear Door Open Tell Tale Active Either Door Activates
+	Relative Throttle Position
+	Remote Locked
+	Remote Unlocked
+	Request Engine Torque
+	Right Turn Signal Indicator Active
+	Service Tell Tale Active
+	Shift In Progress 1
+	Shift In Progress 2
+	Steering Wheel Angel1
+	Steering Wheel Angel2
+	Target Gear
+	Throttle Position Sensor1
+	Traction Control Off
+	Traction Control Off Tell Tale Active
+	Traction Control Slipping Tell Tale Active
+	Traction Control System Off
+	Traction Control System On
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale Blinking Active
+	Transmission Output Speed
+	Transmission Temperature
+	Transmission Temperature
+	Trunk Locked
+	Trunk Open
+	VIN Part 1
+	Wheel Speed FL
+	Wheel Speed FR
+	Wheel Speed RL
+	Wheel Speed RR
+	Yaw Rate

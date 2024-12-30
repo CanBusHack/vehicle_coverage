@@ -1,0 +1,230 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Alfa Romeo 'Mito' (2014)
+Signal Descriptions:
+	ABS Control Unit Active
+	ABS Tell Tale On
+	ABS Tell Tale On
+	ADAS Adaptive Cruise Control Follow Distance Level
+	ADAS Adaptive Cruise Control Follow Distance Level Verification
+	ADAS Cruise Control Active
+	ADAS Park Aid Rear Left Detection Not Active
+	ADAS Park Aid Rear Left Object Detected
+	ADAS Park Aid Rear Right Detection Not Active
+	ADAS Park Aid Rear Right Object Detected
+	ADAS Speed Limiter Active
+	ADAS Speed Set
+	ADAS Switch ON OFF Pressed
+	ADAS Switch Speed Down Pressed
+	ADAS Switch Speed Up Pressed
+	ASR System Deactivated
+	Accessory Switch Active
+	Airbag Control Unit Active
+	Airbag Driver Deactivated Tell Tale Flashing
+	Airbag Driver Deactivated Tell Tale On
+	Airbag Passenger Deactivated Tell Tale Flashing
+	Airbag Passenger Deactivated Tell Tale On
+	Airbag Passenger Exclusion Tell Tale On
+	Airbag Passenger Setting Changing
+	Auto Tell Tale Active
+	Battery Low Charge Tell Tale On
+	Battery Voltage
+	Brake Change Pads Tell Tale On
+	Central Lock Automatic
+	Central Lock Automatic
+	Code Protection System Failure Tell Tale Flashing
+	Dash Prompt Manual Method Unavailable Active
+	Dash Prompt Press Clutch Fully
+	Dashboard Back Lighting Active
+	Dashboard FPS On Indication On
+	Dashboard Fuel Level Indication
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Daytime Running Lights Deactivated
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Trunk Open
+	ECO Tell Tale Active
+	EPS Active
+	EPS Deactivated
+	EPS Fault
+	Emergency Braking System Lamp On
+	Engine Control Module Active
+	Engine Coolant High Temperature Warning Light On
+	Engine Coolant Temperature Fault
+	Engine Coolant Temperature Indication
+	Engine Load
+	Engine Oil Change Prompt On
+	Engine Oil Low Pressure Tell Tale On
+	Engine Speed Displayed
+	Engine Stalling
+	Fuel Consumption Instantaneous Last Registered
+	Fuel Level Indication
+	Fuel Level Low Chime On
+	Fuel Level Low Light On
+	Fuel Range
+	Fuel Range Not Displayed
+	Gear Displayed
+	Gear Displayed Flashing
+	Gear Reverse Engaged
+	Glowplug Tell Tale On
+	HVAC AC Status
+	HVAC Defroster Rear On
+	HVAC Defroster Rear Tell Tale On
+	Headlight Sensitivity Level
+	Headlights High Beam Tell Tale On
+	Headlights Low Beam Regulation Displayed
+	Headlights Sidelights Tell Tale On
+	Hill Assist System Unavailable
+	Ignition Switch Active
+	Instrument Panel Active
+	Key Fob Lock Button Hold Released
+	Key Fob Lock Button Holding
+	Key Fob Lock Button Pressed
+	Key Fob Trunk Button Hold Released
+	Key Fob Trunk Button Holding
+	Key Fob Trunk Button Pressed
+	Key Fob Unlock Button Hold Released
+	Key Fob Unlock Button Holding
+	Key Fob Unlock Button Pressed
+	Key In Position STOP
+	Key Position
+	Lights Fog Front Tell Tale On
+	Lights Fog Rear Tell Tale On
+	Lights Indicator Left Tell Tale On
+	Lights Indicator Right Tell Tale On
+	Lights Off
+	Longitudinal Acceleration
+	Malfunction Lamp Flashing
+	Malfunction Lamp On
+	Odometer
+	Odometer Displayed Flashing
+	Parking Brake Engaged
+	Parking Brake Engaged Tell Tale On
+	Power Mode Ignition
+	Power Mode Not
+	Power Mode Status
+	Radio System Active
+	Radio System Not Active
+	Seat Front Passenger Occupant Detected
+	Seatbelt Unfastened Tell Tale On
+	See Phone System Setting Set To On
+	Service Required Tell Tale On
+	Shift Down Indication Active
+	Shift Up Indication Active
+	Speech Button Pressed Left Side Of Steering Wheel
+	Speed Warning Chime Set Speed
+	Start Stop System Deactivated
+	Start Stop System Not Starting Engine
+	Start Stop System Starting Engine
+	Steering Wheel Button Arrow Down Pressed
+	Steering Wheel Button Arrow Up Pressed
+	Steering Wheel Button End Call Pressed
+	Steering Wheel Button Mute Pressed
+	Steering Wheel Button Pickup Call Pressed
+	Steering Wheel Button Volume Down Pressed
+	Steering Wheel Button Volume Up Pressed
+	TPMS Configuration Reset
+	Time Current Hours
+	Time Current Minutes
+	Time Format 12H
+	Traction Control Tell Tale Flashing
+	Trip A Duration Hours
+	Trip A Duration Minutes
+	Trip A Fuel Consumption Initializing
+	Trip A Fuel Consumption Last Saved
+	Trip A Odometer
+	Trip A Vehicle Speed Initializing
+	Trip A Vehicle Speed Last Saved
+	Trip B Data Displayed
+	Trip B Duration Hours
+	Trip B Duration Minutes
+	Trip B Fuel Consumption Initializing
+	Trip B Fuel Consumption Last Saved
+	Trip B Odometer
+	Trip B Vehicle Speed Initializing
+	Trip B Vehicle Speed Last Saved
+	Units Selected
+	Vehicle Speed Displayed
+	Vehicle Stationary Not Moving
+	Water In Diesel Filter Tell Tale On
+	Wiper Front Automatic Rain Sensitivity Level
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS In Action
+	ASR Deactivated
+	Auto Tell Tale Active
+	Brake Pressure
+	City Mode Active
+	Coolant Temperature
+	Coolant Temperature Displayed
+	Dash Prompt Check Transmission Active
+	Dash Prompt Clutch Overtemperature Active
+	Dash Prompt Hill Holder Unavailable
+	Dash Prompt Manual Method Unavailable Active
+	Dash Prompt Press The Clutch Fully
+	Dash Warning Chime
+	Dashboard Coolant Temperature Fault Active
+	Dashboard Coolant Temperature Warning Light On
+	Dashboard Display FPS On Indication
+	Dashboard Fuel Range Not Displayed
+	Dashboard Generic Failure Indication On
+	Dashboard Prompt Change Engine Oil
+	Dashboard Tell Tale ABS Fault On
+	Dashboard Tell Tale Electric Power Steering Fault On
+	Dashboard Tell Tale Engine Oil Low Level On
+	Dashboard Tell Tale Engine Oil Low Pressure On
+	Dashboard Tell Tale Glowplug On
+	Dashboard Tell Tale Low Battery Charge On
+	Dashboard Tell Tale Malfunction Flashing
+	Dashboard Tell Tale Malfunction On
+	Dashboard Tell Tale Water In Diesel Filter On
+	Date Current Day
+	Date Current Month
+	Date Current Year
+	Display Gear
+	Display Gear Blinking
+	Door Front Passenger Open
+	Doors Closed When Ignition On
+	Driving Mode Automatic
+	ECO Tell Tale Active
+	EPS System Deactivated
+	Emergency Braking System Safety Lamp On
+	Engine Load
+	Engine Speed
+	Engine Speed Displayed
+	Engine Speed Nominal Target
+	Engine Stalling
+	Fuel Injection Timing
+	Fuel Level
+	Gear Reverse Engaged
+	Gear Shifting
+	HVAC AC Compressor Active
+	HVAC AC Status
+	Longitudinal Acceleration
+	PRNDL Position
+	Parking Brake Engaged
+	Pedal Accelerator Position
+	Pedal Accelerator Range
+	Pedal Accelerator Released When Gear Engaged
+	Pedal Clutch And Accelerator Status
+	Power Mode Engine Running
+	Rear Defrost Active
+	Seatbelt Driver Buckled
+	Shift Down Indication Active
+	Shift Up Indication Active
+	Start Stop System On
+	Start Stop System Operating
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	TPMS Configuration Reset
+	Time Current Hours
+	Time Current Minutes
+	Traction Control Tell Tale Blinking
+	Vehicle In Motion
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right

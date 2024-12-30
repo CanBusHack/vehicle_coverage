@@ -1,0 +1,258 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Nissan 'Altima' (2019)
+Signal Descriptions:
+	ABS Active
+	ABS Tell Tale Active
+	ACC NA Front Camera Imared
+	ACC Unavailable High Cabin Temperature
+	Abs Active
+	Accelerator Pedal Position 1
+	Accelerator Pedal Position 2
+	Adaptive Cruise Currently Unavai 1
+	Adaptive Cruise Currently Unavai 2
+	Adaptive Cruise Unavailable Fron
+	Airbag Tell Tale Active
+	Audible Tone
+	Auto Start Stop Button Not Pressed
+	Auto Start Stop Button Pressed
+	Autoheadlight Tell Tale Active
+	Battery Tell Tale Active 1
+	Battery Tell Tale Active 2
+	Battery Voltage
+	Blind Spot Detection System Off
+	Blind Spot Detection Unavailable 1
+	Blind Spot Detection Unavailable 2
+	Blind Spot Monitoring
+	Bottom Message
+	Brake Light Active
+	Brake Not Pressed 1
+	Brake Not Pressed 2
+	Brake Pressed 1
+	Brake Pressed 2
+	Brake Pressure
+	Brake Switch 1 Active
+	Brake Switch 2 Active
+	Brake Switch Not Active
+	Brake Tell Tale Active
+	Brakes ESP On
+	Brakes Parking Brake Disengaged
+	Brakes Parking Brake Engaged
+	Camera Active
+	Camera Mode
+	Cancel Button Pressed
+	Central Lock Status
+	Chassis Control Engine Brake System Off
+	Chassis Control Engine Brake System On
+	Chassis Control Trace Control Switch
+	Chassis Control Trace Control Switch On
+	Chassis Control Trace Control System Off
+	Chassis Control Trace Control System On
+	Collision Avoidance Unavailable
+	Crash Avoidance Unavailable High
+	Cruise Control And Speed Limiter Set Speed
+	Cruise Control And Speed Limiter Status
+	Cruise Units MPH Set
+	Deceleration G Sensor
+	Door Front Left Closed
+	Door Front Left Open
+	Door Front Right Closed
+	Door Front Right Open
+	Door Rear Left Closed
+	Door Rear Left Open
+	Door Rear Right Closed
+	Door Rear Right Open
+	Driving Aid Emergency Braking Off
+	Driving Aid Emergency Braking On
+	Driving Assist Traffic Sign Displayed
+	ECO Icon Active
+	ESP Disabled
+	Eco Button Pressed
+	Engine Auto Start And Stop System Off
+	Engine Auto Start And Stop System On
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Speed Displayed
+	Engine Torque
+	Engine Torque Name From Scan Tool
+	Error Can Not Shift To Desidered Manual Gear
+	Fog Lights Active
+	Follow Distance
+	Follow Distance Button Pressed
+	Forward Collision Monitoring
+	Front Left Flat Tire
+	Front Left Tire Pressure
+	Front Left Tire Pressure Low Add Air
+	Front Left Tire Registered
+	Front Radar Status
+	Front Radar Unavailable Front Ra 1
+	Front Radar Unavailable Front Ra 2
+	Front Radar Unavailable High Acc
+	Front Right Flat Tire
+	Front Right Tire Pressure
+	Front Right Tire Pressure Low Add Air
+	Front Right Tire Registered
+	Front Sensors System On
+	Front Wheel Speed Average
+	Front Wiper Stock Position
+	Front Wiper Stock Switch Speed Level
+	Front Wipers Active
+	Fuel Level
+	Fuel Rate
+	HVAC AC Active
+	HVAC Fan Active
+	HVAC System Rear Defroster On
+	HVAC Windscreen Defroster Off
+	HVAC Windscreen Max Defogger On
+	Hands On Wheel Warning
+	Hazards Active
+	Hazards Not Active
+	Headlight Status
+	High Beams Active
+	Hood Closed
+	Hood Open
+	IC Message Large Warning Flashing
+	Ignition On 1
+	Ignition On 2
+	Intake Air Temperature
+	Key Fob Central Lock Applied
+	Key Fob Central Lock Unlock
+	LKAS Error Flashing
+	Lane Departure Unavailable Clean
+	Lane Departure Unavailable High 1
+	Lane Departure Unavailable High 2
+	Lane Keep Active
+	Lane Keep System Off
+	Lane Keep System On
+	Large Steering Wheel Icon Status
+	Lead Car
+	Lead Car Error
+	Left Lane Green
+	Left Lane Green Flash
+	Left Lane Yellow Flash
+	Lights All Off
+	Lights Any On
+	Lights Side Lights On
+	Lock Command
+	MIL Status
+	No Button Pressed
+	Overdrive Switch Status
+	PRNDL
+	Park Or Neutral Active
+	Parking Aid Moving Object Off
+	Parking Aid Moving Object On
+	Parking Aid Range
+	Parking Aid System Display Off
+	Parking Aid Volume
+	Parking Brake Disengaging
+	Parking Brake Engaging
+	Pedal Accelerator Pedal Position
+	Pedal Accelerator Pedal WOT Switch On
+	Power Mode
+	Power Steering Tell Tale Active
+	Press Brake To Start Image Active
+	Primary Torque Name From Scan Tool
+	Propilot Button Pressed
+	Propilot NA Front Camera Obstructed
+	Propilot NA High Cabin Temperature
+	Propilot NA Message
+	Pulley Gea Ratio MSB
+	Pulley Gear Ratio LSB
+	Rear Defroster Active
+	Rear Left Flat Tire
+	Rear Left Tire Pressure
+	Rear Left Tire Pressure Low Add Air
+	Rear Left Tire Registered
+	Rear Radar Unavailable Clean Rea
+	Rear Radar Unavailable High Cabi
+	Rear Radar Unavailable Side Rada 1
+	Rear Radar Unavailable Side Rada 2
+	Rear Right Flat Tire
+	Rear Right Tire Pressure
+	Rear Right Tire Pressure Low Add Air
+	Rear Right Tire Registered
+	Rear Sensors System On
+	Res Button Pressed
+	Right Lane Green
+	Right Lane Green Flash
+	Right Lane Yellow Flash
+	Right Stock Switch Position
+	Safety Shield Active
+	Seatbelt Driver Side Buckled
+	Seatbelts Front Right Passenger Fastened
+	Seatbelts Front Right Passenger Unfastened
+	Seatbelts Rear Left Passenger Fastened
+	Seatbelts Rear Left Passenger Unfastened
+	Seatbelts Rear Middle Passenger Fastened
+	Seatbelts Rear Middle Passenger Unfastened
+	Seatbelts Rear Right Passenger Fastened
+	Seatbelts Rear Right Passenger Unfastened
+	Set Button Pressed
+	Set Speed
+	Shift Down Icon Active
+	Shift Error Tone Active
+	Shift Up Icon Active
+	Side Radar Error Flashing1
+	Side Radar Error Flashing2
+	Side Radar Error Flashing3
+	Sign Detection Not Available High Cabin Temperature
+	Sign Detection System Fault
+	Small Steering Wheel Icon
+	Speed Set Icon
+	Sport Mode Button Pressed
+	Sports Mode Active
+	Steering Angle
+	Steering Effort Changed To Normal
+	Steering Effort Changed To Sport
+	Steering Effort System Set To Normal
+	Steering Effort System Set To Sport
+	Steering Rotation Speed
+	Steering Wheel Buttons Left Side Any Button Pressed
+	Steering Wheel Manual Torque Applied
+	Steering Wheel Torque
+	System Setting Read Welcome Lights Set To On
+	System Setting Welcome Light Set To On
+	TPMS Error See Owner S Manual
+	Tell Tale Auto Hold Gray Active
+	Tell Tale Auto Hold Green Active
+	Tell Tale Tire Pressure Active
+	Traction Control Tell Tale Active
+	Traffic Sign Detection Active
+	Traffic Sign Detection Not Active
+	Traffic Sign Detection System On
+	Transmission Input Speed
+	Transmission Output Speed
+	Trunk Open
+	Turn Wheel To Start Image Active
+	Turnsignal Left Active
+	Turnsignal Left Stock Position Active
+	Turnsignal Right Active
+	Turnsignal Right Stock Position Active
+	Unavailable Select Driving Aids 1
+	Unavailable Select Driving Aids 2
+	Unit For Speed Set To MPH
+	Unlock Command
+	Vehicle Speed
+	Warning Blind Spot Detection Mal
+	Warning Collision Avoidance Malf
+	Warning Front Radar Malfunction
+	Warning Front Radar Malfunction
+	Warning Lane Departure Malfuncti
+	Warning Lane Departure Warning M
+	Warning Message Battery Voltage Low Charge Battery
+	Warning Message Exhaust Filter Maintenace
+	Warning Message No Key Detected
+	Warning Message Press Brake Pedal
+	Warning Message Steering Lock Registration Complete
+	Warning Message Stop Start Not Available
+	Warning Message Turn Off Headlights
+	Warning Messageheadlight System Fault
+	Warning Pedal Misapplication Sys
+	Warning Propilot Malfunction
+	Warning Rear Radar Malfunction
+	Warning Rear Radar Malfunction H
+	Warning Step On Brake Now
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Driver
+	Wheel Speed Rear Passenger
+	Wheels Front Axle ABS Torque QQ

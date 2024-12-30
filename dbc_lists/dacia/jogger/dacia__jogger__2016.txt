@@ -1,0 +1,314 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Dacia 'Jogger' (2016)
+Signal Descriptions:
+	Ambient Lighting RGB Blue
+	Ambient Lighting RGB Green
+	Ambient Lighting RGB Red
+	Ambient Lighting Setting
+	Ambient Lighting System Active
+	Anydoor Open
+	Central Display Day Mode Setting
+	Central Display Night Mode Setting
+	FM Stored Station Selected
+	Infotainment System Driving Assistance Button Long Pressed
+	Infotainment System Home Button Long Pressed
+	Infotainment System Screen Turned Off
+	Instrument Panel Brightness Setting
+	Lane Departure Warning Sensitivity System Setting
+	Lane Keeping System Line Keeping Status
+	Lane Monitoring System Line Detection Status
+	Left Front Door Closed
+	Left Front Door Open
+	Left Rear Door Closed
+	Left Rear Door Open
+	Posted Speed Displayed Posted
+	Posted Speed Limit Speed
+	Radio Band Selection
+	Radio Scan Active
+	Right Front Door Close
+	Right Front Door Open
+	Right Rear Door Closed
+	Right Rear Door Open
+	Speed Alert System Setting Set To On
+	Volume Knob Turning Anti Clockwise
+	Volume Knob Turning Clockwise
+	Window Front Left Full Open
+	Window Front Left Not Closed
+	Window Front Left Not Full Open
+	Window Front Right Full Open
+	Window Front Right Not Closed
+	Window Front Right Not Full Open
+	Window Rear Left Full Open
+	Window Rear Left Not Full Open
+	Window Rear Let Not Closed
+	Window Rear Right Full Open
+	Window Rear Right Not Closed
+	Window Rear Right Not Full Open
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	After Ignition Supply Present
+	Air Recirculation Active
+	Air Recirculation Not Active
+	Ambient Air Temperature
+	Auto Door Lock When Driving System Setting Changing To Off
+	Auto Door Lock When Driving System Setting Changing To On
+	Auto Start Stop Green Tell Tale Active
+	Auto Start Stop Switch At Rest
+	Auto Start Stop Switch Pressed
+	Auto Start Stop System Off
+	Auto Start Stop System On
+	Automatic Cabin Light System Setting Changing To Off
+	Automatic Cabin Light System Setting Changing To On
+	Automatic High Beam System Setting Changing To Off
+	Automatic High Beam System Setting Changing To On
+	Automatic High Beam System Setting Set To Off
+	Automatic High Beam System Setting Set To On
+	Back Light Dime For Night Mode A
+	Battery Voltage
+	Brake Pedal At Rest
+	Brake Pedal Pressed
+	Brake Pedal Pressed Lightly
+	Comfort Mode Active
+	Command A C On
+	Command Auto Fast On
+	Command Auto Soft On
+	Command Demist On
+	Command Forced Recycling On
+	Command HVAC Off
+	Command Rear Defrost On
+	Command Turn Off Start Stop And
+	Command Turn Off Start Stop Unlo
+	Cruise Control And Speed Limiter Setting
+	Dash Message Apply Parking Brake
+	Dash Message Auto Advanced Tract
+	Dash Message Battery Fault Press And Hold
+	Dash Message Battery In Safe Mod
+	Dash Message Battery Low Start E
+	Dash Message Brake System Fault
+	Dash Message Check ABS
+	Dash Message Check Airbag
+	Dash Message Check Airbag
+	Dash Message Check Anti Theft Ste
+	Dash Message Check Braking Syste
+	Dash Message Check Child Safety D
+	Dash Message Check ESC
+	Dash Message Check Electric System
+	Dash Message Check Hill Start As
+	Dash Message Check Lighting Low
+	Dash Message Check Vehicle
+	Dash Message Child Lock Activated
+	Dash Message Child Lock Deactivate
+	Dash Message Clean Diesel Filter
+	Dash Message Electric Failure DANGER
+	Dash Message Engine Failure Hazard
+	Dash Message Engine Failure Hazards
+	Dash Message Gear P Position Def
+	Dash Message Lane Keeping
+	Dash Message Non Grip Road Mode
+	Dash Message P Not Engaged
+	Dash Message Place Card Near Symbol And Start
+	Dash Message Press Brake And Start
+	Dash Message Press Clutch
+	Dash Message Press Clutch And Start
+	Dash Message Press Clutch And Start
+	Dash Message Push Brake Pedal
+	Dash Message Release Parking Bra
+	Dash Message Restart With The Key
+	Dash Message SOS Call Info State
+	Dash Message Select N
+	Dash Message Select P
+	Dash Message Steering Wheel Not Locked
+	Dash Message Stop Vehicle
+	Dash Messages Check Automatic Hea
+	Dash Messages Check Brake Lights
+	Dash Messages Check Vehicle
+	Dash Messages Remove Key From Ign
+	Dash Messages Start Process Message
+	Dash Tachometer Indication
+	Dash Warning Check ESP 0 True
+	Dash Warning P Not Engaged
+	Dash Warning Powersteering Fault
+	Deicer Rear Off
+	Deicer Rear On
+	Display Vehicle Speed
+	Diver Massage Setting Set To
+	Door Front Left Ajar Tell Tale
+	Door Front Left Open Warning
+	Door Front Right Ajar Tell Tale
+	Door Front Right Open Warning
+	Door Rear Left Ajar Tell Tale
+	Door Rear Left Open Warning
+	Door Rear Right Ajar Tell Tale
+	Door Rear Right Open Warning
+	Door Trunk Ajar Tell Tale
+	Door Trunk Open Warning
+	Driver Door Switch ES
+	Driver Masage System Set To On
+	Driver Massage Intensity Setting
+	Driver Massage Seat Button Activ
+	Driver Massage Speed Setting
+	Driving Style Indicator Set To Off
+	Driving Style Indicator Set To On
+	Driving Style Indicator System Setting Changing To Off
+	Driving Style Indicator System Setting Changing To On
+	Duel Zone Active
+	ECO Mode Active
+	ESC On
+	Eco Mode Off
+	Eco Mode On
+	Eco Tree Related
+	Engine Coolant Temperature
+	Engine Operating Phase
+	Engine Stop Request Via Stop Button Present
+	Engine Torque Net
+	Engine Torque Requested By Driver
+	External Welcome System Setting Changing To Off
+	External Welcome System Setting Changing To On
+	External Welcome System Setting Set To Off
+	External Welcome System Setting Set To On
+	Front Fog Lights Active
+	Front Left Wheel Speed
+	Front Right Wheel Speed
+	Front Wheel Speed Average
+	Fuel Not Low
+	Glow Plug Tell Tale Active
+	HVAC AC Off
+	HVAC AC On
+	HVAC Air Recirculation Through Upper Vent
+	HVAC Cabin Air Directed Lower Le
+	HVAC Cabin Air Directed Mid Leve
+	HVAC Cabin Air Directed Upper Le
+	HVAC Cabin Fan Speed
+	HVAC Cabin Fan Speed Changing
+	HVAC Fast Active
+	HVAC Left Temperature Control Setting
+	HVAC Right Temperature Control Setting
+	HVAC Soft Active
+	Hands Free Key Functions System Setting Changing To Off
+	Hands Free Key Functions System Setting Changing To On
+	Hazards Command Active
+	Headlights Off
+	High Beams Active
+	Hood Not Open
+	Hood Open
+	Immobilizer Active
+	Immobilizer Injection Code Allocated
+	Immobilizer Injection Code Blank
+	Indicator Sound Volume System Setting Changing To
+	Injection Protection Inactive
+	Instrument Panel Style
+	Key Fob Commands
+	Lane Departure Warning Sensitive System Setting Changing To
+	Lane Departure Warning System Setting Changing To Off
+	Lane Departure Warning System Setting Changing To On
+	Language
+	Learning TP Initiated
+	Lights Low Beam On Command
+	Lights Side Lights On Command
+	Low Beams Active
+	Lumbar Support Buttons Pressed
+	Manual Gearbox Gear Lever Position
+	Massage Seat Setting Change
+	Massage Seat Setting Changed To Off
+	Massage Seat Setting Changed To On
+	Max Air Selected
+	Multisense Driving Mode System Setting Changing To
+	Night Mode Active
+	Occupant Detection Second Row Le
+	Occupant Detection Second Row Mi
+	Occupant Detection Second Row Ri
+	Occupant Detection Third Row Lef
+	Occupant Detection Third Row Rig
+	Odometer
+	Parking Sensor Front Center Level
+	Parking Sensor Front Displayed On
+	Parking Sensor Front Left Level
+	Parking Sensor Front Right Level
+	Parking Sensor Left Front Door A
+	Parking Sensor Left Front Door L
+	Parking Sensor Left Front Fender
+	Parking Sensor Left Rear Door Ac
+	Parking Sensor Left Rear Door Le
+	Parking Sensor Left Rear Fender
+	Parking Sensor Rear Center Level
+	Parking Sensor Rear Displayed On
+	Parking Sensor Rear Left Level
+	Parking Sensor Rear Right Level
+	Parking Sensor Right Front Door
+	Parking Sensor Right Front Fende
+	Parking Sensor Right Rear Door A
+	Parking Sensor Right Rear Door L
+	Parking Sensor Right Rear Fender
+	Parking Sensor Side Sensors Disp
+	Pass Door Switch ES
+	Pedal Accelerator Kick Down
+	Pedal Accelerator Position
+	Pedal Accelerator With Switch Position
+	Pedal Brake Position
+	Pedal Clutch At Rest
+	Pedal Clutch Fully Pressed
+	Pedal Clutch Not At Rest
+	Pedal Clutch Not Fully Pressed
+	Power Mode ACC
+	Power Mode Crank
+	Power Mode Ignition Or Engine Running
+	Power Mode Run
+	Rear Parking Sensor System On
+	Rear Parking Sensors System Setting Changing To Off
+	Rear Parking Sensors System Setting Changing To On
+	Rear Wheel Speed Average
+	Rear Window Lock Off
+	Rear Window Lock On
+	Rear Wiper Wen In Reverse Gear System Setting Set To Off
+	Rear Wiper Wen In Reverse Gear System Setting Set To On
+	Rear Wiper When In Reverse Gear System Setting Changing To Off
+	Rear Wiper When In Reverse Gear System Setting Changing To On
+	Reverse Gear Engaged
+	Reverse Gear Not Engaged
+	Settings Ambient Light Setting
+	Settings Auto Door Lock Off
+	Settings Auto Door Lock On
+	Settings Hands Free Key Functions Set To On
+	Shifter In Gear
+	Side Lights Active
+	Speed Alert System Setting Changing To Off
+	Speed Alert System Setting Changing To On
+	Speed Limiter Speed Or Cruise Control
+	Sport Mode Active
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Tell Tale ABS Flashing Fast On
+	Tell Tale ABS Flashing On
+	Tell Tale Auto Start Stop Green W
+	Tell Tale Automatic Headlights Gr
+	Tell Tale Driver Seat Belt Unbuckled
+	Tell Tale Gas
+	Tell Tale Gears
+	Tell Tale High Beam
+	Tell Tale LPG
+	Tell Tale Left Turn Signal Active
+	Tell Tale Lights Front Fog Lights
+	Tell Tale Lights Rear Fog Lights
+	Tell Tale Lights Side Lights Acti
+	Tell Tale Low Beam
+	Tell Tale MIL
+	Tell Tale Parking Brake Flashing
+	Tell Tale Parking Brake Solid On
+	Tell Tale Passenger Seat Belt Unbuckled
+	Tell Tale Right Turn Signal Activ
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Tire Status
+	Trip Computer Resetting
+	Trip Fuel Consumption Average
+	Trip Fuel Used
+	Trip Odometer
+	Trip Vehicle Speed Average
+	Trunk Closed
+	Trunk Open
+	Vehicle Speed Unit MPH Active
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wipers Not Moving
