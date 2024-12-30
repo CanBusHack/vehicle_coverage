@@ -335,7 +335,7 @@ Signal Descriptions:
 	Oil Life Reset Req
 	Outside Air Temperature Rough
 	Park Lights Tell Tale On
-	Parkin Lights On Off
+	Parking Lights On Off
 	Passenger Airbag 1
 	Passenger Airbag 2
 	Passenger Seat Heat Cool Setting 1
