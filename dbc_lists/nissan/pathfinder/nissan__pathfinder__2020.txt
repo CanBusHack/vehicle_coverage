@@ -5,12 +5,13 @@ Signal Descriptions:
 	AC
 	ACC Follow Distance
 	Acc Pedal Not Pressed
-	Accelerator Pedal Position 1
-	Accelerator Pedal Position 2
+	Accelerator Pedal Position
+	Accelerator Pedal Position
 	Accelerator Pedal Position Sensor A
 	Accelerator Pedal Position Sensor B
-	Accelerator Pedal Pressed 1
-	Accelerator Pedal Pressed 2
+	Accelerator Pedal Pressed
+	Accelerator Pedal Pressed
+	Accelerator Pedal Pressed Alt
 	Accessory Mode
 	Alarm Active
 	Ambient Temperature
@@ -25,7 +26,9 @@ Signal Descriptions:
 	Brake Pedal Pressed
 	Brake Press
 	Brake Press At Idle
+	Brake Pressure Sensor
 	Brake Switch
+	Brake Switch Alt
 	Brake W L Active
 	Cabin Fan Speed
 	Crank Status
@@ -39,23 +42,26 @@ Signal Descriptions:
 	Cruise Set Coast Pressed
 	Cruise Units
 	Current Gear
+	Current Gear Alt
 	DCA Unavailable High Accelerator Temperature Message
 	Dash Menu Options
-	Driver Seat Belt
+	Driver Seat Belt Unbuckled
 	Eco Button Pressed
 	Eco Mode Active
 	Emergency Braking
 	Engine Coolant Temperature Displayed
 	Engine Cooling Fans Active
-	Engine Speed 1
-	Engine Speed 2
+	Engine Speed
+	Engine Speed
 	Engine Speed Displayed
+	Engine TORQUE Alt
+	Engine Torque
 	Exterior Light Level Voltage
 	Fob Not Detected
 	Fob Unlock 1
 	Fob Unlock 2
-	Fog Lights Active 1
-	Fog Lights Active 2
+	Fog Lights Active
+	Fog Lights Active
 	Forward Collision Monitoring
 	Front Avg Speed
 	Front Left Door Open Message And Caution Tell Tale
@@ -70,6 +76,8 @@ Signal Descriptions:
 	Front Right Tire Pressure Low Add Air
 	Front Right Tire Registered
 	Front Right Wheel Speed
+	Fuel Level 1 LSB Add 2 For Voltage
+	Fuel Level 2 MSB
 	Gear Position Indicator
 	Gear Ratio
 	HVAC
@@ -77,6 +85,7 @@ Signal Descriptions:
 	Heater On
 	High Beam Lights Turn On
 	Hood Open
+	Ignition Status
 	LDP Unavailable High Cabin Temperature Massage
 	Lane Departure On Off
 	Lane Departure Tell Tale Flash
@@ -91,13 +100,14 @@ Signal Descriptions:
 	Low Oil Pressure
 	M Mode SW Active
 	MIL Tell Tale Active
-	Mass Airflow Sensor
 	Night Running Lights Rear Turn On
 	O D OFF Command
 	O D Off
 	Object In Reverse Camera View On Off
 	Odometer
 	Overdrive Shift Button
+	PRI TORQUE Alt
+	PRI Torque
 	Park Brake Tell Tale
 	Parking Lights Not Active
 	Power Gear
@@ -123,8 +133,8 @@ Signal Descriptions:
 	Shift Lever Button Not Pressed
 	Shift Lever Position
 	Start Stop Button Pressed Active
-	Steering Wheel Angle 1
-	Steering Wheel Angle 2
+	Steering Wheel Angle
+	Steering Wheel Angle
 	Steering Wheel Speed
 	Switch Except M Mode
 	TPMS Error See Owners Manual
@@ -140,7 +150,8 @@ Signal Descriptions:
 	Unlock On Fob Pressed
 	Unlocks Driver Door
 	Vehicle Dynamics Control Active
-	Vehicle Speed 1
-	Vehicle Speed 2
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Speed Alt
 	Vehicle Speed Dash Display
 	Wipers

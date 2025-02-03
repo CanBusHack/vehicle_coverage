@@ -214,84 +214,84 @@ Signal Descriptions:
 	Yaw Rate Value
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	A B S Active
-	Adjusting Forward Camera Message
-	Adjusting Front Radar Beam Message
-	Adjusting Front Radar Beam Message
-	Adjusting Front Radar Beam Vertical Message
+	ABS Active
+	Adjusting Forward Camera Mess
+	Adjusting Front Radar Be 0000
+	Adjusting Front Radar Beam M
+	Adjusting Front Radar Beam V
 	Ambient Air Temperature
 	Auto Headlights
-	B S M State Change In Progress
+	BSM State Change In Progress
 	Blind Spot Monitor On Off 1
 	Blind Spot Monitor On Off 2
 	Brake Alert 1
 	Brake Alert 2
-	Current Display Units Kilometers
+	Current Display Units Kilomet
 	Current Display Units Miles
 	Current Key Cycle Elapsed Time
-	D R L Beam Headlights Command
+	DRL Beam Headlights Command
 	Dash Telltales
 	Driver Door Ajar
 	Electric Load Signal 3 Active
-	Error Adjusting Front Radar Beam Message
-	Front Camera Low Visibility Unavailable See Owner S Manual
-	Front Camera Out Of Temperature Range Unavailable Wait Until Normal Temperature
-	Front Camera Unavailable See Owner S Manual
-	Grill Shutter Inoperative Message
-	Grill Shutter Not Initialized Cancel Maintenance Mode
+	Error Adjusting Front Radar
+	Front Camera Low Visibility
+	Front Camera Out Of Temperatu
+	Front Camera Unavailable See
+	Grill Shutter Inoperative Mes
+	Grill Shutter Not Initialized
 	High Beam Headlights Command
-	I C Dimmed Active
+	IC Dimmed Active
 	Ignition Cycle Count
-	Intelligent Clearance Status On Off
+	Intelligent Clearance Status
 	L A D Unavailable Message
 	L D A Hold Steering Wheel
-	L D A Hold Steering Wheel Message
+	L D A Hold Steering Wheel Me
 	L D A Left Line
 	L D A Malfunction Message
 	L D A Right Line
 	L D A Steering Assist Active
-	L D A Steering Assist Inactive
-	L D A Steering Assist Unavailable Hold Steering Wheel Message
-	L D A Turned O N Steering Assist Active Message
-	L D A Unavailable At Current Speed Message
-	L D A Unavailable Below Approx 50 Kmh Message
+	L D A Steering Assist Inactiv
+	L D A Steering Assist Unavail
+	L D A Turned O N Steering As
+	L D A Unavailable At Current
+	L D A Unavailable Below Appro
 	L D W Sensitivity High
 	L D W Sensitivity Low
-	Lane Departure Alert Green Tell Tale
-	Lane Departure Alert Turned O N Steering Assist Inactive Message
-	Lane Departure Alert White Tell Tale
-	Lane Departure Alert Yellow Tell Tale
-	Lane Departure Alert Yellow Tell Tale
+	Lane Departure Alert Green T
+	Lane Departure Alert Turned
+	Lane Departure Alert White T
+	Lane Departure Alert Yel 0000
+	Lane Departure Alert Yellow
 	Low Beam Headlights Command
 	Not In Reverse Active
-	Parking Assist Center Front Object Distance Alert Prompt
-	Parking Assist Center Rear Object Distance Alert Prompt
-	Parking Assist Dash Car Image No Alerts
-	Parking Assist Left Front Object Distance Alert Prompt
-	Parking Assist Left Rear Object Distance Alert Prompt
+	Parking Assist Center Front
+	Parking Assist Center Rear O
+	Parking Assist Dash Car Image
+	Parking Assist Left Front Ob
+	Parking Assist Left Rear Obj
 	Parking Assist On Off
-	Parking Assist Right Front Object Distance Alert Prompt
-	Parking Assist Right Rear Object Distance Alert Prompt
+	Parking Assist Right Front O
+	Parking Assist Right Rear Ob
 	Parking Brake Enabled
 	Passenger Door Ajar
 	Please Take A Break Message
 	Power Mode Status
 	Pre Collision Active
 	Pre Collision Sensitivity
-	Pre Collision System Out Of Temperature Range Unavailable See Owners Manual
-	Pre Collision System Radar In Self Calibration Unavailable See Owner S Manual
-	Pre Collision System Radar Sensor Blocked Unavailable Clean Sensor Message
+	Pre Collision System Out Of
+	Pre Collision System Radar I
+	Pre Collision System Radar S
 	Pre Collision System Tell Tale 1
 	Pre Collision System Tell Tale 2
-	Pre Collision System Unavailable Message
-	Pre Collision System Unavailable See Owners Manual
-	R S A Displayed State
+	Pre Collision System Una 0000
+	Pre Collision System Unavaila
+	RSA Displayed State
 	Rear Left Door Ajar
 	Rear Right Door Ajar
 	Roll Gradient Left To Right
 	Shifter Position
-	Steering Control Indicator Active
-	Steering Select Button Status B S M Selecting
+	Steering Control Indicator Ac
+	Steering Select Button Status
 	Steering Wheel Angle
 	Steering Wheel Torque Driver
 	Sway Warning Active
@@ -304,7 +304,7 @@ Signal Descriptions:
 	Wheel Speed F R
 	Wheel Speed R L
 	Wheel Speed R R
-	Would You Like To Take A Break Message
+	Would You Like To Take A B
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	A C Inactive

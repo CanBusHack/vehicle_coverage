@@ -406,7 +406,6 @@ Signal Descriptions:
 	Wiper Rear Wash Active
 	Wiper Speed
 	Write Pathway Lighting Setting
-	Write Pathway Lighting Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Cruise Control Active

@@ -1,0 +1,170 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Renault 'Trafic Passenger' (2021)
+Signal Descriptions:
+	ABS Active
+	ADAS Speed Setting
+	ADAS System Selected Setting Type
+	Accelerator Pedal Released
+	Airbag Passenger Off
+	Alternator Load
+	Ambient Air Temperature
+	Auto Stop In Action
+	Auto Stop Not In Action
+	Auto Stop Start Deactivated
+	Battery Voltage
+	Brake Park Engaged
+	Calculated Engine Load
+	Canister Bleed OBD Released
+	Car Life
+	Central Lock Active Hazard Lights On Similar To Key FOB 2 X Press
+	Central Lock Active Similar To Key FOB 1 Press
+	Coolant Temperature Sensor Open Circuit
+	Defroster Rear Windshield Active
+	Door Driver Closed
+	Door Driver Open
+	Door Front Right Passenger Closed
+	Door Front Right Passenger Open
+	Door Hood Closed
+	Door Hood Open
+	Door Rear Right Passenger Sliding Door Closed
+	Door Rear Right Passenger Sliding Door Open
+	Door Trunk Open
+	ECO Mode Active
+	ECO Mode Inactive
+	Engine Actual Torque
+	Engine Immobilizer Active
+	Engine Power Modes
+	Engine RPM
+	Engine Stalled
+	Engine Status
+	Engine Torque Requested By Driver
+	Flow Rate Function Status Low
+	Flow Rate Function Status Okay
+	Fuel Tank Level
+	Gear Lever Position
+	HVAC System AC Compressor On
+	HVAC System AC On
+	HVAC System Blower On
+	HVAC System Compressor High Pressure
+	Idle Speed Reference
+	Injection Protection Inactive
+	Inlet Air Temperature
+	Instrument Cluster Backlight Off
+	Instrument Cluster Backlight On
+	Instrument Cluster Prompt Antislip ESC Active
+	Instrument Cluster Prompt Check Front Left Tyre Pressure
+	Instrument Cluster Prompt Check Front Right Tyre Pressure
+	Instrument Cluster Prompt Check Rear Left Tyre Pressure
+	Instrument Cluster Prompt Check Rear Right Tyre Pressure
+	Instrument Cluster Prompt Check Vehicle Active
+	Instrument Cluster Prompt ESC Deactivated Active1
+	Instrument Cluster Prompt ESC Deactivated Active2
+	Instrument Cluster Prompt Front Left Tyre Flat
+	Instrument Cluster Prompt Front Right Tyre Flat
+	Instrument Cluster Prompt Mode Automatic Active
+	Instrument Cluster Prompt Rear Left Tyre Flat
+	Instrument Cluster Prompt Rear Right Tyre Flat
+	Instrument Cluster Prompt Stop Start Active Displayed
+	Instrument Cluster Prompt Stop Start Inactive Displayed
+	Instrument Cluster Tell Tale ABS Indicator Active
+	Instrument Cluster Tell Tale ABS Indicator Flashing Once Per S Prompt ESC Deactivated Active
+	Instrument Cluster Tell Tale ABS Indicator Flashing Twice Per S Prompt ESC Deactivated Active
+	Instrument Cluster Tell Tale Airbag Indicator Prompt Check Airbag Active
+	Instrument Cluster Tell Tale Battery Indicator Stop Indicator Beeping Prompt Battery Charge Fail Active
+	Instrument Cluster Tell Tale Beep Sound Prompt Cut Contact Active
+	Instrument Cluster Tell Tale Beeping Sound Active 2 X Beeps Per Second
+	Instrument Cluster Tell Tale EGR Active
+	Instrument Cluster Tell Tale EGR Beeping Sound 0 Km Blockage Anti Pollution Active
+	Instrument Cluster Tell Tale EGR Beeping Sound Prompt 0 Km Blockage Add Adblue Active
+	Instrument Cluster Tell Tale EGR Prompt Add Adblue Active
+	Instrument Cluster Tell Tale EGR Service Indicator Active
+	Instrument Cluster Tell Tale EGR Service Indicator Prompt Check Air Pollution Active
+	Instrument Cluster Tell Tale ESC Indicator Flashing Prompt ESC Deactivated Active
+	Instrument Cluster Tell Tale Engine Malfunction Indicator Active
+	Instrument Cluster Tell Tale Front Right Low Tyre Pressure Indicator Active
+	Instrument Cluster Tell Tale Gear Down
+	Instrument Cluster Tell Tale Gear Up
+	Instrument Cluster Tell Tale Glow Plug Indicator Active
+	Instrument Cluster Tell Tale Left Low Tyre Pressure Indicator Active
+	Instrument Cluster Tell Tale Prompt Deactivate Regulator Active
+	Instrument Cluster Tell Tale Prompt Low Adblue Level Active
+	Instrument Cluster Tell Tale Prompt Service Interval Due In X Km Active
+	Instrument Cluster Tell Tale Prompt Service Required Active
+	Instrument Cluster Tell Tale Rear Left Low Tyre Pressure Indicator Active
+	Instrument Cluster Tell Tale Rear Right Low Tyre Pressure Indicator Active
+	Instrument Cluster Tell Tale Service Airbag Indicator Prompt Check Airbag Active
+	Instrument Cluster Tell Tale Service Indicator Active
+	Instrument Cluster Tell Tale Service Indicator ESC Indicator Prompt ESC Deactivated Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Injection Controller Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Injection Controller Active
+	Instrument Cluster Tell Tale Service Indicator Prompt Check Vehicle Active
+	Instrument Cluster Tell Tale Sport Mode Displayed
+	Instrument Cluster Tell Tale Stop Indicator Beeping Sound Prompt Risk Of Engine Failure Active
+	Instrument Cluster Tell Tale Stop Start Indicator Constant Active Not Flashing
+	Instrument Cluster Tell Tale Stop Start Indicator Flashing Active
+	Instrument Cluster Tell Tale Stop Start Strikethrough Indicator Constant Active Not Flashing
+	Instrument Cluster Tell Tale Temperature Indicator Stop Indicator Beeping Sound Prompt Risk Of Engine Failure Active
+	Instrument Cluster Tell Tale Traction Control Indicator Prompt Mode Sol Meuble Active Translate
+	Instrument Cluster Trip Information Average Fuel Consumption Per 100Km
+	Instrument Cluster Trip Information Average Speed
+	Instrument Cluster Trip Information Distance Traveled On Trip
+	Instrument Cluster Trip Information Reset Trip
+	Instrument Cluster Trip Information Total Fuel Consumed On Trip
+	Key FOB Button Pressed
+	Lights Front Fog Lights On
+	Lights Hazards Active
+	Lights High Beams On
+	Lights Lowbeam On
+	Lights Reverse Lights Off
+	Lights Reverse Lights On
+	Lights Sidelights On
+	Nox Sensor Concentration Bank1 Sensor1
+	Odometer
+	Oil Change Interval In Months
+	Oil Change Range
+	Park Brake Disengaged
+	Pedal Accelerator Position
+	Pedal Accelerator Position Scalar 0 125
+	Pedal Accelerator Switch Pressed
+	Pedal Brake Pressed
+	Pedal Brake Pressure
+	Pedal Brake Signal Intermediate
+	Pedal Brake Signal Missing
+	Pedal Brake Signal Present
+	Pedal Clutch Position
+	Power Mode Switching To Ignition
+	Refrigerant Pressure
+	Seat Belt Driver Unfastened
+	Stalk Left Physical Position Downward To Indicate Left Turn Signal
+	Stalk Left Physical Position Upward To Indicate Right Turn Signal
+	Steering Wheel Angle
+	Steering Wheel Rate
+	TPMS Front Left Tyre Pressure
+	TPMS Front Right Tyre Pressure
+	TPMS Rear Right Tyre Pressure1
+	TPMS Rear Right Tyre Pressure2
+	Tell Tale Instrument Cluster Door Driver Open Front Left
+	Tell Tale Instrument Cluster Door Front Right Passenger Open
+	Tell Tale Instrument Cluster Door Rear Right Passenger Sliding Door Open
+	Tell Tale Instrument Cluster ECO Mode Active
+	Tell Tale Instrument Cluster ECO Mode Off
+	Tell Tale Instrument Cluster Indicator Left Turn Signal Active
+	Tell Tale Instrument Cluster Indicator Lights Anti Fog Front Lights Active
+	Tell Tale Instrument Cluster Indicator Lights Anti Fog Rear Lights Active
+	Tell Tale Instrument Cluster Indicator Lights High Beams On
+	Tell Tale Instrument Cluster Indicator Lights Lowbeam On
+	Tell Tale Instrument Cluster Indicator Lights Sidelights On
+	Tell Tale Instrument Cluster Indicator Right Turn Signal Active
+	Transverse Acceleration
+	Vehicle Accessory Mode Active
+	Vehicle Accessory Mode Active
+	Vehicle Ignition On
+	Vehicle Speed
+	Water Temperature
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wiper Sprayer Front Windshield Active Spraying Fluid
+	Wiper Sprayer Front Windshield Inactive Not Spraying Fluid
+	Yaw Rate

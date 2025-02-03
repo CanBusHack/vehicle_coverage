@@ -1,0 +1,262 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Isuzu 'D-Max' (2016)
+Signal Descriptions:
+	Accumulator Set Point Fill
+	Adblue Tank Temperature
+	Adblue Tell Tale On
+	Adblue Warning Yellow Fill Up
+	Adblue Warning Yellow Level Low
+	Air Cooler Change Temperature CAC 1
+	Air Cooler Change Temperature CAC 2
+	Battery Voltage
+	Blind Spot Indicator Left On
+	Blind Spot Indicator Right On
+	Dew Point End Heat Qty Detect S1
+	Dew Point End Heat Qty Detect S2
+	Dew Point End Heat Qty Threshold S
+	Dew Point End Heat Qty Threshold S
+	Exhaust Gas Mass Flow
+	NH3 Current Load Estimated
+	Nox Downstream Secondary Catalyst
+	Nox Raw Emission
+	SCR Feed Forward Quantity
+	Soot Sensor Temperature
+	Stereo Camera Temperature
+	Stop Start Active Tell Tale Flash
+	Stop Start Active Tell Tale On
+	Stop Start Off Tell Tale Flashing
+	Stop Start Off Tell Tale On
+	Stop Start Unavailable
+	Stop Start Unavailable Tell Tale
+	Stop Start Warning Beep Cont
+	Stop Start Warning Beep Short
+	Tell Tale Battery Flashing
+	Tell Tale Battery On
+	Tell Tale Oil Deterioration On
+	Tell Tale Service Vehicle Flashin
+	Tell Tale Service Vehicle On
+	Tell Tale Urea SCR Failure On
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	ABS In Action
+	ADAS Auto Brake Lamp Flashing
+	ADAS Auto Brake Lamp On
+	ADAS Button CANCEL Pressed
+	ADAS Button CC SL Pressed
+	ADAS Button LDP Pressed
+	ADAS Button Lane Assist Pressed
+	ADAS Button RES Pressed
+	ADAS Button SET Decrease Pressed
+	ADAS Button SET Increase Pressed
+	ADAS Car Displayed Center Display
+	ADAS Front Camera Available
+	ADAS Front Camera Unavailable
+	ADAS Lane Assist Green
+	ADAS Lane Assist Tell Tale Gray
+	ADAS Lane Indication Left
+	ADAS Lane Indication Right
+	ADAS Prompt CC Canceled
+	ADAS Speed Set
+	ADAS Tell Tale Status
+	ADAS Vehicle Distance Control St
+	ADAS Warning Red Acc Pedal Misapplied
+	ADAS Warning Red Auto Braking
+	ADAS Warning Red Brake
+	ADAS Warning Red Hold Steering Whee
+	ADAS Warning Yellow Hold Steering W
+	ADAS Warning Yellow Lane Support Ca
+	Acceleration Lateral
+	Acceleration Longitudinal
+	Axle Motor Forward Connected To V
+	Axle Motor Reverse Connected To V
+	Barometric Pressure
+	Blind Spot Lamp Left On
+	Blind Spot Tell Tale Flashing
+	Blind Spot Tell Tale On
+	Blind Spot Warning On
+	Blindspot Radar Unavailable
+	Boost Pressure A
+	Boost Pressure Desired
+	Camera Front Unavailable
+	Car Clock
+	Coolant Temperature
+	Crash Event Hazards And Unlatch
+	Dashboard Chime Short Beep
+	Defogger Rear Active
+	Defogger Rear Switch On
+	Door Any Open
+	Door Any Unlocked
+	Door Front Left Open
+	Door Front Left Unlocked
+	Door Front Right Open
+	Door Front Right Unlocked
+	Door Lock Unlock Switches
+	Door Trunk Open
+	ESP System Off
+	Engine Oil Life Resetting
+	Engine Speed
+	Engine Torque Actual
+	Engine Torque Reference
+	Fuel Injection Interval Pilot
+	Fuel Injection Interval Pre
+	Fuel Rail Pressure
+	Fuel Rail Pressure Desired
+	Fuel Tank
+	Fuel Tank Range
+	Fuel Temperature
+	Gear Actual Shift Judge Gear Lev
+	Gear Command Manual
+	Gear Command Output Gear Level
+	Gear Manual Control Active
+	Gear PRDL Status
+	Gear Position Neutral
+	Gear Position Out Of Drive
+	Gear Position Park
+	Gear Position Park Or Neutral
+	Gear Position Reverse
+	Gear Reverse Engaged
+	Gear Shift Request Denied
+	Gear Shift Request Down
+	Gear Shift Request Up
+	HVAC AC Compressor Active
+	Headlight Status Low Beam
+	Headlight Status Side Light
+	Headlights Status Auto
+	Headlights Status High Beam
+	Indicator Left Command
+	Indicator Right Command
+	Intake Air Temperature
+	LDW Request On
+	LDW Request Ready
+	LKAS Torque Corrected
+	LSS Assist Torque
+	LSS Request On
+	LSS Request Ready
+	Lamp Back Up On
+	Lamp Brake Left On
+	Lamp Brake Right On
+	Lamp High Beam Left On
+	Lamp High Beam Right On
+	Lamp Indicator Cornering Left On
+	Lamp Indicator Cornering Right O
+	Lamp Indicator Front Left On
+	Lamp Indicator Front Right On
+	Lamp Indicator Rear Left On
+	Lamp Indicator Rear Right On
+	Lamp Indicator Side Left On
+	Lamp Indicator Side Right On
+	Lamp Low Beam Left On
+	Lamp Low Beam Right On
+	Lamp Side Left On
+	Lamp Side Right On
+	Light Fog Rear On
+	Light Fog Rear Switch On
+	Light High Beam Automatic Enable
+	Lights Fog Front On
+	Master Cylinder Pressure
+	Odometer
+	Outside Air Temperature
+	Park Aid Active
+	Park Aid Detection Display
+	Park Aid Dtction Frnt Cornr Left
+	Park Aid Dtction Frnt Cornr Left
+	Park Aid Dtction Frnt Cornr Right
+	Park Aid Dtction Frnt Right
+	Park Aid Dtction Rear Cornr Left
+	Park Aid Dtction Rear Cornr Right
+	Park Aid Dtction Rear Left
+	Park Aid Dtction Rear Right
+	Park Aid Off
+	Park Aid On
+	Park Aid Sonar Chime
+	Park Aid System Off
+	Park Aid System On
+	Park Aid Tell Tale Flashing
+	Park Aid Tell Tale On
+	Parking Brake Applied
+	Pedal Accelerator Position
+	Pedal Accelerator Position 1
+	Pedal Accelerator Position 2
+	Pedal Brake Pressed
+	Pedal Brake Switch 1
+	Pedal Brake Switch 2
+	Power Mode Ignition On
+	Prompt Yellow Sonar Unavailable
+	SOS Call
+	Seatbelt Front Left Unfastened
+	Seatbelt Front Right Unfastened
+	Seatbelt Rear Left Unfastened
+	Seatbelt Rear Right Unfastened
+	Setting Driving Support Body Menu
+	Settings Unit Speed
+	Stalk Right Outer Ring Position
+	Steering Wheel Angle Rate
+	Steering Wheel Angle Sensor 1
+	Steering Wheel Angle Sensor 2
+	Steering Wheel Motor Current
+	Steering Wheel Motor Current Tar
+	Steering Wheel Torque Sensor
+	Swirl Control Solenoid Valve Comma
+	Switch Ignition On
+	T F 4L Indicator Flashing
+	T F 4L Indicator Flashing Buzzer
+	T F 4WD Indicator Flashing
+	T F 4WD Indicator Flashing Buzze
+	T F Lamp Check 4WD
+	T F Mode 4H
+	T F Mode 4L
+	TCCM Battery Voltage
+	TCS Off
+	TSR Display Speed Limit Display
+	TSR MID Display Left Aix Signs
+	TSR MID Display Left Speed Limit
+	TSR MID Display RES Ind Green
+	TSR MID Display RES Ind White
+	TSR MID Display Right Aix Signs
+	TSR MID Display Right Speed Limi
+	TSR Speed Limit Chime On
+	Tell Tale AEB Off Flashing
+	Tell Tale AEB Off On
+	Tell Tale Airbag Driver On
+	Tell Tale Airbag Flashing Fast
+	Tell Tale Airbag Flashing Slow
+	Tell Tale Airbag Passenger Off On
+	Tell Tale Automatic High Beam On
+	Tell Tale DPD Operator Regen On
+	Tell Tale ELK Off Flashing
+	Tell Tale ELK Off On
+	Tell Tale ESC Flashing
+	Tell Tale ESC Off Flashing
+	Tell Tale ESC Off On
+	Tell Tale ESC On
+	Tell Tale ESP On
+	Tell Tale Glow Plug On
+	Tell Tale Hill Hold Flashing
+	Tell Tale Hill Hold On
+	Tell Tale LDW Off Flashing
+	Tell Tale LDW Off On
+	Tell Tale Park Aid Off On
+	Tell Tale Steering Syst Fail Flas
+	Tell Tale Steering Syst Fail On
+	Tell Tale TCS Off Flashing
+	Tell Tale TCS Off On
+	Transmission Oil Temperature OT1
+	Transmission Oil Temperature OT2
+	Transmission Torque Converter Cl
+	Transmission Warning Lamp On
+	Turbo Variable Geometry Position
+	Vacuum Sensor
+	Vehicle Speed
+	Vehicle Speed Displayed
+	Warning Buzzer
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Windshield Sprayer Active
+	Wipers In Motion
+	Wipers Mode Auto
+	Wipers Speed High
+	Wipers Speed Low
+	Wipers Status
+	Yaw Rate

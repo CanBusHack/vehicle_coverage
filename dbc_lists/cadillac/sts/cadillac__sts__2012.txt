@@ -212,3 +212,226 @@ Signal Descriptions:
 	Windshield Wiper Rain Sensor Control On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
+	ABS Active
+	Absolute Barometric Pressure
+	Absolute Barometric Pressure Val
+	Accelerator Actual Position
+	Adaptive Cruise Control Braking
+	Adaptive Cruise Control Driver S
+	Adaptive Cruise Control Enable
+	Adaptive Cruise Control Hea 0000
+	Adaptive Cruise Control Headway
+	Adaptive Cruise Control Object D
+	Adaptive Cruise Control Sensor C
+	Adaptive Cruise Control Speed
+	Adaptive Cruise Control Temporar
+	Air Conditioning Compressor Comm
+	Air Conditioning High Side Pres
+	Air Conditioning Off Tell Tale
+	Air Fuel Ratio
+	All Wheel Drive System Status
+	Antilock Brake System Active
+	Antilock Brake System Failed
+	Automatic Transmission Commanded
+	Battery State Of Charge
+	Battery Voltage
+	Brake Before Cruise Tell Tale
+	Brake Fluid Level Low
+	Brake Lights On
+	Brake Pedal Position
+	Brake Pedal Position Acceleration
+	Center Differential
+	Check Trailer Tell Tale On
+	Clutch Pedal Actual Position
+	Clutch Start Switch Active
+	Cruise Control Active
+	Cruise Control Driver Selected S
+	Cruise Control Enabled
+	Current Fuel Consumption
+	Diesel Glow Plug Tell Tale
+	Driveline Ratio
+	Driver Door Ajar
+	Driver Shift Control Target Gear
+	Driver Throttle Override
+	Driver Throttle Override Tell Tale
+	Economy Mode Active Tell Tale
+	Elevated Idle Control Tell Tale O
+	Engine Auto Stop Enabled Tell Tale
+	Engine Auto Stop Status
+	Engine Boost Pressure Tell Tale
+	Engine Coast Fuel Cut Off Active
+	Engine Coolant Temperature
+	Engine Coolant Temperature Valid
+	Engine Cooling Fan Speed
+	Engine Cylinder Deactivation Eve
+	Engine Cylinder Deactivation Mod
+	Engine Hot Fuel Enrichment Tell
+	Engine Hot Stop Engine Tell Tale
+	Engine Idle
+	Engine Intake Air Boost Pressure
+	Engine Intake Temperature
+	Engine Intake Temperature Validity
+	Engine MIL
+	Engine Non Emission MIL
+	Engine Oil Change Tell Tale
+	Engine Oil Level Low Tell Tale
+	Engine Oil Life Reset Performed
+	Engine Oil Pressure
+	Engine Oil Pressure Low Tell Tale
+	Engine Oil Remaining Life
+	Engine Oil Reset Request
+	Engine Oil Starvation Tell Tale
+	Engine Oil Temperature
+	Engine Recommended Upshift Tellt
+	Engine Run
+	Engine Shutdown
+	Engine Shutdown Tell Tale
+	Engine Speed
+	Engine Speed Limitation Mode Active
+	Engine Speed Maximum Limit
+	Engine Speed Status
+	Engine Torque
+	Engine Torque Maximum Range
+	Engine Torque Minimum Range
+	Engine Water In Fuel Tell Tale
+	Front Differential
+	Front Lighting System Fault Tel
+	Fuel Consumption Rate
+	Fuel Control System Fault Tell Tale
+	Fuel Delivery Pressure
+	Fuel Filler Cap Tell Tale
+	Fuel Filter Change Now Tell Tale
+	Fuel Filter Life Reset Performed
+	Fuel Flow Estimate
+	Fuel Injected Rolling Count
+	Fuel Injected Rolling Count Rese
+	Fuel Level Percent
+	Fuel Total Capacity
+	Generator Failed
+	Generator Field Duty Cycle
+	Generator Set Point Duty Cycle Po
+	Glow Plugs On
+	Head Light Leveling Failure Tell
+	High Voltage Battery Maximum Temperature
+	High Voltage Battery Minimum Temperature
+	High Voltage Battery State Of Charge
+	Hill Hold Failure Tell Tale
+	Hood Open Tell Tale
+	Hybrid Eco Mode Tell Tale
+	Instantaneous Fuel Flow Estimate
+	Key Status
+	LF Tire Pressure
+	LR Tire Pressure
+	Longitudinal Acceleration
+	Mass Air Flow
+	Panic Brake Assist Failed Tell Tale
+	Park Brake On
+	Passenger Door Ajar
+	Pedestrian Protection System Dep
+	Pedestrian Protection System Display (Or Disabled Or Distance)
+	Power Steering Tell Tale
+	Power Take Off Disengage Cruise
+	Power Take Off Press And Re 0000
+	Power Take Off Press And Release
+	Power Take Off Reduce Engine Speed
+	Power Take Off Release Acceleration (Or Accelerator)
+	Power Take Off Release Brake Ped
+	Power Take Off Release Clutch Pe
+	Power Take Off Set Park Brake Tell Tale
+	Power Take Off Transmission In G
+	Powertrain Crank
+	Powertrain Exhaust Particle Filt
+	Powertrain Top Speed Limit Reduced
+	RF Tire Pressure
+	RR Tire Pressure
+	Rear Closure Ajar
+	Rear Differential
+	Rear Differential Malfunction Te
+	Rear Differential Maximum Differ
+	Rear Left Door Ajar
+	Rear Right Door Ajar
+	Reduced Power Tell Tale
+	Remote Vehicle Start Engine Running
+	Secondary Axle Engaged
+	Service Adaptive Cruise Control
+	Service Hybrid Tell Tale
+	Service Pedestrian Protection Sy
+	Service Suspension System Tell Tale
+	Service Trailer Braking Tell Tale
+	Starting Disabled Tell Tale
+	Steering Wheel Angle
+	Steering Wheel Angle Gradient
+	Steering Wheel Angle Rolling Counter
+	Steering Wheel Angle Sensor Init
+	Steering Wheel Angle Sensor Mult
+	Steering Wheel Angle Sensor Pres
+	Steering Wheel Angle Timebase Ro
+	Throttle Position
+	Throttle Progression Status
+	Tirelfprsstat
+	Tirelrprsstat
+	Tirerfprsstat
+	Tirerrprsstat
+	Traction Control Status
+	Traction Control System Active
+	Traction Control System Enabled
+	Traction Control System Mode
+	Traction Control System Status
+	Trailer Braking Gain Setting Tel
+	Trailer Braking System Brake Light
+	Trailer Connected Tell Tale On
+	Trailer Wiring Fault Tell Tale On
+	Transfer Case Axle Maximum 0000
+	Transfer Case Axle Maximum Diffe
+	Transfer Case Coupling
+	Transfer Case Coupling Type
+	Transfer Case Coupling Value
+	Transfer Case MIL
+	Transfer Case Mode
+	Transfer Case Non Emission MIL
+	Transfer Case Overheated Tell Tale
+	Transfer Case Range
+	Transmission Change Oil Now Tell
+	Transmission Creep Mode Active
+	Transmission Cruise Control Speed
+	Transmission Engaged State
+	Transmission Estimated Gear
+	Transmission MIL
+	Transmission MIL Non Emission
+	Transmission Neutral Status
+	Transmission Oil Temperature
+	Transmission Oil Temperature Sen
+	Transmission Output Rolling Counter
+	Transmission Output Rotati 0000
+	Transmission Output Rotati Rolli
+	Transmission Output Shaft A 0000
+	Transmission Output Shaft A 0001
+	Transmission Output Shaft Angula
+	Transmission Overall Torque Rat
+	Transmission Overall Torque Rati
+	Transmission Shift Lever Position
+	Transmission Shift Mode Status
+	Transmission Shifts Delayed
+	Transmission Skip Shift Tell Tale
+	Transmission Tap Up Tap Down Mod
+	Turbine Speed
+	VIN Digits 10 17
+	VIN Digits 2 9
+	Vehicle Ahead Alert Sensitivity
+	Vehicle Ahead Alert Sensitivity 0000
+	Vehicle Ahead Alert Tell Tale Requ
+	Vehicle Deceleration Engine Torq
+	Vehicle Leveling Status
+	Vehicle Odometer
+	Vehicle Overloaded Tell Tale
+	Vehicle Speed Average
+	Vehicle Stability Lateral Accelerator
+	Vehicle Top Speed Limit Arbitration
+	Vehicle Top Speed Limit Mode Active
+	Vehicle Yaw Rate
+	Wheel Sensor Rough Road Magnitude
+	Wheel Slip
+	Wheel Spin Sensor Front Left
+	Wheel Spin Sensor Front Right
+	Wheel Spin Sensor Rear Left
+	Wheel Spin Sensor Rear Right

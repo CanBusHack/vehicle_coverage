@@ -1,0 +1,341 @@
+Version 0.2 Copyright CanBusHack 2024
+Platform: Ford 'Tourneo Courier' (2015)
+Signal Descriptions:
+	ABS Chime
+	ABS Tell Tale
+	ABS Vehicle Speed
+	AC Clutch On
+	AC High Side Pressure
+	AC Recycle Request
+	AC Request
+	AWD Auto Tell Tale
+	AWD High Tell Tale
+	AWD Lock Tell Tale
+	AWD Low Tell Tale
+	AWD Max Torque
+	AWD Min Torque
+	AWD Offroad Mode State
+	AWD Rear Whd Driver Tell Tale
+	AWD Shift In Progress
+	AWD State
+	AWD System Torque
+	AWD Tell Tale
+	Accelerator Pedal Pos Speed
+	Accelerator Pedal Position
+	Accessory Power Delay Setting
+	Airbag Deployment Emergency Call
+	Airbag Deployment Event Type
+	Airbag Deployment Roll Over Evnt
+	Airbag Deployment State
+	Airbag Driver Curtain
+	Airbag Driver Knee
+	Airbag Driver Seatbelt
+	Airbag Driver Side
+	Airbag Driver Steering Wheel
+	Airbag Passenger Belt
+	Airbag Passenger Curtain
+	Airbag Passenger Front
+	Airbag Passenger Side
+	Alternator Duty Cycle Percent
+	Ambient Light Sensor
+	Auto Park Cancel
+	Auto Start Stop Failure
+	Aux 1 Active
+	Aux 2 Active
+	Aux 3 Active
+	Aux 4 Active
+	Barometric Pressure
+	Battery Temperature
+	Blower Motor
+	Boost Pressure
+	Brake Pedal Pressed
+	Brake Pedal Switch Status
+	Brake Pressure
+	Brake Switch Status
+	CC Vehicle Speed Display
+	Calibrate Icon Tell Tale
+	Center 2Nd Rw Seatbelt
+	Center 3Rd Rw Seatbelt
+	Center Left Rear Cnr Sen Range
+	Center Right Rear Cnr Sen Range
+	Charging Voltage
+	Clutch Converter State
+	Coll Avoid Display (Or Disabled Or Distance) Forward Movement
+	Compass Heading Tell Tale
+	Coolant Temperature
+	Cross Traffic System On
+	Cruise Control Button
+	Cruise Control Set Speed
+	Cruise Control State
+	Current Battery Curr Used
+	Current Gear
+	Current Gear Dipsplay
+	Current Torque
+	Dimming Level
+	Distance To Obstacle
+	Driver 2Nd Rw Seatbelt
+	Driver 3Rd Rw Seatbelt
+	Driver Alert System On
+	Driver Door Status
+	Driver Front Seat HVAC Level
+	Driver Front Seat HVAC Req
+	Driver Front Tire Pressure
+	Driver Front Tire Pressure State
+	Driver Gear Choice
+	Driver Input Steering Torque
+	Driver Overiding Cruise Control
+	Driver Rear Seat HVAC Level
+	Driver Rear Seat HVAC Req
+	Driver Rear Tire Pressure
+	Driver Rear Tire Pressure State
+	Driver Seat Climate
+	Driver Seat Mem Recall
+	Driver Seatbelt
+	Drvr 1St Rw Seatblt St Arbg Evnt
+	Drvr 2Nd Rw Seatblt St Arbg Evnt
+	Drvr 3Rd Rw Seatblt St Arbg Evnt
+	Easy Exist System State
+	Easy Exit Entry
+	Engine Air Intake Temperature
+	Engine Coolant Fan Speed
+	Engine Outside Air Temperature
+	Engine Running Brake Request
+	Engine Speed
+	Enhanced Power Mode
+	Est Battery Curr Avail
+	Est Battery Curr Avail Idle
+	Front Passenger Seat Occupied
+	Fuel Alcohol Percent
+	Fuel Level
+	Fuel Pump Shutdown Req
+	GPS Heading
+	Gear Reverse Status
+	Gear Tell Tale
+	HVAC AC Enabled
+	HVAC Current Evap Temperature
+	HVAC Rear Control Master
+	HVAC Requested Evap Temperature
+	Headlamp High Beam
+	Headlights Switch State
+	Heated Steering Wheel State
+	Hill Decent Switch
+	Hill Start Gradient Angle
+	Hill Start State
+	Hill Start System
+	Hill Stop Transmission Output Sp
+	Hood Status
+	Ignition State
+	Immobilizer Tell Tale
+	Instanteous Fuel Flow
+	Key In Ignition Status
+	Lane Depature Warning Setting St
+	Latitudinal Accel
+	Left Front Wheel Direction
+	Left Front Wheel Speed
+	Left Rear Cnr Sen Range
+	Left Rear Wheel Direction
+	Left Rear Wheel Speed
+	Left Turn Signal Status
+	Liftgate Status
+	Lights High Beam Active
+	Lock Command Request
+	Locking System State
+	Lognitudinal Accel
+	Lower Volume Request
+	MIL Request
+	Max Delta Velocity
+	Memory Seat Recall Save
+	Mid 2Nd Rw Seatblt St Arbg Evnt
+	Mid 3Rd Rw Seatblt St Arbg Evnt
+	Multiple Deployment Events
+	Muxed VIN Part 1
+	Muxed VIN Part 2
+	Muxed VIN Part 3
+	Odometer
+	Oil Life Percent
+	Oil Pressure Tell Tale
+	Outside Air Temperature
+	Outside Air Temperature
+	PRNDL Position
+	PRNDL Tell Tale
+	PRNDL Tell Tale State
+	Park Aid Chime Enabled
+	Park Aid Chime Front Target
+	Park Aid Chime Front Warning
+	Park Aid Chime State
+	Park Aid Front Warning Chime Enabled
+	Park Brake Status
+	Parking Assist Zone Front Chime
+	Parking Assist Zone Right Chime
+	Parking Light Status
+	Pass 1St Rw Seatblt St Arbg Evnt
+	Pass 2Nd Rw Seatblt St Arbg Evnt
+	Pass 3Rd Rw Seatblt St Arbg Evnt
+	Pass Child Detected St Arbg Evnt
+	Passenger 2Nd Rw Seatbelt
+	Passenger 3Rd Rw Seatbelt
+	Passenger Door Status
+	Passenger Front Seat HVAC Level
+	Passenger Front Seat HVAC Req
+	Passenger Front Tire Pressure
+	Passenger Front Tire Pressure St
+	Passenger Rear HVAC Level
+	Passenger Rear Seat HVAC Req
+	Passenger Rear Tire Pressure
+	Passenger Rear Tire Pressure Sta
+	Passenger Seat Climate
+	Passenger Seat Occupant
+	Passenger Seatbelt
+	Passenger Seatbelt Tell Tale
+	Pitch Rate
+	Power Assist Failure
+	RCM Tell Tale
+	Radio Multimedia System On
+	Rear Defroster
+	Rear Driver Door Status
+	Rear Fog Lamp Tell Tale
+	Rear HVAC Blower Setting
+	Rear Passenger Door Status
+	Recirculation
+	Remote Start Active
+	Remote Start Engine Speed Req
+	Replace Fuel Filter Tell Tale
+	Reset Avg Feul Economy
+	Right Front Wheel Direction
+	Right Front Wheel Speed
+	Right Rear Cnr Sen Range
+	Right Rear Wheel Direction
+	Right Rear Wheel Speed
+	Right Turn Signal Status
+	Roll Rate
+	Seat Info Tell Tale
+	Seatbelt Chime
+	Seatbelt Chime 1
+	Seatbelt Chime 2
+	Seatbelt Tell Tale
+	Seatbelt Tell Tale
+	Shift In Progress
+	Shift Table Mode
+	Side Detection System On
+	Slip Control Tell Tale
+	Steering Wheel Anagle
+	Steering Wheel Angle A Sensor
+	Steering Wheel Angle B Sensor
+	Steering Wheel Angle Calculated
+	Steering Wheel Column
+	Str Wheel END Button Press
+	Str Wheel LEFT SEEK Button Press
+	Str Wheel Left DOWN Button Press
+	Str Wheel Left LEFT Button Press
+	Str Wheel Left OK Button Press
+	Str Wheel Left RIGHT Button Press
+	Str Wheel Left UP Button Press
+	Str Wheel MEDIA Button Press
+	Str Wheel MODE Button Press
+	Str Wheel MUTE Button Press
+	Str Wheel OK Button Press
+	Str Wheel PHONE Button Press
+	Str Wheel RIGHT SEEK Button Press
+	Str Wheel Right DOWN Button Press
+	Str Wheel Right LEFT Button Press
+	Str Wheel Right OK Button Press
+	Str Wheel Right RIGHT Button Press
+	Str Wheel Right UP Button Press
+	Str Wheel SEND Button Press
+	Str Wheel VOICE Button Press
+	Str Wheel VOL DOWN Button Press
+	Str Wheel VOL UP Button Press
+	Sun Brightness Driver
+	Sun Brightness Passenger
+	Tailgate Status
+	Terrain Mode Braking System
+	Tire Pressure Sys Tell Tale
+	Torque Request
+	Traction Control Ative
+	Transmission Engage Brake Allow
+	Transmission Kick Down Request
+	Trasmission Service Tell Tale
+	Turn Signal Switch
+	Vehicle Crash Event
+	Vehicle Model Year
+	Vehicle Slip Angle
+	Vehicle Speed
+	Vehicle Speed
+	Vehicle Units Navigation
+	Vehicle Yaw Calculated
+	Yaw Rate
+	Yaw Rate Raw
+	Z Axis Accel Vert
+	Zone Icon Tell Tale
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	AC Clutch On
+	AC High Side Pressure
+	AC On
+	AC Recirculation On
+	Accelerator Pedal Position
+	Air Temperature
+	BCM Netw Managment Frame
+	Blower Motor Setting
+	Cross Traffic Sys On
+	DEF Fluid Low
+	Deck Lid Ajar
+	Driver Door Ajar
+	Driver Door Ajar
+	Driver Door Lock
+	Driver Seat HVAC Level
+	Driver Seat Temperature
+	Engine Air Intake Temperature
+	Engine Coolant Temperature
+	Engine Off Time
+	Engine Speed
+	Fuel Level Low
+	HVAC Blower Speed
+	HVAC Engine Speed
+	HVAC Evaperative Temperature
+	HVAC Fan Step
+	HVAC Flow Air Flow
+	HVAC Increase Idle
+	HVAC Network Managment
+	HVAC Recircluation Percent
+	Heated Mirrors On
+	Hood Ajar
+	Hood Ajar
+	Ignition Position
+	In Vehicle Temperature
+	Key In Igntition
+	Left Front Wheel Direction Rever
+	Left Rear Wheel Direction Revers
+	Lift Gate Ajar
+	Lift Gate Glass Ajar
+	Low State Of Charge
+	Odomenter
+	Outside Air Temperature
+	Outside Air Temperature
+	PRNDL Gear Position
+	Passenger Door Ajar
+	Passenger Door Ajar
+	Passenger Seat HVAC Level
+	Passenger Seat Temperature
+	Power Liftgate Commandable
+	RFA Network Managment
+	Rear Driver Door Ajar
+	Rear Driver Door Ajar
+	Rear Driver Seat HVAC Level
+	Rear Driver Seat Temperature
+	Rear Passenger Door Ajar
+	Rear Passenger Door Ajar
+	Rear Passenger Seat HVAC Level
+	Rear Passenger Seat Temperature
+	Remote Start Active
+	Retain Accessory On
+	Right Front Wheel Direction Reve
+	Right Rear Wheel Direction Rever
+	Side Collision Sys On
+	Sunlight Drivers Side
+	Sunlight Passenger Side
+	TPM Network Managment
+	Tailgate Ajar
+	Temperature Units Are Metric
+	Vehicle Speed
+	Very Low State Of Charge

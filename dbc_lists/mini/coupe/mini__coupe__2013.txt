@@ -103,7 +103,7 @@ Signal Descriptions:
 	Power Mode Key Out
 	Power Mode Recently Changed
 	Power Mode Run
-	Power Mode Run
+	Power Mode Run Alt
 	Power Mode Start Button Pressed
 	Power Steering Consistency Count
 	Reverse Engage
