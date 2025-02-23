@@ -1,0 +1,201 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Outlander (Transmission At)' (2015)
+Signal Descriptions:
+	A/C Compressor Relay
+	A/C Switch
+	Absolute Load Value
+	Advance Ignition
+	Afs
+	Aps (Main)
+	Aps (Sub)
+	Brake Lamp Switch
+	Calculated Load Value
+	Crank Angle Sensor
+	Cranking Signal
+	Egr Step Motor
+	Engine Control Relay
+	Engine Coolant Temperature.Sensor
+	Etv Relay
+	Fuel Pump Relay
+	Idle Position Signal
+	Ignition Switch
+	Intake Air Temperature Sensor1
+	Intake Vvt Angle 1
+	Knock Retard
+	Learned Knock Retard
+	Long Term Fuel Trim 1
+	Map Sensor
+	Oil Pressure Switch
+	Purge Control Solenoid Val.Duty
+	Radiator Fan Relay(High)
+	Radiator Fan Relay(Low)
+	Short Term Fuel Trim 1
+	Starter Relay
+	Target Idle Speed
+	Throttle Actuator
+	Tps (Main)
+	Tps (Main) Learned Value
+	Tps (Sub)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	2-6 Brake Solenoid Monitor
+	2-6 Brake Solenoid Output
+	2-6 Brake Solenoid Pressure
+	3-5 Rev.Clutch Sol.Pressure
+	3-5 Reverse Clutch Sol.Monitor
+	3-5 Reverse Clutch Sol.Output
+	A/T Fluid Temperature
+	A/T Fluid Temperature.Sensor Signal
+	Abs Actuation Signal
+	Accelerator Pedal Position
+	Brake Switch
+	Brake Switch
+	Current Gear
+	Engine Revolution
+	High Clutch Solenoid Monitor
+	High Clutch Solenoid Output
+	High Clutch Solenoid Pressure
+	Idle Switch Signal
+	Idle Switch Signal (Soft)
+	Indicator D Output
+	Indicator L Output
+	Indicator N Output
+	Indicator P Output
+	Indicator R Output
+	Indicator Sp Mode Output
+	Input Shaft Speed Sensor
+	Input Shaft Speed Sensor Signal
+	Input Torque
+	L/U&Low&Rev.Brake Sol.Monitor
+	L/U&Low&Rev.Brake Sol.Output
+	L/U&Low&Rev.Brake Sol.Pressure
+	Line Pressure
+	Line Pressure Solenoid Monitor
+	Line Pressure Solenoid Output
+	Lock Up Difference Pressure
+	Low Clutch Shift Sol.Monitor
+	Low Clutch Shift Sol.Output
+	Low Clutch Solenoid Monitor
+	Low Clutch Solenoid Output
+	Low Clutch Solenoid Pressure
+	Low&Rev.Clutch Shift Sol.Monitor
+	Low&Rev.Clutch Shift Sol.Output
+	Paddle Switch (Down)
+	Paddle Switch (Up)
+	Power Supply Voltage
+	Real Engine Torque
+	Real Variable Speed Ratio
+	Real Variable Speed Ratio
+	Real Vehicle Speed
+	Select Switch (Down)
+	Select Switch (Up)
+	Shift Lock Solenoid Monitor
+	Shift Lock Solenoid Output
+	Shift Position
+	Slip Revolution
+	Sp Mode/Ds Position Switch
+	Tcl Actuation Signal
+	Torque Ratio
+	Vehicle Speed (Inference)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	2-6 Brake Solenoid Monitor
+	2-6 Brake Solenoid Output
+	2-6 Brake Solenoid Pressure
+	3-5 Rev.Clutch Sol.Pressure
+	3-5 Reverse Clutch Sol.Monitor
+	3-5 Reverse Clutch Sol.Output
+	A/T Fluid Temperature
+	A/T Fluid Temperature.Sensor Signal
+	Abs Actuation Signal
+	Accelerator Pedal Position
+	Brake Switch
+	Brake Switch
+	Current Gear
+	Engine Revolution
+	High Clutch Solenoid Monitor
+	High Clutch Solenoid Output
+	High Clutch Solenoid Pressure
+	Idle Switch Signal
+	Idle Switch Signal (Soft)
+	Indicator D Output
+	Indicator L Output
+	Indicator N Output
+	Indicator P Output
+	Indicator R Output
+	Indicator Sp Mode Output
+	Input Shaft Speed Sensor
+	Input Shaft Speed Sensor Signal
+	Input Torque
+	L/U&Low&Rev.Brake Sol.Monitor
+	L/U&Low&Rev.Brake Sol.Output
+	L/U&Low&Rev.Brake Sol.Pressure
+	Line Pressure
+	Line Pressure Solenoid Monitor
+	Line Pressure Solenoid Output
+	Lock Up Difference Pressure
+	Low Clutch Shift Sol.Monitor
+	Low Clutch Shift Sol.Output
+	Low Clutch Solenoid Monitor
+	Low Clutch Solenoid Output
+	Low Clutch Solenoid Pressure
+	Low&Rev.Clutch Shift Sol.Monitor
+	Low&Rev.Clutch Shift Sol.Output
+	Paddle Switch (Down)
+	Paddle Switch (Up)
+	Power Supply Voltage
+	Real Engine Torque
+	Real Variable Speed Ratio
+	Real Variable Speed Ratio
+	Real Vehicle Speed
+	Select Switch (Down)
+	Select Switch (Up)
+	Shift Lock Solenoid Monitor
+	Shift Lock Solenoid Output
+	Shift Position
+	Slip Revolution
+	Sp Mode/Ds Position Switch
+	Tcl Actuation Signal
+	Torque Ratio
+	Vehicle Speed (Inference)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor Relay
+	A/C Switch
+	Absolute Load Value
+	Advance Ignition
+	Afs
+	Aps (Main)
+	Aps (Sub)
+	Brake Lamp Switch
+	Calculated Load Value
+	Crank Angle Sensor
+	Cranking Signal
+	Egr Step Motor
+	Engine Control Relay
+	Engine Coolant Temperature.Sensor
+	Etv Relay
+	Fuel Pump Relay
+	Idle Position Signal
+	Ignition Switch
+	Intake Air Temperature Sensor1
+	Intake Vvt Angle 1
+	Knock Retard
+	Learned Knock Retard
+	Long Term Fuel Trim 1
+	Map Sensor
+	Oil Pressure Switch
+	Purge Control Solenoid Val.Duty
+	Radiator Fan Relay(High)
+	Radiator Fan Relay(Low)
+	Short Term Fuel Trim 1
+	Starter Relay
+	Target Idle Speed
+	Throttle Actuator
+	Tps (Main)
+	Tps (Main) Learned Value
+	Tps (Sub)
+

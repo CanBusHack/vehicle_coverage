@@ -1,0 +1,452 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Nissan 'Note' (2022)
+Signal Descriptions:
+	Air/Fuel Sensor 1 Voltage
+	Battery Status
+	Brake Booster Pressure Sensor
+	Cooling Fan
+	Eco Mode
+	Fan Duty
+	Fuel Pressure
+	Throttle Position Sensor 1 Voltage
+	Throttle Position Sensor 2 Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cattery Current Sensor Value
+	Hood Switch
+	Horn Relay
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Authorization
+	A/C Command
+	A/C Presence
+	A/T In Defect Mode
+	Abs Or Electronic Stability Program
+	Accelerator Pedal Position
+	Active Emergency Braking Aeb
+	Actl Vehicle Speed Info Absnt
+	Actl Vehicle Speed Info Unavl
+	Adblue/Def Tank Filling Level
+	Adblue/Def Tank Temperature
+	Air Flap Set Point
+	Air Regulation Cut Off Conditions
+	Alcohol Fuel Adaptation Correction
+	Alternator Load
+	Alternator Load
+	Alternator Power
+	Alternator Power
+	Alternator Set Point Voltage
+	Atmosphere Pressure
+	Auto Emergency Braking System Request
+	Average Knock Signal
+	Average Knock Signal1
+	Battery Charge
+	Battery Voltage
+	Boost Pressure
+	Boost Pressure Sensor Voltage
+	Boost Pressure Wastegate Control
+	Brake Accelerator Pedal Inconsistency
+	Brake Cnt 2 Duration
+	Brake Detected Multiplex Signal
+	Brake Info Absent
+	Brake Information Unavailable
+	Brake Pedal
+	Brake Switch
+	Bypass Solenoid Valve Control Valve
+	Camshaft Dephasing
+	Camshaft Offset 1
+	Camshaft Shifter Number 2
+	Camshaft Solenoid Valve Program
+	Camshaft Top Dead Center Tdc Synchronization
+	Can-Adas Communication
+	Can/B Solenoid Valve Rco
+	Catalyst Upstream Exhaust Gas Temperature
+	Cc Control Inhibited By Injection
+	Cc Control Inhibited By Injection1
+	Cc Operating Reliably
+	Cc/Sl Connection After Cc Button Pressed
+	Cc/Sl Connection After Sl Button Pressed
+	Cc/Sl Deactivated By Dr Action
+	Cc/Sl Limiter
+	Cc/Sl Limiter Buttons1
+	Cc/Sl Speed Signal Monitoring
+	Change Of Vehicle Speed Unit
+	Cl Start Of Travel Sw
+	Clutch Contact Multiplex Signal
+	Clutch Contact Wire Signal
+	Clutch Contact Wiring Start Of Travel
+	Clutch End Of Travel Switch
+	Clutch Information Absent
+	Clutch Information Unavailable
+	Clutch Pedal Switch
+	Clutch Start Of Travel Switch
+	Clutch Start Of Travel Switch1
+	Clutch Switch Information
+	Combu Mis/F Counter
+	Comp + After Ignition
+	Controlled Coolant Thermostat Ocr
+	Coolant Temperature Sensor Voltage
+	Coupler
+	Crankshaft Signal
+	Cruise Control
+	Cruise Control Setting
+	Cruise Control/Speed Limiter Operation
+	Csft Dhas Solenoid Valve Control Ocr
+	Csft Dph Measured Position
+	Csft Dph Set Point
+	Cyl1 Combu Mis/F Count
+	Cyl2 Combu Mis/F Count
+	Cyl3 Combu Mis/F Count
+	Cyl4 Combu Mis/F Count
+	Cylinder 1 Knock Value
+	Cylinder 2 Knock Value
+	Damper Valve Sensor Voltage
+	Damper Valve Upstream Temperature
+	Deceleration Without Brake Depressed
+	Diesel Particulate Filter Pdf Regeneration Permission
+	Disp Vehicle Speed Info Absnt
+	Disp Vehicle Speed Unavl
+	Down Stream Oxygen Sensor Voltage
+	Downstream Oxygen Sensor Heat Resistance
+	Downstream Oxygen Sensor Voltage1
+	Downstream Sensor Heating Ocr
+	Duration Of + Button Press
+	Duration Of - Button Press
+	Duration Of Pressing Distance Button
+	Duration Of Resume Button Press
+	Duration Of Suspend Button Press
+	Ecu Supply Voltage
+	Ecu Temperature
+	Energy Control Unit
+	Engage Reverse Gear
+	Engine Immobilizer
+	Engine Off Information
+	Engine Running Since Regeneration
+	Engine Speed
+	Engine Speed Info
+	Engine Speed Required By A/C
+	Engine Torque
+	Estimated Engine Oil Temperature
+	Estimated Manifold Pressure
+	Exhaust Air Flap Ocr
+	Exhaust Air Flap Position
+	Exhaust Air Flap Position
+	Exhaust Camshaft Dephasing
+	Exhaust Camshaft Dephasing Set Point
+	Exhaust Camshaft Dephasing Solenoid Valve Cnt Opening Cyclic Ratio
+	Exhaust Camshaft Position
+	Exhaust Gas Recalculation Egr Potentiometer Voltage
+	Exhaust Gas Recalculation Egr Valve First Offset
+	Exhaust Gas Recirculation Egr Low Pressure Ocr
+	Exhaust Gas Recirculation Egr Low Pressure Position
+	Exhaust Gas Recirculation Egr Low Pressure Position[1]
+	Exhaust Gas Recirculation Egr Sensor Power Supply
+	Exhaust Gas Recirculation Egr Valve Control
+	Exhaust Gas Recirculation Egr Valve Opening Reference
+	Exhaust Gas Temperature Sensor
+	Exhaust Pressure Before Diesel Particulate Filter Dpf
+	Exhaust System Flow
+	External Air Temperature
+	F/Flow Corrr Cyl No 1
+	F/Flow Corrr Cyl No 2
+	F/Flow Corrr Cyl No 3
+	F/Flow Corrr Cyl No 4
+	Fast Idle Speed
+	Final Indicated Torque Set Point
+	First Offset Of The Open Exhaust Air Flap
+	First Start
+	Flow Gas In Diesel Particulate Filter Dpf
+	Flywheel Signal
+	Fuel Flow
+	Fuel In Engine Oil
+	Fuel Pressure Regulation
+	Fuel Pump Relay Control
+	Fuel Temperature
+	Fuel Temperature
+	Gear Engaged
+	Gear Engaged
+	Glow Plug Control
+	Heated Oxygen Sensor Voltage
+	High Pressure Component Bypass Solenoid Valve
+	High Pressure Pump Counter
+	Idl Registration Integer
+	Idl Speed Refrence
+	Ignition Advance
+	Injection Protection
+	Inlet Air Flow
+	Inlet Air Temperature
+	Inlet Air Temperature
+	Inlet Pressure
+	Intake Camshaft Position
+	Km Since Success Regen
+	Lambda Value
+	Last Exhaust Gas Recirculation Egr Valve Offset
+	Last Offset Of Closed Low Pressure Exhaust Gas Recirculation Egr
+	Last Offset Valve Close
+	Linearized Manifold Pressure
+	Low Pressure Exhaust Gas Recirculation Egr Air Temperature
+	Low Pressure Exhaust Gas Recirculation Egr Position Reference Value
+	Low Pressure Exhaust Gas Recirculation Egr Valve First Offset
+	Low Pressure Exhaust Gas Recirculation Egr Valve Power Supply Voltage
+	M/T Lever In Neutral
+	Manifold Air Temperature
+	Manifold Pressure
+	Manual Or Assisted Parking Brake
+	Mastervac Pressure
+	Maximum Permissible Speed
+	Maximum Vehicle Speed
+	Motor
+	Number Of Abnormal Cruise Control/Speed Limiter Transitions
+	Number Of Starting Cycles
+	Oil Pressure
+	Oil Pump Temperature
+	Oil Temperature
+	Parking Brake
+	Position Value Of Exhaust Gas Recirculation Egr Was Closed
+	Pressure In Particulate Filter
+	Private Status 2
+	Programming Throttle Limits
+	Rail Pressure
+	Rail Pressure Reg Current
+	Rail Pressure Sensor Voltage
+	Rail Pressure Setting
+	Refrigerant Pressure
+	Rich Reg Program Offset
+	Richness Regulation
+	S&S Inhibition Energy Management
+	S/Decelerate W/O Brake Depressure
+	S/V Prgrm Cam/S Sft
+	Sensor Supply Voltage1
+	Sl Inhibited By Injection
+	Sl Inhibited By Injection1
+	Sl Inhibited System Injection
+	Soot In Particulate Filter
+	Soot In Particulate Filter
+	Soot In Particulate Filter1
+	Start Engine After Particulate Filter Regeneration
+	Start Stop System Inhibition Abs
+	Start Stop System Inhibition Master Vac
+	Starter Button
+	Starter Wear Counter
+	Starting
+	Static Regeneration
+	Stop Warning Lamp
+	Temperature Before Particulate Filter
+	Temperature Before Turbine
+	Temperature Sensor Rationality Diagnosis
+	Thermo Plunger Management
+	Total Engine Torque
+	Traction Control/Anti Yaw Control
+	Transmission Ratio
+	Upstream Oxygen Sensor Circuit
+	Upstream Oxygen Sensor Exhaust Gas Mass Flow
+	Upstream Oxygen Sensor Heater Pulse Width Modulation Command
+	Upstream Oxygen Sensor Heating
+	Upstream Oxygen Sensor Voltage
+	Upstream Sensor Heating Ocr
+	Vehicle Condition
+	Vehicle Speed
+	Vehicle Speed Info Circ
+	Vehicle Speed Multiplexed Information
+	Water Temperature
+	Water Temperature
+	Wired Brake Contact
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd System Fault
+	4Wd Warning Lamp
+	Acc Set Speed
+	Electric Parking Brake (Epkb) Warning Lamp
+	Electric Power Steering (Eps) Warning Lamp
+	Forward Collision Warning (Fcw) Indicator
+	Forward Emergency Brake Set On
+	Fuel Meter
+	Idling Stop Indication
+	Intellifent Brake Assist (Iba) Set On
+	Lane Departure Warning (Ldw) Indication
+	Left Front Wheel Tire Pressure
+	Left Rear Wheel Tire Pressure
+	Oil Warning Lamp
+	Parking Assist Display
+	Parking Assist Range
+	Rear Right Wheel Tire Pressure
+	Right Front Wheel Tire Pressure
+	Set Lane Departure Prevention (Ldp)
+	Set Lane Departure Warning (Ldw)
+	Trunk / Glass Hatch Indicator
+	Water Temperature Meter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abc Signal
+	Brake Fluid
+	Deceleration G Sensor
+	Master Cylinder Pressure
+	Odometer
+	Side G Sensor
+	Steering Angle
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd Fault
+	4Wd Mode Monitor
+	Abh Indicator Lamp
+	Abh Off Indicator Lamp
+	Abh Sw
+	Abh Sw Indicator Lamp
+	Abp Fault
+	Abs Fail Sig
+	Abs Signal
+	Abs Warn Lamp
+	Accelerator Position Signal
+	Actuator Current Left
+	Actuator Current Right
+	Actuator Relay
+	Actuator Status Left
+	Actuator Status Right
+	Actuator Voltage Left
+	Actuator Voltage Right
+	Aeb Malfunction
+	Aeb Status
+	Apb Status
+	Awb Fault
+	Awb Status
+	Battery Voltage
+	Brake Actuation Counter Left
+	Brake Actuation Counter Right
+	Brake Force Left
+	Brake Force Right
+	Brake Temperature Left
+	Brake Temperature Right
+	Buckle Sw
+	Cranking Signal
+	Cut Valve 1
+	Cut Valve 2
+	Decel G-Sen1
+	Decel G-Sen2
+	Door Sw
+	Ebd Fail Sig
+	Edb Signal
+	Electronic Brakeforce Distribution Ebd Warning Lamp
+	Emergency Brake Assist Eba Fault
+	Emergency Brake Assist Eba Status
+	Engine Speed
+	Epb Indicator Lamp
+	Epb Power Supply Voltage
+	Epb Switch
+	Epb Warning Lamp
+	Fl Wheel Speed
+	Fluid Lev Sw
+	Fr Lh Sensor
+	Fr Rh Sensor
+	Fr Wheel Speed
+	Gear
+	High Beam Assist Hba Fault
+	High Beam Assist Hba Signal
+	Left Front Intake Solenoid Valve
+	Left Front Outtake Solenoid Valve
+	Left Rear Inlet Solenoid
+	Left Rear Outlet Solenoid
+	Low Voltage Reproduction Impossible
+	Motor Relay
+	N Posi Sig
+	Next Gr Posi
+	Off Lamp
+	Off Sw
+	Ohb Fault
+	Ohb Signal
+	P Posi Sig
+	Park Brake Sw
+	R Posi Sig
+	Release Sw Nc
+	Right Front Intake Solenoid Valve
+	Right Front Outtake Solenoid Valve
+	Right Rear Inlet Solenoid
+	Right Rear Output Solenoid
+	Rl Wheel Speed
+	Rr Lh Sensor
+	Rr Rh Sensor
+	Shift Chg Sig
+	Slip Vehicle Dynamic Control Vdc Lamp
+	Solenoid Valve 1
+	Solenoid Valve 2
+	Stop Lamp Sw
+	Tcs Fail Sig
+	Tcs Signal
+	Torque Down Sig
+	Uss Signal
+	Vdc Fail Sig
+	Vdc Signal
+	Vso
+	Wheel Speed Reproduction Impossible
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Calculated Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Auto Lamp Switch
+	Door Rear Left Switch
+	Door Rear Right Switch
+	Driver Door Switch
+	Driver Seatbelt Switch
+	Front Fog Lamp Switch
+	Front Washer Switch
+	Front Wiper High Speed
+	Front Wiper Intermittent
+	Front Wiper Low Speed
+	Front Wiper Mist
+	Front Wiper Off
+	Hazard Switch
+	High Beam Switch
+	Ignition Switch
+	Left Turn Lamp
+	Light Off Switch
+	Low Beam Switch
+	Passenger Door Switch
+	Rear Fog Switch
+	Right Turn Lamp
+	Tire Pressure Left Front
+	Tire Pressure Left Rear
+	Tire Pressure Right Front
+	Tire Pressure Right Rear
+	Trunk Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adas Steering Torque
+	Intelligent Cruise Control (Icc) Warning
+	Speed Control Mode
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Traction Control System
+	Traction Control System Fault
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Warning Light
+	Airbag Signal
+	Brake Warning Light
+	Def Distance
+	Def Remain
+	Drive Mode State
+	Forward Collision Warning Indicator
+	Fuel Meter
+	Fuel Warning Light
+	Gear Indicator
+	Mil
+	Oil Warning Light
+	Tire Pressure Right Front
+	Tpms Pressure Low
+	Washer Warning Lamp
+

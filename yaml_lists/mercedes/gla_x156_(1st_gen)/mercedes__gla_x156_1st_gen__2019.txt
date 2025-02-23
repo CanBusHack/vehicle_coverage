@@ -1,0 +1,139 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Gla X156 (1St Gen)' (2019)
+Signal Descriptions:
+	Left Front Wheel Tire Pressure
+	Left Rear Wheel Tire Pressure
+	Right Front Wheel Tire Pressure
+	Right Rear Wheel Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptation Value Of Quantity Control Valve
+	Left Cylinder Bank Injection Time
+	Rail Pressure
+	Right Cylinder Bank Injection Time
+	Total Actuation Angle Of Quantity Control Valve
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Oil Temperature Of Transmission
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	'B0118J (Fanfare Horn Relay)' Output Status
+	Brake Fluid Level
+	Stage Of Windshield Wiper
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Monitoring Of Eco Start/Stop Function Active
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance From Sensor To Target Object
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Main Odometer Reading
+	Status Of Control Unit 'Cc21 (Awd Control Module)'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Can Signal 'Ignition Status'
+	Charge Level Of High-Voltage Battery - State Encoded
+	Current Value Of High-Voltage Battery
+	Current Value Of High-Voltage Battery
+	Current Value Of High-Voltage Battery - State Encoded
+	Temperature In 'C202 (High-Voltage Battery Module)'
+	Temperature In 'C202 (High-Voltage Battery Module)' - State Encoded
+	Voltage Of High-Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Button 'Parking System'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Sb71 (Driver Belt Buckle Restraint System Switch)
+	Sb72 (Front Passenger Belt Buckle Restraint System Switch)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Additional Correction Value For Air Mass Flow
+	Brake Assist System
+	Can Message 'Ambient Temperature'
+	Correction Value For Intake Manifold Pressure
+	Engine Oil Temperature
+	Engine Speed
+	Fan Run-On
+	Fill Level Of Fuel Tank
+	Gear Range Engaged
+	Lambda Control Upstream Of Catalytic Converter
+	Rail Pressure (Actual Value)
+	Se84 (Brake Light Switch)
+	Tp51 (Coolant Temperature Sensor)
+	Wpf1 (Accelerator Pedal Sensor)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Status Of Parking Brake
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Steering Angle Sensor
+	Steering Angle
+	Steering Angle - State Encoded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Unlock Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cruise Control
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Unlock Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Automatic Transmission
+	Boost Pressure
+	Brake Assist System
+	Engine Torque
+	Throttle Valve Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Unlock Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Fan
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Unlock Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	High Beams
+

@@ -1,0 +1,69 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Outlander (Transmission Cvt)' (2016)
+Signal Descriptions:
+	A/C Compressor Relay
+	Brake Switch
+	Engine Coolant Temperature.Sensor
+	Intake Air Temperature Sensor
+	Map Sensor
+	Radiator Fan Relay (High)
+	Radiator Fan Relay (Low)
+	Throttle Actuator
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A.S.C./Tcl Mode (S-Awc)
+	Accelerator Pedal Sensor
+	Brake Switch
+	Engine Torque
+	Idle Stop
+	Ignition Switch
+	Ignition Switch (Input)
+	Lateral G Sensor
+	Master Cylinder Pressure
+	Parking Brake Switch
+	Steering Angle
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor Relay
+	Brake Switch
+	Engine Coolant Temperature.Sensor
+	Intake Air Temperature Sensor
+	Map Sensor
+	Radiator Fan Relay (High)
+	Radiator Fan Relay (Low)
+	Throttle Actuator
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A.S.C./Tcl Mode (S-Awc)
+	Accelerator Pedal Sensor
+	Brake Switch
+	Engine Torque
+	Idle Stop
+	Ignition Switch
+	Ignition Switch (Input)
+	Lateral G Sensor
+	Master Cylinder Pressure
+	Parking Brake Switch
+	Steering Angle
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Pressure, Tire 1
+	Air Pressure, Tire 2
+	Air Pressure, Tire 3
+	Air Pressure, Tire 4
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Pressure, Tire 1
+	Air Pressure, Tire 2
+	Air Pressure, Tire 3
+	Air Pressure, Tire 4
+

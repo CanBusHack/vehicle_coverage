@@ -1,0 +1,815 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Land Rover 'Range Rover Evoque' (2015)
+Signal Descriptions:
+	Transmission Fluid Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position Sensor 1
+	Accelerator Pedal Position Sensor 2
+	Digital Inputs 1 - Door Ajar Rear Left Switch
+	Digital Inputs 2 - Door Ajar Driver Switch
+	Digital Inputs 2 - Door Ajar Passenger Switch
+	Digital Inputs 2 - Door Ajar Rear Right Switch
+	Engine Speed
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Engine Torque
+	Engine Speed
+	Relative Accelerator Pedal Position (App)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Status 2 - Hood
+	Door Status 2 - Left Rear Door
+	Door Status 2 - Passenger Door
+	Door Status 2 - Right Rear Door
+	Door Status 2 - Tailgate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Mo Dule Supply Voltage
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Occupant Classification Pressure Sensor
+	Passenger Seatbelt Sensor
+	Voltage At Ignition On
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs 1 - Master Lock Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Awd - Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Light Sensor - Left Sensor
+	Ambient Light Sensor - Right Sensor
+	Control Module Internal Temperature
+	Control Module Supply Voltage
+	Critical Unlock Count
+	Ecu Internal Temperature B
+	Ecu Internal Temperature C
+	Number Of Nodes Following Ring Break
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Short Circuit Unlock Count
+	Start Authorization Status - Ignition - Target Identification Challenge Status
+	Start Authorization Status - Ignition - Target Identification Valid Transponder
+	Start Authorization Status - Ignition - Target Identification Verifier Ok
+	Warning Lamp Status 1 - Abs
+	Warning Lamp Status 1 - Active Speed Limiting
+	Warning Lamp Status 1 - Adaptive Front Lighting Fault
+	Warning Lamp Status 1 - Adaptive Speed Control
+	Warning Lamp Status 1 - Charge Warning
+	Warning Lamp Status 1 - Dynamic Stability Control (Dsc) - Traction Control
+	Warning Lamp Status 1 - Front Fog
+	Warning Lamp Status 1 - High Beam
+	Warning Lamp Status 1 - Hill Descent Control (Hdc) Active
+	Warning Lamp Status 1 - Left Turn Signal
+	Warning Lamp Status 1 - Low Gear
+	Warning Lamp Status 1 - Mil - Glow Plug
+	Warning Lamp Status 1 - Oil Pressure Low
+	Warning Lamp Status 1 - Parking Brake
+	Warning Lamp Status 1 - Rear Fog
+	Warning Lamp Status 1 - Right Turn Signal
+	Warning Lamp Status 1 - Seatbelt
+	Warning Lamp Status 1 - Secondary Restraint System
+	Warning Lamp Status 1 - Speed Active
+	Warning Lamp Status 1 - Trailer
+	Warning Lamp Status 2 - Diesel Pre-Heat Indicator Lamp
+	Warning Lamp Status 2 - Frost Alert
+	Warning Lamp Status 2 - General Information
+	Warning Lamp Status 2 - General Red
+	Warning Lamp Status 2 - Pad Wear/Brake System (Amber)
+	Warning Lamp Status 2 - Pad Wear/Brake System (Red)
+	Warning Lamp Status 2 - Side Lamp Indicator Lamp
+	Warning Lamp Status 2 - Side Lamp Warning
+	Warning Lamp Status 2 - Special Vehicle 1
+	Warning Lamp Status 2 - Special Vehicle 2
+	Warning Lamp Status 2 - Tpms (Amber)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Number Of Lock Cycles
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Unlock Cycles
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Oil Pressure - Gauge
+	Transmission Control Module (Tcm) Fault
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs 1 - Door Ajar Rear Left Switch
+	Digital Inputs 1 - Door Ajar Rear Right Switch
+	Digital Inputs 2 - Door Ajar Driver Switch
+	Digital Inputs 2 - Door Ajar Passenger Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Accelerator Pedal Position (App)
+	Current Engine Torque
+	Engine Speed
+	Relative Accelerator Pedal Position (App)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Accelerator Pedal Position (App) Sensor - Circuit D
+	Accelerator Pedal Position (App) Sensor - Circuit E
+	Actual Engine - Percent Torque
+	Driver Demand Engine - Percent Torque
+	Engine Fuel Rate
+	Engine Speed
+	Fuel Level Input
+	Gear Display
+	Key Switch System Input Signal Status - Ignition Switch
+	Mass Air Flow (Maf)
+	Mass Air Flow (Maf) Sensor A
+	Mass Air Flow (Maf) Sensor B
+	Relative Accelerator Pedal Position (App)
+	Relative Throttle Position
+	Start/Stop - Feature Status - Flags - Driver Door
+	Throttle Position (Bank 1)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cooling Fan Module Monitor
+	Fuel Flow
+	Fuel Level Input
+	Start/Stop - Feature Status - Flags - Driver Seatbelt Buckle
+	Time To Next Service - Initial Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Hydraulic Pressure
+	Lateral Accelerometer
+	Yaw Rate Sensor (Yrs)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs 1 - Headlamp Flash Switch
+	Digital Inputs 1 - Washer Fluid Level Switch
+	Digital Inputs 2 - Hazard Switch
+	Digital Outputs 2 - Front Wiper On Relay Control
+	Digital Outputs 2 - Horn Relay Control
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Speed Control System - 7 Service Alignment Updates Completed
+	Adaptive Speed Control System - 7 Service Alignment Updates Required
+	Control Module Supply Voltage B
+	Electronic Alignment Status
+	Voltage At Ignition On
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs - Brake Pedal Switch
+	Digital Inputs - Central Door Locking Lock/Unlock Switch - Lock
+	Digital Inputs - Central Door Locking Lock/Unlock Switch - Unlock
+	Digital Inputs - Driver Door Ajar Switch
+	Digital Inputs - Driver Door Handle Pull Switch
+	Digital Inputs - Left Rear Door Ajar Switch
+	Digital Inputs - Left Rear Door Handle Pull Switch
+	Digital Inputs - Passenger Door Ajar Switch
+	Digital Inputs - Passenger Door Handle Pull Switch
+	Digital Inputs - Right Rear Door Ajar Switch
+	Digital Inputs - Right Rear Door Handle Pull Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Parking Brake Control Module Lamp Status - Fault Lamp Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Tank Level In Percent Full
+	Ignition Switch Status - Key In Run Position
+	Time Since Engine Start
+	Water In Fuel (Wif)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance To Next Service
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage B
+	Control Module Supply Voltage B
+	Left Front Wheel Speed
+	Left Front Wheel Speed Sensor (Wss) Input Circuit
+	Left Rear Wheel Speed
+	Left Rear Wheel Speed Sensor (Wss) Input Circuit
+	Right Front Wheel Speed
+	Right Front Wheel Speed Sensor (Wss) Input Circuit
+	Right Rear Wheel Speed
+	Right Rear Wheel Speed Sensor (Wss) Input Circuit
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Warning Lamp Status 1 - Abs
+	Warning Lamp Status 1 - Charge Warning
+	Warning Lamp Status 1 - Dynamic Stability Control (Dsc) - Traction Control
+	Warning Lamp Status 1 - Front Fog
+	Warning Lamp Status 1 - High Beam
+	Warning Lamp Status 1 - Left Turn Signal
+	Warning Lamp Status 1 - Mil - Glow Plug
+	Warning Lamp Status 1 - Oil Pressure Low
+	Warning Lamp Status 1 - Parking Brake
+	Warning Lamp Status 1 - Right Turn Signal
+	Warning Lamp Status 2 - Tpms (Amber)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Warning Lamp Status 1 - Abs
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Wheel Unit 1 Tire Pressure
+	Wheel Unit 2 Tire Pressure
+	Wheel Unit 3 Tire Pressure
+	Wheel Unit 4 Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs 1 - Door Ajar Rear Left Switch
+	Digital Inputs 2 - Door Ajar Driver Switch
+	Digital Inputs 2 - Door Ajar Passenger Switch
+	Digital Inputs 2 - Door Ajar Rear Right Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage B
+	Crash Status - Crash Has Occurred
+	Deployment Control 0 Resistance
+	Deployment Control 1 Resistance
+	Deployment Control 11 Resistance
+	Deployment Control 12 Resistance
+	Deployment Control 13 Resistance
+	Deployment Control 14 Resistance
+	Deployment Control 17 Resistance
+	Deployment Control 18 Resistance
+	Deployment Control 19 Resistance
+	Deployment Control 22 Resistance
+	Deployment Control 3 Resistance
+	Deployment Control 4 Resistance
+	Deployment Control 5 Resistance
+	Deployment Control 6 Resistance
+	Deployment Control 7 Resistance
+	Deployment Control 8 Resistance
+	Driver Seat Track Position Restraints Sensor
+	Driver Seat Track Sensor Status
+	Driver Seatbelt Sensor Fault
+	Driver Seatbelt Sensor Status
+	Passenger Seat Track Position Restraints Sensor
+	Passenger Seat Track Position Restraints Sensor
+	Passenger Seat Track Sensor Status
+	Passenger Seatbelt Sensor
+	Passenger Seatbelt Sensor - Seatbelt Sensor Fault
+	Passenger Seatbelt Sensor - Seatbelt Sensor Status
+	Restraint System Mil Requested On
+	Restraint System Passenger Disable Indicator Requested On
+	Voltage Autarchy Capacitor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vehicle Battery Current
+	Vehicle Battery State Of Charge (State Of Charge) Estimated
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Clutch Overtemperature Events
+	Clutch Temperature
+	Motor Overtemperature Events
+	Motor Temperature
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Rear Differential - Motor Brake Request Status
+	Rear Differential - Motor Brake Status
+	Rear Differential - Open Differential Override Status
+	Rear Differential Control Module (Rdcm) Status - Differential Status
+	Rear Differential Locking Torque Limit
+	Rear Differential Locking Torque Measured
+	Rear Differential Locking Torque Target
+	Rear Differential Sump Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Status 2 - Driver Door
+	Driver Seatbelt Sensor Status
+	Longitudinal Acceleration Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch 1 (Central Processor Unit 1)
+	Brake Switch 2 (Central Processor Unit 1)
+	Cooling Fan Module Monitor
+	Crank Request Input (Central Processor Unit 1)
+	Engine Input 1 - Gap-Down Switch Pressed
+	Engine Input 1 - Gap-Up Switch Pressed
+	Engine Input 1 - Idle Jack Active - Catalyst Heat Request
+	Engine Input 1 - Idle Jack Active - Cooling Request
+	Engine Input 1 - Idle Jack Active - Heating, Ventilation And Air Conditioning (Hvac)
+	Engine Input 1 - Idle Speed Control Active
+	Engine Input 1 - Release Switch Pressed
+	Engine Input 1 - Resume Switch Pressed
+	Engine Input 1 - Set-Minus Switch Pressed
+	Engine Input 1 - Set-Plus Switch Pressed
+	Engine Input 1 - Suspend Switch Pressed
+	Engine Input 2 - E-Box Fan Monitor
+	Engine Input 2 - Fuel Pump Driver Module (Fpdm) Monitor
+	Engine Input 2 - Intake Manifold Tuning (Imt) Valve 1 Monitor
+	Engine Input 3 - Brake Switch
+	Engine Input 3 - Brake Switch 2
+	Engine Input 3 - Default Terrain
+	Engine Input 3 - Failsafe Default Terrain
+	Engine Input 3 - Grass/Gravel/Snow Terrain
+	Engine Input 3 - Ignition Switch
+	Engine Input 3 - Muds And Ruts Terrain
+	Engine Input 3 - Park Neutral/Clutch Switch
+	Engine Input 3 - Rock Crawl Terrain
+	Engine Input 3 - Sand Terrain
+	Engine Output 1 - Cold Start Monitor
+	Engine Output 1 - E-Box Fan
+	Engine Output 1 - Engine Management System (Ems) Relay
+	Engine Output 1 - Exhaust Box Actuator
+	Engine Output 1 - Fuel Cut-Off Active
+	Engine Output 1 - Intake Manifold Tuning (Imt) Valve 1
+	Engine Output 1 - Intercooler Water Pump Relay - Commanded
+	Engine Output 1 - Malfunction Indicator Warning Lamp
+	Engine Output 1 - Malfunction Indicator Warning Lamp
+	Engine Output 1 - Starter Relay
+	Engine Output 1 - Tandem Solenoid Starter Motor Pinion Relay - Low Side
+	Engine Output 2 - Camshaft Profile Switching Solenoid 1 (Lift)
+	Engine Output 2 - Camshaft Profile Switching Solenoid 2 (Lift)
+	Engine Output 2 - Closed Loop Control Active (Bank 1)
+	Engine Output 2 - Closed Loop Control Active (Bank 2)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Active (Bank 1)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Active (Bank 2)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Heater Active (Bank 1)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Heater Active (Bank 2)
+	Engine Output 2 - Ignition Coil 1 - 1A
+	Engine Output 2 - Ignition Coil 2 - 1B
+	Engine Output 2 - Ignition Coil 3 - 2A
+	Engine Output 2 - Ignition Coil 4 - 2B
+	Engine Output 2 - Ignition Coil 5 - 3A
+	Engine Output 2 - Ignition Coil 6 - 3B
+	Engine Output 2 - Ignition Coil 7 - 4A
+	Engine Output 2 - Ignition Coil 8 - 4B
+	Engine Output 2 - Injector 1 - 1A
+	Engine Output 2 - Injector 2 - 1B
+	Engine Output 2 - Injector 3 - 2A
+	Engine Output 2 - Injector 4 - 2B
+	Engine Output 2 - Injector 5 - 3A
+	Engine Output 2 - Injector 6 - 3B
+	Engine Output 2 - Injector 7 - 4A
+	Engine Output 2 - Injector 8 - 4B
+	Engine Output 2 - Kick Down
+	Engine Output 2 - Oxygen Sensor Heater (Bank 1 Sensor 1)
+	Engine Output 2 - Oxygen Sensor Heater (Bank 2 Sensor 1)
+	Engine Output 2 - Purge Active
+	Engine Output 2 - Universal Heated Exhaust Gas Oxygen Active (Bank 1)
+	Engine Output 2 - Universal Heated Exhaust Gas Oxygen Active (Bank 2)
+	Gear P/N Or Clutch Switch (Central Processor Unit 1)
+	Ignition Switch Input (Central Processor Unit 1)
+	Purge Monitor
+	Start Authorization Status - Immobilizer - Target Identification Valid Transponder
+	Start Authorization Status - Immobilizer - Target Identification Verifier Ok
+	Start/Stop - Feature Status - Flags - Auxiliary Coolant Pump Activated
+	Start/Stop - Feature Status - Flags - Brake Vacuum Function Requests Engine Running
+	Start/Stop - Feature Status - Flags - Brake Vacuum Sufficient
+	Start/Stop - Feature Status - Flags - Climate Control System Requests Engine Running
+	Start/Stop - Feature Status - Flags - Diagnostic Start/Stop Inhibit
+	Start/Stop - Feature Status - Flags - Economy Enable Switch Requests Engine Running
+	Start/Stop - Feature Status - Flags - Engine Control Start Inhibit
+	Start/Stop - Feature Status - Flags - Engine Control Start/Stop Fault
+	Start/Stop - Feature Status - Flags - Engine Control Stop Inhibit
+	Start/Stop - Feature Status - Flags - Gear N Selected
+	Start/Stop - Feature Status - Flags - Gear N Sensor In Gear Fault
+	Start/Stop - Feature Status - Flags - Gear N Sensor In Gear N Fault
+	Start/Stop - Feature Status - Flags - Gear N Sensor Offset Stored
+	Start/Stop - Feature Status - Flags - Hood Switch Indicates Open Hood
+	Start/Stop - Feature Status - Flags - Parking Assist Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Steering Control Module (Pscm) Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Supply System Fault
+	Start/Stop - Feature Status - Flags - Power Supply System Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Supply System Start Inhibit
+	Start/Stop - Feature Status - Flags - Stop In Progress
+	Start/Stop - Feature Status - Flags - Transport Mode
+	Start/Stop System - Stop Inhibited - Air/Fuel Ratio (Afr) Adaptations Out Of Range
+	Start/Stop System - Stop Inhibited - Ambient Air Pressure Too Low
+	Start/Stop System - Stop Inhibited - Brake Pedal And Accelerator Pedal Depressed Simultaneously
+	Start/Stop System - Stop Inhibited - Catalyst Heating Active
+	Start/Stop System - Stop Inhibited - Catalyst System Temperature Too High
+	Start/Stop System - Stop Inhibited - Catalyst System Temperature Too Low
+	Start/Stop System - Stop Inhibited - Diagnostic System
+	Start/Stop System - Stop Inhibited - Engine Speed Too High
+	Start/Stop System - Stop Inhibited - Engine Stop Not Allowed During A Period After First Engine Start
+	Start/Stop System - Stop Inhibited - Engine Temperature Too High
+	Start/Stop System - Stop Inhibited - Engine Temperature Too Low
+	Start/Stop System - Stop Inhibited - Evaporative Emission (Evap) Canister Purge Vapor Concentration Too High
+	Start/Stop System - Stop Inhibited - Fuel In Oil
+	Start/Stop System - Stop Inhibited - Hot Start Detected - Ambient Air Temperature Too High
+	Start/Stop System - Stop Inhibited - Hot Start Detected - Ambient Air Temperature Too Low
+	Start/Stop System - Stop Inhibited - Hot Start Detected - Expected Hot Start Due To Fuel Temperature Too High
+	Start/Stop System - Stop Inhibited - Hot Start Detected - Rising Engine Coolant Air Temperatures Indicating Rising Charge Temperature
+	Start/Stop System - Stop Inhibited - Obd Software Monitor Requires Engine Running
+	Start/Stop System - Stop Inhibited - Starter Protection Active
+	Start/Stop System - Stop Inhibited - Steering Wheel Input Detected
+	Start/Stop System - Stop Inhibited - Throttle Adaptations Out Of Range
+	Start/Stop System - Stop Inhibited - Torque Adaptations Out Of Range
+	Starter Motor Relay Monitor Status
+	Transmission Control Module (Tcm) Malfunction Turn Signal Lamp Request
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Odometer Store
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Hydraulic Pressure
+	Steering Wheel Angle
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Alternator Current
+	Alternator Load (Battery 1)
+	Battery 1 Target State Of Charge (State Of Charge)
+	Battery A Temperature Statistics - 15°C
+	Battery A Temperature Statistics - 25°C
+	Battery A Temperature Statistics - 30°C
+	Battery A Temperature Statistics - 5°C
+	Battery A Temperature Statistics - Total Time
+	Battery A Temperature Statistics 15°C
+	Battery A Temperature Statistics 25°C
+	Battery A Temperature Statistics 35°C
+	Battery A Temperature Statistics 5°C
+	Battery A Temperature Statistics 65°C
+	Battery A Temperature Statistics Above 45°C
+	Battery A Temperature Statistics Above 70°C
+	Battery Current
+	Battery Voltage Statistics 11.55V
+	Battery Voltage Statistics 11.65V
+	Battery Voltage Statistics 11.75V
+	Battery Voltage Statistics 11.85V
+	Battery Voltage Statistics 11.95V
+	Battery Voltage Statistics 12.05V
+	Battery Voltage Statistics 12.15V
+	Battery Voltage Statistics 12.25V
+	Battery Voltage Statistics 12.35V
+	Battery Voltage Statistics 12.45V
+	Battery Voltage Statistics 12.55V
+	Battery Voltage Statistics 12.65V
+	Battery Voltage Statistics 12.75V
+	Battery Voltage Statistics Greater Than 12.8V
+	Battery Voltage Statistics Less Than 11.5V
+	Cumulative Discharge From Battery In Sleep Mode
+	Dual Battery Junction Box (Dbjb) - Active Diagnostics Field Effect Transistor (Fet) 1 - Fault Status
+	Dual Battery Junction Box (Dbjb) - Passive Diagnostics Field Effect Transistor (Fet) 1 - Fault Status
+	Dual Battery Junction Box (Dbjb) - Passive Diagnostics Field Effect Transistor (Fet) 2 - Fault Status
+	Generator/Alternator Field Current
+	Normalized Cumulative Battery Charge When Ignition On
+	Normalized Cumulative Battery Discharge When Ignition Off But Loads Still Active
+	Normalized Cumulative Battery Discharge When Ignition On
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Vehicle Battery Replacement Resets
+	Power Status Time Data Capture - Battery 1 - Cumulative Charge At Ignition On
+	Power Status Time Data Capture - Battery 1 - Cumulative Discharge At Ignition Off And Loads Still Active
+	Power Status Time Data Capture - Battery 1 - Cumulative Discharge At Vehicle Shutdown
+	Power Status Time Data Capture - Battery 1 - Current
+	Power Status Time Data Capture - Battery 1 - Estimated State Of Charge (State Of Charge)
+	Power Status Time Data Capture - Battery 1 - Quiescent Current High Range
+	Power Status Time Data Capture - Battery 1 - Quiescent Current Low Range
+	Power Status Time Data Capture - Battery 1 - Time In Service
+	Quiescent Relay Box - Relay 1 Open Event Count
+	Quiescent Relay Box - Relay 2 Open Event Count
+	Quiescent Relay Box - Relay 3 Open Event Count
+	Quiescent Relay Box - Relay 4 Open Event Count
+	Vehicle Battery - Time In Service
+	Vehicle Battery State Of Charge (State Of Charge) Estimated
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Coolant Overtemperature Counter
+	Engine Oil Overtemperature Counter
+	Manual Shift Status - Down Shift Paddle Fault
+	Manual Shift Status - Manual Down Shift Request
+	Manual Shift Status - Manual Up Shift Request
+	Manual Shift Status - Steering Wheel Module Communications Fault
+	Manual Shift Status - Up Shift Paddle Fault
+	Module Internal Overtemperature Counter
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Warm-Ups Since Last Dtc Cleared
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch A Filling Pressure
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch A Filling Time Counter
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch B Filling Pressure
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch B Filling Time Counter
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch C Filling Pressure Counter
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch C Filling Time Counter
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch D Filling Pressure
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch D Filling Time Counter
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch E Filling Pressure
+	Transmission Fluid Filling Pressure Counter For Adaptions - Clutch E Filling Time Counter
+	Transmission Fluid Filling Time For Adaptions - Clutch A Filling Time
+	Transmission Fluid Filling Time For Adaptions - Clutch B Filling Time
+	Transmission Fluid Filling Time For Adaptions - Clutch C Filling Time
+	Transmission Fluid Filling Time For Adaptions - Clutch D Filling Time
+	Transmission Fluid Filling Time For Adaptions - Clutch E Filling Time
+	Transmission Fluid Overtemperature Counter
+	Transmission Stall Event History - Number Of Near Stall Events
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Manual Gearshift Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Transfer Case Control Module - Internal Status - Engine Speed Error Message From Can
+	Transfer Case Control Module - Internal Status - Engine Speed Valid
+	Transfer Case Control Module - Internal Status - External Locking Torque Limit Active
+	Transfer Case Control Module - Output Status - Changeover Solenoid Energized
+	Transfer Case Control Module - Output Status - Gear N
+	Transfer Case Control Module - Output Status - High Gear
+	Transfer Case Control Module - Output Status - Low Gear
+	Transfer Case Control Module - Output Status - Motor Driven Anticlockwise
+	Transfer Case Control Module - Output Status - Motor Driven Clockwise
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Boost Absolute Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Crank Determination Factors - Challenge Query Transmitted
+	Crank Determination Factors - Challenge Response Received
+	Crank Determination Factors - Communications Media Control Module - Target Security Identifier Stored
+	Crank Determination Factors - Communications Media Control Module - Target Verify
+	Global Mobile System - Home Network - Identity - Mobile Country Code
+	Global Mobile System - Home Network - Identity - Mobile Network Code
+	Medium Speed Can Network Management Status - 2Nd Latest Status
+	Medium Speed Can Network Management Status - 3Rd Latest Status
+	Medium Speed Can Network Management Status - 4Th Latest Status
+	Medium Speed Can Network Management Status - 5Th Latest Status
+	Medium Speed Can Network Management Status - Latest Status
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Remote Vehicle Immobilization Cause
+	Tampering Cause
+	Telematics Sim Card Integrated Circuit Card Identification Type
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Occupant Classification Sensor Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Angle
+	Accelerator Pedal Position (App) Sensor - Circuit D
+	Ambient Air Temperature
+	Commanded Exhaust Gas Recirculation (Egr)
+	Coolant Temperature
+	Cooling Fan Speed
+	Diesel Particulate Filter (Dpf) Volume
+	Driver Requested Torque
+	Engine Oil Temperature (Eot)
+	Engine Speed
+	Fuel Rail Pressure
+	Indicated Engine Torque Set Point
+	Intake Air Temperature (Iat)
+	Manifold Absolute Pressure (Map) Sensor
+	Mass Air Flow (Maf)
+	Particulate Filter Condition - Distance Since Diesel Particulate Filter (Dpf) Cleaned
+	Throttle Position (Bank 1)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Alarm Recent Events Store - User Set Day - 2Nd Latest Trigger
+	Alarm Recent Events Store - User Set Day - 3Rd Latest Trigger
+	Alarm Recent Events Store - User Set Day - 4Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Day - 5Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Day - 6Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Day - 7Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Day - 8Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Day - Last Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 2Nd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 3Rd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 4Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 5Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 6Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 7Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - 8Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Hour - Last Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 2Nd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 3Rd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 4Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 5Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 6Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 7Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - 8Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Month - Last Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 2Nd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 3Rd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 4Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 5Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 6Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 7Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - 8Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Second - Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 2Nd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 3Rd Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 4Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 5Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 6Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 7Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - 8Th Latest Alarm Trigger
+	Alarm Recent Events Store - User Set Year - Last Alarm Trigger
+	Analog Input 1 - Fuel Level Sensor Eject/Passive/B
+	Analog Input 1 - Start Button Circuit B
+	Analog Input 10 - Wiper Control Switch
+	Analog Input 11 - Headlamp Delay Switch
+	Analog Input 11 - Rear Fog Lamp Switch
+	Analog Input 2 - Fuel Level Sensor Pump/Active/A
+	Analog Input 2 - Master Exterior Lamp Switch
+	Analog Input 4 - Steering Column Adjust 1
+	Analog Input 4 - Steering Column Adjust 2
+	Analog Input 5 - Main Beam/Flash Switch
+	Analog Input 5 - Start Button Circuit
+	Analog Input 6 - Interior Trunk Lid Release
+	Analog Input 6 - Steering Column Adjust Switch
+	Analog Input 7 - Front Wiper Intermittent Delay Control
+	Crank Determination Factors - Brake
+	Crank Determination Factors - Brake Diagnostic Switch
+	Crank Determination Factors - Challenge Query Transmitted
+	Crank Determination Factors - Challenge Response Received
+	Crank Determination Factors - Challenge Response Transmitted
+	Crank Determination Factors - Communications Media Control Module - Target Security Identifier Stored
+	Crank Determination Factors - Communications Media Control Module - Target Verify
+	Crank Determination Factors - Crank Request
+	Crank Determination Factors - Gear N
+	Crank Determination Factors - Key Status Valid
+	Crank Determination Factors - Passive Key Challenge Status
+	Crank Determination Factors - Passive Key Received
+	Crank Determination Factors - Passive Key Target Identification Stored
+	Crank Determination Factors - Passive Key Target Identification Verify
+	Crank Determination Factors - Start Button 1
+	Crank Determination Factors - Start Button 2
+	Crank Determination Factors - Steering Column Lock - Complete
+	Crank Determination Factors - Target Identifier Verified
+	Crank Determination Factors - Target Security Identifier
+	Digital Inputs 1 - Auxiliary Driving Lamps Switch
+	Digital Inputs 1 - Clutch Bottom Of Travel Switch
+	Digital Inputs 1 - Coolant Level Switch
+	Digital Inputs 1 - Crash Event Notification Signal
+	Digital Inputs 1 - Door Ajar Left Rear Switch
+	Digital Inputs 1 - Front Wiper Slow Speed Switch
+	Digital Inputs 1 - Glove Box Release Switch
+	Digital Inputs 1 - Low Pressure Fuel Pump Relay
+	Digital Inputs 1 - Master Lock Switch
+	Digital Inputs 1 - Park Neutral Switch
+	Digital Inputs 1 - Rear Master Unlock Switch
+	Digital Inputs 1 - Rear Wiper Park Switch
+	Digital Inputs 1 - Seatbelt Reminder - Rear Buckle Switch - Center
+	Digital Inputs 1 - Seatbelt Reminder - Right Rear Buckle Switch
+	Digital Inputs 1 - Secondary Tailgate Ajar Switch
+	Digital Inputs 1 - Special Vehicle Operations F Unction - Rear Switch
+	Digital Inputs 1 - Special Vehicle Operations Function - Front Switch
+	Digital Inputs 1 - Tailgate/Trunk Ajar Switch
+	Digital Inputs 1 - Trip Computer Switch
+	Digital Inputs 1 - Upper Glove Box Release Switch
+	Digital Inputs 1 - Washer Fluid Level Switch
+	Digital Inputs 2 - Bonnet Ajar Switch
+	Digital Inputs 2 - Brake Diagnostic Switch
+	Digital Inputs 2 - Brake Fluid Level Switch
+	Digital Inputs 2 - Brake Pad Wear Sensor Input
+	Digital Inputs 2 - Center Rear Seat - Buckle Switch
+	Digital Inputs 2 - Door Ajar Passenger Switch
+	Digital Inputs 2 - Door Ajar Right Rear Switch
+	Digital Inputs 2 - Door Latch Lock/Unlock Microswitch - Rear
+	Digital Inputs 2 - Foot Brake Switch
+	Digital Inputs 2 - Hazard Switch
+	Digital Inputs 2 - Interior Master Lamp Switch
+	Digital Inputs 2 - Oil Pressure Switch
+	Digital Inputs 2 - Seatbelt Reminder - Center Rear Seat Occupied Buckle Switch
+	Digital Inputs 2 - Seatbelt Reminder - Left Rear Buckle Switch
+	Digital Inputs 2 - Seatbelt Reminder - Row 3 Buckle Left Switch
+	Digital Inputs 2 - Seatbelt Reminder Front Passenger Sensor
+	Digital Inputs 2 - Secondary Tailgate Ajar Switch 2
+	Digital Inputs 2 - Soft Close Position Switch
+	Engine Crank Determination Factors - Brake Pressure Ok Status
+	Engine Crank Determination Factors - Clutch Bottom Of Travel Switch
+	Engine Crank Determination Factors - Clutch Top Of Travel Switch
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Left Front
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Left Rear
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Right Front
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Right Rear
+	Number Of Lost Tire Pressure Wheel Units
+	Pulse-Width Modulation (Pwm) - Output 1 - Left Front Turn Signal Indicator
+	Pulse-Width Modulation (Pwm) - Output 1 - Positive Temperature Coefficient (Ptc) Heater
+	Pulse-Width Modulation (Pwm) - Output 1 - Right Front Turn Signal Indicator
+	Pulse-Width Modulation (Pwm) - Output 2 - Hazard Switch Illumination
+	Pulse-Width Modulation (Pwm) - Output 2 - Interior Lamps
+	Pulse-Width Modulation (Pwm) - Output 2 - Switch Illumination
+	Roof Blind Ecu Supply Voltage
+	Roof Blind Position
+	Roof Opening Panel - Authorization Switch Status
+	Roof Opening Panel - Express Switch Status
+	Roof Opening Panel - Forward Switch Status
+	Roof Opening Panel - Hall A Signal Status
+	Roof Opening Panel - Hall B Signal Status
+	Roof Opening Panel - Motor A Signal Status
+	Roof Opening Panel - Motor B Signal Status
+	Roof Opening Panel - Rearward Switch Status
+	Roof Opening Panel - Tilt Switch Status
+	Roof Opening Panel Position
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Challenge Status
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Valid Transponder
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Verifier Ok
+	Start Authorization Status - Fuel Pump - Target Identification Challenge Status
+	Start Authorization Status - Fuel Pump - Target Identification Valid Transponder
+	Start Authorization Status - Fuel Pump - Target Identification Verifier Ok
+	Start Authorization Status - Ignition - Target Identification Challenge Status
+	Start Authorization Status - Ignition - Target Identification Valid Transponder
+	Start Authorization Status - Ignition - Target Identification Verifier Ok
+	Start Authorization Status - Immobilizer - Target Identification Valid Transponder
+	Start Authorization Status - Immobilizer - Target Identification Verifier Ok
+	Start/Stop Switch 1
+	Start/Stop Switch 2
+	Steering Column Telescope Position
+	Steering Column Tilt Position
+	Tpms - Historical On/Off Indication - Odometer Value At 2Nd Latest Status Change
+	Tpms - Historical On/Off Indication - Odometer Value At 3Rd Latest Status Change
+	Tpms - Historical On/Off Indication - Odometer Value At 4Th Latest Status Change
+	Tpms - Historical On/Off Indication - Odometer Value At 5Th Latest Status Change
+	Tpms - Historical On/Off Indication - Odometer Value At Latest Status Change
+	Vehicle Mode Change Time Delay
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering False
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Identifier 2 - Trigger Failed
+	Wheel Position Triggering Statistic - Identifier 2 - Trigger False
+	Wheel Position Triggering Statistic - Identifier 2 - Trigger Succeeded
+	Wheel Position Triggering Statistic - Identifier 3 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 3 - Triggering False
+	Wheel Position Triggering Statistic - Identifier 3 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Identifier 4 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 4 - Triggering False
+	Wheel Position Triggering Statistic - Identifier 4 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Odometer Start
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Status 2 - Door Status Signal Fault
+	Door Status 2 - Driver Door
+	Driver Seatbelt Sensor Fault
+	Driver Seatbelt Sensor Status
+	Electric Parking Brake (Epb) - Switch Input Status
+	Electric Parking Brake (Epb) Status - Brake Pad Wear Adjustment
+	Electric Parking Brake (Epb) Status - Drive Away Release
+	Electric Parking Brake (Epb) Status - Dynamic Braking With Limp Home
+	Electric Parking Brake (Epb) Status - Dynamic Braking With Rear Wheel Unlocker
+	Electric Parking Brake (Epb) Status - Gear N
+	Electric Parking Brake (Epb) Status - Maintenance Mode
+	Electric Parking Brake (Epb) Status - Static Apply
+	Electric Parking Brake (Epb) Status - Static Release
+	Electric Parking Brake (Epb) Status - Vehicle Tire Test Mode
+	Left Parking Brake Motor Current
+	Longitudinal Accelerometer Sensor Input
+	Parking Brake Control Module Lamp Status - Brake Lamp Request Status
+	Parking Brake Control Module Lamp Status - Fault Lamp Status
+	Parking Brake System Positioning - Left - Applied
+	Parking Brake System Positioning - Left - Applying
+	Parking Brake System Positioning - Left - Extended Release For Servicing
+	Parking Brake System Positioning - Left - Released
+	Parking Brake System Positioning - Left - Releasing
+	Parking Brake System Positioning - Right - Applied
+	Parking Brake System Positioning - Right - Applying
+	Parking Brake System Positioning - Right - Extended Release For Servicing
+	Parking Brake System Positioning - Right - Released
+	Parking Brake System Positioning - Right - Releasing
+	Right Parking Brake Motor Current
+

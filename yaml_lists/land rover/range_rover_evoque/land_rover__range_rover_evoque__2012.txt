@@ -1,0 +1,910 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Land Rover 'Range Rover Evoque' (2012)
+Signal Descriptions:
+	Electric Parking Brake (Epb) Status - Brake Pad Wear Adjustment
+	Electric Parking Brake (Epb) Status - Drive Away Release
+	Electric Parking Brake (Epb) Status - Dynamic Braking With Electronic Stability Program Vehicle
+	Electric Parking Brake (Epb) Status - Dynamic Braking With Limp Home
+	Electric Parking Brake (Epb) Status - Dynamic Braking With Rear Wheel Unlocker
+	Electric Parking Brake (Epb) Status - Gear N
+	Electric Parking Brake (Epb) Status - Maintenance Mode
+	Electric Parking Brake (Epb) Status - Static Apply
+	Electric Parking Brake (Epb) Status - Static Release
+	Electric Parking Brake (Epb) Status - Vehicle Tire Test Mode
+	Left Parking Brake Motor Current
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Parking Brake Control Module Lamp Status - Brake Lamp Request Status
+	Parking Brake Control Module Lamp Status - Fault Lamp Status
+	Parking Brake System Positioning - Left - Applied
+	Parking Brake System Positioning - Left - Applying
+	Parking Brake System Positioning - Left - Extended Release For Servicing
+	Parking Brake System Positioning - Left - Released
+	Parking Brake System Positioning - Left - Releasing
+	Parking Brake System Positioning - Right - Applied
+	Parking Brake System Positioning - Right - Applying
+	Parking Brake System Positioning - Right - Extended Release For Servicing
+	Parking Brake System Positioning - Right - Released
+	Parking Brake System Positioning - Right - Releasing
+	Right Parking Brake Motor Current
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Alternator Electrical Fault Counter
+	Alternator Mechanical Fault Counter
+	Alternator No Response Fault Counter
+	Alternator Overvoltage Fault Counter
+	Alternator Temperature Fault Counter
+	Alternator Under Voltage Fault Counter
+	Analog Input 1 - Fuel Level Sensor Eject/Passive/B
+	Analog Input 1 - Start Button Circuit B
+	Analog Input 10 - Clutch Pedal Sensor
+	Analog Input 11 - Battery Voltage
+	Analog Input 2 - Fuel Level Sensor Pump/Active/A
+	Analog Input 4 - Accelerator Pedal Sensor
+	Analog Input 4 - Start Button Circuit A
+	Analog Input 5 - Auxiliary Lighting Switch
+	Analog Input 5 - Sun Load Sensor
+	Analog Input 6 - Headlamp Control A
+	Analog Input 6 - Switch Illumination Adjust Control
+	Battery A Temperature Statistics - 15C
+	Battery A Temperature Statistics - 25C
+	Battery A Temperature Statistics - 30C
+	Battery A Temperature Statistics - 5C
+	Battery A Temperature Statistics 15C
+	Battery A Temperature Statistics 25C
+	Battery A Temperature Statistics 35C
+	Battery A Temperature Statistics 45C
+	Battery A Temperature Statistics 55C
+	Battery A Temperature Statistics 5C
+	Battery A Temperature Statistics 65C
+	Battery A Temperature Statistics Above 70C
+	Battery Voltage Statistics 11.55V
+	Battery Voltage Statistics 11.65V
+	Battery Voltage Statistics 11.75V
+	Battery Voltage Statistics 11.85V
+	Battery Voltage Statistics 11.95V
+	Battery Voltage Statistics 12.05V
+	Battery Voltage Statistics 12.15V
+	Battery Voltage Statistics 12.25V
+	Battery Voltage Statistics 12.35V
+	Battery Voltage Statistics 12.45V
+	Battery Voltage Statistics 12.55V
+	Battery Voltage Statistics 12.65V
+	Battery Voltage Statistics 12.75V
+	Battery Voltage Statistics Greater Than 12.8V
+	Battery Voltage Statistics Less Than 11.5V
+	Digital Inputs 1 - Coolant Level Switch
+	Digital Inputs 1 - Crash Event Notification Signal
+	Digital Inputs 1 - Door Ajar Left Rear Switch
+	Digital Inputs 1 - Master Lock Switch
+	Digital Inputs 1 - Park Neutral Switch
+	Digital Inputs 1 - Rear Wiper Park Switch
+	Digital Inputs 1 - Secondary Tailgate Release Switch
+	Digital Inputs 1 - Special Vehicle Operations Function - Front Switch
+	Digital Inputs 1 - Special Vehicle Operations Function - Rear Switch
+	Digital Inputs 1 - Tailgate/Trunk Ajar Switch
+	Digital Inputs 1 - Washer Fluid Level Switch
+	Digital Inputs 3 - Transit Relay Detection
+	Digital Outputs 1 - Battery Saver Relay Control
+	Digital Outputs 1 - Brake Diagnostic Switch
+	Digital Outputs 1 - Brake Lamp Left Supply
+	Digital Outputs 1 - Brake Lamp Right Supply
+	Digital Outputs 1 - Front Wiper Fast Relay Control
+	Digital Outputs 1 - Fuel Filler Flap Lock Supply
+	Digital Outputs 1 - Fuel Filler Flap Unlock Supply
+	Digital Outputs 1 - Fuel Pump Relay Control
+	Digital Outputs 1 - Headlamp Left Washer Relay Control
+	Digital Outputs 1 - Headlamp Low Beam Right Supply
+	Digital Outputs 1 - Passive Alarm Sounder Supply
+	Digital Outputs 1 - Pcm Wake-Up Signal
+	Digital Outputs 1 - Rear Wiper Relay Control
+	Digital Outputs 1 - Tpms Left Rear Antenna (4)
+	Digital Outputs 1 - Tpms Right Front Antenna (2) Positive
+	Digital Outputs 1 - Tpms Right Rear Antenna (3)
+	Digital Outputs 2 - Accessory Socket Relay Control
+	Digital Outputs 2 - Alarm Led Supply
+	Digital Outputs 2 - Bonnet Ajar Switch
+	Digital Outputs 2 - Brake Fluid Level Switch
+	Digital Outputs 2 - Center High Mounted Stop Lamp Supply
+	Digital Outputs 2 - Cigar Lighter Relay Control
+	Digital Outputs 2 - Clutch Pedal Supply
+	Digital Outputs 2 - Door Ajar Driver Switch
+	Digital Outputs 2 - Door Ajar Passenger Switch
+	Digital Outputs 2 - Door Ajar Right Rear Switch
+	Digital Outputs 2 - Electric Steering Column Lock (Escl) Supply
+	Digital Outputs 2 - Extended Ignition Supply
+	Digital Outputs 2 - Foot Brake Switch
+	Digital Outputs 2 - Front Screen Heating Relay Control
+	Digital Outputs 2 - Front Screen Washer Relay Control
+	Digital Outputs 2 - Front Wiper On Relay Control
+	Digital Outputs 2 - Front Wiper Park Switch
+	Digital Outputs 2 - Gear R Inhibit
+	Digital Outputs 2 - Hazard Switch
+	Digital Outputs 2 - Headlamp High Beam Left Supply
+	Digital Outputs 2 - Headlamp High Beam Right Supply
+	Digital Outputs 2 - Headlamp Low Beam Left Supply
+	Digital Outputs 2 - Heated Rear Screen Relay Control
+	Digital Outputs 2 - Horn Relay Control
+	Digital Outputs 2 - Interior Master Lamp Switch
+	Digital Outputs 2 - Position Lamps Relay Control
+	Digital Outputs 2 - Rear Fog Lamp Right Supply
+	Digital Outputs 2 - Seatbelt Reminder Front Passenger Sensor
+	Digital Outputs 2 - Starter Motor Crank Request Signal
+	Digital Outputs 2 - Tailgate/Trunk Release Supply
+	Digital Outputs 2 - Transit Relay Control
+	Digital Outputs 2 - Turn Signal Left Front Supply
+	Digital Outputs 2 - Turn Signal Left Rear Supply
+	Digital Outputs 2 - Turn Signal Right Front Supply
+	Digital Outputs 3 - Auxiliary Driving Lamps Relay Control
+	Digital Outputs 3 - Rear Fog Lamp Left Supply
+	Digital Outputs 3 - Restraint Ignition Relay Control
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Left Front
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Left Rear
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Right Front
+	Low Frequency Initiator System Status - Low Frequency Initiator Status Right Rear
+	Pulse-Width Modulation (Pwm) - Output 1 - Left Cornering Lamp Supply
+	Pulse-Width Modulation (Pwm) - Output 1 - Positive Temperature Coefficient (Ptc) Heater
+	Pulse-Width Modulation (Pwm) - Output 1 - Right Cornering Lamp Supply
+	Pulse-Width Modulation (Pwm) - Output 2 - Hazard Switch Illumination
+	Pulse-Width Modulation (Pwm) - Output 2 - Switch Illumination
+	Pulse-Width Modulation (Pwm) - Output 3 - Ambient Lighting Zone 2
+	Pulse-Width Modulation (Pwm) - Output 3 - Ambient Lighting Zone 2
+	Pulse-Width Modulation (Pwm) - Output 3 - Master Lamp Switch Illumination
+	Roof Blind Motor Status - Motor Signal A Status
+	Roof Blind Motor Status - Motor Signal B Status
+	Roof Blind Motor Status - Position Sensor A Status
+	Roof Blind Motor Status - Position Sensor B Status
+	Roof Blind Switch Status - Authorization Switch Status
+	Roof Blind Switch Status - Express Switch Status
+	Roof Blind Switch Status - Forward Switch Status
+	Roof Blind Switch Status - Rearward Switch Status
+	Roof Blind Switch Status - Tilt Switch Status
+	Roof Opening Panel - Authorization Switch Status
+	Roof Opening Panel - Express Switch Status
+	Roof Opening Panel - Forward Switch Status
+	Roof Opening Panel - Rearward Switch Status
+	Roof Opening Panel - Tilt Switch Status
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Challenge Status
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Stored
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Valid Transponder
+	Start Authorization Status - Electric Steering Column Lock (Escl) - Target Identification Verifier Ok
+	Start Authorization Status - Fuel Pump - Target Identification Challenge Status
+	Start Authorization Status - Fuel Pump - Target Identification Valid Transponder
+	Start Authorization Status - Fuel Pump - Target Identification Verifier Ok
+	Start Authorization Status - Ignition - Target Identification Challenge Status
+	Start Authorization Status - Ignition - Target Identification Valid Transponder
+	Start Authorization Status - Ignition - Target Identification Verifier Ok
+	Start Authorization Status - Immobilizer - Target Identification Valid Transponder
+	Tire Transmitter Identification Spare Wheel Unit
+	Tire Transmitter Identification Wheel Unit 1
+	Tire Transmitter Identification Wheel Unit 2
+	Tire Transmitter Identification Wheel Unit 3
+	Tire Transmitter Identification Wheel Unit 4
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 1St - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 1St - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 5Th Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 8Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - Number Of Invalid Vehicle Configuration Parameter Values Recognized
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering False
+	Wheel Position Triggering Statistic - Identifier 1 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Identifier 2 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 2 - Triggering False
+	Wheel Position Triggering Statistic - Identifier 2 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Identifier 3 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 3 - Triggering Succeeded
+	Wheel Position Triggering Statistic - Identifier 4 - Triggering Failed
+	Wheel Position Triggering Statistic - Identifier 4 - Triggering False
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Display
+	Measured Slip Across The Torque Converter
+	Torque Control Reduction Request
+	Transmission Fluid Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Value/Set Point Information - Current Position
+	Actual Value/Set Point Information - Target Position
+	Control Module Internal Temperature
+	Data Of Last Movement - Actual Position
+	Data Of Last Movement - Current When Main Motor Is Switched Off
+	Data Of Last Movement - Main Motor Average Current
+	Data Of Last Movement - Main Motor Maximum Current
+	Data Of Last Movement - Main Motor Minimum Current
+	Data Of Last Movement - Module Temperature
+	Data Of Last Movement - Set Point Position
+	Ecu Operational Mode
+	Gear Shift Module (Gsm) B Specific Data - Absolute Position
+	Gear Shift Module (Gsm) B Specific Data - Hall Switch Correction
+	Gear Shift Module (Gsm) B Specific Data - Hall Switch Status
+	Gear Shift Module (Gsm) B Specific Data - Module Temperature
+	Gear Shift Module (Gsm) B Specific Data - Shift Lock Status
+	Learned Gears D - Absolute Gear D
+	Learned Gears D - Absolute Gear P
+	Learned Gears D - Position Learned Yes/No
+	Learned Gears D - Relative Gear D
+	Learned Gears D - Relative Gear N
+	Learned Gears D - Relative Position Offset
+	Learned Gears D - Relative Rear Position
+	Vehicle Battery Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abnormal Shift - Already Detected
+	Abnormal Shift - Detecting
+	Abnormal Shift - Fault
+	Abnormal Shift - Initialization Reduced
+	Abnormal Shift - Normal
+	Abnormal Shift - Reduced
+	Abnormal Shift - Unstable
+	Actual Output Shaft Speed
+	Can - Detecting
+	Can - Fault
+	Can - Has Detected
+	Can - Initialization Reduced
+	Can - Normal
+	Can - Reduced
+	Can - Unstable
+	Crankshaft Torque - Detecting
+	Crankshaft Torque - Fault
+	Crankshaft Torque - Has Detected
+	Crankshaft Torque - Initialization Reduced
+	Crankshaft Torque - Normal
+	Crankshaft Torque - Reduced
+	Crankshaft Torque - Unstable
+	E2 Program Rom - Error In Writing Diagnostic Permanent Data When In Sys Running Or In Sys Restartwait
+	E2 Program Rom - Error When Data Was Written
+	E2 Program Rom - Error When Data Was Written
+	E2 Program Rom - Error When Keep-Area Was Written
+	E2 Program Rom - Error When Non-Volatile Random Access Memory (Nvram) Was Written
+	E2 Program Rom - Error When Non-Volatile Random Access Memory (Nvram) Was Written
+	E2 Program Rom - Error When Obd-Ii Page 2 Was Written
+	E2 Program Rom - Error When Obd-Ii Page 2 Was Written
+	E2 Program Rom - Error When Obd-Ii Page 2 Was Written
+	E2 Program Rom - Error When Obd-Ii Page 2 Was Written
+	E2 Program Rom - Error When Writing Diagnose Logging Data
+	E2 Program Rom - Error When Writing Diagnose Permanent Data
+	E2 Program Rom - Error When Writing Load Logging Data
+	Engine Coolant Temperature (Ect)
+	Engine Speed
+	Engine Speed - Detecting
+	Engine Speed - Fault
+	Engine Speed - Has Detected
+	Engine Speed - Initialization Reduced
+	Engine Speed - Normal
+	Engine Speed - Reduced
+	Engine Speed - Unstable
+	Gear Ratio - Detecting
+	Gear Ratio - Fault
+	Gear Ratio - Has Detected
+	Gear Ratio - Initialization Reduced
+	Gear Ratio - Normal
+	Gear Ratio - Reduced
+	Gear Ratio - Unstable
+	Gear Selected - Detecting
+	Gear Selected - Fault
+	Gear Selected - Has Detected
+	Gear Selected - Initialization Reduced
+	Gear Selected - Normal
+	Gear Selected - Reduced
+	Gear Selected - Unstable
+	Input Rpm - Detecting
+	Input Rpm - Fault
+	Input Rpm - Has Detected
+	Input Rpm - Initialization Reduced
+	Input Rpm - Normal
+	Input Rpm - Reduced
+	Input Rpm - Unstable
+	Local Interlock Network - Detecting
+	Local Interlock Network - Fault
+	Local Interlock Network - Has Detected
+	Local Interlock Network - Initialization Reduced
+	Local Interlock Network - Normal
+	Local Interlock Network - Reduced
+	Local Interlock Network - Unstable
+	Measured Slip Across The Torque Converter
+	Oil Temperature - Detecting
+	Oil Temperature - Fault
+	Oil Temperature - Has Detected
+	Oil Temperature - Initialization Reduced
+	Oil Temperature - Normal
+	Oil Temperature - Reduced
+	Oil Temperature - Unstable
+	Oil Temperature Sensor
+	Oil Temperature Sensor - Change
+	Output Rpm - Detecting
+	Output Rpm - Fault
+	Output Rpm - Has Detected
+	Output Rpm - Initialization Reduced
+	Output Rpm - Normal
+	Output Rpm - Reduced
+	Output Rpm - Unstable
+	Pressure Control Solenoid A Desired Current
+	Pressure Control Solenoid A Measured Current
+	Pressure Control Solenoid B Desired Current
+	Pressure Control Solenoid B Measured Current
+	Pressure Control Solenoid C Desired Current
+	Pressure Control Solenoid C Measured Current
+	Pressure Control Solenoid D Desired Current
+	Pressure Control Solenoid D Measured Current
+	Pressure Control Solenoid E Desired Current
+	Pressure Control Solenoid E Measured Current
+	Pressure Control Solenoid F Desired Current
+	Pressure Control Solenoid F Measured Current
+	Transmission Fluid Measured Temperature
+	Transmission Input Shaft Speed
+	Transmission Output Shaft Speed - Calculated From Abs Vehicle Speed
+	Vehicle Configuration Parameter Faults - 10Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 10Th Parameter Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 1St Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 1St Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 2Nd Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 2Nd Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 3Rd Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 3Rd Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 4Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 4Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 5Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 5Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 6Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 6Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 7Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 7Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 8Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 8Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - 9Th Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 9Th Parameter Number Of The Data Is Invalid
+	Vehicle Configuration Parameter Faults - Number Of Invalid Parameter Values Recognised
+	Vehicle Speed Abs - Already Detected
+	Vehicle Speed Abs - Detecting
+	Vehicle Speed Abs - Fault
+	Vehicle Speed Abs - Initialization Reduced
+	Vehicle Speed Abs - Normal
+	Vehicle Speed Abs - Reduced
+	Vehicle Speed Abs - Unstable
+	Vehicle Speed Abs - Unstable
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Inner Sensor Distance
+	Left Front Outer Sensor Distance
+	Left Rear Center Sensor Distance
+	Left Rear Corner Sensor Distance
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Parking Aid Option - Parking Aid Rear Sensors
+	Parking Aid Option - Parking Aid System
+	Parking Aid Option - System Led
+	Right Front Inner Sensor Distance
+	Right Front Outer Sensor Distance
+	Right Rear Center Sensor Distance
+	Right Rear Corner Sensor Distance
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 1St - Parameter Invalid
+	Vehicle Configuration Parameter Faults - 1St - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 8Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 8Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - Number Of Invalid Vehicle Configuration Parameter Values Recognized
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Sensor Status
+	Module Status-Warning Indicator Request
+	Occupant Classification Sensor Status
+	Passenger Seatbelt Sensor Status
+	Restraint System Mil Requested On
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Clutch Engaged - Clutch Relay Output
+	Accelerator Pedal Position (App) Sensor - Circuit D
+	Actual Exhaust (B) Camshaft Position (Cmp) (Bank 1)
+	Actual Intake (A) Camshaft Position (Cmp) (Bank 1)
+	Ambient Air Temperature
+	Brake Input Switch Status - Brake Lamp Switch (Bls)
+	Calculated Load Value
+	Catalyst Temperature (Bank 1 Sensor 1)
+	Charge Air Temperature (Cat)
+	Charge Air Temperature (Cat) - Raw Physical Value
+	Commanded Throttle Actuator Control
+	Engine Coolant Temperature (Ect)
+	Engine Coolant Temperature (Ect) - Sensor 1 - Supported
+	Engine Coolant Temperature (Ect) - Temperature 1
+	Engine Coolant Temperature (Ect) - Temperature 2
+	Engine Input 1 - Gap-Down Switch Pressed
+	Engine Input 1 - Gap-Up Switch Pressed
+	Engine Input 1 - Resume Switch Pressed
+	Engine Input 1 - Set-Minus Switch Pressed
+	Engine Input 1 - Set-Plus Switch Pressed
+	Engine Input 1 - Suspend Switch Pressed
+	Engine Input 3 - Default Terrain
+	Engine Input 3 - Failsafe Default Terrain
+	Engine Input 3 - Grass/Gravel/Snow Terrain
+	Engine Input 3 - Mud And Ruts Terrain
+	Engine Input 3 - Rock Crawl Terrain
+	Engine Input 3 - Sand Terrain
+	Engine Oil Temperature (Eot)
+	Engine Output 1 - Cold Start Monitor
+	Engine Output 1 - Diagnostic Module Tank Leakage (Dmtl) - Heater Active
+	Engine Output 1 - Diagnostic Module Tank Leakage (Dmtl) - Pump Active
+	Engine Output 1 - Fuel Cut-Off Active
+	Engine Output 2 - Closed Loop Control Active (Bank 1)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Active (Bank 1)
+	Engine Output 2 - Heated Exhaust Gas Oxygen Heater Active (Bank 1)
+	Engine Output 2 - Kick Down
+	Engine Output 2 - Purge Active
+	Engine Output 2 - Universal Heated Exhaust Gas Oxygen Active (Bank 1)
+	Exhaust B Camshaft Position (Cmp) Actuator Duty Cycle (Bank 1)
+	Exhaust B Camshaft Position (Cmp) Actuator Duty Cycle (Bank 1)
+	Fuel Pump Duty Cycle
+	Intake Air Temperature (Iat)
+	Intake Air Temperature (Iat) (Bank 1 Sensor 1) Supported
+	Intake Air Temperature (Iat) Sensor - Supported (Bank 1 Sensor 2)
+	Intake Aire Temperature (Iat) (Bank 1 Sensor 2)
+	Location Of Oxygen Sensors - Bank 1 Sensor 1 Present At That Location
+	Location Of Oxygen Sensors - Bank 1 Sensor 2 Present At That Location
+	Location Of Oxygen Sensors - Bank 1 Sensor 3 Present At That Location
+	Location Of Oxygen Sensors - Bank 1 Sensor 4 Present At That Location
+	Location Of Oxygen Sensors - Bank 2 Sensor 1 Present At That Location
+	Location Of Oxygen Sensors - Bank 2 Sensor 2 Present At That Location
+	Location Of Oxygen Sensors - Bank 2 Sensor 3 Present At That Location
+	Location Of Oxygen Sensors - Bank 2 Sensor 4 Present At That Location
+	Monitor Status This Driving Cycle - A/C System Refrigerant Monitoring
+	Monitor Status This Driving Cycle - Catalyst Monitoring
+	Monitor Status This Driving Cycle - Catalyst Monitoring - Completed
+	Monitor Status This Driving Cycle - Comprehensive Component Monitoring - Enabled
+	Monitor Status This Driving Cycle - Evaporative System Monitoring
+	Monitor Status This Driving Cycle - Evaporative System Monitoring - Completed
+	Monitor Status This Driving Cycle - Evaporative System Monitoring - Completed
+	Monitor Status This Driving Cycle - Exhaust Gas Recirculation (Egr) Monitoring
+	Monitor Status This Driving Cycle - Exhaust Gas Recirculation (Egr) System Monitoring - Completed
+	Monitor Status This Driving Cycle - Fuel System Monitoring - Completed
+	Monitor Status This Driving Cycle - Fuel System Monitoring - Enabled
+	Monitor Status This Driving Cycle - Heated Catalyst Monitoring
+	Monitor Status This Driving Cycle - Heated Catalyst Monitoring - Completed
+	Monitor Status This Driving Cycle - Misfire Monitoring - Completed
+	Monitor Status This Driving Cycle - Misfire Monitoring - Enabled
+	Monitor Status This Driving Cycle - Oxygen Sensor Heater Monitoring
+	Monitor Status This Driving Cycle - Oxygen Sensor Heater Monitoring - Completed
+	Monitor Status This Driving Cycle - Oxygen Sensor Monitoring - Completed
+	Monitor Status This Driving Cycle - Secondary Air System Monitoring
+	Monitor Status This Driving Cycle - Secondary Air System Monitoring - Completed
+	Oxygen Sensor Heater Duty Cycle (Bank 1 Sensor 1)
+	Oxygen Sensor Heater Duty Cycle (Bank 1 Sensor 2)
+	Purge Valve Duty Cycle
+	Start Authorization Status - Immobilizer - Target Identification Valid Transponder
+	Start Authorization Status - Immobilizer - Target Identification Verifier Ok
+	Start Authorization Status - Steering Column Lock Secret Key Sent
+	Start/Stop - Feature Status - Flags - Auxiliary Coolant Pump Activated
+	Start/Stop - Feature Status - Flags - Brake Vacuum Function Requests Engine Running
+	Start/Stop - Feature Status - Flags - Brake Vacuum Sufficient
+	Start/Stop - Feature Status - Flags - Climate Control System Requests Engine Running
+	Start/Stop - Feature Status - Flags - Clutch 25% Switch Status
+	Start/Stop - Feature Status - Flags - Clutch 75% Switch Status
+	Start/Stop - Feature Status - Flags - Diagnostic Start/Stop Inhibit
+	Start/Stop - Feature Status - Flags - Economy Enable Switch Requests Engine Running
+	Start/Stop - Feature Status - Flags - Engine Control Start/Stop Fault
+	Start/Stop - Feature Status - Flags - Engine Control Stop Inhibit
+	Start/Stop - Feature Status - Flags - Gear N Selected
+	Start/Stop - Feature Status - Flags - Gear N Sensor In Gear Fault
+	Start/Stop - Feature Status - Flags - Gear N Sensor In Gear N Fault
+	Start/Stop - Feature Status - Flags - Gear N Sensor Offset Stored
+	Start/Stop - Feature Status - Flags - Hood Switch Indicates Open Hood
+	Start/Stop - Feature Status - Flags - Parking Assist Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Steering Control Module (Pscm) Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Supply System Fault
+	Start/Stop - Feature Status - Flags - Power Supply System Requests Engine Running
+	Start/Stop - Feature Status - Flags - Power Supply System Start Inhibit
+	Start/Stop - Feature Status - Flags - Stop In Progress
+	Start/Stop System - Feature Status - Flags - Abs Control Requests Engine Running
+	Start/Stop System - Feature Status - Flags - Delay To Economy Stop
+	Start/Stop System - Feature Status - Flags - Engine Control Start Inhibit
+	Start/Stop System - Feature Status - Flags - Second Battery Requests Engine Running
+	Start/Stop System - Feature Status - Flags - Secondary Power Supply Fault
+	Start/Stop System - Feature Status - Flags - Transmission Control Module (Tcm) Start Inhibit
+	Start/Stop System - Feature Status - Flags - Transport Mode
+	Start/Stop System - Stop Inhibited - Air/Fuel Ratio (Afr) Adaptations Out Of Range
+	Start/Stop System - Stop Inhibited - Ambient Air Pressure Too Low
+	Start/Stop System - Stop Inhibited - Ambient Air Temperature Too High
+	Start/Stop System - Stop Inhibited - Ambient Air Temperature Too Low
+	Start/Stop System - Stop Inhibited - Brake Pedal And Accelerator Pedal Depressed Simultaneously
+	Start/Stop System - Stop Inhibited - Catalyst Heating Active
+	Start/Stop System - Stop Inhibited - Catalyst System Temperature Too High
+	Start/Stop System - Stop Inhibited - Catalyst System Temperature Too Low
+	Start/Stop System - Stop Inhibited - Diagnostic System
+	Start/Stop System - Stop Inhibited - Engine Speed Too High
+	Start/Stop System - Stop Inhibited - Engine Stop Not Allowed During A Period After First Engine Start
+	Start/Stop System - Stop Inhibited - Engine Temperature Too High
+	Start/Stop System - Stop Inhibited - Engine Temperature Too Low
+	Start/Stop System - Stop Inhibited - Evaporative Emission (Evap) Canister Purge Vapor Concentration Too High
+	Start/Stop System - Stop Inhibited - Expected Hot Start Due To Fuel Temperature Too High
+	Start/Stop System - Stop Inhibited - Fuel In Oil
+	Start/Stop System - Stop Inhibited - Fuel Run-Dry Prevention Strategy Active
+	Start/Stop System - Stop Inhibited - Hot Start Detected - Rising Engine Coolant And Air Temperatures Indicating Rising Charge Temperature
+	Start/Stop System - Stop Inhibited - Obd Software Monitor Requires Engine Running
+	Start/Stop System - Stop Inhibited - Starter Protection Active
+	Start/Stop System - Stop Inhibited - Starter Protection Active
+	Start/Stop System - Stop Inhibited - Steering Wheel Input Detected
+	Start/Stop System - Stop Inhibited - Throttle Adaptations Out Of Range
+	Start/Stop System - Stop Inhibited - Torque Adaptations Out Of Range
+	Start/Stop System - Stop Inhibited - Turbocharger Temperature Too
+	Sump Oil Temperature - Measured
+	Transmission Control Module (Tcm) Fault
+	Transmission Gear Sensor - Gear P Or N
+	Turbocharger/Supercharger Wastegate Solenoid A Duty Cycle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Terrain Mode
+	Vehicle Battery Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Power Supply Voltage
+	Distance Travelled In Dynamic Mode
+	Distance Travelled In Mode 1
+	Distance Travelled In Mode 2
+	Distance Travelled In Mode 3
+	Distance Travelled In Mode 4
+	Distance Travelled In Mode 5
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Switch Status - Left Switch
+	Switch Status - Right Switch
+	Time In Dynamic Mode
+	Time In Mode 1
+	Time In Mode 2
+	Time In Mode 3
+	Time In Mode 4
+	Time In Mode 5
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Internal Temperature
+	Damper Operating Temperature - Left Front
+	Damper Operating Temperature - Left Rear
+	Damper Operating Temperature - Right Front
+	Damper Operating Temperature - Right Rear
+	Ecu Internal Temperature B
+	Ecu Internal Temperature C
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage
+	Deployment Control 13 Resistance
+	Deployment Control 14 Resistance
+	Deployment Control 2 Resistance
+	Deployment Control 2 Resistance
+	Driver Seat Track Position Restraints Sensor
+	Driver Seat Track Sensor Fault
+	Driver Seat Track Sensor Status
+	Driver Seatbelt Sensor
+	Driver Seatbelt Sensor Fault
+	Driver Seatbelt Sensor Status
+	Passenger Airbag Cut-Off Switch - Switch A Fault
+	Passenger Seat Track Position Restraints Sensor
+	Passenger Seat Track Sensor Fault
+	Passenger Seat Track Sensor Status
+	Passenger Seatbelt Sensor
+	Passenger Seatbelt Sensor - Seatbelt Sensor Fault
+	Passenger Seatbelt Sensor - Seatbelt Sensor Status
+	Resistance Deployment Control 0
+	Resistance Deployment Control 1
+	Resistance Deployment Control 17
+	Resistance Deployment Control 3
+	Resistance Deployment Control 4
+	Resistance Deployment Control 5
+	Resistance Deployment Control 6
+	Resistance Deployment Control 7
+	Resistance Deployment Control 8
+	Restraint System Mil Requested On
+	Restraint System Passenger Disable Indicator Requested On
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Attempts At Unlocking
+	Battery Voltage
+	Drive Range Lower Angle
+	Drive Range Upper Angle
+	Electronic Transmission Sensor - Voltage
+	Function Illumination Pulse-Width Modulation (Pwm) - Day Level
+	Function Illumination Pulse-Width Modulation (Pwm) - Night Level
+	Gear N Range Lower Angle
+	Gear N Range Upper Angle
+	Gear P Lower Angle
+	Gear P Upper Angle
+	Gear R Lower Angle
+	Gear R Upper Angle
+	Hall Sensor 3 - Offset
+	Hall Sensor 4 - Offset
+	Hall Sensor Diagnostics - Sensor 1
+	Hall Sensor Diagnostics - Sensor 2
+	Hall Sensor Diagnostics - Sensor 3
+	Hall Sensor Diagnostics - Sensor 4
+	Ignition Input Plausibility Time
+	Input Feedback - Delayed Power Active
+	Input Feedback - Ignition Status Active
+	Input Feedback - Transmission Control Module (Tcm) Gear P Status Active
+	Led Feedback - Active Speed Limiter Led Active
+	Led Feedback - Drive Led Active
+	Led Feedback - Dynamic Stability Control (Dsc) Led Active
+	Led Feedback - Neutral Led Active
+	Led Feedback - Park Led Active
+	Led Feedback - Performance Led Active
+	Led Feedback - Reverse Led Active
+	Led Feedback - Sport Led Active
+	Led Feedback - Start/Stop Led Active
+	Led Feedback - Winter Led Active
+	Limit Switch Feedback - Lock Sensor Active
+	Limit Switch Feedback - Up-Down Sensor 1 Active
+	Limit Switch Feedback - Up-Down Sensor 2 Active
+	Lock Attempts
+	Maximum Time Allowed To Lower
+	Maximum Time Allowed To Raise
+	Maximum Time For The Solenoid To Switch Without Error
+	Number Of Times The Rotary Control Knob Tries To Lower
+	Number Of Times The Rotary Control Knob Tries To Rise
+	Offset Adjustment For Hall Sensor 1
+	Offset Adjustment For Hall Sensor 2
+	Rotary Control Knob - Analog/Digital Converter (Adc)
+	Rotary Control Knob - Delay Before Attempt To Increase
+	Rotary Control Knob - Retry Wait Time Before Moving Down
+	Rotary Control Knob - Retry Wait Time Before Moving Up
+	Rotary Control Knob - Sensor 1 Angle
+	Rotary Control Knob - Sensor 2 Angle
+	Rotary Control Knob - Sensor 3 Angle
+	Rotary Control Knob - Sensor 4 Angle
+	Rotary Control Knob - Voltage Decrease
+	Rotary Control Knob - Voltage Increase
+	Rotary Control Knob Error Information - First Down Failed - Stuck Midway
+	Rotary Control Knob Error Information - First Down Failed - Stuck Up
+	Rotary Control Knob Error Information - First Up Failed - Stuck Down
+	Rotary Control Knob Error Information - First Up Failed - Stuck Midway
+	Rotary Control Knob Error Information - Not In Lowered Position At Start
+	Rotary Control Knob Error Information - Retry Down Failed - Stuck Midway
+	Rotary Control Knob Error Information - Retry Down Failed - Stuck Up
+	Rotary Control Knob Error Information - Retry Up Failed - Stuck Down
+	Rotary Control Knob Error Information - Retry Up Failed - Stuck Midway
+	Sensor Tolerance
+	Sensor Tolerance
+	Slow Fall Voltage
+	Slow Rise Voltage
+	Solenoid Voltage
+	Sports Gear Lower Angle
+	Sports Gear Upper Angle
+	Time For Last Lower Movement
+	Time For Last Raise Movement
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Input Switch Status - Brake Fluid Level Switch Status
+	Brake Input Switch Status - Brake Pedal Switch (Bls)
+	Control Module Supply Voltage
+	Electronic Traction Control (Etc)/Dynamic Stability Control (Dsc) Input/Output - Dsc Switch Status
+	Electronic Traction Control (Etc)/Dynamic Stability Control (Dsc) Input/Output - Hill Descent Control (Hdc) Switch Status
+	Engine Control Unit System Flags - Abs
+	Engine Control Unit System Flags - Active Yaw Control
+	Engine Control Unit System Flags - Brake Traction Control System
+	Engine Control Unit System Flags - Roll Stability Control
+	Engine Control Unit System Flags - Traction Control System
+	Left Front Wheel Speed Sensor (Wss) Input Circuit
+	Left Rear Wheel Speed Sensor (Wss) Input Circuit
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Right Front Wheel Speed Sensor (Wss) Input Circuit
+	Right Rear Wheel Speed Sensor (Wss) Input Circuit
+	Steering Wheel Angle
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Awd - Status
+	Awd - Test
+	Awd Propulsion Shaft Torque
+	Awd Propulsion Shaft Torque Request
+	Awd Propulsion Shaft Torque Request - Quality Factor
+	Brake Input Switch Status - Brake Fluid Level Switch Status
+	Brake Input Switch Status - Brake Pedal Switch (Bls)
+	Brake Input Switch Status - Brake Pedal Switch (Brake Switch)
+	Brake Input Switch Status - Brake Switch A - The Input Indicates The Foot Brake Is Applied
+	Brake Input Switch Status - Brake Switch B - The Input Indicates The Foot Brake Is Applied
+	Brake Input Switch Status - Gear R Switch
+	Brake Input Switch Status - Parking Brake Applied Warning Status
+	Driver Propulsion Torque Request
+	Left Front Wheel Speed Sensor (Wss) Input Circuit
+	Left Rear Wheel Speed Sensor (Wss) Input Circuit
+	Propulsion Torque
+	Pump Output - Current
+	Right Front Wheel Speed Sensor (Wss) Input Circuit
+	Right Rear Wheel Speed Sensor (Wss) Input Circuit
+	Steering Angle Sensor Internal Status - Ok Status
+	Steering Wheel Angle
+	Terrain Mode
+	Terrain Mode - Request
+	Trailer Status - Trailer Connected
+	Valve Solenoid Feedback Current
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 10Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 1St - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 1St - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 2Nd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 3Rd - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 4Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 5Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 6Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 7Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 8Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 8Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Invalid Value
+	Vehicle Configuration Parameter Faults - 9Th - Parameter Number Of Invalid Vehicle Configuration Data
+	Vehicle Configuration Parameter Faults - Number Of Invalid Vehicle Configuration Parameter Value Recognized
+	Yaw Rate Requested
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Clutch Engaged - Clutch Relay Output
+	Accelerator Pedal Position
+	Ambient Air Temperature
+	Boost Pressure Actuator
+	Brake Pedal Switch
+	Brake Switch
+	Distance Diesel Particulate Filter Regeneration
+	Distance Remaining Until Next Service
+	Driver Door
+	Driver Seatbelt
+	Engine Coolant Temperature
+	Engine Cooling Fan Speed-Desired
+	Engine Exhaust Gas Recirculation (Egr) Valve Position
+	Engine Oil Temperature
+	Engine Speed
+	Exhaust Gas Temperature Sensor 3
+	Fuel Rail Pressure - Desired
+	High Speed Engine Cooling Fan Control
+	Hood Switch Indicates Open
+	Intake Air Temperature
+	Intake Manifold Absolute Pressure
+	Manifold Absolute Pressure
+	Mass Air Flow
+	Parking Assist
+	Throttle Motor Pulse - Width Modulation Signal Commanded
+	Throttle Position
+	Transmission Control Module Fault
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Display
+	Measured Slip Across The Torque Converter
+	Time Since Engine Start
+	Torque Control Reduction Request
+	Transmission Fluid Measured Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs System-Warning Light
+	Brake Traction Control System-Warning Light
+	Steering Wheel Angle
+	Traction Control System-Warning Light
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Clutch Engaged - Clutch Relay Output
+	Absolute Throttle Position
+	Accelerator Pedal Position (App) Sensor - Circuit D
+	Ambient Air Temperature
+	Brake Pedal Switch (Bls)
+	Commanded Exhaust Gas Recirculation (Egr)
+	Corrected Intake Manifold Absolute Pressure (Map)
+	Desired Revolution Per Minute For Idle Speed Control-High Resolution
+	Distance Since Diesel Particulate Filter (Dpf) Regeneration
+	Distance To Next Service
+	Engine Coolant Temperature (Ect)
+	Engine Cooling Fan Speed - Desired
+	Engine Oil Temperature
+	Engine Speed
+	Equivalence Ratio (Lambda)
+	Exhaust Gas Recirculation (Egr) Cooler Bypass Valve Duty Cycle
+	Fuel Rail Pressure
+	Fuel Rail Pressure - Desired
+	High Speed Engine Cooling Fan Control
+	Intake Air Temperature (Iat)
+	Manifold Absolute Pressure (Map)
+	Mass Air Flow (Maf)
+	Start/Stop Feature Status - Flags - Economy Enable Switch Requests Engine Running
+	Throttle Motor Pulse Width Modulation (Pwm) Signal - Commanded
+	Throttle Position (Bank 1)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Number Of Lock Cycles
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Unlock Cycles
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Light Sensor - Left Sensor
+	Background Illumination
+	Control Module Supply Voltage
+	Lcd Illumination Level
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Vehicle Battery Replacement Resets
+	Odometer Store
+	Warning Lamp Status 1 - Abs
+	Warning Lamp Status 1 - Adaptive Front Lighting Fault
+	Warning Lamp Status 1 - Charge Warning
+	Warning Lamp Status 1 - Coolant Temperature High
+	Warning Lamp Status 1 - Dynamic Stability Control (Dsc) - Traction Control
+	Warning Lamp Status 1 - Front Fog
+	Warning Lamp Status 1 - High Beam
+	Warning Lamp Status 1 - Hill Descent Control (Hdc) Active
+	Warning Lamp Status 1 - Left Turn Signal
+	Warning Lamp Status 1 - Low Fuel Warning
+	Warning Lamp Status 1 - Oil Pressure Low
+	Warning Lamp Status 1 - Parking Brake
+	Warning Lamp Status 1 - Rear Fog
+	Warning Lamp Status 1 - Right Turn Signal
+	Warning Lamp Status 1 - Seatbelt
+	Warning Lamp Status 1 - Secondary Restraint System
+	Warning Lamp Status 1 - Speed Active
+	Warning Lamp Status 1 - Trailer
+	Warning Lamp Status 2 - Glow Plug
+	Warning Lamp Status 2 - Mil
+	Warning Lamp Status 2 - Pad Wear/Brake System (Amber)
+	Warning Lamp Status 2 - Pad Wear/Brake System (Red)
+	Warning Lamp Status 2 - Side Lamp Indicator Lamp
+	Warning Lamp Status 2 - Tpms (Amber)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Steering Wheel Angle Counter
+	Steering Wheel Angle Sensor Signals - Steering Wheel Angle
+	Steering Wheel Angle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Occupant Classification Pressure Sensor
+	Occupant Classification Sensor Status
+	Passenger Seatbelt Sensor
+

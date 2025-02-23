@@ -1,0 +1,103 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Hyundai 'I30 (Mpi & Gdi)' (2023)
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Speed
+	Engine Torque
+	Throttle Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Open Switch
+	Driver Seat Belt Switch
+	Front Passenger Door Open Switch
+	Front Passenger Seat Belt Indicator (Option)
+	Front Passenger Seat Belt Switch
+	Front Passenger Seat Switch
+	Left Rear Seat Belt Indicator Output (Option)
+	Left Rear Seat Belt Switch
+	Rear Center Seat Belt Switch
+	Rear Driver Door Switch
+	Rear Passenger Door Switch
+	Right Rear Center Seat Belt Switch
+	Right Rear Seat Belt Indicator Output (Option)
+	Turn Left Signal Lamp Output
+	Turn Right Signal Lamp Output
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Boost Vacuum Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Odometer
+	Odometer-1
+	Oil Pressure Indicator
+	Parking Brake Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Lambda Value
+	Actual Lambda Value
+	Brake Boot Vacuum Pressure
+	Duty Cycle From Alternator Pulse Width Modulation (Pwm) Signal (Fr-Terminal)
+	Engine Oil Temperature (Eot)
+	Fuel Level Sensor Built-In
+	Ignition Switch On
+	Lambda Sensor Correction Value (Bank 2)
+	Required Lambda
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Odometer
+	Odometer-1
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Lock Switch
+	Driver Door Open Switch
+	Front Passenger Door Lock Switch
+	Front Passenger Door Open Switch
+	Left Front Door Unlock Switch
+	Left Rear Door Unlock Switch
+	Parking Brake Switch
+	Rear Driver Door Lock Switch
+	Rear Driver Door Open Switch
+	Rear Passenger Door Lock Switch
+	Rear Passenger Door Switch
+	Right Front Door Unlock Switch
+	Right Rear Door Unlock Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Warning Lamp
+	Traction Control System (Tcs)/Electronic Stability Control (Esc) (Esp) Off Warning Lamp (Esp Only)
+	Traction Control System (Tcs)/Electronic Stability Control (Esc) (Esp) Warning Lamp (Esp Only)
+

@@ -1,0 +1,131 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Rolls-Royce 'Dawn' (2023)
+Signal Descriptions:
+	Left Fuel Level Sensor
+	Outside Temperature Sensor
+	Right Fuel Level Sensor
+	Total Fuel Level Of Fuel Tank Level Sensor (Sum Value)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear Transmission
+	Actual Value Of Engine Torque
+	Driving Speed
+	Engine Speed
+	Mileage Km Reading
+	Oil Temperature Of Engine
+	Pedal Sensor Position
+	Status Of Parking Brake
+	Transmission Fluid Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Selector Switch Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Switch
+	Driver Rear Door Switch
+	Engine Compartment Lid Contact Switch
+	Front Passenger Door Switch
+	Front Passenger Rear Door Switch
+	Rear Lid Contact Switch
+	Rear-Window Contact Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level
+	Front Brake Pad Wear Sensor
+	Pressure Via Brake Pedal
+	Rear Brake Pad Wear Sensor
+	Tire Defect Indicator Warning
+	Tire Pressure Control Warning Status Left Front
+	Tire Pressure Control Warning Status Left Rear
+	Tire Pressure Control Warning Status Right Front
+	Tire Pressure Control Warning Status Right Rear
+	Wheel With Low Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Kickdown
+	Accelerator Pedal Position
+	Actual Gear Transmission
+	Actual Value Of Engine Torque
+	Adaptive Gear Shift (Ags) Pattern
+	Brake Lamp Switch Status
+	Driving Speed
+	Engine Speed
+	Engine Temperature
+	Engine Torque Set Point Value
+	Gear Indicator Status Displayed
+	Input Speed
+	Left Front Wheel Speed
+	Left Rear Wheel Speed
+	Mileage Km Reading
+	Oil Temperature Of Engine
+	Output Speed
+	Right Front Wheel Speed
+	Right Rear Wheel Speed
+	Starter Motor Release Status
+	Status Of Parking Brake
+	Transmission Fluid Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Temperature
+	Coolant Temperature
+	Interior Temperature Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Contact Status
+	Front Passenger Airbag Switch
+	Front Passenger Airbag Switch Fault
+	Front Passenger Seat Occupancy Detection
+	Front Passenger Seat Sensor Fault
+	Front Passenger Seatbelt Buckle Contact Status
+	Front Passenger Weight Category
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor
+	Active Cruise Control Button
+	Central Locking System For Rear Door On Driver Side
+	Central Locking System For Rear Door On Passenger Side
+	Central Locking System Front Driver Door
+	Central Locking System Front Passenger Door
+	Collision Warning Button
+	Compresor Clutch
+	Driver Door Contact
+	Front Passenger Door Contact
+	Gear Engaged (A/T Only)
+	High Beam
+	Horn Button
+	Lamp Switch
+	Lane Departure Warning Active
+	Last Performed Central Locking Action
+	Led Acc Button
+	Led Hazard Warning Lamps
+	Led Of Lane Departure Warning
+	Left Fog Lamp
+	Left Front Turn Lamp
+	Low Beam Headlamps
+	Power Window Regulator Of Driver Door
+	Power Window Regulator Of Front Passenger Door
+	Power Window Regulator Of Rear Driver Side Door
+	Power Window Regulator Of Rear Passenger Side Door
+	Rear Door Contact At Driver Side
+	Rear Door Contact At Passenger Side
+	Right Fog Lamp
+	Right Front Turn Lamp
+	Start/Stop Button
+	Starter Lock (A/T Only)
+	Tailgate Button, Passenger Compartment
+	Windshield Wiper Motor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Electric Power Steering Warning Lamp Status
+	Power Steering Pinion Angle
+	Steering Current Torque
+

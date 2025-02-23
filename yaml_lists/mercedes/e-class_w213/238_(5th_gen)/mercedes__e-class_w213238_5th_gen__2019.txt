@@ -1,0 +1,217 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'E-Class W213/238 (5Th Gen)' (2019)
+Signal Descriptions:
+	Current Vehicle Speed
+	High Beams Request
+	Turn Signal Lamp Request
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Vacuum Sensor
+	Dual Brake Vacuum Sensor
+	Esp Off Function Request
+	Lateral Acceleration
+	Left Electronic Parking Brake Status
+	Longitudinal Acceleration
+	Master Brake Cylinder Pressure
+	Right Electronic Parking Brake Status
+	Speed Signal From Wc51 (Left Front Axle Rpm Sensor)
+	Speed Signal From Wc52 (Right Front Axle Rpm Sensor)
+	Speed Signal From Wc53 (Left Rear Axle Rpm Sensor)
+	Speed Signal From Wc54 (Right Rear Axle Rpm Sensor)
+	Steering Wheel Angle Sensor
+	Tire Pressure Loss Warning 1
+	Tire Pressure Loss Warning 1 Position
+	Tire Pressure Loss Warning 2
+	Tire Pressure Loss Warning 2 Position
+	Tire Pressure Loss Warning 3
+	Tire Pressure Loss Warning 3 Position
+	Tire Pressure Loss Warning Status
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charge Level Of High-Voltage Battery
+	Current Value Of High-Voltage Battery
+	Voltage Of High-Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Lock Rotary Tumbler Rear Right Status
+	Position Of Power Window Rear Right
+	Power Window Rear Right Downwards
+	Power Window Rear Right Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Outside Temperature
+	Status Of Engine Operation
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Central Lock Switch
+	Central Locking - Lock
+	Central Locking - Unlock
+	Door Lock Rotary Tumbler Front Left Status
+	Position Of Power Window Front Left
+	Power Window Front Left Downwards
+	Power Window Front Left Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	High Pressure Fuel Pump Quantity Control Valve
+	Rail Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Switch
+	Front Passenger Seatbelt Buckle Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Vehicle Interior Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Comfort/Sport Button Led Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Lock Rotary Tumbler Front Right Status
+	Position Of Power Window Front Right
+	Power Window Front Right Downwards
+	Power Window Front Right Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance Driven Since Last Oil Change
+	Remianing Distance Displayed In Service Menu
+	Remianing Time Displayed In Service Menu
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Trunk Lid Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Tire Pressure
+	Tire Pressure Left Front Activation Memory 1
+	Tire Pressure Left Rear Activation Memory 1
+	Tire Pressure Right Front Activation Memory 1
+	Tire Pressure Right Rear Activation Memory 1
+	Tire Pressure Sensor Identification Number
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level Indicator Lamp Status
+	Brake Fluid Level Switch Status
+	Brake Linings Indicator Lamp Status
+	Coolant Level Indicator Lamp Status
+	Exterior Lights Switch Duct 2 - Manual/Auto Mode
+	Exterior Lights Switch Status Duct 1 - Parking Lights
+	Exterior Lights Switch Status Duct 3 - Fog Rear
+	Hazard Warning System Button Status
+	Left Hood Contact Switch Status
+	Outside Temperature
+	Right Front Brake Wear Sensor Status
+	Right Hood Contact Switch Status
+	Right Rear Brake Wear Sensor Status
+	Washer Fluid Level Indicator Lamp Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Maximum Cell Temperature
+	Minimum Cell Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Of Accelerator Pedal
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Rear Fog Light Status
+	Left Rear Turn Signal Indicator Status
+	Left Tail Light And Parking Lights Status
+	Right Rear Brake Wear Sensor Status
+	Right Rear Turn Signal Indicator Status
+	Right Tail Light And Parking Lights Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Engine Torque
+	Selector Lever Position
+	Status Of Torque Converter Lockup Clutch
+	Torque Converter Slip Speed
+	Transmission Control Unit Starting Procedure Current Error Codes
+	Transmission Oil Temperature
+	Vin Currently Stored In Cp48 - Fully Integrated Transmission Control Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Yaw Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Lock Rotary Tumbler Rear Left Status
+	Position Of Power Window Rear Left
+	Power Window Rear Left Downwards
+	Power Window Rear Left Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Selector Lever Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Active Lane Keeping Assist Code 238 (Warning And Intervention)
+	Lane Keeping Assist Code 476 (Warning Without Intervention)
+	Lane Keeping Assist Status
+	Steering Wheel Vibration Motor Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Hand Detection System Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charger Input Current Ac
+	Charger Output Current Dc
+	Charging Voltage Ac Of Phase 1
+	Charging Voltage Ac Of Phase 2
+	Charging Voltage Ac Of Phase 3
+	High Voltage Battery Temperature At Heat Exchanger
+	Measured Voltage Value At Input Of Charger
+	State Of Charge Indicator
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage 48V
+	Belt-Driven Starter Alternator Status
+	Engine Running Status
+	Ignition Status On/Off
+	Kilometer Reading
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Coolant Temperature
+	Corection Value For Air Mass Flow
+	Corection Value For Intake Manifold Pressure
+	Engine Full Load Detection
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Engine Speed
+	Fill Level Of Fuel Tank
+	Gear Engaged
+	Gpf Inlet Temperature At Tp326 - Temperature Sensor Upstream Of Gasoline Particulate Filter
+	Gpf Regeneration Rate
+	Gpf Travel Distance Since The Last Successful Regeneration
+	Position Of Mp32 - Throttle Valve Actuator
+	Status Of Air Conditioning
+	Turbocharger Boost Pressure At Wp356 - Pressure And Temperature Sensor Upstream Of Throttle Valve
+

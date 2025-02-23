@@ -1,0 +1,87 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Eqc Suv' (2021)
+Signal Descriptions:
+	Active Brake Assist
+	Active Lane Keeping Assist
+	Distance To Target Object - Short And Long Range Radar Sensor
+	Front Left Tire Pressure
+	Front Right Tire Pressure
+	Outside Temperature
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+	Set Selector Lever Position
+	Status Of Button 'Sa01 (Parktronic Button)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Coolant Temperature
+	Power Request To 'Zb61 (Refrigerant Compressor )'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Vacuum Sensor
+	Driver Door
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Master Brake Cylinder Pressure
+	Position Sensor A' Of 'Wp345 (Brake Pedal Angle Sensor)'
+	Status Of Electronic Parking Brake
+	Status Of Tire Pressure Lose Warning
+	Steering Wheel Angle Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charge Level Of High - Voltage Battery
+	Current Value Of High - Voltage Battery
+	Ignition Status
+	Maximum Voltage Battery Cell 1-96
+	Minimum Voltage Battery Cell 1-96
+	Number Of The Battery Cell With Minimum Temperature
+	Voltage Of High - Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Central Locking
+	Front Left Door Lock, Status Of Rotary Tumbler
+	Front Right Door Lock, Status Of Rotary Tumbler
+	Front Right Power Window
+	Left Front Window Downwards
+	Left Outside Mirror Turn Signal Lamp
+	Left Rear Door-Status Of Rotary Tumbler
+	Left Rear Power Window
+	Rear-Right Door- Status Of Rotary Tumbler
+	Rear-Right Power Window
+	Switches Seat Heater
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Actual Engine Torque 'T205 (Electric Machine 2)
+	Charge Level Of High Voltage Battery
+	Coolant Temperature At Outlet Of'C209(Electric Machine 2 Power Electronics Control Unit)'
+	Maximum Available Torque
+	Remaining Distance Till Next Service
+	Remaining Time Till Next Service
+	Voltage Of Dc/Dc Converter In High-Voltage On-Board Electrical System
+	Voltage Of High Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Button For Fanfare Horns
+	Driver Seat Belt Buckle Switch
+	Exterior Lights Switch
+	Frequency Counter 'Activation Of 'Fanfare Horn'
+	Hazard Warning System Button
+	Indicator Lamp 'Brake Fluid Level'
+	Indicator Lamp 'Brake Linings'
+	Indicator Lamp 'Coolant Level'
+	Indicator Lamp 'Washer Fluid Level'
+	Last Stored Main Odometer Reading
+	Last Stored Main Odometer Reading
+	Maximum Charging Current (Alternating Current)
+	Measured Voltage Value At Input Of 'Charger'
+	Passenger Seat Belt Buckle Switch
+	State Of Charge Indicator
+	Status Of Button'Cruise Control '
+	Status Of Button'Cruise Control Off'
+

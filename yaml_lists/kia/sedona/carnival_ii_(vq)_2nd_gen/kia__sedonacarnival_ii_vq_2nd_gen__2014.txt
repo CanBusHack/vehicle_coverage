@@ -1,0 +1,150 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Kia 'Sedona/Carnival Ii (Vq) 2Nd Gen' (2014)
+Signal Descriptions:
+	Abs Warning Lamp
+	Brake Pedal Travel Sensor - Pdf
+	Brake Pedal Travel Sensor - Pdt
+	Brake Switch (Nc) Esp
+	Emergency Stop Signal (Ess) Brake Lamp Relay
+	Esp Motor
+	Esp Motor Relay
+	Esp On/Off Switch (Esp Only)
+	G Sensor Lateral
+	G Sensor Longitudinal
+	Hazard Switch (Ess Only)
+	Pressure Sensor - Negative (Esp Only)
+	Pressure Sensor - Positive (Esp Only)
+	Steering Angle Sensor (Sas) (Can) (Esp Only)
+	Steering Sensor - Relative Type (Esp Only)
+	Traction Control System (Tcs)/Electronic Stability Control (Esc) (Esp) Warning Lamp (Esp Only)
+	Vacuum Sensor
+	Yaw Rate Sensor (Esp Only)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	We Pressure
+	We Pressure-1
+	We Pressure-2
+	We Pressure-3
+	We Sensor Id
+	We Sensor Id-1
+	We Sensor Id-2
+	We Sensor Id-3
+	We Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	External Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Actual Engine Speed
+	Brake Pedal Switch
+	Intake Manifold Pressure
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor On By Ecu
+	A/C On Condition
+	Accelerator Pedal Position
+	Battery Current (Ams)
+	Battery Voltage
+	Brake Lamp Switch
+	Calculated Oil Temperature
+	Cooling Fan - Pulse Width Modulation (Pwm)
+	Cooling Fan Relay - High
+	Cooling Fan Relay - Low
+	Cruise Control Active
+	Engine Operating Status
+	Filtered Electrical Load Signal From Alternator
+	Fuel Pressure
+	Fuel Pressure Set Point Value
+	Ignition Switch
+	Intake Air Temperature (Iat)
+	Intake Manifold Pressure
+	Lambda Fuel Trim Active Downstream (Bank 1)
+	Throttle Position Sensor (Tps) Angle 1
+	Throttle Position Sensor (Tps) Angle 2
+	Throttle Position Sensor (Tps) Set Position
+	Water Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Current Gear
+	Engine Speed
+	Engine Torque
+	Malfunction Indicator Lamp On
+	Oil Temperature Sensor
+	Shift Lever Switch
+	Sport Mode Select
+	Torque Converter Clutch Slip
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Buckle Switch Status
+	Driver Inflatable Curtain Airbag (Cab) - Front
+	Driver Inflatable Curtain Airbag (Cab) - Rear
+	Driver Side Airbag (Dsab) - Front
+	Driver Side Airbag (Dsab) - Rear
+	Passenger Buckle Switch Status
+	Passenger Inflatable Curtain Airbag (Cab) - Front
+	Passenger Inflatable Curtain Airbag (Cab) - Rear
+	Passenger Side Airbag (Psab) - Front
+	Passenger Side Airbag (Psab) - Rear
+	Passive Occupant Detection System (Pods) Status Front - Passenger
+	Warning Lamp Status At The Time Of Crash
+

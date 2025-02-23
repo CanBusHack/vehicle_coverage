@@ -1,0 +1,90 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Nissan 'Titan' (2019)
+Signal Descriptions:
+	Back Door Opener Switch
+	Back Door Status
+	Cdl Lock Sw
+	Door Status - As
+	Door Status - Dr
+	Door Status - Left Rear
+	Door Status - Right Rear
+	Door Sw-As
+	Door Sw-Dr
+	Door Sw-Rl
+	Door Sw-Rr
+	Front Wiper Switch
+	Hazard Sw
+	Headlamp Switch
+	Ignition Sw
+	Left Turn Signal
+	Right Turn Signal
+	Start Sw
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd Warning Light
+	Abs Warning Light
+	Brake Warning Light
+	Change Warning Lamp
+	Charge Connecter Detection
+	Door Warning Light
+	Eco Mode Enable
+	Electric Parking Brake Warning Lamp
+	Front Fog Ind
+	Fuel Meter
+	Fuel Warning Light
+	Hi-Beam Ind
+	Idling Stop Indication
+	Lane Departure Warning
+	Left Front Wheel Tire Pressure
+	Left Rear Wheel Tire Pressure
+	Mil
+	Oil Warning Light
+	Outside Air Temperature
+	Right Front Wheel Tire Pressure
+	Right Rear Wheel Tire Pressure
+	Tpms Warning Light
+	Trunk /Glass Hatch
+	Turn Ind
+	Vdc/Tcs Ind
+	Washer Warning Light
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Fuel Ratio
+	Engine Exhaust Gas Recirculation (Egr) Valve Position
+	Engine Intake Manifold 1 Pressure Sensor
+	Engine Oil Temperature
+	Fan Duty
+	Fuel Pressure Sensor
+	Intake Air Temperature Sensor
+	Mass Airflow
+	Throttle Position Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Seatbeltsw Lh
+	Seatbeltsw Rh
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Fault Signal
+	Abs On
+	Acc On
+	Accelerator Position Sensor
+	Brake Switch
+	Driving Mode Status
+	Engine Coolant Temperature
+	Engine Speed
+	G Sensor
+	Prndl
+	Traction Control System
+	Vehicle Speed
+	Vehicle Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Side G Sensor (Lateral Accelerator )
+	Yaw Rate Sen
+

@@ -1,0 +1,66 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mazda 'Mazda 3' (2010)
+Signal Descriptions:
+	Accessory (Acc) Power
+	Ignition 1(Ign1) Power
+	Ignition Key In Key Cylinder
+	Ignition Switch State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake On/Off
+	Engine Speed
+	Fuel Level
+	Malfunction Indicator Lamp(Engine Warning )
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Master Cylinder Pressure
+	Steering Wheel Angle
+	Tcs (Traction Control System) Off Switch
+	Yaw Rate Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd Lamp Mode
+	Accelerator Pedal Position
+	Ambient Air Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Tire Pressure (Wheel Unit 1)
+	Tire Pressure (Wheel Unit 2)
+	Tire Pressure (Wheel Unit 3)
+	Tire Pressure (Wheel Unit 4)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Buckle Switch Status, Driver Side
+	Buckle Switch Status, Passenger Side
+	Ocs(Overdrive Cancel Switch) Measured Weight Of Passenger
+	Passenger Airbag Deployment Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Dive/Neutral
+	Engine Coolant Temperature
+	Throttle Position
+	Transmission Fluid Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level
+	Central Locking Switch
+	Driver Door Lock - Link Switch
+	Driver Door Switch
+	Hazard Flashers
+	Hood Switch
+	Parking Brake Switch
+	Passenger Door Switch
+	Rear Door Open
+	Turn Lamp Switch - Left
+	Turn Lamp Switch - Right
+

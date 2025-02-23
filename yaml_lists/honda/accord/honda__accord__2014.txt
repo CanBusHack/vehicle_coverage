@@ -1,0 +1,1213 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Honda 'Accord' (2014)
+Signal Descriptions:
+	Absolute Throttle Position Sensor
+	Absolute Throttle Position Sensor (Gen)
+	Air Temperature Inside The Vehicle
+	Air Temperature Inside The Vehicle 2
+	Angular Acceleration Absolute Peak Value (Trc)
+	Atf Temperature Sensor (Trc)
+	Atf Temperature Sensor Voltage (Trc)
+	Battery Condition Monitor Module Backup Source Voltage
+	Battery Module Power
+	Brake Switch Signal
+	Brake Switch Signal
+	Bypass Contactor
+	Calculated Load Value
+	Charge Circuit Board Temperature
+	Charger Inlet Temperature 1
+	Charger Inlet Temperature 2
+	Charger Temperature 1
+	Charger Temperature 2
+	Command To Dc-Dc Converter
+	Continuous Assist Power Limit Of Ima Battery
+	Continuous Momentary Assist Power Limit Of Ima Battery Power Limit Of Ima Battery
+	Continuous Regenerate Power Limit Of Ima Battery
+	Control Module Voltage
+	Cpl Duty
+	Dc Current Estimated Value (Trc)
+	Dc-Dc Converter Charge Lamp
+	Dc-Dc Converter Electricity Consumption
+	Dc-Dc Converter Information
+	Dc-Dc Converter Temperature
+	Disable Gate On Count (Trc)
+	Distance Since Diagnostic Trouble Codes Cleared (Bcm Module)
+	Distance Since Diagnostic Trouble Codes Cleared (Gen)
+	Distance Traveled While Mil Is Activated (Bcm Module)
+	Distance Traveled While Mil Is Activated (Gen)
+	Electric Water Pump Duty (Trc)
+	Electric Water Pump Speed (Trc)
+	Enable Power Of Pre Air Conditioning
+	Enable Status Of Pre Air Conditioning In Battery Condition Monitor Module
+	Engine Coolant Temperature
+	Engine Speed (Trc)
+	External Power Source Inverter Charge Stop Signal
+	External Power Source Inverter Connecter Lock Signal
+	External Power Source Inverter Connector Detection Signal
+	External Power Source Inverter Cumulated Operation Time
+	External Power Source Inverter Dc Input Voltage Abnormal
+	External Power Source Inverter Electronic Lock Malfunction
+	External Power Source Inverter Inlet Connecter Temperature 1
+	External Power Source Inverter Inlet Connecter Temperature 1 Voltage
+	External Power Source Inverter Inlet Connecter Temperature 2
+	External Power Source Inverter Inlet Connecter Temperature 2 Voltage
+	External Power Source Inverter Input Voltage
+	External Power Source Inverter Output Enable Signal (Can Transmit Signal)
+	External Power Source Inverter Output Enable Signal (Wire Signal)
+	External Power Source Inverter Output Power
+	External Power Source Inverter Output Status
+	External Power Source Inverter Power Limit
+	External Power Source Inverter Sequence Number
+	External Power Source Inverter Status Signal 1
+	External Power Source Inverter Status Signal 2
+	External Power Source Inverter System Fail (Inverter Side Detected By Becm)
+	External Power Source Inverter System Fail (Inverter Side Detected By Inverter)
+	External Power Source Inverter System Fail (Vehicle Side)
+	Gate Operation State (Trc)
+	High Voltage Contactor
+	High Voltage Contractor Control Relay
+	High Voltage Sub Contactor
+	History Of Dc-Dc Converter Stop
+	History Of Dc-Dc Converter Stop 2
+	History Of Hv Battery Fan Stop
+	Hv Battery Cell Minimum State Of Charge
+	Hv Battery Cell Minimum State Of Charge 2
+	Hv Battery Cell Voltage Sensor 1 Failure Information
+	Hv Battery Cell Voltage Sensor 2 Failure Information
+	Hv Battery Cell Voltage Sensor 3 Failure Information
+	Hv Battery Cell Voltage Sensor 4 Failure Information
+	Hv Battery Cell Voltage Sensor 5 Failure Information
+	Hv Battery Cell Voltage Sensor 6 Failure Information
+	Hv Battery Cell Voltage Sensor 7 Failure Information
+	Hv Battery Cell Voltage Sensor 8 Failure Information
+	Hv Battery Current Sensor
+	Hv Battery Current Sensor Power Supply Sensing Voltage
+	Hv Battery Current Sensor Power Supply Voltage
+	Hv Battery Fan 2 Speed
+	Hv Battery Fan 3 Sending Duty
+	Hv Battery Fan 3 Speed
+	Hv Battery Fan Speed 1 Speed
+	Hv Battery Fan Speed 1 Speed
+	Hv Battery Fine Resolution Current Sensor Output Voltage
+	Hv Battery Maximum Cell Voltage
+	Hv Battery Module Maximum Temperature
+	Hv Battery Module Maximum Temperature 2
+	Hv Battery Normal Resolution Current Sensor Output Voltage
+	Hv Battery Resolution Current Sensor Sensing Current
+	Hv Battery Resolution Current Sensor Sensing Current
+	Hv Battery Temperature Sensor 1 Voltage
+	Hv Battery Temperature Sensor 2 Voltage
+	Hv Battery Temperature Sensor 3 Voltage
+	Hv Battery Temperature Sensor 4 Voltage
+	Hv Battery Temperature Sensor 5 Voltage
+	Hv Battery Temperature Sensor 6 Voltage
+	Hv Battery Temperature Sensor 7 Voltage
+	Hv Battery Temperature Sensor 8 Voltage
+	Hv Battery Total Voltage
+	Hv Battery Usable Capacity
+	I1 Overcurrent Status (Trc)
+	Ig Hold Relay 1
+	Ig Hold Relay 2
+	Ig Hold Relay Ac
+	Ig Hold Relay B
+	Input Current Of Charger
+	Input Voltage Of Charger
+	Insulation Resistance Of Highvoltage Circuit
+	Insulation Resistance Of Highvoltage Circuit
+	Inverter Operation State (Trc)
+	Inverter Operation State (Trc)
+	Momentary Regenerated Power Limit Of Ima Battery
+	Motor Coil Estimated Temperature (Trc)
+	Motor Coil Estimated Temperature (Trc)
+	Motor Control Module Backup Source Voltage (Gen)
+	Motor Control Module Backup Source Voltage (Gen)
+	Motor Control Module Power Source Voltage (Gen)
+	Motor Inverter Current
+	Motor Inverter Information (Trc)
+	Motor Inverter Target Torque
+	Motor Magnet Temperature (Trc)
+	Motor Phase (Trc)
+	Motor Position Sensor Offset (Trc)
+	Motor Power (Trc)
+	Motor Revolution Frequency (Trc)
+	Motor Rotor Position Calibration State (Gen)
+	Motor Rotor Position Sensor Cosine Curve Value (Trc)
+	Motor Rotor Position Sensor Error Count (Trc)
+	Motor Rotor Position Sensor Offset (Gen)
+	Motor Rotor Position Sensor Sine Curve Value (Trc)
+	Motor Rotor Position Sensor Voltage R1 (Gen)
+	Motor Rotor Position Sensor Voltage R2 (Gen)
+	Motor Rotor Position Sensor Voltage S1 (Gen)
+	Motor Rotor Position Sensor Voltage S2 (Gen)
+	Motor Speed (Gen)
+	Motor Speed (Gen)(Battery Condition Monitor Module)
+	Motor Speed (Trc) (Battery Condition Monitor Module)
+	Motor Target Torque (Gen)
+	Motor Temperature (Trc)
+	Motor Temperature Sensor (Trc)
+	Motor Temperature Sensor Voltage (Trc)
+	Motor Winding Temperature (Trc)
+	Mpi Temperature (Gen)
+	Mpi Voltage (Gen)
+	Number Of Times Of Motor Overspeed (Trc)
+	Output Current Of Charger
+	Output Torque (Trc)
+	Output Voltage Of Charger
+	Overcurrent Count (B.U) (Trc)
+	Overcurrent Count (Trc)
+	Pdu State (Trc)
+	Power Save Hv Battery Voltage
+	Power Save Motor Torque Flag (Trc)
+	Power Save Pdu Temperature Flag (Trc)
+	Power Save State Of Charge
+	Power Saver Hv Battery Temperature
+	Pxd Voltage
+	Radiator Water Temperature Sensor Voltage (Trc)
+	Rd Converter Error Information (Gen)
+	Rd Converter Status (Trc)
+	Reactor Temperature Sensor (Trc)
+	Reactor Temperature Sensor Voltage (Trc)
+	Snap Data Of Target Dc Torque (Trc)
+	Snap Data Of Target Dc Torque (Trc) 2
+	State Of Charge
+	Status Of Ac Main Relay On/Off Request
+	Status Of Charge Start/Stop Request From Fob Or Tcu
+	Status Of Charging Timer
+	Status Of Wubm
+	Status Of Wubm 2
+	Status Of Wubm 2
+	Target Power Of Normal Charger
+	Target Voltage Of Dc-Dc Converter Output
+	Time Since Engine Start (Gen)
+	Torque Target (Trc)
+	U Phase Motor Current (Gen)
+	U Phase Motor Current (Trc)
+	U Phase Motor Current Sensor Voltage (Gen)
+	U Phase Offset Ad Value (Trc)
+	V Phase Motor Current (Gen)
+	V Phase Motor Current Sensor Voltage (Gen)
+	V Phase Offset Ad Value (Trc)
+	Vcu Output Voltage
+	Vehicle Speed (Battery Condition Monitor Module)
+	Vehicle System State
+	Voltage Ratio(Trc)
+	W Phase Motor Current (Gen)
+	W Phase Motor Current Sensor Voltage (Gen)
+	W Phase Offset Ad Value (Trc)
+	Wake Up Request To Pgm-Fi
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	+R Switch
+	Abs Indicator
+	Acc (Amber) Indicator
+	Acc (Green) Indicator
+	Active Damper System Trouble Warn On Mid
+	Actual Fuel Economy
+	Adaptive Front-Lighting System Indicator
+	Ads Switch
+	Ambient Temperature Display Units
+	Ambient Temperature Input
+	Ambient Temperature Process Modes
+	Amt System Warning Indicator
+	At Temperature Trouble Warn On Mid
+	Audio Source Button
+	Auto Idle Stop System Off Switch
+	Auto Light/Indicator Headlight Indicator
+	Auto Stop Operation Indicator
+	Auto Stop Trouble Indicator
+	Back Switch (Push)
+	Batt Indicator
+	Brake (Amber) Indicator
+	Brake (Red) Indicator
+	Brake Hold Active Indicator
+	Brake Hold Standby Indicator
+	Brake Hold Switch
+	Brake Pad Indicator
+	Brake Press Indicator
+	Bsi System Indicator
+	Cancel Button
+	Cargo Light Indicator
+	Center Rear Seatbelt Indicator
+	Charging Cable Connect Indicator
+	Cmbs Indicator
+	Cmbs Off Switch
+	Cruise Control Main Button
+	Cruise Control Main Switch Indicator
+	Ctba Indicator
+	Ctba Off Switch
+	Decel/Set Button
+	Displayed Ambient Temperature Td
+	Distance Display Unit
+	Distance Switch
+	Door Open Warn On Mid
+	Dpf Indicator
+	Drive Ready Status Indicator
+	Driving Battery Failure Indicator
+	Drl Indicator
+	E-Call System Failure Indicator
+	E-Dps Or Sh-Awd Indicator
+	Eco Leaf Indicator
+	Eco Symbol Indicator
+	Econ Switch
+	Eng Oil Indicator
+	Epb Indicator
+	Eps/Ecps System Trouble Warn On Mid
+	Ev Driving Status Indicator
+	Ev Mode Indicator
+	Ev Mode Switch
+	Ev Mode Switch
+	Fcw Indicator
+	Fcw Off Switch
+	Fhev Mode Switch
+	Fog Light Indicator
+	Front Defroster Switch
+	Fuel Economy Figures Used For The Distance Calculation Which Can Be Flown
+	Fuel Gauge Display Value
+	Fuel Gauge Sending Unit Increment Value When Fuel Refill
+	Fuel Gauge Sending Unit Input Value
+	Fuel Quantity When Vehicle Stopped
+	Glow Indicator
+	H2 Leak Warning Indicator
+	Hdc Activation Indicator
+	Headlight Indicator
+	Hfl Hang-Up/Back Button
+	Hfl Pick-Up Button
+	High Beam Indicator
+	Hill Control Switch
+	Home Switch (Push)
+	Hss Operating Indicator
+	Hss System Failure Indicator
+	Hv Charge Mode Indicator
+	Hv Keep/Charge Mode Common Indicator
+	Id Speed Alarm Indicator
+	Idle Stop Off Sw Indicator
+	Ids Switch Rotation To Left
+	Ids Switch Rotation To Right
+	Illumi Cancel Switch
+	Illumi Vol - Switch
+	Illumi Vol+ Switch
+	Ima Auto-Stop Indicator
+	Ima Indicator
+	Immobi Indicator Trouble Warn On Mid
+	Increment Value Of Fuel Refill Judgement
+	Individual Switch
+	Information Switch
+	Instantaneous Fuel Consumption Control Mode
+	Instantaneous Fuel Consumption Display Unit
+	Instantaneous Fuel Consumption Value
+	Keyless Indicator
+	Ky Speed Alarm Indicator
+	L. Turn Signal Indicator
+	Ldw Off Switch
+	Ldw Sw Indicator
+	Ldw/Rdm Indicator
+	Left Rear Seatbelt Indicator
+	Left Side Audio Remote Switch (Vol. Down)
+	Left Side Audio Remote Switch (Vol. Up)
+	Left Side Audio Remote Switch Left Ch (-)
+	Left Side Audio Remote Switch Right Ch(+)
+	Lim Button
+	Lkas (Amber) Indicator
+	Lkas (Green) Indicator
+	Lkas Switch
+	Low Fuel Warning Indicator
+	Low H2 Indicator For Fcv
+	Low State Of Charge Indicator For Ev
+	Lpg Mode Indicator
+	Maintenance Indicator
+	Maintenance Required Indicator
+	Master Warning Indicator
+	Mode Down Switch
+	Mode Switch
+	Mode Up Switch
+	Motor/Control Unit Hot Indicator
+	N Position Operation Guidance Indicator
+	Next Switch
+	Night Vision Indicator
+	Normal Indicator
+	Normal Switch
+	Odometer Value
+	Oil (Amber) Indicator
+	Oil (Red) Indicator
+	Parking Assist (Amber) Indication
+	Parking Assist (Green) Indication
+	Parking Brake Switch
+	Parking Sensor System Failure Indicator
+	Passenger'S Airbag Off Indicator
+	Passenger'S Side Airbag Off Indicator
+	Pgm-Fi Indicator
+	Plus Sport Indicator
+	Plus Sport Ready Indicator
+	Plus Sport Switch
+	Pop-Up Hood Indicator
+	Power Reduced Indicator For Ev
+	Power System Failure Indicator
+	Power Tailgate Indicator
+	Previous Switch
+	Psd Trouble Lamp
+	R. Turn Signal Indicator
+	Range Upper Indicated Value
+	Rdm Ready To Assist Indicator
+	Real Fuel Consumption To This Fuel Supply From The Last Fuel Supply
+	Rear Fog Indicator
+	Res/Accel Button
+	Residual Quantity Of The Fuel Validated In The Distance Calculation Which Can Be Flown
+	Right Rear Seatbelt Indicator
+	Right Side Audio Remote Switch (Vol. Down)
+	Right Side Audio Remote Switch (Vol. Up)
+	Right Side Audio Remote Switch Left Ch(+)
+	Right Side Audio Remote Switch Left Ch(-)
+	Rtc Off Indicator
+	Rtc Off Switch
+	Rtc System Indicator
+	Scroll Switch (Down)
+	Scroll Switch (Push)
+	Scroll Switch (Up)
+	Seatbelt Indicator
+	Seatbelt Switch
+	Security Indicator
+	Sel/Reset Or Trip Switch On Steering Wheel
+	Sel/Reset Switch On Gauge
+	Sel/Reset Switch On Instrument Panel
+	Sensor-Detected Temperature Tin
+	Shift Down Indicator
+	Shift To P Position Indicator
+	Shift Up Indicator
+	Snow Switch
+	Speedometer Reading
+	Sport Indicator
+	Sport Switch
+	Srs System Trouble Warn On Mid
+	Starter System Indicator
+	Steering Commander Application Switch
+	Steering Commander Mute Switch
+	Steering Commander Volume Switch (Down)
+	Steering Commander Volume Switch (Up)
+	Steering Lock Un-Release Indicator
+	Steering Pad 4 Way Enter Switch
+	Steering Pad 4 Way Left Switch
+	Steering Pad 4 Way Lower Switch
+	Steering Pad 4 Way Right Switch
+	Steering Pad 4 Way Switch (Touch)
+	Steering Pad 4 Way Upper Switch
+	Steering Pad Disp Switch
+	Steering Pad Hud Switch (Lower)
+	Steering Pad Hud Switch (Upper)
+	Steering Pad Switch (Slide From Left To Right)
+	Steering Pad Switch (Slide From Lower To Upper)
+	Steering Pad Switch (Slide From Right To Left)
+	Steering Pad Switch (Slide From Upper To Lower)
+	Steering Pad Turn To Left
+	Steering Pad Turn To Right
+	Steering Pad Volume Switch
+	Steering Pad Volume Switch (Touch)
+	Sub-Tank Low Fuel Warning Indicator
+	Temperature (Blue) Indicator
+	Temperature (Red) Indicator
+	Temperature Cold Indicator
+	Temperature Hot Indicator
+	Tpms Indicator
+	Tpms Initialization Switch
+	Tpms/Dws Warning Indicator
+	Track L Switch
+	Track R Switch
+	Trunk/Tail Gate Open Indicator
+	Unit Change Switch
+	Vehicle Conditions
+	Volume Switch (Down)
+	Volume Switch (Up)
+	Vr Tark Switch
+	Vsa Off Indicator
+	Vsa Off Switch
+	Vsa/Tcs Active Indicator
+	Washer Fluid Level Indicator
+	Water In Fuel Indicator
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Bumper Distance Information
+	Front Obstacle Coordinates (Breadth Direction)
+	Front Obstacle Coordinates (Transverse Direction)
+	Front Obstacle Height Judgement
+	Front Sensor Temporary Failure
+	Left Center Front Sensor Distance Information
+	Left Center Rear Sensor Distance Information
+	Left Front Sensor Distance Information
+	Left Front Side Sensor Distance Information
+	Left Front Side Sensor Temporary Failure
+	Left Rear Sensor Distance Information
+	Left Rear Side Sensor Distance Information
+	Left Rear Side Sensor Temporary Failure
+	Rear Bumper Distance Information
+	Rear Obstacle Coordinates (Breadth Direction)
+	Rear Obstacle Coordinates (Transverse Direction)
+	Rear Obstacle Height Judgement
+	Rear Sensor Temporary Failure
+	Right Center Front Sensor Distance Information
+	Right Front Sensor Distance Information
+	Right Front Side Sensor Distance Information
+	Right Front Side Sensor Temporary Failure
+	Right Rear Sensor Distance Information
+	Right Rear Side Sensor Distance Information
+	Right Rear Side Sensor Temporary Failure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Back-Up Light Switch (Input Form Can)
+	Battery Voltage
+	Brake Booster Pressure Sensor
+	Brake Booster Pressure Sensor A
+	Brake Booster Pressure Sensor B
+	Brake Booster Pressure Sensor B Voltage
+	Brake Fluid Level
+	Brake Pedal Stroke Sensor
+	Brake Pressure +
+	Brake Pressure -
+	Brake Switch
+	Clutch Stroke Sensor Value
+	Cruise Cancel Clutch Switch Status
+	Engine Speed
+	Fl Wheel Speed At Warning 1
+	Fl Wheel Speed At Warning 2
+	Fl Wheel Speed At Warning F1
+	Fl Wheel Speed At Warning F2
+	Fr Wheel Speed At Warning 1
+	Fr Wheel Speed At Warning 2
+	Fr Wheel Speed At Warning F1
+	Fr Wheel Speed At Warning F2
+	Initialized Odometer
+	Lateral Acceleration Sensor
+	Lateral Acceleration Sensor 1
+	Left Front Wheel Speed
+	Left Rear Wheel Speed
+	Longitudinal Acceleration Sensor
+	Longitudinal Acceleration Sensor 1
+	Low Pressure Warning 1 Caused By
+	Milage Of Warning 1
+	Milage Of Warning 2
+	Mileage Of Initialization 1
+	Mileage Of Initialization 2
+	Mileage Of Initialization F1
+	Mileage Of Initialization F2
+	Neutral Switch Status
+	Out Side Temperature At Warning 1
+	Outside Temperature At Warning 2
+	Outside Temperature At Warning F1
+	Outside Temperature At Warning F2
+	Right Front Wheel Speed
+	Rl Wheel Speed At Warning 1
+	Rl Wheel Speed At Warning 2
+	Rl Wheel Speed At Warning F1
+	Rl Wheel Speed At Warning F2
+	Rr Wheel Speed At Warning 1
+	Rr Wheel Speed At Warning 2
+	Rr Wheel Speed At Warning F1
+	Rr Wheel Speed At Warning F2
+	Sensor Supply
+	Steering Angle (Can) +
+	Steering Angle +
+	Steering Angle -
+	System Malfunction Warning Milage Fi
+	System Malfunction Warning Mileage F2
+	Yaw Rate Sensor
+	Yaw Rate Sensor -
+	Yaw Rate Sensor 1
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear Position
+	Cruise Control Indicator
+	Cruise Control Set Switch
+	Door Open Warning
+	Gear Position
+	Left Front Tire Air Pressure
+	Left Rear Tire Air Pressure
+	Maf Sensor 1
+	Maf Sensor Bank1
+	Maf Sensor Bank2
+	Passenger Sitting Switch
+	Passenger Sitting Switch (1)
+	Right Front Tire Air Pressure
+	Right Rear Tire Air Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acceleration Pedal
+	Actual Current Of The Oil Pump Motor For Rear Differential
+	Actual Current Of The Solenoid For Rear Differential
+	Actual Oil Pressure Of The Oil Pressure Sensor For Rear Differential
+	Air Purge For Rear Differential
+	Awd Operation Check
+	Calculated Engine Torque
+	Engine Speed
+	Longitudinal G Sensor
+	Longitudinal G Sensor Learning
+	Main Shaft Speed
+	Oil Temperature For Rear Differential
+	Steering Angle
+	Target Oil Pressure
+	Voltage Of Battery
+	Voltage Of Ig1
+	Voltage Of The Oil Pressure Sensor For Rear Differential
+	Voltage Of The Oil Pump Motor For Real Differential
+	Voltage Of The Oil Temperature Sensor For Rear Differential
+	Voltage Of The Solenoid For Rear Differential
+	Wheel Speed Of Front Left
+	Wheel Speed Of Front Right
+	Wheel Speed Of Rear Left
+	Wheel Speed Of Rear Right
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acm Control Relay
+	Acm Sol Supply Voltage
+	Acm Unit Supply Voltage
+	Active Engine Cylinder
+	Engine Speed
+	Fr Acm Sol Current
+	Rr Acm Sol Current
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seat Position Sensor
+	Driver Seat Position Sensor 2
+	Driver'S Airbag Deployed
+	Driver'S Knee Airbag Deployed
+	Driver'S Seat Belt Outer Lap Tensioner Deployed
+	Driver'S Seat Belt Tensioner Deployed
+	Driver'S Selectable Energy Absorption Deployed
+	Driver'S Side Airbag Deployed
+	Driver'S Side Curtain Airbag Deployed
+	Ecu Maker
+	Front Center Airbag Deployed
+	Front Passenger'S Airbag On/Off Switch Status
+	Front Passenger'S Weight
+	Left Front Airbag, Left Front/Rear Seat Belt Tensioner And/Or Left Knee Airbag Deployed
+	Left Front Seat Belt Buckle
+	Left Rear Seat Belt Tensioner Deployed
+	Left Rear Side Airbag Deployed
+	Left Side Power Unit Component Deployed
+	Left Side Seat Belt Tensioner Deployed
+	Left Third Seat Belt Tensioner Deployed
+	Number Of Front Passenger'S Seat Weight Sensor
+	Passenger'S Airbag Deployed
+	Passenger'S Knee Airbag Deployed
+	Passenger'S Seat Belt Outer Lap Tensioner Deployed
+	Passenger'S Seat Belt Tensioner Deployed
+	Passenger'S Selectable Energy Absorption Deployed
+	Passenger'S Side Airbag Deployed
+	Passenger'S Side Airbag Off Indicator
+	Passenger'S Side Curtain Airbag Deplyed
+	Passenger'S Sitting Switch
+	Passenger'S Sitting Switch 2
+	Right Front Airbag Right Front/Rear Seat Belt Tensioner And/Or Right Knee Airbag Deployed
+	Right Front Seat Belt Buckle
+	Right Rear Seat Belt Tensioner Deployed
+	Right Rear Side Airbag Deployed
+	Right Side Power Unit Component Deployed
+	Right Side Seat Belt Tensioner Deployed
+	Right Third Seat Belt Tensioner Deployed
+	Safety Plate Angle (C Pcs Detection)
+	Safety Plate Angle (L Pcs Dete)
+	Safety Plate Angle (Lc Pcs Detection)
+	Safety Plate Angle (R Pcs Detection)
+	Safety Plate Angle (Rc Pcs Detection)
+	Warning
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Tire Air Pressure
+	Left Front Tire Inside Temperature
+	Left Rear Tire Air Pressure
+	Left Rear Tire Inside Temperature
+	Recommendation Front Tire Pressure (Cold)
+	Recommendation Rear Tire Pressure (Cold)
+	Right Front Tire Air Pressure
+	Right Front Tire Inside Temperature
+	Right Rear Tire Air Pressure
+	Right Rear Tire Inside Temperature
+	System Type
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Af B1 Lambda Cmd
+	Af B2 Lambda
+	Af B2 Lambda Cmd
+	Af Fb (St Fuel Trim)
+	Af Fb Ave (Lt Fuel Trim) B1
+	Af Heater
+	Af Heater
+	Af Lambda
+	Af Lambda Cmd
+	Af Sensor
+	Af Sensor B1
+	Af Sensor B1 Impedance
+	Af Sensor B1 Mode
+	Af Sensor B1 Pump Cell
+	Af Sensor B1 Voltage Supply
+	Af Sensor B1 Vs Sell Signal
+	Af Sensor B2
+	Af Sensor B2 Impedance
+	Af Sensor B2 Mode
+	Af Sensor B2 Pump Cell
+	Af Sensor B2 Voltage Supply
+	Af Sensor B2 Vs Sell Signal
+	Af Sensor Impedance
+	Af Sensor Signal Minus
+	Af Sensor Signal Plus
+	Air Bypass Sol.V
+	Air Fuel Ratio
+	Alcohol Percentage At Learned
+	App Sensor
+	App Sensor A
+	App Sensor A Voltage
+	App Sensor B
+	App Sensor B Voltage
+	Baro Sensor Voltage
+	Brake Switch
+	Brake Switch B
+	Clutch Pedal Position Switch B
+	Clv
+	Crus Req Th
+	Differential Pressure
+	Ect Sensor 1
+	Ect Sensor 1 Voltage
+	Ect Sensor 2
+	Ect Sensor 2 Voltage
+	Engine Oil Dilution Influence
+	Engine Speed
+	Fp Sensor
+	Fp Sensor Voltage
+	Fss
+	Fss B1
+	Ft Sensor
+	Ft Sensor Voltage
+	Ftp Sensor
+	Ftp Sensor Voltage
+	Ftt Sensor
+	Ftt Sensor Voltage
+	Fuel Alcohol Content Learned Condition
+	Fuel Cut
+	Fuel Cut Decel
+	Fuel Press
+	Fuel Rail Pressure Sw
+	Ho2S (Af) B1 S1 Heater
+	Ho2S (Af) B2 S1 Heater
+	Ho2S (Af) S1 Heater
+	Ho2S B1 Heater Duty
+	Ho2S B1 S2
+	Ho2S B1 S2 Heater
+	Ho2S B1 S2 Output Voltage
+	Ho2S B2 Heater Duty
+	Ho2S B2 S2 Heater
+	Ho2S B2 S2 Heater Current
+	Ho2S B2 S2 Output Voltage
+	Ho2S Heater Duty
+	Ho2S S2
+	Ho2S S2 Heater
+	Ho2S S2 Heater Current
+	Ho2S(B1) S2 Heater Current
+	Iat Sensor 1
+	Iat Sensor 1 Block Heater Info
+	Iat Sensor 1 Voltage
+	Idle Target Th
+	Idling
+	Maf Sensor
+	Maf Sensor
+	Maf Sensor Bank 2
+	Maf Sensor Voltage
+	Map Sensor
+	Map Sensor Voltage
+	Motor Duty
+	Primary O2 Sensor / Primary Ho2S (Sensor1)
+	Rel Tp Sensor
+	Sport Mode
+	St Fuel Trim B1
+	St Fuel Trim B2
+	Tacm Relay
+	Tc Boost Control Sol.V
+	Tc Boost Pressure
+	Tc Boost Pressure Sensor
+	Tc Boost Pressure Upper Limit
+	Tc Bypass Sol.V
+	Tc Wastegate Sol.V
+	Throttle Actuator Supply Voltage
+	Throttle Position Sensor
+	Throttle Th Vlv
+	Throttle Vlv
+	Tp Sensor A
+	Tp Sensor B
+	Vehicle Speed
+	Vetc Solenoid Valve
+	Vsa Req Th
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Limit
+	Current Limit
+	Engine Speed
+	Ig1
+	Motor (+)
+	Motor (-)
+	Motor Voltage
+	Target Current
+	Torque
+	Torque Sensor Main
+	Torque Sensor Main Output Voltage
+	Torque Sensor Steering Torque Voltage
+	Torque Sensor Sub
+	Torque Sensor Sub Output Voltage
+	Vehicle Speed
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Brake Pedal
+	Ecu Power Supply Voltage
+	Master Cylinder Pressure
+	Output Rod Stoke
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/F Sensor Heater Duty
+	A/F Sensor Heater Temperature
+	A/F Sensor O2 Concentration Without Ambient Pressure Correction
+	App
+	App Sensor A
+	App Sensor B
+	Baro
+	Baro Voltage
+	Ect Sensor 1 Temperature
+	Ect Sensor 1 Voltage
+	Ect Sensor 2 Temperature
+	Ect Sensor 2 Voltage
+	Egr Cooler Bypass Valve
+	Egr Error Of Position Feed Back Control
+	Egr Valve Actuator Control Duty
+	Egr Valve Actuator Position
+	Egr Valve Actuator Position Target
+	Egr Valve Actuator Position Voltage
+	Egr Valve Control Duty
+	Engine Speed
+	Fuel Temperature Sensor Voltage
+	Glow Plug Control Module Return
+	Iat Sensor 1 Temperature
+	Iat Sensor 1 Voltage
+	Iat Sensor 2 Temperature
+	Iat Sensor 2 Voltage
+	Intake Pressure Control Valve Position Sensor
+	Intake Pressure Control Valve Relay
+	Intake Pressure Control Valve Target Position
+	Low Pressure Egr Differential Pressure Sensor
+	Low Pressure Egr Differential Pressure Sensor Learned Value
+	Low Pressure Egr Differential Pressure Sensor Voltage
+	Low Pressure Egr Valve Position Sensor
+	Low Pressure Egr Valve Target Position
+	Maf (Per One Stroke)
+	Maf Sensor
+	Maf Sensor Voltage
+	Maf Target (Per One Stroke)
+	Map Sensor
+	Map Sensor Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Damper System Switch
+	Battery Voltage
+	Battery Voltage 1
+	Head Light Sensor Voltage
+	Ig Voltage
+	Internal Temperature
+	Left Front Acceleration Sensor Voltage
+	Left Front Damper Current
+	Left Front Pwm Duty
+	Left Front Wheel Speed
+	Left Rear Acceleration Sensor Voltage
+	Left Rear Damper Current
+	Left Rear Pwm Duty
+	Left Rear Wheel Speed
+	Right Front Acceleration Sensor Voltage
+	Right Front Damper Current
+	Right Front Pwm Duty
+	Right Front Stroke Sensor Voltage
+	Right Front Wheel Speed
+	Right Rear Acceleration Sensor Voltage
+	Right Rear Damper Current
+	Right Rear Pwm Duty
+	Right Rear Wheel Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	(Rocker Arm) Oil Pressure Sensor (B)
+	(Rocker Arm) Oil Pressure Sensor (B) Voltage
+	A/C Clutch (On)
+	A/C Compressor Rpm
+	A/C Compressor Target Rpm
+	A/C Pressure Sensor
+	A/C Pressure Sensor Voltage
+	A/C Setting Temperature
+	A/C Switch (On)
+	A/C Temperature Sensor
+	A/C Temperature Sensor Voltage
+	A/F Imbalance Measurement Value
+	A/T R Switch
+	Af B1 Lambda
+	Af B1 Lambda Cmd
+	Af B2 Lambda
+	Af Fb (St Fuel Trim)
+	Af Fb (St Fuel Trim)
+	Af Fb Ave (Lt Fuel Trim)
+	Af Fb Ave (Lt Fuel Trim) B1
+	Af Fb Ave (Lt Fuel Trim) B2
+	Af Heater
+	Af Lambda Cmd
+	Af Lamda
+	Af Sensor
+	Af Sensor B1
+	Af Sensor B1 Impedance
+	Af Sensor B1 Mode
+	Af Sensor B1 Pump Cell
+	Af Sensor B1 Voltage Supply
+	Af Sensor B1 Vs Sell Signal
+	Af Sensor B2
+	Af Sensor B2 Impedance
+	Af Sensor B2 Mode
+	Af Sensor B2 Pump Cell
+	Af Sensor B2 Voltage Supply
+	Af Sensor B2 Vs Sell Signal
+	Af Sensor Impedance
+	Af Sensor Signal Minus
+	Af Sensor Signal Plus
+	Af Sensor Voltage Supply
+	Air Bypass Sol.V.
+	Alcohol Percentage At Learned
+	Alternator
+	Ap Sensor
+	App Sensor A
+	App Sensor A Voltage
+	App Sensor B
+	App Sensor B Voltage
+	Back-Up Light Switch
+	Baro Sensor
+	Baro Sensor Voltage
+	Battery
+	Battery Current (Battery Sensor)
+	Brake Fluid Pressure Sensor A
+	Brake Fluid Pressure Sensor A Voltage
+	Brake Fluid Pressure Sensor B
+	Brake Fluid Pressure Sensor B Voltage
+	Brake Switch (On)
+	Brake Switch B
+	Cat Temperature Condition Ok
+	Cata Monitor Condition
+	Catalyst Monitor Condition (B1)
+	Catalyst Temperature
+	Ckp No Pulse
+	Ckp Noise
+	Ckp Pulser F/B Learn
+	Clutch Pedal Position Switch A
+	Clutch Pedal Position Switch A (C)
+	Clutch Pedal Position Switch B
+	Clv
+	Cmp B No Pulse
+	Cmp B Noise
+	Cmp Control
+	Cruise Brake Sw/Idle Stop Sw
+	Cruise Indicator
+	Crus Req Th
+	Cyl 1 Misfire
+	Cyl 1 Misfire B
+	Cyl 1 Total Misfire
+	Cyl 2 Misfire
+	Cyl 2 Misfire B
+	Cyl 2 Total Misfire
+	Cyl 3 Misfire
+	Cyl 3 Misfire B
+	Cyl 3 Total Misfire
+	Cyl 4 Misfire
+	Cyl 4 Misfire B
+	Cyl 4 Total Misfire
+	Cyl Crank Speed No.1
+	Cyl Crank Speed No.2
+	Cyl Crank Speed No.3
+	Cyl Crank Speed No.4
+	Dbw Stuck Ratio
+	Differential Pressure
+	Driving Distance
+	Ect Sensor 2
+	Ect Sensor 2 Voltage
+	Eld Sensor Output Voltage
+	Engine Cold Start Condition
+	Engine Oil Dilution Influenced
+	Engine Oil Dilution Influenced Rate
+	Engine Oil Level
+	Engine Oil Temperature
+	Engine Rotation
+	Engine Run Time
+	Estimated Battery Resistance (Battery Sensor)
+	Estimated Battery Temperature
+	Estimated Electric Load Level
+	Evap Cvs Valve
+	Ewg Actual Lift
+	Ewg Battery Voltage
+	Ewg Freezing Infomation
+	Ewg Learned Information
+	Ewg Learned Value
+	Ewg Output Duty
+	Ewg Target Lift
+	Ewg Voltage From Lift Sensor
+	Ex Vtc Status
+	Ex Vtc Target Advance Angle
+	Exvtc Sol Duty
+	F Injector
+	Fan High Control
+	Fan Low Control
+	Fp Sensor
+	Fp Sensor Voltage
+	Fss
+	Ft Sensor
+	Ft Sensor Voltage
+	Ftp Sensor (Fine)
+	Ftp Sensor Voltage
+	Ftt Sensor
+	Ftt Sensor Voltage
+	Fuel Alcohol Content Learned Condition
+	Fuel Alcohol Content Learned Condition 1
+	Fuel Alcohol Content Learned Value
+	Fuel Cut (On)
+	Fuel Cut Decel
+	Fuel Factor Study Value Of No1 Cylinder
+	Fuel Factor Study Value Of No2 Cylinder
+	Fuel Gauge
+	Fuel Gauge (Average)
+	Fuel Press
+	Fuel Pressure Converted From Pf Sensor
+	Fuel Pressure Converted From Pf Sensor Voltage
+	Fuel Pressure Direct Injection System
+	Gear Position
+	Ho2S (Af) B1 S1 Heater
+	Ho2S (Af) B2 S1 Heater
+	Ho2S (Af) S1 Heater
+	Ho2S B1 Heater Duty
+	Ho2S B1 S2
+	Ho2S B1 S2 Heater
+	Ho2S B1 S2 Heater Current
+	Ho2S B1 S2 Output Voltage
+	Ho2S B2 Heater Duty
+	Ho2S B2 S2
+	Ho2S B2 S2 Heater
+	Ho2S B2 S2 Heater Current
+	Ho2S B2 S2 Output Voltage
+	Ho2S Heater Duty
+	Ho2S S2
+	Ho2S S2 Heater
+	Ho2S S2 Heater Current
+	Ho2S S2 Output Voltage
+	I-Vtec Indicator Command
+	Iat Sensor 2
+	Iat Sensor 2 Voltage
+	Idle Device Torque
+	Idle Device Torque
+	Idle Learning (Torque)
+	Idle Target
+	Idling
+	Ig1 Level (High)
+	Ima
+	Immobilizer
+	Intake Air Sensor
+	Intake Air Sensor Voltage
+	Intake Air Temperature Sensor
+	Intake Air Temperature Sensor 2
+	Intake Air Temperature Sensor Voltage
+	Intake Air Temperature Sensor Voltage 2
+	Knock Advance
+	Knock Control
+	Knock Control (Egr)
+	Knock Retard
+	Knock Sensor
+	Maf Sensor
+	Maf Sensor (Hz)
+	Main Relay (Fp)
+	Map Sensor
+	Map Sensor (Hi Res)
+	Map Sensor Voltage
+	Maximum Engine Speed
+	Memory Back-Up Voltage
+	Mil
+	Mil Distance
+	Misfire
+	Misfire Cycle
+	Misfire Cycle B
+	Motor Duty
+	Np Switch
+	Oil Pressure Switch
+	Oil Pressure Switch (Off)
+	Over Engine Time
+	Pnp Switch
+	Purge Control Solenoid Valve
+	Re Cvs Valve
+	Relative Throttle Opening Sensor
+	Relief Valve
+	Relief Valve
+	Scs
+	Shift/Clutch Sw
+	Slip Ratio Of Torq Or Startcltch
+	Solenoid Return Signal
+	Spark Advance
+	Sports Mode
+	St Fuel Trim B1
+	St Fuel Trim B2
+	Start Ect
+	Start Iat
+	Starter Cut Ctrl (On)
+	Starter Cut Relay (V)
+	Starter Cut Relay (V)
+	Starter Relay Control
+	Starter Switch On
+	Subfuel Solenoid Operation
+	Subfuel Solenoid System Command
+	Tacm Relay
+	Target Crank End Torque Value
+	Target Idle Torque Correction Learning
+	Target Torque (Idle Speed)
+	Tc Bypass Sol. V
+	Throttle Actuator Supply Voltage (Off)
+	Throttle Opening Sensor
+	Throttle Position Sensor 1
+	Throttle Position Sensor 2
+	Total Mileage 1
+	Turbocharger Boost Control Sol. V
+	Turbocharger Boost Pressure
+	Turbocharger Boost Pressure Sensor
+	Turbocharger Boost Pressure Upper Limit
+	Turbocharger Wastegate Sol. V
+	Vehicle Speed
+	Vetc Solenoid Valve (On)
+	Vsa Req Th
+	Vtc Sol Duty
+	Vtc Status
+	Vtec Press Sw
+	Vtec Solenoid Valve
+	Vts Except Vtec Sw (Bank 1)
+	Vts Except Vtec Sw (Bank 2)
+	Warning Condition (On)
+	Water Temperature Sensor
+	Water Temperature Sensor 2
+	Water Temperature Sensor Voltage
+	Water Temperature Sensor Voltage 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/T D Switch
+	A/T L Switch
+	A/T N Switch
+	A/T P Switch
+	A/T R Switch
+	A/T S Switch
+	Abs Wheel Speed
+	Abs Wheel Speed (Fl)
+	Abs Wheel Speed (Fr)
+	Abs Wheel Speed (Rl)
+	Abs Wheel Speed (Rpm)
+	Abs Wheel Speed (Rr)
+	Accumulator Solenoid
+	App Sensor (%)
+	App Sensor A (V)
+	App Sensor B (V)
+	Atmospheric Pressure
+	Baro Sensor (V)
+	Battery Voltage
+	Characteristic Status Of Start Clutch
+	Condition Of No-Idling On Inclination
+	Cvtf Temperature
+	Cvtf Temperature Sensor (V)
+	D Indicator
+	Distance Traveled Since Battery Connected
+	Down Shift Switch
+	Down Shift Switch (St)
+	Drive Pulley Sol Actual
+	Drive Pulley Sol Command
+	Driven Pulley Pressure
+	Driven Pulley Pressure Sensor (V)
+	Driven Pulley Sol Actual
+	Driven Pulley Sol Command
+	Econ Mode Indicator
+	Econ Mode Switch
+	Ect Sensor (V)
+	Electric Oil Pump Relay
+	Electrical Oil Pump (Rpm)
+	Electrical Oil Pump Pressure
+	Electrical Oil Pump Pressure Sensor (V)
+	Electrical Oil Pump Target Speed (Rpm)
+	Engine Coolant Temperature
+	Engine Speed
+	Error Code Of Inclination Sensor Learn
+	Etr
+	Forward Switch
+	Iat Sensor (V)
+	Inclination Sensor Output Degree
+	Inclination Sensor Output Degree
+	Inclination Sensor Output Voltage
+	Indicator A
+	Indicator B
+	Indicator C
+	Inhibitor Sol
+	Input Shaft (Drive Pulley) Speed Rpm
+	Intake Air Temperature
+	L Indicator
+	Lcc Linear Sol Actual
+	Lcc Linear Sol Command
+	Learn Condition
+	Manifold Absolute Pressure
+	Manual Mode Indicator
+	Map Sensor (V)
+	N Indicator
+	Output Shaft (Driven Pulley) Speed
+	Output Shaft (Driven Pulley) Speed Rpm
+	Output Shaft (Driven Pulley) Speed Rpm
+	P Indicator
+	Park Pin Switch
+	Pressure Control Sol Actual
+	Pressure Control Sol Command
+	Pulley Ratio
+	Pulley Ratio Rate
+	R Indicator
+	Relative Tp Sensor
+	Reverse Switch (Atprvs)
+	S Indicator
+	Secondary Shaft Speed
+	Secondary Shaft Speed (2)
+	Secondary Shaft Speed 1 (Rpm)
+	Secondary Shaft Speed 2 (Rpm)
+	Shift Lock Sol
+	Shift Position Indicator Segment
+	Shift Sol A
+	Shift Sol B
+	Shift Sol O/P
+	Sport Mode Indicator
+	Sport Mode Switch
+	Ss Mode Switch
+	Start Clutch Control Sol Actual
+	Start Clutch Control Sol Command
+	Start Clutch Feedback Learn
+	Start Clutch Slip Ratio
+	Status Of Driving Inclination Sensor Learn
+	Status Of Initial Inclination Sensor Learn
+	Target Revolution Speed Following Status
+	The Cumulative Number Of The Slips At The Time Of Abnormal State
+	The Cumulative Number Of The Slips At The Time Of Accidental State
+	The Cumulative Number Of The Slips At The Time Of Irregular State
+	The Cumulative Number Of The Slips At The Time Of Low Temperature
+	The Cumulative Number Of The Slips At The Time Of Normal Temperature
+	Torque Converter Turbine Speed
+	Tp Sensor (1)
+	Tp Sensor (2)
+	Transmission Warming-Up Status
+	Up Shift Switch
+	Up Shift Switch (St)
+	Vehicle Speed
+	Vehicle-Speed Rate
+

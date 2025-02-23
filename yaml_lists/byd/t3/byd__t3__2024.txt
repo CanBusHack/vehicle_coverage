@@ -1,0 +1,238 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Byd 'T3' (2024)
+Signal Descriptions:
+	Current Gear Recognition Signal
+	Fault Monitoring Constant Judgment
+	Fault Monitoring Flag Bit
+	Shift Light Current Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Dc Operating Mode
+	Dc System Fault Status
+	High Side Current
+	High Side Voltage
+	Low Side Current
+	Low Side Voltage
+	Mos Tube Temperature
+	Whether Discharging Is Permissible
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	12 Output Voltage
+	Ac External Charger Fault Status
+	Ac External Charger Grounded Status
+	Ac Interlock Fault
+	Ac Side Frequency
+	Ac Side Input Voltage
+	Ac Side Power
+	Accumulated Charging Capacity This Time
+	Allow Emergency Charging Or Not
+	Charging Gun Connection Status
+	Fault Status
+	Gnd Status
+	High Voltage Side Output Current
+	High Voltage Side Output Voltage
+	Limit Power Discharging Status
+	On - Board Charging Power Status
+	Pfc Output Status
+	Pwm Wave Duty Ratio
+	Vtol Discharging Status
+	Working Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Side Current
+	Dc Bus Voltage
+	Motor Actual Rpm
+	Motor Running Status
+	Motor Target Speed
+	Radiator Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vaux-5V
+	Vcca-3V3
+	Vcore-3V3
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Average Temperature
+	Charging And Discharging Status
+	Charging Request By Too Low State Of Charge
+	Current
+	Iron Battery Fault Alarm
+	Mos Temperature
+	Negative Column Temperature
+	No.1 Unit Voltage
+	No.2 Unit Voltage
+	No.3 Unit Voltage
+	No.4 Unit Voltage
+	Total Voltage
+	Whether Charging Is Permissible
+	Whether Discharging Is Permissible
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Charger Relay Operation Request
+	Ac Phase A Voltage
+	Ac Phase B Voltage
+	Ac Phase C Voltage
+	Accelerator Error
+	Allowable Max Current Of Charger
+	Brake Pedal Degree
+	Braking Pedal Status
+	Cc Sampling Value
+	Charger Connector Connection Status
+	Charger Temperature Sampling Value 1
+	Charger Temperature Sampling Value 2
+	Charging Bus Voltage
+	Charging Dc Side Current
+	Charging Mode
+	Charging Port Temperature
+	Charging Port'S Push And Pull Counts
+	Charging S2 Switch Actuation Flag
+	Communication Status With Main Controller
+	Communication With Abs
+	Communication With Battery Manager Module
+	Communication With Esp Status
+	Controller Charging Power
+	Cp Duty Cycle
+	Crash Warning
+	Dc Charging Actual Input Voltage
+	Dc Charging Target Input Voltage
+	Dc Side Charging Target Current Value
+	Flag Bit For Working Condition
+	Gear Fault Status
+	Igbt Maximum Temperature
+	Igbt Temperature Sampling Value U
+	Igbt Temperature Sampling Value V
+	Igbt Temperature Sampling Value W
+	Inclination Angle Value
+	Inclination Sensor Calibration Or Not
+	Inclination Sensor Message Status
+	Inductance Maximum Temperature
+	Inductances Temperature Sampling Value U
+	Inductances Temperature Sampling Value V
+	Inductances Temperature Sampling Value W
+	Motor Enable Status
+	Motor Power
+	Motor Temperature Sampling Value
+	Motor Torque
+	Parking Switch Status
+	Power Motor Bus Voltage
+	Power Motor Power Temperature
+	Power Motor Speed
+	Power Network Ac Frequency
+	Power Network Ac Phase A Current
+	Power Network Ac Phase B Current
+	Power Network Ac Phase C Current
+	Power System Fault
+	Power-On Enable Start Command
+	Ready Indicator Status
+	Sci Communication Status
+	Send Cp Flag Bit
+	Throttle Position
+	Throttle Sampling Value 1
+	Throttle Sampling Value 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Port Cap Status
+	Charging Port Electric Lock Status
+	Continuously Variable Fan Status
+	High Speed Cooling Fan Working Condition
+	Low Speed Cooling Fan Working Condition
+	Vacuum Pressure Value
+	Vacuum Pressure Warning
+	Vacuum Pump Status
+	Vacuum Pump Working Time
+	Water Temperature
+	Water Temperature Alarm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Back Door Lamp Switch Test
+	Front Left Door Lamp Switch Test
+	Front Right Door Lamp Switch Test
+	Number Of Key Learned
+	Rear Left Door Lamp Switch Test
+	Rear Right Door Lamp Switch Test
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	End Of Line Test Status
+	Filling In Status
+	Master Cylinder Pressure
+	Speed
+	Valve Relay Status
+	Wheel Speed Fl
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Dynamic Pull - Up Status
+	Ecu Temperature
+	Epb Calibration Detection Status
+	Epb Motor Operation Valid
+	Epb Operation Mode
+	Epb Status
+	Ign Status
+	Installation Mode
+	Left Motor Current
+	Off And Pull - Up Function Circuit Normal
+	Off And Release Function Circuit Normal
+	On And Pull - Up Function Circuit Normal
+	On And Release Function Circuit Normal
+	Parking Brake Switch Status
+	Power Supply Voltage Circuit
+	Run-In Completed
+	Service Mode
+	Start Status Supply Voltage
+	Target Tension
+	Tension Calibration
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accumulated Charging Capacity
+	Accumulated Charging Power
+	Accumulated Discharging Capacity
+	Accumulated Discharging Power
+	Active Discharging Command
+	Average Battery Pack Temperature
+	Balance Status
+	Battery Group Current Overall Current
+	Battery Group Current Overall Voltage
+	Charging Sensing Signal - Ac
+	Charging Times
+	Dc Operation Command
+	Electrical Equipment Operation Status
+	Full Charging Times
+	High Voltage Interlock 1
+	High Voltage Interlock 2
+	High Voltage Interlock 3
+	High Voltage System Status
+	Highest Temperature
+	Highest Voltage Of Single Battery
+	In Car Socket Command
+	Insulation Resistance
+	Intelligent Charging
+	Lowest Temperature
+	Lowest Voltage Of Single Battery
+	Main Contactor Status
+	Maximum Permitted Charging Power
+	Maximum Permitted Discharging Power
+	Maximum Temperature
+	Maximum Voltage Battery Number
+	Minimum Temperature
+	Minimum Voltage Battery Number
+	Negative Contactor Status
+	Pre-Charging Main Contactor Status
+	Pre-Charging Status
+	State Of Charge
+	Vtol Discharging Command
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Insulation Resistance Value
+	Switch Mode Status
+

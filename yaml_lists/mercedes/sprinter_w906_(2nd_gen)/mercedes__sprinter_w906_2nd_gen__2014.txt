@@ -1,0 +1,115 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Sprinter W906 (2Nd Gen)' (2014)
+Signal Descriptions:
+	A Crash Event Has Occurred
+	Availability Of Tpms Control Module
+	Crash Signal From 'Airbag'
+	Driver Seat Belt (Belt Buckle)
+	Hazard Warning System Switch
+	Headlamp Flasher And High Beams
+	Interior Central Locking Button : Complete Vehicle
+	Seat Heater
+	Tire Pressure Of Left Front Wheel
+	Tire Pressure Of Left Rear Wheel
+	Tire Pressure Of Right Front Wheel
+	Tire Pressure Of Right Rear Wheel
+	Turn Signal Lamp
+	Windshield Wiper
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure
+	Lateral Acceleration
+	Longitudinal Acceleration
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vin
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	"Mil" Indicator Lamp
+	Air Mass Per Cylinder
+	Boost Pressure
+	Coolant Temperature
+	Correction Factor For Air Mass In Load Range 2
+	Current Engine Torque
+	Current Engine Torque
+	Current Gear
+	Def Tank Fill Level
+	Engine Oil Temperature
+	Engine Speed
+	Exhaust Gas Recirculation Valve
+	Exhaust Temperature Upstream Of Diesel Particulate Filter
+	Fill Level Of Fuel Tank
+	Fuel Temperature
+	Injection Quantity Per Stroke
+	Intake Air Pressure
+	Intake Air Temperature
+	Main Odometer Reading
+	Main Odometer Reading Since Last Regeneration
+	Position Of Accelerator Pedal
+	Rail Pressure
+	Status Of Regeneration
+	Throttle Valve
+	Torque Requested By Driver
+	Water In Fuel Filter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Light Switch Signal High
+	Brake Light Switch Signal Low
+	Brake Pressure Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Volume
+	Fuel Volume
+	Odometer
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Speed
+	Engine Torque Current
+	Fuel Injection Quantity Current
+	Ignition Status
+	Malfunction Indicator Lamp
+	Mass Air Flow Per Cylinder
+	Pedal Accelerator Position
+	Throttle Valve Duty Cycle
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Outside Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Wheel Angle Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cargo Door Status
+	Front Passenger Door Status
+	Slinding Right Door Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Gear
+	Prndl Selection Range Position
+	Target Gear
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Injection Time
+	Rail Pressure Actual Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance From Sensor To Target Object
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Status
+

@@ -1,0 +1,110 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'A-Class W177 (4Th Gen) Diesel D/De' (2020)
+Signal Descriptions:
+	Code 238 (Active Lane Keeping Assist )
+	Code 266 (Steer Assist)
+	Code 268 (Brake Assist Assist System Plus )
+	Code 269 Brake Assist System Plus, Cross-Traffic (Bas+Q)
+	Code 271 (Autonomous Brake Intervention/Pedestrian Protection)Nn)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Interior Temperature Sensor
+	Refrigerant Compressor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Sensor
+	Air Mass
+	Air Mass Displayed
+	Boost Pressure Sensor
+	Brake Pedal
+	Coolant Temperature Sensor
+	Engine Oil Fill Level Sensor
+	Engine Oil Temperature Sensor
+	Engine Speed
+	Exhaust Gas Recirculation Rate
+	Exhaust Gas Recirculation Rate Displayed
+	Fuel Level
+	Fuel Pressure
+	Gear Engaged
+	Gear Engaged
+	Injection Quantity
+	Intake Air Temperature Sensor
+	Kilometer Reading
+	Main Odometer Reading Since Last Regeneration
+	Oil Pressure Sensor
+	Operation Condition Of Combustion Engine
+	Rail Pressure Fluctuations
+	Temperature Sensor Upstream Of Diesel Particulate Filter
+	Throttle Valve Actuator
+	Total Torque
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Vacuum Sensor
+	Master Brake Cylinder Pressure Sensor
+	Steering Wheel Angle Sensor
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Central Lock
+	Left Front Power Widow
+	Left Rear Power Widow
+	Right Front Power Widow
+	Right Rear Power Widow
+	Status Of Rotary Tumbler (Front Left Door)
+	Status Of Rotary Tumbler (Front Right Door)
+	Status Of Rotary Tumbler (Rear Left Door)
+	Status Of Rotary Tumbler (Rear Right Door)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fill Level Of Adblue Tank
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Outside Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Lamp
+	Electric Parking Brake Switch
+	Front Left Tire Pressure
+	Front Right Tire Pressure
+	Parking Brake Warning Lamp (Red)
+	Parking Brake Warning Lamp (Yellow)
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+	Status Of Tire Pressure Loss Warning
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Temporary Limp-Home Mode
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Remaining Distance Adblue
+	Remaining Distance Displayed In Service Menu
+	Remaining Time Displayed In Service Menu
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Error Code
+	Engine Torque
+	Selector Lever Position
+	Torque Converter Slip Speed
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Button Hazard Warning Light System
+	Driver Seat Belt Buckle Switch
+	Front Passenger Seat Belt Buckle Switch
+	Indicator Lamp' Brake Fluid Level'
+	Indicator Lamp' Brake Wear'
+	Indicator Lamp' Coolant Level'
+	Indicator Lamp' Coolant Washer Fluid Level '
+	Status Of Input Signal ' Sm013 (Trunk Lid/Liftgate Lock Main Catch Switch)'
+	Status Of Output For 'Fanfare Horn'
+

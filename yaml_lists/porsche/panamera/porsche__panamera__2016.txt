@@ -1,0 +1,57 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Porsche 'Panamera' (2016)
+Signal Descriptions:
+	Passenger Occupant Detection System (Pods) Assigned
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Wheel Actual Pressure
+	Left Rear Wheel Actual Pressure
+	Outside Temperature Displayed
+	Right Front Wheel Actual Pressure
+	Right Rear Wheel Actual Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Flow When Engine Is Running
+	Ambient Temperature
+	Boost Pressure Actual Value (Measured)
+	Boost Pressure Control: Boost Pressure Specified Value
+	Boost Pressure Control: Pressure Before Thottle Valve
+	Catalytic Converter Temperature (Bank 1)
+	Catalytic Converter Temperature (Bank 2)
+	Engine Compartment Temperature
+	Engine Oil Temperature
+	Engine Start Temperature
+	Engine Temperature
+	Engine Temperature (Measured)
+	Exhaust Temperature After Catalytic Converter (Bank 1)
+	Exhaust Temperature After Catalytic Converter (Bank 2)
+	Intake Air Temperature
+	Lambda Control Mean Value Bank 1 Sensor 1
+	Lambda Control Mean Value Bank 1 Sensor 2
+	Lambda Control Mean Value Bank 2 Sensor 1
+	Lambda Control Mean Value Bank 2 Sensor 2
+	Load Detection: Boost Pressure Actual Value (Filtered)
+	Load Detection: Intake Manifold Pressure (Filtered)
+	Load Detection: Intake Manifold Pressure Actual Value (Measured)
+	Mixture Formation: Ceramic Insulation Temperature, Oxygen Sensor After Catalytic Converter (Bank 1)
+	Mixture Formation: Ceramic Insulation Temperature, Oxygen Sensor After Catalytic Converter (Bank 2)
+	Operating Time Over Service Life
+	Secondary Air Mass Flow (Bank 1)
+	Secondary Air Mass Flow (Bank 2)
+	Throttle Valve Angle
+	Throttle Valve Pedal Value
+	Total Mileage Over Service Life
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure Sensor
+	Brake Switch
+	Engine Speed
+	Lateral Acceleration Sensor 1
+	Lateral Acceleration Sensor 2
+	Mileage
+	Rate Of Turn
+	Vehicle Speed
+

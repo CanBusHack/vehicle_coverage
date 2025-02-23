@@ -1,0 +1,166 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Eqb Suv' (2023)
+Signal Descriptions:
+	Maximum Available Torque
+	Maximum Available Torque - State Encoded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Sensor 'Tailgate'
+	Status Of Functions Of Liftgate
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Torque From T205 (Electric Machine 2)
+	Rpm Of Electric Machine Sensor 1
+	Rpm Of Electric Machine Sensor 2
+	T205 (Motor 2) Rpm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Of Power Window
+	Power Window Downwards
+	Power Window Upwards
+	Status Of Rotary Tumbler
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Door Control Unit
+	Left Rear Door Control Unit
+	Right Front Door Control Unit
+	Right Rear Door Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Left Electronic Parking Brake
+	Status Of Right Electronic Parking Brake
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Of Power Window
+	Power Window Downwards
+	Power Window Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of 'Sb71 (Driver Seat Belt Buckle Switch)'
+	Status Of 'Sb72 (Front Passenger Seat Belt Buckle Switch)'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of 'Sc44 (Electric Parking Brake Switch)'
+	Status Of Left Electronic Parking Brake
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Input Current Ac
+	Output Current Dc
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Hand Detection System Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Last Stored Main Odometer Reading: Ic
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Indicator Lamp 'Brake Fluid Level'
+	Indicator Lamp 'Coolant Level'
+	Indicator Lamp 'Washer Fluid Level'
+	Outside Temperature
+	Outside Temperature - State Encoded
+	Status Of Input Signal 'Sp21 (Hazard Warning System Button)'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Rear Turn Signal Indicator
+	Right Rear Turn Signal Indicator
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Set Selector Lever Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Electric Refrigerant Compressor Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charge Level Of High-Voltage Battery
+	Temperature In C202 - High-Voltage Battery Module
+	Voltage Of Battery Cell 1
+	Voltage Of Battery Cell 88
+	Voltage Of High-Voltage On-Board Electrical System At C202 (High-Voltage Battery Module)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status 'Charging Station'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Temperature In 'C202 (High-Voltage Battery Module) (Maximum Value)'
+	Temperature In 'C202 (High-Voltage Battery Module) (Maximum Value)' - State Encoded
+	Temperature In 'C202 (High-Voltage Battery Module) (Minimum Value)'
+	Temperature In 'C202 (High-Voltage Battery Module) (Minimum Value)' - State Encoded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Angle Sensor A
+	Accelerator Pedal Angle Sensor B
+	Brake Vacuum Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Remaining Distance
+	Remaining Time
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Fanfare Horn
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage (Low Voltage Battery)
+	Charge Level Of High-Voltage Battery
+	Mpf7 - Fan Motor Current Status
+	Tp512 (Power Electronics Cooling Circuit Temperature Sensor)
+	Voltage Of High-Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Electrical Current Value Of 'High-Voltage Battery'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Of Power Window
+	Power Window Downwards
+	Power Window Upwards
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Voltage Of High-Voltage On-Board Electrical System At C202 (High-Voltage Battery Module)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Position Of Power Window
+	Power Window Downwards
+	Power Window Upwards
+	Status Of Rotary Tumbler
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Signal Of 'We61 (Steering Wheel Angle Sensor)'
+	Signal Of 'Yc51 (Master Brake Cylinder Pressure Sensor)'
+	Status Of Tire Pressure Loss Warning
+	Vin Retrieved From Vehicle
+

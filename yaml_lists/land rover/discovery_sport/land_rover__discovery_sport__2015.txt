@@ -1,0 +1,133 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Land Rover 'Discovery Sport' (2015)
+Signal Descriptions:
+	Parking Aid Option-Parking Aid System
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Corrected Intake Manifold Absolute Pressure (Map)
+	Engine Input/Output Parameters - Brake Switch
+	Engine Input/Output Parameters - Brake Switch 2
+	Engine Speed
+	Fuel Level Input
+	Gear Display
+	Manifold Absolute Pressure (Map) Sensor
+	Mass Air Flow (Maf)
+	Maximum Value For Intake Manifold Absolute Pressure (Map) Sensor
+	Relative Throttle Position
+	Start/Stop - Feature Status - Flags - Driver Door
+	Start/Stop - Feature Status - Flags - Driver Seatbelt Buckle
+	Throttle Position (Bank1)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Input Switch Status - Brake Fluid Level Switch Status
+	Door Status 2 - Driver Door
+	Door Status 2 - Hood
+	Door Status 2 - Hood
+	Door Status 2 - Left Rear Door
+	Door Status 2 - Passenger Door
+	Door Status 2 - Right Rear Door
+	Door Status 2 - Tailgate
+	Electric Parking Brake (Epb) Status-Drive Away Release
+	Electric Parking Brake (Epb) Status-Static Release
+	Engine Control Unit System Flags - Abs
+	Engine Control Unit System Flags-Brake Traction Control System
+	Engine Control Unit System Flags-Traction Control System
+	Lateral Accelerometer
+	Longitudinal Acceleration From Vehicle.
+	Parking Brake Control Module Lamp Status - Fault Lamp Status
+	Parking Brake System Positioning - Left Applied
+	Parking Brake System Positioning - Left Released
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Tpms Test Status-Wheel Unit 1-Left Front
+	Tpms Test Status-Wheel Unit 2-Right Front
+	Tpms Test Status-Wheel Unit 3-Right Rear
+	Tpms Test Status-Wheel Unit 4-Left Rear
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Hydraulic Pressure
+	Odometer Store
+	Steering Wheel Angle
+	Warning Lamp Status-Charge Warning
+	Warning Lamp Status-Coolant Temperature High
+	Warning Lamp Status-Front Fog Light
+	Warning Lamp Status-Fuel Level Low Warning Light
+	Warning Lamp Status-High Beam
+	Warning Lamp Status-Left Turn Signal
+	Warning Lamp Status-Parking Brake
+	Warning Lamp Status-Seatbelt
+	Warning Lamp Status-Tpms (Amber)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Clutch Engaged
+	Absolute Throttle Position
+	Accelerator Pedal Position (App) Sensor 2
+	Ambient Air Temperature
+	Boost Absolute Pressure - Raw Value
+	Brake Pedal Switch (Bls)
+	Brake Switch 2(Central Processor Unit 1)
+	Charge Air Temperature (Cat) - Raw Physical Value
+	Distance To Next Service
+	Electric Fan Pulse-Width Modulation (Pwm) Control
+	Engine Coolant Temperature
+	Engine Coolant Temperature - Sensor Voltage
+	Engine Input 1-Idle Jack Active-Battery Charger Request
+	Engine Output 1-Fuel Cut-Off Active
+	Engine Output 1-Low Oil Pressure
+	Engine Output 1-Malfunction Indicator Lamp
+	Engine Speed
+	Fuel Flow
+	Fuel Level Input
+	Fuel Rail Pressure Sensor
+	Gear P/N Or Clutch Switch
+	High Speed Engine Cooling Fan Control
+	Ignition Switch Input
+	Key Switch System Input Signal Status-Crank Switch
+	Key Switch System Input Signal Status-Ignition Switch
+	Manifold Absolute Pressure (Map) -
+	Manifold Absolute Pressure (Map) Sensor
+	Mass Air Flow (Maf)
+	Mass Air Flow (Maf) Sensor Frequency
+	Medium Speed Viscous Cooling Fan Control
+	Time To Next Service
+	Vehicle Speed
+	Warning Lamp Status 1 - Oil Pressure Low
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Transmission Fluid Temperature
+	Transmission Gear Engaged
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Digital Inputs 1 - Door Ajar Left Rear Switch
+	Digital Inputs 1 - Eco Switch
+	Digital Inputs 1 - Front Wiper Slow Speed
+	Digital Inputs 1-Master Lock Switch
+	Door Ajar Driver Switch
+	Door Ajar Passenger Switch
+	Door Ajar Right Rear Switch
+	Hazard Switch
+	Headlamp High Beam Left Supply
+	Headlamp High Beam Right Supply
+	Master Lock Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vehicle Battery State Of Charge (State Of Charge) Estimated
+	Vehicle Battery Temperature Estimated
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Crash Status-Crash Has Occurred
+	Driver Seat Belt Status
+	Passenger Seatbelt Sensor - Seatbelt Sensor Status
+	Restraint System Mil Requested On
+

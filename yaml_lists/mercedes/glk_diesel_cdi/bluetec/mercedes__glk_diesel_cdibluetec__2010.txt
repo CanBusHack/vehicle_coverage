@@ -1,0 +1,82 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Glk Diesel Cdi/Bluetec' (2010)
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Sm02 (Right Front Door Rotary Tumbler Switch)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level
+	Coolant Level
+	Le826 (Left Front Turn Signal Light)
+	Le827 (Right Front Turn Signal Light)
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Parking Brake
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Steering Wheel Angle
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Smo1 (Left Front Door Rotary Tumbler Switch)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Outside Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Engine Torque
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cruise Control
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	High Beams
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Mass
+	Engine Speed
+	Fill Level Of Diesel Particulate Filter
+	Fuel Level
+	Lambda Value Of 'Wp32 (Oxygen Sensor Upstream Of Catalytic Converter)'
+	Main Odometer Reading
+	Torque Request By Driver
+	Tp32 (Intake Air Temperature Sensor)
+	Tp51 (Coolant Temperature Sensor)
+	Vehicle Speed
+	Wpf1 (Accelerator Pedal Sensor)
+	Yp319 (Rail Pressure Sensor)
+	Yp323 (Boost Pressure Sensor)
+	Zp327 (Exhaust Gas Recirculation Actuator)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Can Message 'Belt Buckle Driver'
+	Can Message 'Belt Buckle Front Passenger'
+

@@ -1,0 +1,17 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Triton Ka/Kb/Kc/Kd/Kj/Kk/Kl/Kp (4Th & 5Th Gen)' (2020)
+Signal Descriptions:
+	A/T Fluid Temperature Sensor
+	Aps
+	Engine Speed
+	Engine Torque
+	Shift Position; 1St
+	Shift Position; 2Nd
+	Shift Position; 3Rd
+	Shift Position; 4Th
+	Shift Position; 5Th
+	Shift Position; 6Th
+	Shift Position; P/N
+	Shift Position; R
+	Vehicle Speed Signal
+

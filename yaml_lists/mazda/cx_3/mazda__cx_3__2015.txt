@@ -1,0 +1,1069 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mazda 'Cx 3' (2015)
+Signal Descriptions:
+	4Wd Warning Lamp
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Torque
+	Longitudinal Acceleration Rate Compensation Value
+	Rpm
+	Throttle Position
+	Transmission Fluid Temperature
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Antilock Braking System Traction Control Valves - Valve Supply
+	Brake Fluid Line Hydraulic Pressure (Calculated Value)
+	Brake Fluid Pressure Sensor
+	Brake Force Estimated - Left
+	Brake Force Estimated - Right
+	Brake Switch
+	Dsc Off Switch
+	Electric Parking Brake Applying
+	Electric Parking Brake Releasing
+	Emergency Brake Function
+	Epb Actuator Applied (Lh)
+	Epb Actuator Applied (Rh)
+	Epb Actuator Applying (Lh)
+	Epb Actuator Applying (Rh)
+	Epb Actuator Released (Lh)
+	Epb Actuator Released (Rh)
+	Epb Actuator Releasing (Lh)
+	Epb Actuator Releasing (Rh)
+	Epb Actuator Status
+	Epb Auto Adjust Rear Disc Pad Clearance
+	Epb Driven Brake
+	Epb Gear Unit (Lh) Position
+	Epb Gear Unit (Rh) Position
+	Epb Inspection Mode
+	Epb Maintenance Mode (Lh)
+	Epb Maintenance Mode (Rh)
+	Epb Operation Applied
+	Epb Operation Release
+	Estimated Temperature Of Left Rear Brake Disc
+	Estimated Temperature Of Right Rear Brake Disc
+	Fall Back Park Brake
+	Hill Descent Control Switch Status
+	Hydraulic Pump Motor
+	Lateral Acceleration (Calculated Value)
+	Lateral Accelerometer
+	Left Front Isolation Valve
+	Left Front/Right Rear Traction Control Valve 1
+	Left Rear Isolation Valve
+	Longitudinal Acceleration Rate Compensation Value
+	Longitudinal Acceleration Sensor
+	Outlet Valve (Left Front)
+	Outlet Valve (Left Rear)
+	Pad Maintenance Mode
+	Parking Brake Switch
+	Regeneration Brake Torque Mode
+	Reverse Gear Switch
+	Right Front Isolation Valve
+	Right Front Outlet Valve State
+	Right Front/Left Rear Traction Control Supply 2
+	Right Front/Left Rear Traction Control Valve 2
+	Right Motor Current Of Electric Parking Brake
+	Right Rear Isolation Valve
+	Right Rear Outlet Valve State
+	Steering Wheel Absolute Angle
+	Steering Wheel Angle - Raw
+	Vehicle Speed
+	Wheel Speed Sensor (Left Front)
+	Wheel Speed Sensor (Left Rear)
+	Wheel Speed Sensor (Right Front)
+	Wheel Speed Sensor (Right Rear)
+	Yaw Rate
+	Yaw Rate (Calculated Value)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Switch Driver
+	Door Switch Left Rear
+	Door Switch Passenger
+	Door Switch Right Rear
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acc Relay
+	Accelerator Pedal Position
+	Adaptive Led Lights/High Beam Control Switch
+	Ambient Air Temperature
+	Answerback Horn (Keyless)
+	Battery Discharge Suppression Signal
+	Battery Estimated State Of Charge
+	Brake Switch
+	Brake Switch 1
+	Burglar Backup Siren
+	Burglar Ims
+	Burglar Is
+	Burglar Sensor
+	Circuit Detecting Windshield Wiper Motor Temperature Failure
+	Circuit Detecting Windshield Wiper Motor Voltage Failure
+	Clutch Cut Switch
+	Combination Meter Module Supply Voltage
+	Control Signal Of Answerback (Burglar)
+	Control Signal Of Answerback (Keyless)
+	Control Signal Of Answerback Hazard (Remote Engine Start)
+	Control Signal Of Answerback Horn (Remote Engine Start)
+	Control Signal Of Burglar Alarm
+	Control Signal Of Panic
+	Control Signal Of Panic Horn (Remote Engine Start)
+	Control Signal Of Remote Engine Start
+	Crash Signal
+	Daytime Running Light (Drl) Request
+	Door Lock - All
+	Door Lock Control Id Creation Status
+	Door Lock Control Security Condition
+	Door Lock Switch - Driver
+	Door Lock Switch - Passenger
+	Door Locking Function (Superlock)
+	Door Switch - All
+	Door Switch - Driver
+	Door Switch - Left Rear
+	Door Switch - Passenger
+	Door Switch - Right Rear
+	Door Unlock - All
+	Door Unlock - Driver
+	Electrical Steering Unlock/Lock Control Status
+	Electrical Steering Unlock/Lock Ground Status
+	Electrical Steering Unlock/Lock Power Status
+	Electrical Steering Unlock/Lock Switch Memory Value
+	Electrical Steering Unlock/Lock Switch Status
+	Engine Starter Motor Relay 1
+	Engine Starter Motor Relay 2
+	Ess Status
+	Fet Circuit Failure
+	Front Side Marker Light Request
+	Fuel Gauge (Ohm)
+	Fuel Gauge Sender Unit (Sub) Resistance Value
+	Fuel Gauge Sender Unit Voltage Value
+	Hazard Lamp
+	Hazard Warning Light Flashing Answer-Back Signal
+	Hazard Warning Light On Request
+	Hbc Status
+	Headlight (Hi)
+	Headlight (Tns)
+	Headlight Lo Request
+	Headlight Switch (Hi)
+	Headlight Switch (Low) 1
+	Headlight Switch (Off)
+	Headlight Switch (Pass)
+	Headlight Switch (Tns)
+	Hood Switch
+	Ig1 Relay
+	Ignition Status
+	Intermittent Wiper Operation Of Rear Wiper
+	Key Buzzer
+	Light Off Control (Auto)
+	Lock Link Switch - Passenger
+	Lock Link Switch - Rear
+	Lock Link Switch Lock Status - Front Door (Left Hand)
+	Module Supply Voltage (Acc)
+	Module Supply Voltage (Escl)
+	Module Supply Voltage (Ig1)
+	Module Supply Voltage (Limp)
+	Module Supply Voltage (Room)
+	Outlet Left 1 Request
+	Outlet Right 1 Request
+	P Range Switch
+	Passenger Air Bag Deactivation (Pad) Lettering Illumination
+	Passenger Seat Belt Warning Light
+	Position Sensor In The Windshield Wiper Motor Failure
+	Rain Light Sensor Ambient Temperature
+	Rain Sensor Fail
+	Rear Fog Switch
+	Rear Seat Belt (Lh) Warning Light (Green)
+	Rear Seat Belt (Rh) Warning Light (Green)
+	Rear Seat Belt (Rh) Warning Light (Red)
+	Relative Humidity
+	Seat Belt Status - Center Rear
+	Seat Belt Status - Left Rear
+	Seat Belt Status - Right Rear
+	Seat Belt Status Center (Third)
+	Seat Belt Status Left (Third)
+	Seat Belt Status Right (Third)
+	Seat Occupant Classification System Center/Rear
+	Seat Occupant Classification System Left/Rear
+	Seat Occupant Classification System Right/Rear
+	Seatbelt Status - All Rear
+	Seatbelt Warning Light - Driver
+	Seatbelt Warning Light - Passenger
+	Slam Lock
+	Spare Key Status
+	Ssb (Start Stop Button) 1
+	Ssb (Start Stop Button) 2
+	Ssb (Start Stop Button) Amber
+	Ssb (Start Stop Button) Green
+	Ssb (Start Stop Button) Illumination
+	Steering Wheel Absolute Angle
+	Time Since Fail Safe
+	Times Since Ignition Switch On
+	Tire Pressure - Left Front
+	Tire Pressure - Left Rear
+	Tire Pressure - Right Front
+	Tire Pressure - Right Rear
+	Tire Temperature - Left Front
+	Tire Temperature - Right Front
+	Tire Temperature - Right Rear
+	Total Distance
+	Total Time
+	Tpms Fail
+	Trunk / Liftgate Lock Switch
+	Trunk / Liftgate Switch
+	Trunk / Liftgate Unlock
+	Trunk Lid / Liftgate Opener Switch (Exterior)
+	Trunk Lid Opener Switch (Interior)
+	Turn Light (Left)
+	Turn Light (Right)
+	Washer Motor Status (Off/On)
+	Washer Switch - Front
+	Washer Switch - Rear
+	Windshield Temperature
+	Windshield Wiper Int Level Signal Value Received
+	Windshield Wiper Regulator Failure
+	Windshield Wiper Rotation Direction Failure
+	Windshield Wiper Time Failure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Fog Switch
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Airbag 2 Resistance Driver Side
+	Airbag 2 Resistance Passenger Side
+	Airbag Resistance Driver Side
+	Airbag Resistance Passenger Side
+	Airbag Warning Lamp
+	Circuit Resistance Of Rear Pretensioner-Retractor (Driver Side)
+	Circuit Resistance Of Rear Pretensioner-Retractor (Passenger Side)
+	Circuit Resistance Of Seat Belt Lap Pretensioner (Driver Side)
+	Circuit Resistance Of Seat Belt Lap Pretensioner (Passenger Side)
+	Curtain Airbag Resistance Driver Side
+	Curtain Airbag Resistance Passenger Side
+	Detect Bar Resistance B
+	Detect Bar Resistance C
+	Far Side Airbag Resistance - Passenger Side
+	Front Center Airbag Resistance - Passenger Side
+	Knee Airbag Resistance - Passenger Side
+	Ocs (Overdrive Cancel Switch) Measured Weight Of Passenger
+	Passenger Side Airbag Deployment Control Resistance
+	Poor Connection Detector Bar Voltage (Chamber-A)
+	Pretensioner Circuit Resistance Driver Side
+	Pretensioner Circuit Resistance Passenger Side
+	Seat Belt Status (Driver Side)
+	Seat Belt Status (Passenger Side)
+	Side Impact Airbag Resistance Driver Side
+	Side Impact Airbag Resistance Passenger Side
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cruise Control Cancel Switch
+	Cruise Control Resume Switch
+	Cruise Control Set Minus Switch
+	Cruise Control Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	1-2 Shift Solenoid On/Off Solenoid
+	Accelerator Pedal Position
+	Accelerator Pedal Position Sensor 1
+	Actual Engine Torque
+	Desired Engine Torque
+	Diff Gear Protection - Distance Since Last Protection
+	Diff Gear Protection Record - Distance Since Recording
+	Diff Gear Protection Record - Driven Wheel Speed
+	Diff Gear Protection Record - Maximum Drive Wheel Speed Difference
+	Downshift Switch
+	Drive
+	Ecu Internal Temperature A
+	Ecu Internal Temperature B
+	Ecu Internal Temperature C
+	Electric Oil Pump - Duty Cycle
+	Electric Oil Pump Relay
+	Engine Coolant Temperature
+	Engine Revolutions Per Minute
+	Line Pressure
+	Motor Pump Unit Actual Speed
+	Neutral
+	Oil Pressure Learning Status - Closing Clutch
+	Oil Pressure Learning Status - Opening Clutch
+	Oil Pressure Learning Status - Torque Converter Clutch
+	Oil Pressure Switch 1
+	Oil Pressure Switch 1/Off Pressure
+	Oil Pressure Switch 1/On Pressure
+	Oil Pressure Switch 2
+	Oil Pressure Switch 2/Off Pressure
+	Oil Pressure Switch 2/On Pressure
+	Oil Pressure Switch 3
+	Oil Pressure Switch 3/Off Pressure
+	Oil Pressure Switch 3/On Pressure
+	Oil Pressure Switch 4
+	Oil Pressure Switch 4/On Pressure
+	Output Shaft Speed
+	Paddle Shift - Down
+	Paddle Shift - Up
+	Pressure Control Solenoid Current - Measured
+	Selector Lever At M Position
+	Selector Lever At P Position
+	Selector Lever At R Position
+	Shift Solenoid 1 Current - Measured
+	Shift Solenoid 2 Current - Measured
+	Shift Solenoid 3 Current - Measured
+	Shift Solenoid 4 Current - Measured
+	Shift Solenoid A Commanded Current
+	Shift Solenoid B Commanded Current
+	Shift Solenoid Pressure Control A
+	Shift Solenoid Pressure Control C
+	Shift Solenoid Pressure Control D
+	Shift Solenoid Pressure Control E
+	Throttle Position
+	Torque Converter Clutch Solenoid Current - Commanded
+	Torque Converter Clutch Solenoid Current - Measured
+	Torque Converter Clutch Solenoid Pressure - Commanded
+	Transmission Fluid Temperature
+	Turbine Shaft Speed
+	Upshift Record By Engine Request
+	Upshift Switch
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A1 Current
+	A1 Temperature
+	A2 Current
+	B1 Current
+	B1 Temperature
+	B2 Current
+	B2 Temperature
+	Dc To Dc Converter Output I
+	Dc To Dc Converter Temperature
+	Degeneracy Counter Battery
+	Degeneracy Stop Counter
+	Degeneracy Warning Counter
+	Ignition Switch On Number
+	Total Run Time
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Volume
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Deflation Detection System Mode
+	Module Supply Voltage
+	Pump Motor
+	Tpms Type
+	Vehicle Speed
+	Wheel Speed Sensor (Left Front)
+	Wheel Speed Sensor (Left Rear)
+	Wheel Speed Sensor (Right Front)
+	Wheel Speed Sensor (Right Rear)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Line Hydraulic Pressure
+	Brake Switch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C (Air Conditioning) Pressure Sensor (V)
+	A/C Switch
+	A/C Switch
+	Accelerator Pedal Position Sensor 1 (%)
+	Accelerator Pedal Position Sensor 1 (V)
+	Accelerator Pedal Position Sensor 2 (%)
+	Accelerator Pedal Position Sensor 2 (V)
+	Active Air Shutter Position Actual: 0%(Close)/100%(Open)
+	Actual Exhaust Variable Valve Timing Control
+	Actual Intake Variable Valve Timing Control
+	Actual Turbocharger Ari Outlet Pipe Pressure
+	Air Conditioning Pressure Sensor 2 (Kpa)
+	Ambient Air Temperature (C) 2
+	Awd Solenoid Control Torque
+	Barometric Pressure
+	Battery - Inferred Internal Resistance (Mohm)
+	Battery Current
+	Battery Temperature
+	Boost Pressure Sensor Voltage
+	Brake Booster Pressure Sensor (Kpa)
+	Brake Booster Pressure Sensor (V)
+	Brake Fluid Pressure Sensor
+	Brake Switch 1 Input Signal Status
+	Brake Switch 2 Input Signal Status
+	Calculated Load Value
+	Clutch Pedal Position
+	Commanded Egr (Exhaust Gas Recirculation)
+	Commanded Equivalence Ratio (Air To Fuel Mixture) Bank 1
+	Commanded Fuel Rail Pressure A
+	Commanded Throttle Actuator Control
+	Cylinder 1 Misfire Counts For Catalyst Damage
+	Cylinder 1 Misfire Counts For Emissions Failure
+	Cylinder 2 Misfire Counts For Catalyst Damage
+	Cylinder 2 Misfire Counts For Emissions Failure
+	Cylinder 3 Misfire Counts For Catalyst Damage
+	Cylinder 3 Misfire Counts For Emissions Failure
+	Cylinder 4 Misfire Counts For Catalyst Damage
+	Cylinder 4 Misfire Counts For Emissions Failure
+	Desired Intake Camshaft Position
+	Egr (Exhaust Gas Recirculation) Valve Stepping Motor Position
+	Electronic Throttle Control Actual
+	Electronic Variable Air Compressor
+	Engine Coolant Control Valve Position Command
+	Engine Coolant Control Valve Position Raw
+	Engine Coolant Temperature
+	Engine Oil Diluted
+	Engine Oil Level
+	Engine Oil Pressure
+	Engine Oil Temperature (C) 1
+	Equivalence Ratio (Lambda) (Bank 1, Sensor 1)
+	Exhaust Shutter Valve Position Actual
+	Exhaust Shutter Valve Position Desired
+	Fan Control High Speed
+	Fan Control Low Speed
+	Fan Speed Desired
+	Fuel Level
+	Fuel Pressure Desired
+	Fuel Pressure Sensor
+	Fuel Rail Pressure A (Kpa) 1
+	Fuel Rail Temperature
+	Fuel System - Closed Loop
+	Fuel System - Closed Loop Fault
+	Fuel System - Open Loop
+	Fuel System - Open Loop Drive
+	Fuel System - Open Loop Fault
+	Fuel Tank Pressure (V)
+	Grill Shutter A Position - Commanded
+	Heated Exhaust Gas Oxygen Sensor Heater (Bank 1, Sensor 1) (%)
+	Heated Exhaust Gas Oxygen Sensor Heater (Bank 1, Sensor 2)(%)
+	Hybrid Battery State Of Charge
+	Hybrid Battery Voltage
+	In Gear
+	Intake Air Temperature (C)
+	Intake Air Temperature 2 (C)
+	Intake Air Temperature Bank 1 Sensor 1
+	Knocking Retard
+	Manifold Absolute Pressure Sensor (Kpa)
+	Manifold Absolute Pressure Sensor (V)
+	Manual Gear Position - Calculated
+	Mass Air Flow (V)
+	Relative Throttle Position
+	Reverse Switch
+	Spark Advance
+	Target Exhaust Variable Valve Timing Control - Retard Amount From Max Advance Position
+	Target Throttle Valve Position Angle
+	Throttle Position (%)
+	Throttle Position (V)
+	Throttle Position Sensor 2 (%)
+	Throttle Position Sensor 2 (V)
+	Total Wheel Torque - Estimated
+	Total Wheel Torque - Target
+	Vehicle Battery - Days In Service
+	Wheel Speed Sensor - Left Front
+	Wheel Speed Sensor - Left Rear
+	Wheel Speed Sensor - Right Front
+	Wheel Speed Sensor - Right Rear
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Electric Park Brake Switch Input Status
+	Module Supply Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Left Door Lock - Link Switch
+	Left Power Sliding Door Motor Current
+	Left Target Door Speed
+	Left Vehicle Speed Information
+	Left Vehicle Stoop Information
+	Module Supply Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cruise Control Switch
+	Front Washer Switch
+	Liftgate/Trunk Lock Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Airbag Warning Lamp
+	Driver Seat Belt Status
+	Fault Status Of Buckle Switch (Passenger Side)
+	Ocs Passenger Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Afs Status
+	Module Supply Voltage (Ig)
+	Rear Height Sensor Input Voltage
+	Rear Height Sensor Input Voltage At The Time Of Initialization
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Module Supply Voltage
+	Right Door Lock-Link Switch
+	Right Power Sliding Door Motor Current
+	Right Target Door Speed
+	Right Vehicle Speed Information
+	Right Vehicle Stop Information
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Overheat Protection (High)
+	Current Overheat Protection (Low)
+	Ecu Internal Temperature
+	Engine Revolutions Per Minute
+	Error Status
+	History Of Overheat Protection (High)
+	History Of Overheat Protection (Low)
+	Ig On Counter After Overheat Protection (Complete)
+	Ig On Counter After Overheat Protection (Middle)
+	Module Supply Voltage
+	Motor Current
+	Steering Shaft Torque 1
+	Steering Shaft Torque 2
+	Steering Torque Sub 1
+	Steering Torque Sub 2
+	Steering Wheel Absolute Angle
+	Steering Wheel Estimated Absolute Angle
+	Steering Wheel Rotation Speed
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position Sensor 1
+	Accelerator Pedal Position Sensor 2
+	Battery Current
+	Battery Estimated State Of Charge
+	Brake Booster Pressure Sensor
+	Brake Fluid Pressure Sensor
+	Diesel Particulate Filter
+	Engine Coolant Temperature
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Fuel Rail Pressure
+	Malfunction Indicator Lamp (Mil)
+	Manifold Absolute Pressure Sensor
+	Mass Air Flow
+	Times Since Engine Start
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Brake Switch 1
+	Tire Pressure - Left Front
+	Tire Pressure - Left Rear
+	Tire Pressure - Right Front
+	Tire Pressure - Right Rear
+	Turn Light (Left)
+	Turn Light (Right)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance To Target
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Status
+	Ignition Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Module Supply Voltage
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	1-2 Shift Solenoid On/Off Solenoid
+	Accelerator Pedal Position
+	Accelerator Pedal Position Sensor 1
+	Diff Gear Protection Record Maximum Drive Wheel Speed Difference
+	Ecu Internal Temperature
+	Ecu Internal Temperature A
+	Ecu Internal Temperature B
+	Electric Oil Pump Duty Cycle
+	Engine Coolant Temperature (Tcm)
+	I-Stop (Idle Stop System)
+	Most Recent Shift Event Type Identifier
+	Motor Pump Unit Actual Speed
+	Neutral
+	Oil Pressure Switch 1
+	Oil Pressure Switch 2
+	Paddle Shift Down
+	Paddle Shift Up
+	Selector Lever At M Position
+	Selector Lever At R Position
+	Shift Control Mode
+	Shift Event Status
+	Shift On Control Status
+	Throttle Position
+	Torque Converter Lockup State
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Lock Relay
+	Driver Door
+	Front Fog Switch
+	Hazard Switch
+	Headlight Switch (Hi)
+	Hood
+	Horn Relay
+	Ignition Status
+	Left Rear Door
+	Passenger Door
+	Passenger/Rear Side Door Lock Link Switch (Unlock Side)
+	Right Rear Door
+	Turn Light (Left)
+	Turn Light (Right)
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Speed
+	Fuel Level Percentage
+	Fuel Rate
+	Malfunction Indicator Lamp Status
+	Manifold Absolute Pressure
+	Odometer
+	Prndl Position
+	Transmission Actual Gear Status
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Intake Actuator
+	Air Intake Actuator Position
+	Air Mix Actuator - Left
+	Air Mix Actuator - Right
+	Air Mix Actuator Position - Left
+	Air Mix Actuator Position - Right
+	Airflow Mode Actuator Position
+	Ambient Air Temperature
+	Ambient Air Temperature - Internal
+	Engine Coolant Temperature
+	Evaporator Temperature
+	Heater Core Temperature
+	Module Supply Voltage
+	Position Memory Control Module
+	Position Memory Control Module / Seat Warmer Control Unit
+	Rear Module Output Voltage
+	Rear Module Supply Voltage
+	Rear Vent Actuator Position
+	Rent Vent Actuator
+	Seat Warmer Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Gauge
+	Speedometer
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Revolution Per Minute
+	Module Supply Voltage
+	Number Of Card Keys Registered In Module
+	Number Of Dtc Stored In The Module
+	Number Of Keys Registered In Module
+	Vehicle Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	5V Voltage
+	A/C Control Staut
+	A/C Mode Control Status
+	A/C Switch
+	Air Intake Control Setting Status
+	Airflow Volume Control Switch (+)
+	Airflow Volume Control Switch (-)
+	Ambient Air Temperature - Internal
+	Auto Switch
+	Climate Control Unit Status
+	Defroster Switch
+	Fan Control Status
+	Glove Box Lamp Control
+	Hazard Control Status
+	Hazard Switch
+	Module Supply Voltage
+	Power Switch
+	Rear Defogger Control Status
+	Rear Defrost Switch
+	Recirculate Switch
+	Seat Warmer Status - Left
+	Seat Warmer Status - Right
+	Seat Warmer Switch - Left
+	Seat Warmer Switch - Right
+	Side Turn Light Output Signal
+	Steering Warmer Switch Status
+	Sync Switch
+	Temperature Down Switch - Left
+	Temperature Down Switch - Right
+	Temperature Up Switch - Left
+	Temperature Up Switch - Right
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Anti Theft System
+	Battery Temperature
+	Brake Switch
+	Brake Switch 1
+	Burglar Alarm
+	Burglar Backup Siren
+	Burglar Gain
+	Burglar Hazard
+	Burglar Ims
+	Burglar Is
+	Burglar Sensor
+	Clutch Cut Switch
+	Combination Meter Supply Voltage
+	Control Signal Of Burglar Alarm
+	Control Signal Of Panic
+	Day Time Running Light
+	Door Lock-All
+	Door Unlock-All
+	Door Unlock-Driver
+	Double Locking Function (Superlock)
+	Electrical Steering Unlock/ Look Control Status
+	Electrical Steering Unlock/ Look Ground Status
+	Electrical Steering Unlock/ Look Power Status
+	Engine Coolant Temperature
+	Engine Starter Motor Relay
+	Engine Starter Motor Relay 2
+	Hazard Switch
+	Hazard Switch (Hi)
+	Hazard Switch (Low) 1
+	Headlight Switch (Off)
+	Headlight Switch (Pass)
+	Headlight Switch (Tns)
+	Immobilizer Identify
+	Immobilizer Operation Mode
+	Immobilizer System
+	Intermittent Wiper Operation Of Rear Wiper
+	Key Buzzer
+	Lock Link Switch Lock Status Front Door (Left Hand)
+	Master Key
+	Module Supply Voltage
+	Module Supply Voltage (Escl)
+	Module Supply Voltage (Igi)
+	Module Supply Voltage (Limp)
+	Number Of Programming Rke(Remote Keyless Entry)Transmitters
+	Outside Car Temperature
+	P Range Switch
+	Power Mode Key State
+	Relative Humidity
+	Remote Transmitter
+	Rls Auto Light Request
+	Seatbelt Status All Rear
+	Seatbelt Warning Light Driver
+	Seatbelt Warning Light Driver
+	Ssb(Start Stop Button) 1
+	Ssb(Start Stop Button) 2
+	Ssb(Start Stop Button) Amber
+	Ssb(Start Stop Button) Green
+	Ssb(Start Stop Button) Illumination
+	Stop Start Unit Reset Number
+	Stop Start Unit Reset Status
+	Tire Pressure - Left Front
+	Tire Pressure - Left Rear
+	Tire Pressure - Right Rear
+	Tire Temperature - Left Rear
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Lateral Acceleration (Calculated Value)
+	Parking Brake Switch
+	Steering Wheel Angle (Calculated Value)
+	Yaw Rate (Calculated Value)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Pump Motor Revolution Per Minutes
+	Current Overheat Protection (Complete)
+	Current Overheat Protection (High)
+	Current Overheat Protection (Low)
+	Current Overheat Protection (Middle)
+	Current Value Of Torque Sensor
+	Ecu Internal Temperature
+	Engine Rpm
+	Error Status
+	Error Status
+	History Of Overheat Protection (Complete)
+	History Of Overheat Protection (High)
+	History Of Overheat Protection (Low)
+	History Of Overheat Protection (Middle)
+	Ig On Counter After Overheat Protection
+	Ig On Counter After Overheat Protection (Complete)
+	Ig On Counter After Overheat Protection (Middle)
+	Ig On Counter After Overheat Protection (Middle)
+	Module Supply Voltage
+	Module Supply Voltage
+	Number Of Dtc Stored In Module
+	Printed Circuit Board Temperature
+	Pump Motor Operation Current
+	Steering Shaft Torque 1
+	Steering Shaft Torque 2
+	Steering Shaft Torque Sensor(Main)
+	Steering Torque Sub 1
+	Steering Torque Sub 2
+	Steering Wheel Rotation Rate
+	Steering Wheel Rotation Speed
+	Vehicle Speed Low Resolution
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Detector Bar Resistance B
+	Detector Bar Resistance C
+	Detector Bar Resistance C
+	Module Supply Voltage
+	Ocs(Overdrive Cancel Switch) State
+	Poor Connection Detector Bar Voltage (Chamber-A)
+	Seat Belt Status (Driver Side)
+	Seat Belt Status (Passenger Side)
+	Seat Belt Status (Reminder Sensor)
+	Seat Position Sensor Status (Driver Side)
+	Seat Track Position Switch Fault Status (Driver Side)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acceleration Sensor Temperature
+	Acceleration Sensor Temperature At Initialization
+	Adaptive Front Lighting System Status
+	Headlamp Status
+	Horizontal Status
+	Module Supply Voltage
+	Reverse Lamp Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	360 View Monitor Switch History
+	Active Stability Control Switch History
+	Adaptive Led Headlight/High Beam Control System (Hbc) Switch (After Connecting B+ Power Supply)
+	Adaptive Led Lights/High Beam Control Switch
+	Afs Status
+	Asc Switch
+	Bsm Off/Rvm On Switch
+	Cancel Switch
+	Cancel Switch (After Connecting B+ Power Supply)
+	Cruise Control Switch
+	Cruise Control Switch (After Connecting B+ Power Supply)
+	Dimmer Cancel Switch Input Status
+	Distance Minus Switch
+	Distance Minus Switch (After Connecting B+ Power Supply)
+	Distance Plus Switch
+	Distance Plus Switch (After Connecting B+ Power Supply)
+	Dsc Off Switch
+	Dsc Off Switch History
+	Fuel Gauge
+	I-Activesense Off Switch History
+	I-Activesense Switch (After Connecting B+ Power Supply)
+	I-Stop (Idle Stop Switch)
+	Info Switch
+	Ldws On Switch
+	Limit Switch
+	Limit Switch History
+	Mazda Radar Cruise Control (Mrcc) Switch (After Connecting B+ Power Supply)
+	Memory Switch 1
+	Memory Switch 1 History
+	Memory Switch 2
+	Memory Switch 2 History
+	Module Supply Voltage
+	Mrcc Switch
+	Panel Light Control Switch Input Status
+	Parking Sensor Switch History
+	Position Set Switch
+	Rear Fog Switch
+	Rear Fog Switch History
+	Resume Switch
+	Resume Switch (After Connecting B+ Power Supply)
+	Set - Switch (After Connecting B+ Power Supply)
+	Set Minus Switch
+	Set Switch History
+	Speedometer
+	Steering Switch
+	Tachometer
+	Tja Switch
+	Tja Switch (After Connecting B+ Power Supply)
+	Tpms Calibration Switch
+	Trip Meter Switch
+	Trunk Lid Opener Switch (Interior) History
+	Upper Switch (After Connecting B+ Power Supply)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Airbag 2 Resistance, Driver Side
+	Airbag 2 Resistance, Passenger Side
+	Airbag Resistance, Driver Side
+	Airbag Resistance, Passenger Side
+	Buckle Switch Status, Driver Side
+	Buckle Switch Status, Passenger Side
+	Continuous Code
+	Curtain Airbag Resistance, Driver Side
+	Curtain Airbag Resistance, Passenger Side
+	Generic Ocs Module Fault, Front Passenger Side
+	Ignition Voltage
+	Module Supply Voltage
+	Ocs Calibration Fault, Front Passenger Side
+	Ocs Communication Fault, Front Passenger Side
+	Ocs(Overdrive Cancel Switch) Measured Weight Of Passenger
+	Passenger Ocs Status
+	Passenger-Side Air Bag Cut-Off Switch
+	Poor Connection Detector Bar Resistance
+	Pretensioner Circuit Resistance, Driver Side
+	Pretensioner Circuit Resistance, Driver Side
+	Pretensioner Circuit Resistance, Passenger Side
+	Pretensioner Circuit Resistance, Passenger Side
+	Seat Track Position Status
+	Side Impact Airbag Resistance, Driver Side
+	Side Impact Airbag Resistance, Passenger Side
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	360 View Monitor Switch History
+	Adaptive Led Lights/High Beam Control Switch
+	At Shift Down Switch
+	At Shift Up Switch
+	Bsm Off/Rvm On Switch
+	Cancel Switch
+	Cruise Control Switch
+	Dsc Off Switch
+	Engine Coolant Temperature Gauge
+	Evaporator Temperature
+	External Ambient Temperature
+	Faults Status Of Multi Switch
+	Fuel Gauge
+	Fuel Gauge
+	I Stop(Idle Stop System) Off Mode
+	Module Supply Voltage
+	Number Of Key Registered In Module
+	Odometer Rolling Count
+	Odometer Rolling Count 2
+	Reverse Gear Switch
+	Reverse Lamb
+	Speedometer
+	Tachometer
+	Tire Pressure, Wheel Unit 1
+	Tire Pressure, Wheel Unit 2
+	Tire Pressure, Wheel Unit 3
+	Tire Pressure, Wheel Unit 4
+	Tire Temperature, Wheel Unit 1
+	Tire Temperature, Wheel Unit 2
+	Tire Temperature, Wheel Unit 3
+	Tire Temperature, Wheel Unit 4
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch 1
+	Clutch Cut Switch
+	Clutch Switch
+	Driver Side Door Lock Link Switch
+	Engine Starter Motor Relay 1
+	Engine Starter Motor Relay 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Force Estimated - Left
+	Brake Force Estimated - Right
+	Brake Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/F Sensor Output
+	Abv Oil Pressure
+	Accelerator Pedal Position
+	Accelerator Pedal Position
+	Accelerator Pedal Position %
+	Accelerator Pedal Position 1
+	Accelerator Pedal Position Sensor 1
+	Accelerator Pedal Position Sensor 2
+	Active Air Shutter Module Calibration Status
+	Active Air Shutter Position Actual
+	Ambient Air Temperature
+	Ambient Air Temperature Sensor 2
+	Awd Solenoid Control Duty Value
+	Barometric Pressure
+	Battery Current
+	Battery Estimated State Of Charge
+	Battery Voltage
+	Brake Switch 1 Input Signal Status
+	Brake Switch 2 Input Signal Status
+	Cylinder 1 Misfire Counts For Catalyst Converter
+	Desired Segrp Valve Position
+	Electronic Throttle Control Desired
+	Electronic Variable Air Compressor
+	Engine Coolant Control Valve Position Command
+	Engine Coolant Control Valve Position Raw
+	Engine Coolant Temperature
+	Engine Load
+	Engine Oil Diluted
+	Exhaust Gas Oxygen Sensor Heater (Bank 1,Sensor1)
+	Exhaust Gas Oxygen Sensor Heater (Bank 1,Sensor2)
+	Exhaust Shutter Valve Position Desired
+	Fuel Cap Off Indicator Lamp
+	Fuel Level
+	Fuel Lo Temperature
+	Fuel Pump
+	Fuel System Closed Loop Fault
+	Fuel System Open Loop
+	Fuel System Open Loop Drive
+	Fuel System Open Loop Fault
+	Grill Shutter A Position Commanded
+	Heated Exhaust Gas Oxygen Sensor Heater (Bank 1,Sensor1)(Off/On)
+	Heated Exhaust Gas Oxygen Sensor Heater (Bank 1,Sensor2)
+	Heated Exhaust Gas Oxygen Sensor Heater (Bank 1,Sensor2)(Off/On)
+	Hybrid Battery State Of Charge
+	I Stop(Idle Stop System)Transmission D Range Selected Status
+	Idle Validation Switch
+	Injector
+	Intake Air Temperature
+	Intercooler Outlet Air Temperature
+	Long Term Fuel Trim (Bank 1,Sensor 2)
+	Long Term Fuel Trim 1
+	Manifold Absolute Pressure Sensor
+	Manual Gear Position
+	Oil Pressure Solenoid Valve
+	Relative Throttle Position
+	Short Term Fuel Trim (Bank 1, Sensor2)
+	Spark Advanced
+	Throttle Position Sensor 1
+	Throttle Position Sensor 2
+	Transmission Gear Engaged
+	Turbocharger Inlet Pressure
+	Vehicle Speed
+	Wastegate Valve Position Simulation
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Crash Output Relay Status
+	Current Output Value
+	Dcm Mode
+	Ig
+	Sos Switch Input Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd Warning Lamp
+	Ambient Air Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Torque Actual
+	Throttle Position
+

@@ -1,0 +1,1179 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Ford 'Expedition' (2021)
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Fuel Level
+	Gear Position
+	Ignition
+	Vehicle Battery-State Of Charge
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Gear Commanded
+	Manifold Absolute Pressure
+	Throttle Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Gauge Indicator
+	Gear Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Ajar Counter
+	Vehicle Battery State Of Charge
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Calculated Torque Output From The Engine
+	Driver Seatbelt State
+	Fuel Level
+	Gear Position
+	Manifold Absolute Pressure
+	Power Mode Key Status
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Calculated Torque Output From The Engine
+	Driver Seatbelt State
+	Fuel Level
+	Gear Position
+	Ignition Status
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Inlet Door Position
+	Air Quality Sensor
+	Blower Speed
+	Electric A/C Compressor High Voltage Supply
+	Electric A/C Compressor Internal Power Device Temperature
+	Electric A/C Compressor Speed
+	Evaporator Temperature
+	External Ambient Temperature
+	Left Blend Door Position
+	Left Climate Seat Mode
+	Left Discharge Floor Temperature
+	Left Discharge Panel Temperature
+	Left Solar Radiation Sensor
+	Mode Door Position
+	Outside Temperature
+	Relative Humidity
+	Right Blend Door Position
+	Right Climate Seat Mode
+	Right Discharge Floor Temperature
+	Right Discharge Panel Temperature
+	Right Solar Radiation Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Evacuate And Fill Process Status
+	Active Yaw Control
+	Application Signature Validation Status
+	Brake Actuator Status
+	Brake Control System Mode
+	Brake Fluid Level Sensor Status
+	Brake Traction Control System
+	Ecu Power Supply Voltage
+	Electric Park Brake - Switch Input Status
+	Electric Park Brake Warning Lamp Status
+	Engine Drag Control
+	Engine In Crank
+	Engine Status - Engine Running
+	Main Ecu Voltage Supply
+	Outside Temperature
+	Park Brake Switch
+	Power Mode
+	Power Mode Quality Factor
+	Roll Stability Control
+	Selectable Drive Mode Current Active Mode
+	Traction Control System
+	Trailer Stability Control
+	Vehicle Speed
+	Vehicle Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Maintenance Mode Status
+	Battery Maintenance Rebalance Mode Status
+	Charge Power Limit
+	Dc/Dc Converter High Voltage (Hv) Current - Measured
+	Dc/Dc Converter Internal Temperature - Measured
+	Dc/Dc Converter Low Voltage (Lv) Current
+	Delta Module Temperature
+	Hybrid Battery Temperature
+	Hybrid/Ev Battery Charge Voltage - Requested
+	Hybrid/Ev Battery Charger Status
+	Hybrid/Ev Battery Charging Status
+	Hybrid/Ev Battery Coolant Inlet Temperature
+	Hybrid/Ev Battery Discharge Power Limit
+	Hybrid/Ev Battery Pack Remaining Charge
+	Hybrid/Ev Battery State Of Charge - Displayed
+	Indoor Temperature
+	Iso - Auxiliary Contactor Enable Status
+	Iso - Low Side Driver Disable Status
+	Iso - Negative Contactor Enable Status
+	Iso - Positive Contactor Enable Status
+	Iso - Pre-Charge Contactor Enable Status
+	Main Becm Voltage Supply
+	Main Ecu Voltage Supply
+	Minimum Module Temperature
+	State Of Charge (State Of Charge) Oil Control Valve (Ocv) Override
+	Switch Ignition Voltage
+	Vehicle Battery Support From Battery Charging System
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	1-Speed Transfer Case Type
+	4Wd Clutch Output
+	4Wd Clutch Pwm Output Open Circuit
+	4Wd Clutch Pwm Output Short To Battery
+	4Wd Clutch Pwm Output Short To Ground
+	4Wd Switch Status
+	Average Front Wheel Speed
+	Average Rear Wheel Speed
+	Brake Pedal Switch
+	Ccw Shift Motor Driver Open Circuit
+	Ccw Shift Motor Driver Output State
+	Ccw Shift Motor Driver Short To Battery
+	Ccw Shift Motor Driver Short To Ground
+	Cw Shift Motor Driver Open Circuit
+	Cw Shift Motor Driver Output State
+	Cw Shift Motor Driver Short To Battery
+	Cw Shift Motor Driver Short To Ground
+	Four Wheel Drive Clutch Output
+	Four Wheel Drive Mode
+	Four Wheel Drive Mode Select Switch Status
+	Last Rotary Encoder Direction Is Clockwise/Right
+	Last Rotary Encoder Direction Is Counter-Clockwise/Left
+	Locking Differential Input Switch Status
+	Neutral Indicator
+	Push Button 1 Indicator State
+	Push Button 1 Input State
+	Push Button 2 Indicator State
+	Push Button 2 Input State
+	Push Button 3 Indicator State
+	Push Button 3 Input State
+	Push Button 4 Indicator State
+	Push Button 4 Input State
+	Pwm Output Control Command No. 1
+	Rear Locking Differential Output
+	Rear Locking Differential Pwm Output Open Circuit
+	Rear Locking Differential Pwm Output Short To Battery
+	Rear Locking Differential Pwm Output Short To Ground
+	Rear Locking Differential Pwm Output State
+	Rotary Encoder Input 1 Level
+	Rotary Encoder Input 2 Level
+	Rotary Encoder Input Is Currently Unreliable
+	Shift Motor Contact Plate Encoder A
+	Shift Motor Contact Plate Encoder B
+	Shift Motor Contact Plate Encoder C
+	Shift Motor Contact Plate Encoder D
+	Throttle Position Sensor 1
+	Transfer Case Shift Motor Position Sense Contact Plate Power Circuit Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Output Power A
+	Control Module Output Power B
+	Left Front Damper Solenoid Resistance
+	Left Front Damper Solenoid Resistance Jounce
+	Left Front Damper Solenoid Resistance Rebound
+	Left Front Height Sensor
+	Left Front Height Sensor Calibration Status
+	Left Rear Damper Solenoid Resistance
+	Left Rear Damper Solenoid Resistance Jounce
+	Left Rear Damper Solenoid Resistance Rebound
+	Left Rear Height Sensor
+	Left Rear Height Sensor Calibration Status
+	Right Front Damper Solenoid Resistance
+	Right Front Damper Solenoid Resistance Jounce
+	Right Front Damper Solenoid Resistance Rebound
+	Right Front Height Sensor
+	Right Front Height Sensor Calibration Status
+	Right Rear Damper Solenoid Resistance
+	Right Rear Damper Solenoid Resistance Jounce
+	Right Rear Damper Solenoid Resistance Rebound
+	Right Rear Height Sensor
+	Right Rear Height Sensor Calibration Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs
+	Abs Fault Generic Warning
+	Ac Demand
+	Active Headrest
+	Active Hood / Pedestrian Protection
+	Adaptive Cruise Control
+	Adaptive Cruise Control Warning
+	Adaptive Front Lighting Fault
+	Adaptive Headlamps
+	Adaptive Spoiler
+	Air Filter Minder Warning
+	Air Suspension Or Ride Control Fault
+	Airbag
+	All Warnings Lamp
+	All Wheel Drive Off Warning
+	All Wheel Steering
+	Alternating Taillamps Decklid And C/D Pillar
+	Anti Theft Indicator Or Warning
+	Anti-Autolight
+	Anti-Lock Braking System
+	Antilock Brake Fault
+	Automatic Headlamp Leveling
+	Automatic High Beams Control
+	Automatic Speed Limiting Device
+	Average Fuel Consumption
+	Blind Spot Detection Warning
+	Brake By Wire Systems
+	Brake Fluid Level Low Warning
+	Brake Warning
+	Bulb Failure
+	Charge System Fault
+	Charge Warning
+	Check Fuel Cap Warning
+	Check Fuel Fill Inlet Warning
+	City Safety Warning
+	Collision Avoidance / Mitigation
+	Continuous Controlled Damping
+	Data Range Failure Counter
+	Diesel Engine Idle Shutdown Warning
+	Diesel Engine Warming Warning
+	Diesel Exhaust Fluid (Reductant) Level Pointer Position
+	Diesel Exhaust Fluid Contaminated Warnings
+	Diesel Exhaust Fluid Level Low Warnings
+	Diesel Exhaust Overtemperature
+	Diesel Particulate Filter Cleaning
+	Diesel Pre-Heat
+	Diesel Pre-Heat Warning
+	Diesel Water In Fuel Warning
+	Distance To Empty - Calculated
+	Distance To Empty - Displayed
+	Dynamic Bending Light
+	Dynamic Stability Control (Dsc)/Traction Control (Tc)
+	Dynamic Stability Control Switch Status
+	Electric Powered Assist Steering / Electro-Hydraulic Powered Assist Steering
+	Electric Powertrain Status
+	Electric Trailer Brake Connection Status
+	Electronic Brake Fault
+	Electronic Parking Brake
+	Electronic Parking Brake Warning
+	Electronic Stability Program
+	Emergency Brake Assist
+	Engine Coolant Overtemperature
+	Engine Temperature Gauge Pointer Position
+	Fasten Seatbelt Warning
+	Forward Collision Warning
+	Forward Collision Warning
+	Four Wheel Drive (4Wd) Auto Tell Tale
+	Four Wheel Drive (4Wd) High Tell Tale
+	Four Wheel Drive (4Wd) Low Tell Tale
+	Front Fog
+	Fuel Cell
+	Fuel Door Open Or Ajar Warning
+	Fuel Gauge Pointer Position
+	Fuel Level Sender 1 A/D Count - Filters
+	Fuel Level Sender 2 A/D Count - Filters
+	Gas Particulate Filter Warning
+	Gear Display
+	Hev Hazard Light
+	Hev Ready Light
+	Hev/Bev Hazard Warning
+	High Beam
+	High Coolant Temperature
+	Hill Decent Control
+	Hill Descent Control Fault Warning
+	Hill Descent Control Switch Status
+	Hill Start Assist
+	Hill Start Assist Warning
+	Hybrid Powertrain Status
+	Illegal Operation Code Counter
+	Lane Departure Warning
+	Lane Departure Warning
+	Lane Keeping Assist By Braking
+	Lane Keeping Assist By Steering
+	Left Direction Indicator
+	Loop-Time Overflow Or Scheduler Idle Time Overflow Counter
+	Low Engine Oil Pressure Warning
+	Low Fuel Warn
+	Low Fuel Warning
+	Low Washer
+	Low Washer Fluid Warning
+	Malfunction Indicator Lamp (Mil)
+	Mil
+	Minimum Idle-Time
+	Odometer Delta Distance Exceeded Event Counter
+	Oil Pressure Gauge Pointer Position
+	Oil Pressure Low
+	Operating Voltage
+	Operating Voltage
+	Overdrive Cancel Lamp
+	Park Aid Malfunction Warning
+	Park Brake
+	Park Switch State - Park Detected
+	Passive Entry Passive Start Warning
+	Power On Reset Counter
+	Powertrain Malfunction Warning
+	Pretensioners
+	Rear Fog
+	Reductant Level Low Warning
+	Restraints Indicator Lamp (Ril) Warning
+	Ride-Height Control System
+	Right Direction Indicator
+	Roll Over Protection
+	Running Average Fuel Consumption Used In Distance To Empty Calculation
+	Saudi Over Speed/Water In Fuel
+	Saudi Overspeed
+	Seatbelt
+	Selectable Drive Mode Status
+	Semi-Automatic Parallel Parking
+	Service Steering Warning
+	Sidelight Tell Tale
+	Sounder Output
+	Speedometer Pointer Position
+	Stability Control / Tc Off Warning Status
+	Stack Overflow Counter
+	Start/Stop Engine Warning
+	Static Bending Light
+	Superpositioning Steering
+	Supplementary Restraint System (Srs)
+	Tachometer Pointer Position
+	Tire Pressure Monitor System (Tpms)
+	Tire Pressure Monitoring System / Deflation Detection System
+	Total Engine Run Time
+	Total Engine Run Time Supported
+	Total Idle Run Time
+	Total Idle Run Time Supported
+	Total Odometer Delta Distance Added
+	Total Run Time With Pto Active
+	Total Run Time With Pto Active Supported
+	Tpms (Amber)
+	Tpms Reset Switch
+	Traction Control
+	Traction Control (Tc) Or Interactive Vehicle Dynamics (Ivd) Or Ride Stability Control (Rsc) Event Or Fault
+	Traction Control (Tc) Or Interactive Vehicle Dynamics (Ivd) Or Ride Stability Control (Rsc) Off Indication
+	Trail Control Switch
+	Transmission Fault (Amber)
+	Transmission Temperature Gauge Pointer Position
+	Turbo Boost Gauge Pointer Position
+	Watchdog Timer Reset Counter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Active Diagnostic Session
+	Active Front Steering (Afs) Lock Status
+	Active Front Steering Angle Overlay
+	Active Front Steering Long Term Compensation Angle
+	Adaptive Cruise Distance Gap + Switch
+	Adaptive Cruise Distance Gap - Switch
+	Afs (Active Front Lighting System) Degradation Level
+	Afs (Active Front Lighting System) System State
+	Afs (Active Front Steering) Lock Disengagement Status
+	Back/Return Button
+	Brake Pull Reduction Activation Counter
+	Compass Button
+	Cruise Resume Switch
+	Cruise Set + Switch
+	Cruise Set - Switch
+	Cruise Switch Null State-Cruise Control Multi-Function Input A
+	Data Range Failure Counter
+	Ecu Internal Temperature
+	Ecu Internal Temperature
+	Ecu Internal Temperature B
+	Ecu Internal Temperature C
+	Electric Power Status
+	End Button
+	External Temperature From Sensor
+	Front Wiper Command High Speed
+	Front Wiper Command Low Speed
+	Front Wiper Intermittent Data 1
+	Front Wiper Intermittent Data 2
+	Front Wiper Intermittent Data 3
+	Front Wiper Intermittent Data 4
+	Head Up Display Button
+	High Beam Switch
+	Ignition
+	Illegal Operation Code Counter
+	Led 1 Drive Status
+	Led 10 Drive Status
+	Led 11 Drive Status
+	Led 12 Drive Status
+	Led 13 Drive Status
+	Led 14 Drive Status
+	Led 15 Drive Status
+	Led 16 Drive Status
+	Led 17 Drive Status
+	Led 18 Drive Status
+	Led 19 Drive Status
+	Led 2 Drive Status
+	Led 20 Drive Status
+	Led 21 Drive Status
+	Led 22 Drive Status
+	Led 23 Drive Status
+	Led 24 Drive Status
+	Led 25 Drive Status
+	Led 26 Drive Status
+	Led 27 Drive Status
+	Led 28 Drive Status
+	Led 29 Drive Status
+	Led 3 Drive Status
+	Led 30 Drive Status
+	Led 31 Drive Status
+	Led 32 Drive Status
+	Led 4 Drive Status
+	Led 5 Drive Status
+	Led 6 Drive Status
+	Led 7 Drive Status
+	Led 8 Drive Status
+	Led 9 Drive Status
+	Left Cursor Arrow Any
+	Left Cursor Ok Button
+	Loop-Time Overflow Or Scheduler Idle Time Overflow Counter
+	Main Ecu Voltage Supply
+	Media + Button
+	Media - Button
+	Media Button
+	Media/Audio Button
+	Minimum Idle-Time
+	Mode Button
+	Module Supply Voltage
+	Motor Current
+	Navigation Button
+	Ok Button
+	Phone Button
+	Power On Reset Counter
+	Powerpack Torque Status
+	Pull Drift Compensation Value
+	Rear Washer Switch
+	Reset Counter
+	Right Cursor Arrow Any
+	Right Cursor Ok Button
+	Seek + Switch
+	Seek - Switch
+	Send Switch
+	Speed Control (Asld) Switch
+	Speed Control Actuator Switch Off
+	Speed Control Actuator Switch On
+	Speed Control Asld Switch
+	Speed Control Cancel Resume Switch
+	Speed Control Cancel Switch
+	Speed Control Circuit Fault Switch
+	Speed Control Gap Switch
+	Speed Control On/Off Switch
+	Speed Control On/Off/Cancel Switch
+	Speed Control Resume Switch
+	Stack Overflow Counter
+	Steering Angle Trim Target
+	Steering Column Adjust Switch Status
+	Steering Pinion Angle
+	Steering Pinion Rotation Speed
+	Steering Shaft Torque Sensor No. 2
+	Steering System Degradation Level
+	Steering System Status
+	Steering Wheel Angle
+	Steering Wheel Angle Alignment Offset
+	Steering Wheel Heater Current
+	Steering Wheel Heater Feedback
+	Steering Wheel Temperature - Estimated
+	Steering Wheel Temperature - Raw
+	Torque Steer Compensation Activation Counter
+	Traffic Jam Assist Switch
+	Turn Signal Left - Lane Change Switch Input Status
+	Turn Signal Left Switch Input Status
+	Turn Signal Right - Lane Change Switch Input Status
+	Turn Signal Right Switch Input Status
+	Vehicle Settings Button
+	View Button
+	Voice Switch
+	Volume + Switch
+	Volume - Switch
+	Watchdog Timer Reset Counter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Calculated Load Value
+	Gear Commanded
+	Intake Air Temperature
+	Most Recent Shift Event Type Identifier
+	Pressure Control Solenoid A Fault Status
+	Relative Accelerator Pedal Position
+	Shift Solenoid A (Ssa) Current Fault Status
+	Shift Solenoid B (Ssb) Current Fault Status
+	Shift Solenoid C (Ssc) Current Fault Status
+	Shift Solenoid D (Ssd) Current Fault Status
+	Shift Solenoid E (Sse) Current Fault Status
+	Shift Solenoid F (Ssf) Current Fault Status
+	Shift Type
+	Snow Plow Configuration
+	Torque Convertor Clutch (Tcc) Commanded Operation Status
+	Torque Convertor Clutch (Tcc) Solenoid Unfiltered Fault Status
+	Transmission Fluid Temperature Sensor Quality Factor
+	Transmission Forced Shift Control
+	Transmission Gear Engaged
+	Transmission Input Shaft Speed Sensor A Quality Factor
+	Transmission Input Shaft Speed Sensor B Quality Factor
+	Transmission Output Shaft Speed Sensor Quality Factor
+	Transmission Park Position Sensor Status
+	Transmission Range Sensor Quality Factor
+	Transmission Turbine Shaft Speed Sensor Quality Factor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Clutch Control Circuit Output Status
+	A/C Refrigerant Distribution Vale A Output Status
+	A/C Refrigerant Distribution Valve B Output Status
+	Ambient Color Command Status
+	Ambient Dim Command Status
+	Ambient Dim Command Status
+	Ambient Light Level Status
+	Ambient Light Level White Lighting Status
+	Anti-Theft Horn Status
+	Battery Charge Mode
+	Battery Monitoring Sensor (Bms) Power Output
+	Battery Relay
+	Battery State Detection Status
+	Bed Lamp Output Control Status
+	Blacklighting Led Control
+	Brake Fluid Level Status
+	Brake Pad Wear Switch
+	Brake/Shift Interlock
+	Cabin Lamp Output Status
+	Cargo Lamp Output Status
+	Center High Mounted Stop Lamp (Chmsl) Output Control
+	Central High Mounted Stop Lamp
+	Charge Mode
+	Clutch Pedal Status
+	Color Ambient Lamp Output Status
+	Control Command Passive Anti-Theft System (Pats) Target No. 1
+	Control Command Passive Anti-Theft System (Pats) Target No. 2
+	Courtesy Lamps
+	Courtesy Lighting Status-Interior Light Circuit A
+	Courtesy Puddle Step Lamps
+	Crash Event Detection Circuit Output Status
+	Crash Sensed Status
+	Decklid / Liftglass Release Output Status
+	Decklid / Liftglass Switch Status
+	Delayed Accessory Output
+	Demand Lamp Output
+	Dimmer Switch Input Status No. 1
+	Dome Switch Input Status
+	Door Handle Lamp Output Status
+	Door Lock, Output
+	Driver And All Doors Lock Output
+	Driver Door Ajar Counter
+	Driver Door Interior Lock Switch Status
+	Driver Door Interior Lock/Unlock Latching Switch Status
+	Driver Door Key Cylinder Switch Status
+	Driver Door Lock Status
+	Engine Start/Stop Button Backlight Output Status
+	Front Fog Light Switch
+	Front Park Lamps Output
+	Front Tire Placard Pressure
+	Front Washer Switch
+	Front Wiper System
+	Fuel Door Release Switch
+	Fuel Fill Door Open Request Switch Input Status
+	Fuel Pump Relay
+	Fuel Pump Relay Output Control
+	Global Window Open/Close Control Status
+	Glove Box Latch Release Output
+	Handbrake Status
+	Hands-Free Liftgate/Trunk Lid Input Sensor Status
+	Hazard Flasher Switch
+	Headlamp Switch Backlight Output Status
+	Heated Windshield
+	High Beam Switch Status
+	Horn Relay
+	Horn Relay Output
+	Horn Switch
+	Hybrid/Ev Battery Pack Coolant Control Valve A Output Status
+	Ignition Key In / Out
+	Ignition Key In Ignition Status
+	Ignition Key Switch Status
+	Ignition Position Final Status
+	Ignition Switch State
+	Inferred Key In Ignition Status
+	Interior Trunk Lid Switch Status
+	Key (Removal) Inhibit
+	Key Cylinder Ignition Switch Status Before Debounce
+	Key In Crank Position
+	Key Inhibit Circuit
+	Keyless Entry Keypad Lamp Output Status
+	Last Received Request From Remote Key
+	Last Received Rke (Remote Keyless Entry) Transmitter Button Press
+	Left Front Daytime Running Lamp Output
+	Left Front Door Ajar Switch Status
+	Left Front Fog Lamps Output
+	Left Front Headlamp High Beam Output Control
+	Left Front High Beam 2 Output
+	Left Front Lamp Outage Feedback Status
+	Left Front Low Beam 2 Output
+	Left Front Low Beam Output Control Status
+	Left Front Position Lamp Output
+	Left Front Position/Sidemarker
+	Left Front Static Bending Lamp
+	Left Front Turn Signal Lamp Status
+	Left Front Turn Signal Lamp/Left Mirror Turn Signal Lamp Control
+	Left Headlamp High Beam
+	Left Headlamp Low Beam
+	Left Rear Child Lock Status
+	Left Rear Stop Lamp Output 2
+	Left Rear Stop/Position Lamp Output
+	Left Rear Stop/Turn/Position Lamp Output
+	Left Rear Turn Lamp/Led Outage Feedback Status
+	Left Rear Turn Signal Lamp Control
+	Left Rear Turn Signal/Trailer Relay Status
+	Left Side Turn Repeater Status
+	Left Stop Lamp
+	Left Turn Signal Indicator
+	Left Window Down Switch
+	Left Window Up Switch
+	License Plate Lamp Output
+	Liftgate Release Output Status
+	Liftgate Release Switch Status
+	Liftgate Unlock Switch Status
+	Liftgate/Decklid Release Output
+	Load Shed Output Control
+	Load Shed Status Control
+	Lock Indicator Led Status Output
+	Low Beam Switch Status
+	Low Voltage Power System Fault And Load Shedding Status
+	Minimum Number Of Keys Required
+	Motor Start Status - Key Status
+	Non-Motive Start
+	Number Of Continuous Memory Dtcs (Diagnostic Trouble Codes)
+	Number Of Peripheral Devices Programmed
+	Number Of Programmed Rke (Remote Keyless Entry) Transmitters
+	Passenger Door Lock
+	Passive Anti-Theft System (Past) Key Reading Retry Counter
+	Passive Anti-Theft System (Past) Key Transponder Sequence Results
+	Passive Anti-Theft System (Past) Target No. 1 Command
+	Passive Anti-Theft System (Past) Target No. 1 Status
+	Passive Anti-Theft System (Past) Target No. 2 Command
+	Passive Anti-Theft System (Past) Target No. 2 Status
+	Pats (Passive Anti Theft System) Number Of Ignition Key Codes Supported
+	Pats Unlimited Key Mode
+	Placard Pressure - Front Tires
+	Placard Pressure - Rear Tires
+	Police Idle Switch Status
+	Police Idle System Configuration Status
+	Power Distribution Box (Pdb) Power Output To Multicontour Seat
+	Power Point Output Relay
+	Power Point Relay Reset Circuit Status
+	Power Point Relay Set Circuit Status
+	Power Supply A Status
+	Power Supply B Status
+	Powertrain Control Module (Pcm) Wake-Up Output Control
+	Puddle Lamp Control
+	Puddle/Cargo Lamp Switch Input Status
+	Rear Defrost Switch
+	Rear Fog Lamp Switch
+	Rear Fog Lamps Output
+	Rear Park Lamps Output
+	Rear Seat Recline Control
+	Rear Washer Switch Position
+	Rear Wiper Input Switch Status
+	Regenerative Charging Test Mode Status
+	Reverse Lamp
+	Reverse Lamps Output Control Status
+	Right Front Daytime Running Lamp Output
+	Right Front Door Ajar Switch Status
+	Right Front Fog Lamp Output
+	Right Front Headlamp High Beam Output Control
+	Right Front High Beam 2 Output
+	Right Front Low Beam 2 Output
+	Right Front Low Beam Output Control Status
+	Right Front Position Lamp Output
+	Right Front Position/Sidemarker
+	Right Front Status Bending Lamp
+	Right Front Turn Lamp Outage Feedback Status
+	Right Front Turn Signal Lamp/Right Mirror Turn Signal Lamp Control
+	Right Rear Child Lock Status
+	Right Rear Stop Lamp Output 2
+	Right Rear Stop Lamp/Turn Signal Lamp/Trailer Relay Control
+	Right Rear Stop/Position Lamp Output
+	Right Rear Stop/Turn/Position Lamp Output
+	Right Rear Turn Lamp/Led Outage Feedback Status
+	Right Rear Turn Signal Lamp Control
+	Right Rear Turn Signal/Trailer Relay Status
+	Right Side Turn Repeater Status
+	Right Stop Lamp
+	Right Turn Signal Indicator
+	Right Window Down Switch
+	Right Window Up Switch
+	Run / Accessory Output Control
+	Run / Start Output Control
+	Run/Acc Output Control
+	Run/Start Output Control
+	Run/Start Output Control 2
+	Security Anti-Theft Horn Output Control
+	Shift Interlock Circuit Status
+	Snow Plow Output
+	Sounder Output
+	Spare Key Programming Status
+	Spotlight Mirror Output
+	Start Button Mode Indicator Control
+	Start Button Switch Status
+	Steering Column Lock Power Control
+	Steering Column Lock Status
+	Stop Lamp Switch
+	Third Row Power Folding Seat Output Control
+	Tire Pressure Monitoring System (Tpms) Status
+	Tire Pressure Monitoring System (Tpms) Warning Lamp Status
+	Tire Pressure Monitoring System Indicator
+	Tpms Auto Location Last Event Decision
+	Tpms Auto Location Mirror Image Status
+	Tpms Auto Location Status
+	Tpms Recent Auto Location Fault Count
+	Tpms Vehicle Motion Status - Calculated
+	Tpms Warm Pressure (Pwarm) Calculation Status
+	Trailer Hitch Lamp Output Status
+	Trailer Tow Park/Tail Lamp Output
+	Trunk Ajar Switch
+	Trunk Lid/Liftglass Release Output Status
+	Trunk Lid/Liftglass Switch Status
+	Trunk Lid/Trunk Key Cylinder Switch Status
+	Trunk Opener Control
+	Trunk/Liftgate Release Switch
+	Vehicle Battery B Voltage
+	Vehicle Battery C Voltage
+	Vehicle Battery Current
+	Vehicle Battery D Voltage
+	Vehicle Battery E Voltage
+	Vehicle Battery State Of Charge - Estimated
+	Vehicle Battery Temperature - Estimated
+	Vehicle Battery Voltage
+	Vehicle Horn Switch Input Status
+	Vehicle Mode
+	Vehicle Speed Output Control
+	Vehicle Speed Sensor
+	White Lighting Control
+	Wiper Heater Output
+	Wireless Accessory Charging Module Output
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	1St Row Center Seatbelt Sensor Current
+	Driver Seat Track Position Restraints Sensor
+	Driver Seatbelt Sensor Current
+	Driver Seatbelt Sensor Status
+	Ecu Power Supply Voltage
+	First Row Middle Seatbelt Sensor Status
+	Fuel Cutoff Request Status
+	Main Ecu Voltage Supply
+	Number Of Dtcs Set Due To Diagnostic Test
+	Occupant Classification Sensor Status
+	Passenger Airbag Enable/Disable Lamps Dimmer Level
+	Passenger Airbag Off Indicator Lamp Intensity Level
+	Passenger Airbag On Indicator Lamp Intensity Level
+	Passenger Restraint Device Status
+	Passenger Restraint Disable Switch Sensor A
+	Passenger Restraint Disable Switch Sensor B
+	Passenger Seat Track Position Restraints Sensor
+	Passenger Seatbelt Sensor Current
+	Passenger Seatbelt Sensor Status
+	Second Row Center Seatbelt Sensor Current
+	Second Row Driver Seatbelt Sensor Status
+	Second Row Driver Side Seatbelt Sensor Current
+	Second Row Middle Seatbelt Sensor Status
+	Second Row Passenger Seatbelt Sensor Status
+	Second Row Passenger Side Seatbelt Sensor Current
+	Third Row Center Seatbelt Sensor Current
+	Third Row Driver Seatbelt Sensor Status
+	Third Row Driver Side Seatbelt Sensor Current
+	Third Row Middle Seatbelt Sensor Status
+	Third Row Passenger Seatbelt Sensor Status
+	Third Row Passenger Side Seatbelt Sensor Current
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Double Target Factory Calibration Status
+	Ecu Internal Temperature
+	Ecu Power Supply Voltage
+	Electronic Alignment State
+	Electronic Alignment Status
+	Forward Looking Sensor (Fls) Calibration Process Status
+	Primary Target Angle
+	Service Alignment Convergence State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	02S11 - Fault Present (To Lean)
+	02S11 - Fault Present (To Rich)
+	02S11 - Lean
+	02S11 - Rich
+	02S11 - Transition From Lean To Rich
+	02S11 - Transition From Rich To Lean
+	02S11 Lambda Sensor
+	02S12 - Fault Present (To Lean)
+	02S12 - Fault Present (To Rich)
+	02S12 - Lambda Sensor
+	02S12 - Lean
+	02S12 - Rich
+	02S12 - Transition From Lean To Rich
+	02S12 - Transition From Rich To Lean
+	A/C Clutch Output Fault Detected
+	A/C Refrigerant Pressure Sensor A - Raw
+	A/C Request Message Not Received - Failure Mode
+	A/C System Refrigerant Monitoring Ready
+	A/C System Refrigerant Monitoring Supported
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Accelerator Pedal Position Sensors Maximum Difference (Current)
+	Accelerator Pedal Potentiometer 1
+	Accelerator Pedal Potentiometer 2
+	Active Grille Air Shutter Module A Boost Mode (Higher Actuator Torque) Is Commanded
+	Active Grille Air Shutter Module A Is Indicating That It Is Operating In Boost Mode (Higher Actuator Torque)
+	Air Conditioning Compressor Relay Command
+	Air Conditioning Compressor Request
+	Air Conditioning Pressure First Level Reached
+	Air Conditioning Pressure Last Level Reached
+	Air Conditioning Pressure Sensor Fault Present
+	Air Conditioning Refrigerant Pressure Sensor A Voltage
+	Air Flow Sensor Fault Present
+	Ambient Air Temperature
+	Ambient Air Temperature (Aat) Sensor Currently Implausible
+	Ambient Air Temperature - Raw
+	Ambient Air Temperature - Raw
+	Ambient Air Temperature Sensor Voltage
+	Ambient Temperature
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Module Over Temperature
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Module Over Voltage
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Module Under Voltage
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Pump Motor Over Current
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Pump Motor Over Speed
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Pump Motor Stalled
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Pump Motor Under Current
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Pump Motor Under Speed
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting Self Protect Stall State
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting The Commanded Control Percentage Speed Request Is Denied/Rejected
+	Auxiliary Transmission Fluid Pump Control Module Is Reporting The Commanded Control Percentage Speed Request Is Out Of Range
+	Auxiliary Transmission Fluid Pump Control Percentage Speed - Commanded
+	Auxiliary Transmission Fluid Pump Monitor Percentage Speed - Measured
+	Axle Ratio: Configuration Data Id (Cdid) Required By The Slave Not Received From The Master
+	Axle Ratio: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From The Master Showing Not Supported
+	Axle Ratio: The Supported Configuration Data From The Master Out Of Range For The Slave
+	Axle Ratio: This Configuration (Required By The Slave) Not Configured In The Master
+	Barometric Pressure
+	Barometric Pressure - Corrected
+	Barometric Pressure Sensor Input Implausible (Sensor May Be Contained In The Ecu)
+	Battery Type: Configuration Data Id (Cdid) Required By The Slave Not Received From The Master
+	Battery Type: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Supported
+	Battery Type: The Supported Configuration Data From The Master Out Of Range For The Slave
+	Battery Type: This Configuration (Required By The Slave) Not Configured In The Master
+	Both Dpf And Lambda Sensor Present
+	Brake Pedal Fault Present
+	Brake Switch A Input Indicating Footbrake Applied
+	Brake Switch B Input Indicating Footbrake Applied
+	Catalyst Monitoring Completed/Nmhc Catalyst Monitoring Completed
+	Catalyst Monitoring Ready/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Ready
+	Catalyst Monitoring Supported/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Supported
+	Catalyst Monitoring/Nmhc Catalyst Monitoring
+	Charge Air Cooler Temperature Sensor Type Of Most Recent Fault
+	Charge Air Cooler Temperature Sensor Type Of Second Most Recent Fault
+	Clutch Pedal Beyond Top Of Travel Switch Point
+	Clutch Pedal Position Switch
+	Collision Mitigation By Braking: Configuration Data Id (Cdid) Required By The Slave Not Received From The Master
+	Collision Mitigation By Braking: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Support
+	Collision Mitigation By Braking: The Supported Configuration Data From The Master Out Of Range For The Slave
+	Collision Mitigation By Braking: This Configuration (Required By The Slave) Not Configured In The Master
+	Command Fuel Pump Relay
+	Command Stage Driver Starter - Fault Present
+	Command Status Main Relay - Command Off
+	Command Status Main Relay - Command On
+	Comprehensive Component Monitoring Completed
+	Comprehensive Component Monitoring Enabled
+	Comprehensive Component Monitoring Ready
+	Comprehensive Component Monitoring Supported
+	Compression Ignition Monitoring Supported 1
+	Compression Ignition Monitoring Supported 2
+	Control Module Voltage
+	Coolant Pump A Commanded On
+	Coolant Pump A Control Diagnostic Status
+	Crank Switch
+	Dfi Specific Long Term Fuel Trim - Bank 1
+	Dfi Specific Long Term Fuel Trim - Bank 2
+	Diagnostic Specification Version
+	Diesel Particulate Filter - Regeneration Active Load Level In Range 2
+	Diesel Particulate Filter - Regeneration Active Load Level In Range 3
+	Diesel Particulate Filter - Regeneration Status
+	Diesel Particulate Filter Clogged Regeneration Needed
+	Distance Since Dtc Cleared
+	Distance Traveled Since Initial Snapshot Captured For This Dtc
+	Distance Traveled Since Most Recent Action (Shutdown) Was Taken Related To Engine Idle Shutdown Function
+	Distance Traveled Since Most Recent Action Related To Brake Override Accelerator Function
+	Distance Traveled Since Successful Monitoring Of The Air Filter
+	Distance Traveled Since This Snapshot Captured
+	Distance Traveled While Mil Is Activated
+	Dpf Present
+	Dtc P2610 Set Because Clock Used For Engine Off Timer Did Not Correlate With Ecu Clock Hardware
+	Dtc P2610 Set Because Engine Off Timer Value Did Not Correlate With Inferred Engine Off Time
+	Ecm Wake Up
+	Egr Fault Present
+	Egr Functionality
+	Egr Position Sensor A Learned Offset Used By The Strategy
+	Egr Position Sensor Average Offset Measured From Most Recent Successful Learning Process
+	Egr Position Sensor Learning Status
+	Elapsed Time Of Current (Or Most Recent) Engine Off Period - Corrected
+	Electric Fan Load Shed Operation Event Counter. Increments At The Start Of A Load Shed Event. Resets To 32768 Upon A Rollover
+	Electric Fan Pulse-Width Modulation (Pwm) Control - Commanded
+	Engine Coolant Fan Speed - Desired
+	Engine Coolant Temperature
+	Engine Coolant Temperature (Ect) Sensor 1 Supported
+	Engine Coolant Temperature (Ect) Sensor 2 Supported
+	Engine Coolant Temperature 1
+	Engine Coolant Temperature 2
+	Engine Coolant Temperature Sensor No.2 (Ect 2) Input Currently Implausible
+	Engine Coolant Temperature Sensor No.2 Voltage
+	Engine Disconnect Clutch Measured Slip (Engine Speed Minus Impeller Speed)
+	Engine Disconnect Clutch Operational State - Commanded
+	Engine Disconnect Clutch Pressure (Gauge Pressure) - Commanded
+	Engine Disconnect Clutch Solenoid Current Fault Status
+	Engine Fuel Rate
+	Engine Oil Pressure Sensor A Type Of Most Recent Fault
+	Engine Oil Pressure Sensor A Type Of Second Most Recent Fault
+	Engine Status
+	Engine Status - Crank Status
+	Engine Status - Cut Off Status
+	Engine Status - Engine Accelerating
+	Engine Status - Engine Decelerating
+	Engine Status - Engine Idling
+	Engine Status - Engine Stalling
+	Evaporative System Monitoring Completed/Iso/Sae Reserved (Bit Shall Be Reported As '0')
+	Evaporative System Monitoring Ready
+	Evaporative System Monitoring Supported
+	Evaporative System Monitoring/Iso/Sae Reserved (Bit Shall Be Reported As '0')
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Ready
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Supported
+	Footbrake Operation
+	Footbrake Status Used By Strategy
+	Fuel Pump Relay Present
+	Fuel System Monitoring Completed
+	Fuel System Monitoring Enabled
+	Fuel System Monitoring Ready
+	Fuel System Monitoring Supported
+	Global Real Time
+	Global Real Time (Did Dd00) At The Start Of The Most Recent Electric Fan Load Shed Operation Event
+	Global Real Time At Most Recent Clear Diagnostic Information
+	Global Real Time At Most Recent Clear Diagnostic Information
+	Grill Shutter A Is Blocked - Unable To Achieve The Commanded Position
+	Grill Shutter A Movement Counter
+	Grill Shutter A Position - Commanded
+	Grill Shutter A Position - Measured
+	Grille Shutter A Actuator Fault - End Stop Not Found Or Found Where Not Expected
+	Grille Shutter Module A - Indicates An Electrical Fault
+	Grille Shutter Module A - Indicates An Over Temperature Condition
+	Grille Shutter Module A - Indicates An Under Voltage Condition
+	Handbrake On
+	Heated Catalyst Monitoring / Nox Aftertreatment Monitoring
+	Heated Catalyst Monitoring Completed / Nox Aftertreatment Monitoring Completed
+	Heated Catalyst Monitoring Ready / Nox Aftertreatment Monitoring Ready
+	Heated Catalyst Monitoring Supported / Nox Aftertreatment Monitoring Supported
+	Ignition Switch
+	In Gear - Transmission Is Applying A Load To Engine (From Inputs And/Or Inferred)
+	Instrument Cluster Type: Configuration Data Id (Cdid) Required By The Slave Has Not Been Received From The Master
+	Instrument Cluster Type: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Supported
+	Instrument Cluster Type: The Supported Configuration Data From The Master Is Out Of Range For Required The Slave
+	Instrument Cluster Type: This Configuration (Required By The Slave) Has Not Been Configured In The Master
+	Internal Control Module Secondary Monitor Fault: Accelerator Pedal Sensor A Range/Performance (Aps1)
+	Internal Control Module Secondary Monitor Fault: Accelerator Pedal Sensor A Versus B Comparison (Apsx)
+	Internal Control Module Secondary Monitor Fault: Accelerator Pedal Sensor B Range/Performance (Aps2)
+	Internal Control Module Secondary Monitor Fault: Barometric Absolute Pressure Sense/Inference Plausibility (Bap)
+	Internal Control Module Secondary Monitor Fault: Brake Fluid Pressure Indication (Bfp)
+	Internal Control Module Secondary Monitor Fault: Brake Stability And Limiting Torque Request (Bsl)
+	Internal Control Module Secondary Monitor Fault: Clutch Pedal Sensor A Range/Performance (Cpp1)
+	Internal Control Module Secondary Monitor Fault: Clutch Pedal Sensor A Versus B Comparison (Cppx)
+	Internal Control Module Secondary Monitor Fault: Clutch Pedal Sensor B Range/Performance (Cpp2)
+	Internal Control Module Secondary Monitor Fault: Cruise Control Enable And Torque Request (Cc)
+	Internal Control Module Secondary Monitor Fault: Engine Speed Calculation Plausibility (Ckps)
+	Internal Control Module Secondary Monitor Fault: Engine Speed Control Overrun Default (Nesum)
+	Internal Control Module Secondary Monitor Fault: Engine Speed Control Overrun With Pedal (Nesum)
+	Internal Control Module Secondary Monitor Fault: Engine Speed Control Target Override Request (Trgn)
+	Internal Control Module Secondary Monitor Fault: Engine Temperature Sensors Rate/Plausibility (Ect)
+	Internal Control Module Secondary Monitor Fault: Engine Torque Output Performance (Tqsum)
+	Internal Control Module Secondary Monitor Fault: Engine Torque Request And Arbitration Clipping (Engtq)
+	Internal Control Module Secondary Monitor Fault: Fuel Injector Enable And Timing (Inj)
+	Internal Control Module Secondary Monitor Fault: Main Diagnostic Calculation And Processes (Pfm)
+	Internal Control Module Secondary Monitor Fault: Off Chip Watch Dog Frequent Reset(Qz)
+	Internal Control Module Secondary Monitor Fault: Off Chip Watch Dog Mutual Communications (Qz)
+	Internal Control Module Secondary Monitor Fault: Off Chip Watch Dog Mutual Interrogation (Qz)
+	Internal Control Module Secondary Monitor Fault: Off Chip Watch Dog Version Or Chip Id (Qz)
+	Internal Control Module Secondary Monitor Fault: Power Take-Off (Pto) Enable And Torque Up Request (Pto)
+	Internal Control Module Secondary Monitor Fault: Ram Integrity Within Secondary Monitor (Mem)Request (Pto)
+	Internal Control Module Secondary Monitor Fault: Signed Output Shaft Speed Internally Used In Transmission/Hybrid Control (Oss)
+	Internal Control Module Secondary Monitor Fault: Start/Stop Hybrid Engine Start Request (Esr)
+	Internal Control Module Secondary Monitor Fault: Start/Stop Hybrid Engine Stop Request (Esr)
+	Internal Control Module Secondary Monitor Fault: System Input Processing Integrity (Adc)
+	Internal Control Module Secondary Monitor Fault: Throttle Closed In Bore Flow (Cib)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector A Versus B Comparison (Trsx)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector Aperformance (Trs1)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector B Performance (Trs2)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Forward (Rbwt)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Network Module A (Gsm)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Network Module B (Gsm)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Neutral (Rbwt)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Park (Rbwt)
+	Internal Control Module Secondary Monitor Fault: Transmission Range Selector By Wire Transmission Reverse (Rbwt)
+	Internal Control Module Secondary Monitor Fault: Transmission Temperature Sensors Rate/Plausibility (Tft)
+	Internal Control Module Secondary Monitor Fault: Transmission Torque Up And Hole Fill Request (Trntq)
+	Internal Control Module Secondary Monitor Fault: Unsigned Vehicle Speed Distributed To Vehicle For Master Speed/Odometer (Vss)
+	Iso/Sae Reserved (Bit Shall Be Reported As 0) Or A/C System Refrigerant Monitoring
+	Keep Alive Power Voltage Is Sufficiently High
+	Key Status
+	Key Status - Key On Before Power Latch Complete
+	Key Status - Power Latch Procedure Status
+	Key Status - Power Latch Status Last Cycle Complete
+	Lambda Sensor Present
+	Lost Communication With Active Air Dam Control Module
+	Lost Communication With Active Grille Shutter Control Module A
+	Lost Communication With Auxiliary Transmission Fluid Pump Control Module
+	Low Speed Collision Mitigation By Braking: Configuration Data Id (Cdid) Required By Slave Not Received From Master
+	Low Speed Collision Mitigation By Braking: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Supported
+	Low Speed Collision Mitigation By Braking: Supported Configuration Data From Master Out Of Range For Slave
+	Low Speed Collision Mitigation By Braking: This Configuration (Required By The Slave) Has Not Been Configured In The Master
+	Lower Limit For Vehicle Speed For Dealer Configuration
+	Main Brake Pedal
+	Malfunction Indicator Lamp (Mil) Status
+	Misfire Monitoring Completed
+	Misfire Monitoring Enabled
+	Misfire Monitoring Ready
+	Misfire Monitoring Supported
+	Number Of Continuous Dtcs With Pending Or Confirmed Status
+	Number Of Drive Cycles In Which Action (Shutdown) Was Taken Related To The Engine Idle Shutdown Function
+	Number Of Drive Cycles In Which Action Was Taken Related To The Brake Override Accelerator Function
+	Number Of Drive Cycles In Which It Was Possible For Action To Be Taken Related To The Brake Override Accelerator Function
+	Number Of Drive Cycles In Which It Was Possible For Action To Be Taken Related To The Engine Idle Shutdown Function
+	Number Of Dtcs Set Due To Diagnostic Test
+	Number Of Faulty Trips Since The First Snapshot Was Captured For This Dtc
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Number Of Warm-Ups Since Dtcs Cleared
+	Obd Requirements To Which Vehicle Or Engine Is Certified
+	Oil Life Status - Change Oil Now
+	Oil Life Status - Change Oil Soon
+	Oil Pressure Switch Status - Sensor Fault Present
+	Operating In Pedal Position Sensor (Pps) Failure Mode
+	Over-The-Air (Ota) Initiating Download Function
+	Oxygen Sensor Heater Monitoring Completed/Pm Filter Monitoring Completed
+	Oxygen Sensor Heater Monitoring Ready/Pm Filter Monitoring Ready
+	Oxygen Sensor Heater Monitoring Supported/Exhaust Gas Sensor Monitoring Supported
+	Oxygen Sensor Heater Monitoring Supported/Pm Filter Monitoring Supported
+	Oxygen Sensor Heater Monitoring/Pm Filter Monitoring
+	Oxygen Sensor Monitoring /Exhaust Gas Sensor Monitoring
+	Oxygen Sensor Monitoring Completed/Exhaust Gas Sensor Monitoring Completed
+	Oxygen Sensor Monitoring Ready/Exhaust Gas Sensor Monitoring Ready
+	Oxygen Sensor Monitoring/Exhaust Gas Sensor Monitoring
+	Pedal Position Sensor Voltage - Sensor 1
+	Pedal Position Sensor Voltage - Sensor 2
+	Pedal Status Recovery Underway - Fault Present
+	Percentage Of Total Fuel Mass To Be Delivered By Direct Injection - Commanded
+	Pfi Specific Long Term Fuel Trim - Bank 1
+	Pfi Specific Long Term Fuel Trim - Bank 2
+	Power Pack Status
+	Powertrain Drive Mode - Actual
+	Preserved History Of Inferred Battery Corrosion (Dtc P057F) - This Bit Is Reset When The Battery Time In Service Is Reset
+	Reason For Most Recent Setting Of Dtc P057F (Battery State Of Charge Performance) Is Inferred Battery Corrosion
+	Reason For Most Recent Setting Of Dtc P057F (Battery State Of Charge Performance) Is Inferred Battery Short
+	Recorder Data Available
+	Remaining Life Of Engine Air Filter
+	Request For Engine Start Being Received Over Can (May Persist For A Few Seconds For Readability)
+	Result Of Forced Regeneration - Regeneration Successful
+	Result Of Forced Regeneration - Regeneration Underway
+	Secondary Air System Monitoring Completed/Boost Pressure System Monitoring Completed
+	Secondary Air System Monitoring Ready/Boost Pressure System Monitoring Ready
+	Secondary Air System Monitoring Supported/Boost Pressure System Monitoring Supported
+	Secondary Air System Monitoring/Boost Pressure System Monitoring
+	Secondary Brake Pedal
+	Sensor Supply Voltage A
+	Status Of Air Conditioner Output After Crank
+	Status Of Air Conditioner-Confirm Ac Output Activation
+	Status Of Air Conditioner-Confirm Ac Output Deactivation
+	Status Of Air Conditioner-Input Ac Request Off
+	Status Of Air Conditioner-Input Ac Request On
+	Status Of Air Conditioner-Input Ac Sensor In Fault
+	Status Of Air Conditioner-Output Ac Request On
+	Status Of Air Conditioner-Output Wait On For Activation
+	Status Of Diesel Particulate Filter - Dpf Lamp
+	Status Of Diesel Particulate Filter - Filter Broken
+	Status Of Diesel Particulate Filter - Load Level In Range 1
+	Status Of Diesel Particulate Filter - Load Level In Range 2
+	Status Of Diesel Particulate Filter - Load Level In Range 3
+	Status Of Ho2S11 Closed Loop
+	Status Of Ho2S11 Open Loop
+	Status Of Ho2S11 Semi-Closed Loop
+	Status Of Ho2S11 Semi-Closed Loop Lean
+	Status Of Ho2S12 Closed Loop
+	Status Of Ho2S12 Open Loop
+	The Battery Charging System Load Shedding Strategy Is Requesting That The After-Run Engine Cooling Fan Operation Be Modified
+	The Battery Charging System Load Shedding Strategy Is Requesting That The Engine Cooling Fan Operation Be Modified
+	The Electric Power Assisted Steering System Load Shedding Strategy Is Modifying The Engine Cooling Fan Operation
+	The Grille Shutter Module Either Is Requesting A Command To Perform Or Is Performing The End Point Calibration Process
+	Time Since Engine Start
+	Time Since Module (Ecu) Power Up Or Reset
+	Time Since Start
+	Tire Circumference: Configuration Data Id (Cdid) Required By The Slave Has Not Been Received From The Master
+	Tire Circumference: Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Supported
+	Tire Circumference: The Supported Configuration Data From The Master Is Out Of Range For The Slave
+	Tire Circumference: This Configuration Required By The Slave Has Not Been Configured In The Master
+	Total Distance
+	Total Distance (Did Dd01) At The Start Of The Most Recent Electric Fan Load Shed Operation Event
+	Transmission Fluid Pressure Sensor C (Absolute Pressure) - Measured - Raw
+	Transmission Fluid Pressure Sensor C Quality Factor
+	Turbocharger Wastegate Position Sensor A Average Offset Measured From Most Recent Successful Learning Process
+	Turbocharger Wastegate Position Sensor A Learned Offset Used By The Strategy
+	Turbocharger Wastegate Position Sensor B Average Offset Measured From Most Recent Successful Learning Process
+	Turbocharger Wastegate Position Sensor B Learned Offset Used By The Strategy
+	Turbocharger/Supercharger Boost Sensor - A - Type Of Most Recent Fault
+	Turbocharger/Supercharger Boost Sensor - A - Type Of Second Most Recent Fault
+	Type Of Fuel Currently Being Utilized By The Vehicle
+	Type Of Most Recent Fault Stored When Parameter 1 Increments. Decays To Zero When Parameter 2 Rolls Over
+	Type Of Second Most Recent Fault Copied From Parameter 3 When Parameter 1 Increments Or Parameter 2 Rolls Over
+	Vehicle Fuel Rate
+	Vehicle Identification Number (Vin): Configuration Data Id (Cdid) Required By The Slave Has Not Been Received From The Master
+	Vehicle Identification Number (Vin): Slave Requiring Configuration Support But Configuration Data Id (Cdid) From Master Showing Not Supported
+	Vehicle Identification Number (Vin): The Configuration Required By The Slave Has Not Been Configured In The Master
+	Vehicle Identification Number (Vin): The Supported Configuration Data From The Master Is Out Of Range For The Slave
+	Vehicle Odometer
+	Vehicle Speed - High Resolution
+	Vehicle Speed Control Type: Configuration Data Id (Cdid) Required By The Slave Has Not Been Received From The Master
+	Vehicle Speed Control Type: Slave Requiring Configuration Support But Configuration Data Id (Cdid) Form Master Showing Not Support
+	Vehicle Speed Control Type: The Supported Configuration Data From The Master Is Out Of Range For The Slave
+	Vehicle Speed Control Type: This Configuration Required By The Slave Has Not Been Configured In The Master
+	Vehicle Speed Sensor
+	Vehicle Speed Upper Limit For Dealer Configuration
+	Vvt Self-Learning Camshaft Status - Executed
+	Vvt Self-Learning Camshaft Status - In Failure
+	Vvt Self-Learning Camshaft Status - In Progress
+	Vvt Self-Learning Camshaft Status - In Wait State
+	Vvt Self-Learning Camshaft Status - Start
+	Warm Up Complete During This Driving Cycle
+	Water In Fuel Filter
+	Water In Fuel Filter Sensor Fault
+	Water In Fuel Filter Warning Lamp
+

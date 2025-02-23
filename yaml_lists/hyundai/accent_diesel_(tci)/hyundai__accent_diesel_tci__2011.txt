@@ -1,0 +1,20 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Hyundai 'Accent Diesel (Tci)' (2011)
+Signal Descriptions:
+	Shift Lever Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Torque
+	Brake Boost Vacuum Pressure
+	Driver Dooor
+	Driver Seat Belt
+	Malfunction Indicator Lamp
+	Manifold Absolute Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Speed
+	Throttle Position
+	Vehicle Speed
+

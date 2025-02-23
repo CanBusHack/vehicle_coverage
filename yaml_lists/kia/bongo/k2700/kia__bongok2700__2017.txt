@@ -1,0 +1,41 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Kia 'Bongo/K2700' (2017)
+Signal Descriptions:
+	Actual Engine Speed
+	Brake Pedal Switch Active
+	Engaged Gear In A/T Vehicle
+	Ignition Switch On
+	Intake Manifold Air Pressure (Map)
+	Malfunction Indicator Lamp
+	Mass Air Flow (Maf) Sensor
+	Throttle Position Sensor
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Ignition Switch On
+	Intake Manifold Pressure
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch
+	Current Gear
+	Engine Speed
+	Engine Torque
+	Malfunction Indicator Lamp
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Brake Pedal Switch Active
+	Engaged Gear In A/T Vehicle
+	Ignition Switch On
+	Intake Manifold Air Pressure (Map)
+	Malfunction Indicator Lamp
+	Mass Air Flow (Maf) Sensor
+	Throttle Position Sensor
+	Vehicle Speed
+

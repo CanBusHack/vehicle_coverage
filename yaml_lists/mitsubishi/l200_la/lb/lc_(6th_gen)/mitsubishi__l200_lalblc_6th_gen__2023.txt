@@ -1,0 +1,233 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'L200 La/Lb/Lc (6Th Gen)' (2023)
+Signal Descriptions:
+	Actual Shift Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Basic Fuel Schedule
+	Battery Voltage
+	Driver Seatbelt Switch
+	Engine Speed
+	Fuel Injection (Bank 1)
+	Fuel Injection (Bank 2)
+	Ignition Switch
+	Manifold Aboslute Pressure (Map) Sensor
+	Mass Air Flow
+	Mass Air Flow Sensor (Bank 1)
+	Throttle Position 1 (Bank 1)
+	Throttle Position 1 (Bank 2)
+	Throttle Position 2 (Bank 1)
+	Throttle Position 2 (Bank 2)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Coolant Temperature Sensor
+	Egr Temperature Sensor
+	Engine Speed
+	Ignition Timing
+	Ignition Timing
+	Injection Pulse
+	Injection Pulse Bank 1
+	Intake Temperature Sensor
+	Mass Air Flow Sensor Bank 1
+	Mass Air Flow Sensor Bank 2
+	Travel After Mil
+	Vehicle Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pedal Pressed
+	Master Cylinder Pressure
+	Odometer
+	Steering Wheel
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Switch
+	Left Rear Door Switch
+	Passenger Switch
+	Right Rear Door Switch
+	Seatbelt Switch (Driver)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Meter
+	Mil
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Meter
+	Mil
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Fail Signal
+	Abs On
+	Active Stability Control (Asc) On
+	Atf Temperature Sensor
+	Cvt Lamp
+	Down Lever
+	Down Sw Steer
+	E-Op Relay Monitor
+	Eco Mode
+	Electric Op Relay
+	G Sensor Calibration
+	Idle Switch
+	M Mode
+	N Idle Status
+	Normal Mode
+	Not M Mode
+	R Position Switch
+	R Position Switch
+	Snow Mode
+	Sport Mode
+	Tcl On
+	Tow Mode Switch
+	Up Lever
+	Up Sw Steer
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Speed
+	Pulley Gear Ratio
+	Vehicle Engine Torque
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Basic Fuel Schedule
+	Battery Voltage
+	Driver Seatbelt Switch
+	Engine Speed
+	Fuel Injection (Bank 1)
+	Fuel Injection (Bank 2)
+	Ignition Switch
+	Manifold Aboslute Pressure (Map) Sensor
+	Mass Air Flow
+	Mass Air Flow Sensor (Bank 1)
+	Throttle Position 1 (Bank 1)
+	Throttle Position 1 (Bank 2)
+	Throttle Position 2 (Bank 1)
+	Throttle Position 2 (Bank 2)
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Switch
+	Left Rear Door Switch
+	Passenger Switch
+	Right Rear Door Switch
+	Seatbelt Switch (Driver)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pedal Pressed
+	Master Cylinder Pressure
+	Odometer
+	Steering Wheel
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Shift Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actuator Current (Right)
+	Actuator Current Left
+	Actuator Voltage (Left)
+	Actuator Voltage (Right)
+	Brake Force (Left)
+	Brake Force (Right)
+	Electric Parking Mode
+	Left Front Wheel Speed
+	Left Rear Wheel Speed
+	Malfunction Level (State)
+	Master Cylinder Pressure
+	Odometer
+	Off Switch
+	Pb Switch
+	Right Front Wheel Speed
+	Right Rear Wheel Speed
+	Side G Sensor
+	Slope Ratio
+	Steering Angle
+	Vehicle Speed
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Coolant Temperature Sensor
+	Egr Temperature Sensor
+	Engine Speed
+	Ignition Timing
+	Ignition Timing
+	Injection Pulse
+	Injection Pulse Bank 1
+	Intake Temperature Sensor
+	Mass Air Flow Sensor Bank 1
+	Mass Air Flow Sensor Bank 2
+	Travel After Mil
+	Vehicle Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actuator Current (Right)
+	Actuator Current Left
+	Actuator Voltage (Left)
+	Actuator Voltage (Right)
+	Brake Force (Left)
+	Brake Force (Right)
+	Electric Parking Mode
+	Left Front Wheel Speed
+	Left Rear Wheel Speed
+	Malfunction Level (State)
+	Master Cylinder Pressure
+	Odometer
+	Off Switch
+	Pb Switch
+	Right Front Wheel Speed
+	Right Rear Wheel Speed
+	Side G Sensor
+	Slope Ratio
+	Steering Angle
+	Vehicle Speed
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Fail Signal
+	Abs On
+	Active Stability Control (Asc) On
+	Atf Temperature Sensor
+	Cvt Lamp
+	Down Lever
+	Down Sw Steer
+	E-Op Relay Monitor
+	Eco Mode
+	Electric Op Relay
+	G Sensor Calibration
+	Idle Switch
+	M Mode
+	N Idle Status
+	Normal Mode
+	Not M Mode
+	R Position Switch
+	R Position Switch
+	Snow Mode
+	Sport Mode
+	Tcl On
+	Tow Mode Switch
+	Up Lever
+	Up Sw Steer
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Speed
+	Pulley Gear Ratio
+	Vehicle Engine Torque
+

@@ -1,0 +1,198 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Renault 'Megane' (2021)
+Signal Descriptions:
+	A/C Compressor
+	Abs Function
+	Acc Frame Reception Status
+	Accelerator Pedal Position
+	Actual Vehicle Speed Info Absent
+	Actual Vehicle Speed Info Unavailable
+	Adaptive Cruise Control
+	Adaptive Cruise Control Brake Request
+	Adaptive Cruise Control Torque Request
+	Adaptive Torquemeter Correction
+	Air Flow
+	Air Temperature Sensor Voltage
+	Alcohol Fuel Adaptive Correction
+	Alternator Load
+	Alternator Power
+	Alternator Set Point Voltage
+	Atmospheric Pressure
+	Auto Emergency Braking System Request
+	Automatic Gearbox In Defect Mode 1
+	Automatic Gearbox In Defect Mode 2
+	Average Knock Signal
+	Battery Charge
+	Bonnet
+	Boost Pressure
+	Boost Pressure Reference Value
+	Boost Pressure Wastegate Control
+	Boost Pressure Wastegate Rc01/Rc02
+	Brake Detected Multiplex Signal
+	Brake Information Absent
+	Brake Information Unavailable
+	Brake Pedal
+	Brake Switch
+	Brake/Accelerator Pedal Inconsistency
+	Camshaft Shifter Measured Position
+	Camshaft Tdc Synchronisation
+	Canister Bleed Solenoid Valve Rc01/02
+	Catalystic Converter Fault Limit
+	Cc Inhibited By Injection
+	Cc Operating Reliability
+	Cc/Sl Connection After Cc Button Pressed
+	Cc/Sl Connection After Sl Button Pressed
+	Cc/Sl Connection Authorisation
+	Cc/Sl Deactivation By Driver Action
+	Change Of Vehicle Speed Unit1
+	Change Of Vehicle Speed Unit2
+	Clutch Contact Multiplex Signal
+	Clutch End Of Travel Switch
+	Clutch Information Absent
+	Clutch Information Unavailable
+	Clutch Pedal Switch
+	Clutch Start Of Travel Switch1
+	Clutch Start Of Travel Switch2
+	Clutch Switch Information1
+	Clutch Very Start Of Travel Switch
+	Combustion Misfire Counter
+	Computer + After Ignition
+	Computer Supply Voltage
+	Controlled Coolant Thermostat Ocr
+	Controlled Coolant Thermostat Status
+	Crankshaft Synchronisation
+	Crankshaft Synchronisation Loss Counter
+	Cruise Control
+	Cruise Control Function
+	Cruise Control Inhibited By Injection1
+	Cruise Control Inhibited By Injection1
+	Cruise Control Inhibited By Injection2
+	Cruise Control Inhibited By Injection2
+	Cruise Control Setting
+	Cruise Control/Speed Limiter Buttons1
+	Cruise Control/Speed Limiter Buttons2
+	Cruise Control/Speed Limiter Buttons3
+	Cruise Control/Speed Limiter Operation
+	Cylinder 1 Combustion Misfire Counter
+	Cylinder 1 Knock Value
+	Cylinder 2 Combustion Misfire Counter
+	Cylinder 2 Knock Value
+	Cylinder 3 Combustion Misfire Counter
+	Cylinder 3 Knock Value
+	Cylinder 4 Combustion Misfire Counter
+	Cylinder 4 Knock Value
+	Deceleration Without Brake Depressed
+	Delay Before Upstream Sensor Heating
+	Displayed Vehicle Speed Info Absent
+	Displayed Vehicle Speed Info Unavailable
+	Downstream Oxygen Sensor Voltage
+	Downstream Sensor Heating Ocr1
+	Driver Presence Sensor Circuit
+	Driver'S Door
+	Driver'S Seat Belt Switch
+	Duration Of + Button Press
+	Duration Of - Button Press
+	Duration Of Distance Button Press
+	Duration Of Resume Button Press
+	Duration Of Suspend Button Press
+	Engage Reverse Gear
+	Engine Immobilizer
+	Engine Speed Required By Air Con1
+	Engine Speed2
+	Engine Torque
+	Estimated Engine Oil Temperature
+	Estimated Manifold Pressure
+	Exhaust Camshaft Phasing
+	Exhaust Camshaft Shifter Set Point
+	Exhaust Camshaft Shifter Solenoid Valve Control Ocr1/2
+	Fast Idle Speed
+	Fast Idle Speed Function
+	First Offset Valve Closed
+	First Start
+	Flow Rate Function
+	Flywheel Signal
+	Flywheel Target Programming1
+	Flywheel Target Programming2
+	Fuel Flow
+	Fuel Pump Priming Complete
+	Fuel Pump Relay Control
+	Fuel Tank Temperature
+	Fuel Temperature
+	Gearbox Ratio
+	Gross Inlet Manifold Pressure
+	High Pressure Pump Counter
+	Idle Adaptive Correction
+	Idle Regulation Integral Correction
+	Idle Speed Reference
+	Ignition Advance
+	Injection Fuel Pump Pwm Control
+	Inlet Air Temperature
+	Inlet Air Temperature For Particle Filter
+	Inlet Camshaft Dephaser Control Ocr1/2
+	Inlet Camshaft Dephaser Set Point
+	Inlet Camshaft Dephasing
+	Inlet Flap Control
+	Inlet Pressure
+	Lambda Value
+	Last Torquemeter Value Programmed
+	Manifold Pressure1
+	Manifold Pressure2
+	Manual Gearbox Lever In Neutral
+	Manual Or Assisted Parking Brake
+	Mastervac Pressure1
+	Mastervac Pressure2
+	Mastervac Pressure4
+	Mastervac Pressure5
+	Maximum Permissible Speed
+	Maximum Vehicle Speed
+	Measured Throttle Position
+	Mot. Throttle Low Stop Programmed Value
+	Motor
+	Motorised Throttle Position Reference
+	Number Of Abnormal Cc/Sl Transitions
+	Number Of Rotation Of Engine
+	Number Of Starting Cycles
+	Number Of Starting1
+	Number Of Starting2
+	Number Of Starting3
+	Operating Richness Adaptive
+	Park/Neutral Position
+	Parking Brake
+	Pedal Potentiometer Track 1 Voltage
+	Pedal Potentiometer Track 2 Voltage
+	Pressure Upstream Of Turbine
+	Programming Throttle Limits
+	Rail Pressure
+	Rail Pressure Setting
+	Refrigerant Fluid Sensor Voltage
+	Refrigerant Pressure
+	Richness Adaptive Value
+	Richness Correction
+	Richness Correction Value
+	Richness Regulation
+	Richness Regulation Programming Offset1
+	Richness Regulation Programming Offset2
+	Rough Turbocharging Pressure
+	Rv/Lv Button Voltage
+	Rv/Rail Pressure Sensor Voltage
+	S&S Inhibition: 4 Wheel Drive (4Wd)
+	S&S Inhibition: Abs
+	S&S Inhibition: Air Conditioning
+	S&S Inhibition: Driver Exit
+	S&S Inhibition: Energy Management
+	S&S Inhibition: Hill Start Assistance
+	S&S Inhibition: Injection
+	S&S Inhibition: Master Vac
+	S&S Inhibition: Parking Brake
+	S&S Inhibition: Starter
+	S&S Inhibition: Traction Control (Asr)
+	S&S Inhibition: Uch
+	Sensor Supply No. 3 Voltage
+	Sensors No. 1 Feed Voltage
+	Sensors No. 2 Feed Voltage
+	Sharp Deceleration Without Brake Depressed
+	Sl Inhibited By Injection
+	Solenoid Valve Programming Inlet Camshaft Dephaser
+	Speed Limiter
+	Speed Limiter Function
+

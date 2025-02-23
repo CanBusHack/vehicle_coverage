@@ -1,0 +1,163 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Kia 'Sedona/Carnival Iii (Yp) 3Rd Gen' (2021)
+Signal Descriptions:
+	Accelerator Pedal Position
+	Actual Engine Speed
+	Brake Boost Vacuum Pressure
+	Brake Master Cylinder Pressure
+	Engaged Gear In A/T Vehicle
+	Indicated Actual Torque
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow (Maf) Value
+	Target Fuel Flow Rate
+	Throttle Position Sensor
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Diagnostic Led Output Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Motor On
+	Abs Warning Lamp
+	G Sensor Lateral
+	G Sensor Longitudinal
+	Traction Control System / Electronic Stability Control Warning Lamp
+	Traction Control System / Electronic Stability Control Warning Lamp Off
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	In Vehicle Temperature Sensor 1
+	In Vehicle Temperature Sensor 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Oil Status
+	Turbocharger Boost Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Auto Light Switch
+	Front Fog Switch
+	Front Passenger Seat Belt
+	Front Passenger Seat Belt Indicator
+	Front Passenger Seat Switch
+	Hazard Switch
+	Headlamp High Output
+	Headlamp High Switch
+	Headlamp Low Output
+	Headlamp Switch
+	Horn Relay
+	Left Front Window Position
+	Left Rear Window Position
+	Rear Fog Switch
+	Right Front Window Position
+	Right Rear Window Position
+	Turn Left Switch
+	Turn Right Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Oil Temperature Sensor
+	Shifter Lever Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Pa Active
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Actual Engine Speed
+	Brake Boost Vacuum Pressure
+	Brake Master Cylinder Pressure
+	Engaged Gear In A/T Vehicle
+	Indicated Actual Torque
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow (Maf) Value
+	Target Fuel Flow Rate
+	Throttle Position Sensor
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Shift Lever Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Lane Departure Warning
+	Right Lane Departure Warning
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Shift Lever Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+

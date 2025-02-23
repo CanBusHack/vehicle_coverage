@@ -1,0 +1,200 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Glc X253 (1St Gen)' (2021)
+Signal Descriptions:
+	Battery Voltage 48V
+	Engine Running
+	Ignition Status
+	Kilometer Reading
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Vehicle Speed
+	High Beams Request
+	Turn Signal Lamp Request
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Quantity
+	Fuel Quantity - Primary Fill Level Sensor
+	Fuel Quantity - Secondary Fill Level Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Engine Torque
+	Selector Lever Position
+	Target Gear
+	Torque Converter Slip Speed
+	Transmission Oil Temperature
+	Vin Currently Stored In Cp48 (Fully Integrated Transmission Control Control Unit)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charger Status
+	Charging Current Ac
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level Switch Status
+	Coolant Level Switch Status
+	Exterior Lights Fog Switch Status
+	Exterior Lights Parking Switch Status
+	Fanfare Horn Relay Status
+	Outside Temperature Sensor
+	Right Engine Hood Contact Switch Status
+	Washer Fluid Level Switch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adblue Remaining Distance
+	Ignition (Cricuit 15) Status
+	Oil Remaining Distance Displayed In Service Menu
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Door Control Unit
+	Left Rear Door Control Unit
+	Right Front Door Control Unit
+	Right Rear Door Control Unit
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	There Is An Internal Fault In The Steering Angle Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Switch
+	Front Passenger Seatbelt Buckle Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Light Switch
+	Brake Vacuum Pressure
+	Electric Parking Brake Switch
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Master Brake Cylinder Pressure Sensor
+	Parking Brake Warning Lamp
+	Steering Wheel Angle
+	Tpms Pressure Loss Warning
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Door Lock Status
+	Left Rear Door Lock Status
+	Right Front Door Lock Status
+	Right Rear Door Lock Status
+	Status Of Central Locking
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Current Of 48V On-Board Electrical System Battery
+	Maximum Cell Temperature
+	Minimum Cell Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Rear Left Turn Signal Lamp
+	Rear Right Turn Signal Lamp
+	Trunk Lid/Liftgate Lock Main Catch Switch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Automatic Transmission State
+	Combustion Engine State
+	Remaining Distance Displayed In Service Menu
+	Remaining Time Displayed In Service Menu
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Duty Cycle Of Fuel Pump
+	Rpm Of Fuel Pump
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Code 238 (Active Lane Keeping Assist)
+	Code 266 (Steering Assist)
+	Code 269 Brake Assist System Plus,Cross-Traffic (Bas+Q)
+	Code 300 Cms
+	Front Left Wheel Pressure
+	Front Right Wheel Pressure
+	Rear Left Wheel Pressure
+	Rear Right Wheel Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Comfort/Sport Button Led
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Can Signal Ignition Status
+	Charge Level Of High-Voltage Battery
+	Temperature In C202 - High-Voltage Battery Module
+	Voltage Of Battery Cell 1
+	Voltage Of Battery Cell 88
+	Voltage Of High-Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Light Switch
+	Driver Seatbelt Buckle Switch
+	High Beam Active
+	Left Turn Lamp
+	Low Beam Active
+	Passenger Seatbelt Buckle Switch
+	Right Turn Lamp
+	Tire Pressure Front Left
+	Tire Pressure Front Right
+	Tire Pressure Rear Left
+	Tire Pressure Rear Right
+	Wiper Motor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Interior Temperature Sensor
+	Refrigerant Compressor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Central Locking
+	Front Left Window Lowering Switch
+	Left Rear Power Window
+	Right Front Power Window
+	Right Rear Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Additional Correction Value For Air Mass Flow
+	Battery Voltage
+	Boost Pressure - Vp36 (Pressure And Temperature Sensor Upstream Of Throttle Valve)
+	Coolant Temperature
+	Engine Oil Temperature
+	Engine Speed
+	Fan Run-On
+	Fill Level Of Fuell Tank
+	Injection Time
+	Intake Air Pressure - Vp37 (Pressure And Temperature Sensor Downsream Of Throttle Valve)
+	Intake Air Temperature - Vp37 (Pressure And Temperature Sensor Downstream Of Throttle Valve)
+	Lambda Control Self-Adjustment In Idle Speed Range
+	Lambda Control Self-Adjustment In Lower Partial-Load Range
+	Lambda Control Self-Adjustment In Upper Partial-Load Range
+	Low Fuel Pressure
+	On/Off Ratio Of Fan Actuation
+	Position Of Accelerator Pedal
+	Position Of Throttle Valve
+	Rail Pressure
+	Status Of Engine Oil Level
+	Total Actuation Angle Of Fuel High Pressure Quantity Control Valve
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Belt-Driven Starter Alternator Status
+

@@ -1,0 +1,214 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Sprinter W907/W909/W910 (3Rd Gen)' (2020)
+Signal Descriptions:
+	Status Of Ignition Key
+	Turn Signal Lamp Request
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure Sensor Of Master Brake Cylinder
+	Cruise Control
+	Cruise Control Set Speed
+	Gearshift Lever(Prndl)
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Status 'Brake Pedal'
+	Status 'S1S1(Electric Parking Brake Switch)'
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Valve For Charge Air Cooling And Transmission Coolings Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Temperature In Hv Battery (Maximum)
+	Temperature In Hv Battery (Minimum)
+	Temperature In Hv Battery (Moderate)
+	Voltage Of Battery Cell 1
+	Voltage Of Battery Cell 100
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Central Locking Rotary Tumbler Switch Status
+	Driver Door Central Locking System Switch Status
+	Driver Door Control Right Manual Window Lowering
+	Driver Door Control Right Manual Window Raising
+	Driver Heating Levels Push Button Switch
+	Driver Window Lowering
+	Driver Window Raising
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level Warning Lamp Status
+	Brake Wear Indicator Lamp Status
+	Coolant Level Indicator Lamp Status
+	Front Windshield Wiper Int Stage 1 Relay Status
+	Front Windshield Wiper Int Stage 2 Relay Status
+	Hazard Warning Lights Button
+	Hood Switch
+	Left High Beam Status
+	Left Position Light, Daytime Running Light And Turn Signal Light Status
+	Left Rear Turn Signal Light
+	Lock Central Locking
+	Outside Temperature Sensor
+	Power Consumption Of Ap21 (On-Board Electrical System Battery)
+	Rear Fog Light
+	Rear Window Washer System Pump Status
+	Right High Beam Status
+	Right Position Light, Daytime Running Light And Turn Signal Light Status
+	Right Rear Turn Signal Light
+	Unlock Central Locking
+	Voltage At Ap21 (On-Board Electrical System Battery)
+	Washer Fluid Level Indicator Lamp Status
+	Windshield Washer System Pump Status
+	Wiper Motor Park Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Switch Status
+	Vin Retrieved From Vehicle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Main Odometer Reading
+	Service Remaining Distance
+	Service Remaining Time
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Air Mass Per Cylinder
+	Boost Pressure
+	Coolant Temperature
+	Current Gear
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Engine Speed
+	Engine Torque
+	Exhaust Gas Recirculation Valve
+	Exhaust Temperature Upstream Of Diesel Particulate Filter
+	Fill Level Of Engine Oil
+	Injection Quantity Per Stroke
+	Intake Air Temperature
+	Lambda Value
+	Rail Pressure
+	State Of Charge - High Voltage Battery
+	Status Of Regeneration
+	Throttle Valve
+	Torque Requested By Driver
+	Vehicle Speed
+	Voltage Of High - Voltage Battery
+	Water In Fuel Filter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adblue/Def Tank Fill Level
+	Exhaust Temperature Upstream Of Scr Catalytic Converter Underbody
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Central Locking
+	Status Of Driver Door
+	Status Of Driver Door Lock
+	Status Of Front Passenger Door
+	Status Of Front Passenger Door Lock
+	Status Of Left Sliding Door
+	Status Of Left Sliding Door Lock
+	Status Of Liftgate
+	Status Of Rear End Door Lock
+	Status Of Right Sliding Door
+	Status Of Right Sliding Door Lock
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Air Mass Per Cylinder
+	Boost Pressure
+	Coolant Temperature
+	Current Gear
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Engine Speed
+	Engine Torque
+	Exhaust Gas Recirculation Valve
+	Exhaust Temperature Upstream Of Diesel Particulate Filter
+	Fill Level Of Engine Oil
+	Injection Quantity Per Stroke
+	Intake Air Temperature
+	Lambda Value
+	Rail Pressure
+	Status Of Regeneration
+	Throttle Valve
+	Vehicle Speed
+	Water In Fuel Filter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adblue/Def Tank Fill Level In Volume
+	Adblue/Def Tank Fill Level Percentage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Vehicle Interior Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Torque Converter Slip Speed
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A Crash Event Has Occurred
+	Passenger Seat Belt Buckle Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Passenger Door Central Locking Rotary Tumbler Switch Status
+	Front Passenger Door Central Locking System Switch Status
+	Front Passenger Heating Levels Push Button Switch
+	Front Passenger Window Lowering
+	Front Passenger Window Raising
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Current (Ac)
+	Hv Battery Charger Heat Exchanger Temperature
+	Hv Battery Charger Temperature
+	Measured Voltage Value At Input Of Alternating Current Charger For Hv Battery
+	State Of Charge Of Hv Battery
+	Status Of Vehicle Socket
+	Voltage Of Hv On-Board Electrical System At Alternating Current Charger For Hv Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Tire Pressure Of Left Front Wheel
+	Tire Pressure Of Left Rear Wheel
+	Tire Pressure Of Right Front Wheel
+	Tire Pressure Of Right Rear Wheel
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fill Level Of Fuel Tank (Fuel Level Sensor)
+	Fuel Tank Volume
+	Position Of Ignition Key
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Active Lane Keeping Assist
+	Pitch Angle
+	Yaw Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Mode Of High-Voltage Battery
+	Measured Voltage Value At Input Of Dc Charge-Connection Unit
+	State Of Cahrge Of High-Voltage Battery
+	Status Of Charging Station
+	Voltage Of Hv On-Board Electrical System At Dc Charge-Connection Unit
+

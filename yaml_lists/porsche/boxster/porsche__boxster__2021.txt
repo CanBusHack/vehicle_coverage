@@ -1,0 +1,18 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Porsche 'Boxster' (2021)
+Signal Descriptions:
+	Accelerator Pedal Value
+	Ambient Temperature From Dme
+	Brake Pressure
+	Engine Oil Level For Instrument Cluster
+	Engine Oil Level Sensor
+	Engine Oil Pressure Actual Value (Absolute)
+	Engine Oil Pressure Actual Value (Relative)
+	Engine Oil Pressure Set Point (Absolute)
+	Engine Oil Temperature In Cylinder Head
+	Engine Oil Temperature In Oil Sump (Oil Level Sensor)
+	Engine Speed
+	Pressure In Brake Booster - Raw Value
+	Transmission Oil Temperature
+	Vehicle Speed
+

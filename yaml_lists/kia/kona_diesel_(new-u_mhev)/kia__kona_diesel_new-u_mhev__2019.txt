@@ -1,0 +1,36 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Kia 'Kona Diesel (New-U Mhev)' (2019)
+Signal Descriptions:
+	Abort Particulate Filter Regeneration
+	Battery Current
+	Battery State Of Charge
+	Cruise Control Status
+	Estimated Soot In Particulate Filter
+	Exhaust Temperature Sensor 1 Value
+	Exhaust Temperature Sensor Value-Upstream Of Diesel Particulate Filter(Dpf)
+	Flag Indicating Battery Management System (Bms) Sensor Error
+	Flag Indicating The Enabling Of Active Regeneration
+	Fuel Quantity
+	Maximum Possible Ash Accumulation
+	Particulate Filter Favorable Conditions For Particulate Filter Regeneration High
+	Particulate Filter Favorable Conditions For Particulate Filter Regeneration Low
+	Particulate Filter Regeneration Start Request
+	Service Regeneration Abort Condition
+	Stop Inhibition From Steering Wheel
+	Successful Particulate Filter Regeneration
+	Travelled Distance Since Last Regeneration
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance To Forward Collision-Avoidance Assist (Fca) Object
+	Relative Velocity Too Forward Collision - Avoidance Assist (Fca) Object
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Rear Wheel Pressure
+	Right Front Wheel Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Wd Warning Lamp
+

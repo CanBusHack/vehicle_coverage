@@ -1,0 +1,6 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Volvo 'V40 Cross Country' (2016)
+Signal Descriptions:
+	Air Mass
+	Inlet Manifold Air Pressure
+

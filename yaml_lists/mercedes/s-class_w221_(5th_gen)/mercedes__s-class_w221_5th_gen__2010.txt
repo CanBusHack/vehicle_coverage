@@ -1,0 +1,71 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'S-Class W221 (5Th Gen)' (2010)
+Signal Descriptions:
+	Current Vehicle Speed
+	High Beams
+	Steering Angle
+	Turn Signal Lamps
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Can Message 'Belt Buckle Driver'
+	Can Message 'Belt Buckle Front Passenger'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Engine Torque
+	Current Main Odometer Reading
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Sm01 (Left Front Door Rotary Tumbler Switch)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Transmission Mode
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Wheel Tire Pressure
+	Left Rear Wheel Tire Pressure
+	Right Front Wheel Tire Pressure
+	Right Rear Wheel Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level
+	Coolant Level
+	Headlamp Switch-Off Delay
+	Outside Temperature
+	Outside Temperature - State Encoded
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+	Sm02 (Right Front Door Rotary Tumbler Switch)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lock Central Locking
+	Position Of Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Se91 (Windscreen Washer System Switch)
+	Za31 (Cruise Control Lever)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of Left Front Door
+	Status Of Left Rear Door
+	Status Of Right Front Door
+

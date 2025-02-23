@@ -1,0 +1,135 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Cla C118 (2Nd Gen)' (2024)
+Signal Descriptions:
+	Odometer Reading
+	Status Of Central Locking
+	Status Start/Stop Button
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Switch
+	Passenger Seatbelt Buckle Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Status Of 'Cp88 (Awd Control Unit)'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Left Wheel Pressure
+	Front Right Wheel Presure
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	"Brake Fluid Level" Indicator Lamp
+	"Brake Wear" Indicator Lamp
+	"Washer Fluid Level" Indicator Lamp
+	Coolant Level Indicator Lamp
+	Eco Start/Stop Function
+	Hazard Warning Light System, Button Status
+	Left Turn Signal Lamp
+	Right Turn Signal Lamp
+	Windshield Washer System
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Duty Cycle Of Fuel Pump
+	High Pressure Fuel Sensor
+	Rpm Of Fuel Pump
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Temperature
+	Battery Voltage
+	Boost Pressure
+	Brake Light Switch
+	Coolant Temperature
+	Engine Oil Level
+	Engine Oil Temperature
+	Engine Speed
+	Fill Level Of Fuel Tank
+	High Fuel Pressure Signal
+	Idle Recognition
+	Intake Manifold Pressure
+	Lambda Value For Oxygen Sensor Downstream Of Catalytic Converter
+	Lambda Value For Oxygen Sensor Upstream Of Catalytic Converter
+	Low Fuel Pressure Signal
+	Position Of Accelerator Pedal
+	Status Of Air Conditioning
+	Throttle Valve Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Temperature
+	Automatic Transmission
+	Boost Pressure
+	Combustion Engine
+	Coolant Temperature
+	Drive Position
+	Engine Hood (Fault Status)
+	Engine Oil Fill Level
+	Engine Oil Temperature
+	Engine Speed
+	Fill Level Fuel Tank
+	Fuel Pressure
+	Intake Manifold Pressure
+	Kilometer Reading
+	Position Of Accelerator Pedal
+	Position Of Accelerator Pedal
+	Status Of Air Conditioning
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance Driven Since Last Oil Change
+	Remaining Distance Adblue
+	Remaining Distance Displayed In Service Menu
+	Remaining Time Displayed In Service Menu
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Gear
+	Pressure Of Clutch 'K1'
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Left Door Lock (Status Of Rotary Tumbler)
+	Front Left Widow Downwards
+	Front Right Door Lock (Status Of Rotary Tumbler)
+	Front Right Window Downwards
+	Right Front Power Window
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Illumination
+	Charging Cable At Vehicle
+	Left Rear Power Window
+	Measured Voltage Value At Input Of'Cp87'(Direct Current Charge Connection Unit)
+	Right Rear Power Window
+	Voltage Of High-Voltage On -Board Electrical System At 'Dc Charging Connection Unit)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Vacuum Pressure
+	Electric Parking Brake Switch
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Master Brake Cylinder Pressure
+	Status Of Tire Pressure Loss Warning
+	Steering Wheel Angle Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seat Belt Buckle Switch
+	Front Passenger Seat Belt Buckle Switch
+

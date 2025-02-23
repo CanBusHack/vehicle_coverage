@@ -1,0 +1,149 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Hyundai 'Elantra' (2019)
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Speed
+	Engine Torque
+	Throttle Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Pressure Sensor Built-In
+	Adapted Cruise Control Built-In
+	Alternator Pulse Width Modulation (Pwm) Built-In
+	Anti-Jerk Function Is Active
+	Auto Cruise Control Built-In (Cruise Button On)
+	Battery Sensor Built-In
+	Battery Voltage
+	Battery Voltage After Ignition Key
+	Brake Lamp Switch Active
+	Brake Pedal Switch Active
+	Cda Built-In
+	Clutch Pedal Switch (M/T Only)
+	Condition Idle Controller Active
+	Dash Pot Active
+	Driving Status-D,R(A/T Only)
+	Electronic Throttle Control (Etc) Learning Is Finished Successfully
+	Electronic Throttle Control (Etc) System Built-In
+	Engine Operating Status - Full Load
+	Engine Operating Status - Idle
+	Engine Operating Status - Part Load
+	Esp Built-In
+	Fuel Cut Off Condition
+	Fuel Level Sensor Built-In
+	Fuel Pump On
+	Fuel Tank Press Sensor Built-In
+	Ignition Switch On
+	Immobilizier Built-In
+	Leaded Fuel Pack (Option)
+	Leakage Test Type - Under Pressure System
+	Limitation Of Positive Torque Gradient Active Load Shock Damping
+	Linear Oxygen Sensor Built-In
+	Low Pressure Fuel Pump Relay (Normally Closed)
+	Main Relay On
+	Malfunction Indicator Lamp On
+	Manifold Air Pressure (Map Sensor) Built-In
+	Mass Air Flow (Maf) Sensor Built-In
+	Open Lock-Up Clutch
+	Shift Lever Position - D (A/T Only)
+	Smart Key Built-In
+	Smartra 2 Built-In
+	Smartra 3 Built-In
+	Start Condition
+	Start Over Run Relay Activation
+	Synchronization Succeeded
+	Tank Leakage Detection By Under Pressure System
+	Torque Control Request For Gear Shifting
+	Variant Coding
+	Vvl Built-In
+	Wheel Speed Sensor (Wss) Signal From Abs
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Warning Lamp
+	Traction Control System (Tcs)/Electronic Stability Control (Esc) (Esp) Off Warning Lamp (Esp Only)
+	Traction Control System (Tcs)/Electronic Stability Control (Esc) (Esp) Warning Lamp (Esp Only)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Air Temperature (Aat) Sensor
+	Engine Coolant Temperature (Ect) Sensor
+	Engine Coolant Temperature (Ect) Sensor
+	In-Vehicle Temperature Sensor - Front
+	In-Vehicle Temperature Sensor 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Boost Vacuum Pressure
+	Engaged Gear In A/T Vehicle
+	Engine Oil Temperature (Eot)
+	Fuel Tank Level Sensor1 Sensor Voltage
+	Fuel Tank Level Sensor1 Value
+	Fuel Tank Level Sensor2 Sensor Voltage
+	Fuel Tank Level Sensor2 Value
+	Ignition Switch On
+	Oil Pressure Sensor Pressure For Variable Oil Pump
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Engine Torque
+	Throttle Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Speed
+	Driver Seat Belt
+	Ignition Switch
+	Intake Manifold Pressure
+	Malfunction Indicator Lamp
+	Mass Air Flow
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Passenger Seat Belt Switch (Option)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Pressure
+	Left Front Pressure - State Encoded
+	Left Rear Pressure
+	Left Rear Pressure - State Encoded
+	Right Front Pressure
+	Right Front Pressure - State Encoded
+	Right Rear Pressure
+	Right Rear Pressure - State Encoded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Odometer
+	Odometer-1
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Lock Switch
+	Driver Door Open Switch
+	Front Passenger Door Lock Switch
+	Front Passenger Door Open Switch
+	Left Front Door Unlock Switch
+	Left Rear Door Unlock Switch
+	Parking Brake Switch
+	Rear Driver Door Lock Switch
+	Rear Driver Door Open Switch
+	Rear Passenger Door Lock Switch
+	Rear Passenger Door Switch
+	Right Front Door Unlock Switch
+	Right Rear Door Unlock Switch
+

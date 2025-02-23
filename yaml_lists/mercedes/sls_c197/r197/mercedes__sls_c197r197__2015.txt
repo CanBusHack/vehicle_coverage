@@ -1,0 +1,358 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Sls C197/R197' (2015)
+Signal Descriptions:
+	'M83/4 (Front High-Voltage Battery Coolant Pump)'Rpm
+	Average Voltage Battery Cell
+	Charge Level Of High - Voltage Battery
+	Charge Value Of High - Voltage Battery
+	Isolation Resistance
+	Isolation Warning In High - Voltage On Board Electrical System
+	Isolation Warning In High - Voltage On Board Electrical System (<100 Ohm/V)
+	Isolation Warning In High - Voltage On Board Electrical System (<500 Ohm/V)
+	Maximum Voltage Battery Cell
+	Minimum Voltage Battery Cell
+	Operating Time Of 'M83/4 (Front High-Voltage Battery Coolant Pump)
+	Remaining Switching Cycles Of Contactors
+	Signal Generator For Interlock Circuit
+	Status Of Contactors (Bms-V)
+	Status Of Interlock Circuit
+	Voltage At 'C202 (High Voltage Battery Module)
+	Voltage At Circuit 15
+	Voltage At Circuit 30C
+	Voltage Of Battery Cell (1,2,3)
+	Voltage Of Battery Cell (10,11,12)
+	Voltage Of Battery Cell (100,101,102)
+	Voltage Of Battery Cell (103,104,105)
+	Voltage Of Battery Cell (106,107,108)
+	Voltage Of Battery Cell (109,110,111)
+	Voltage Of Battery Cell (112,113,114)
+	Voltage Of Battery Cell (115,116,117)
+	Voltage Of Battery Cell (118,119,120)
+	Voltage Of Battery Cell (121,122,123)
+	Voltage Of Battery Cell (124,125,126)
+	Voltage Of Battery Cell (127,128,129)
+	Voltage Of Battery Cell (13,14,15)
+	Voltage Of Battery Cell (130,131,132)
+	Voltage Of Battery Cell (133,134,135)
+	Voltage Of Battery Cell (136,137,138)
+	Voltage Of Battery Cell (139,140,141)
+	Voltage Of Battery Cell (142,143,144)
+	Voltage Of Battery Cell (145,146,147)
+	Voltage Of Battery Cell (148,149,150)
+	Voltage Of Battery Cell (151,152,153)
+	Voltage Of Battery Cell (154,155,156)
+	Voltage Of Battery Cell (157,158,159)
+	Voltage Of Battery Cell (16,17,18)
+	Voltage Of Battery Cell (160,161,162)
+	Voltage Of Battery Cell (163,164,165)
+	Voltage Of Battery Cell (166,167,168)
+	Voltage Of Battery Cell (169,170,171)
+	Voltage Of Battery Cell (172,173,174)
+	Voltage Of Battery Cell (175,176,177)
+	Voltage Of Battery Cell (178,179,180)
+	Voltage Of Battery Cell (181,182,183)
+	Voltage Of Battery Cell (184,185,186)
+	Voltage Of Battery Cell (187,188,189)
+	Voltage Of Battery Cell (19,20,21)
+	Voltage Of Battery Cell (190,191,192)
+	Voltage Of Battery Cell (193,194,195)
+	Voltage Of Battery Cell (196,197,198)
+	Voltage Of Battery Cell (199,200,201)
+	Voltage Of Battery Cell (202,203,204)
+	Voltage Of Battery Cell (205,206,207)
+	Voltage Of Battery Cell (208,209,210)
+	Voltage Of Battery Cell (211,212,213)
+	Voltage Of Battery Cell (214,215,216)
+	Voltage Of Battery Cell (217,218,219)
+	Voltage Of Battery Cell (22,23,24)
+	Voltage Of Battery Cell (220,221,222)
+	Voltage Of Battery Cell (223,224,225)
+	Voltage Of Battery Cell (226,227,228)
+	Voltage Of Battery Cell (229,230,231)
+	Voltage Of Battery Cell (232,233,234)
+	Voltage Of Battery Cell (235,236,237)
+	Voltage Of Battery Cell (238,239,240)
+	Voltage Of Battery Cell (241,242,243)
+	Voltage Of Battery Cell (244,245,246)
+	Voltage Of Battery Cell (247,248,249)
+	Voltage Of Battery Cell (25,26,27)
+	Voltage Of Battery Cell (250,251,252)
+	Voltage Of Battery Cell (253,254,255)
+	Voltage Of Battery Cell (256,257,258)
+	Voltage Of Battery Cell (259,260,261)
+	Voltage Of Battery Cell (262,263,264)
+	Voltage Of Battery Cell (265,266,267)
+	Voltage Of Battery Cell (268,269,270)
+	Voltage Of Battery Cell (271,272,273)
+	Voltage Of Battery Cell (274,275,276)
+	Voltage Of Battery Cell (277,278,279)
+	Voltage Of Battery Cell (28,29,30)
+	Voltage Of Battery Cell (280,281,282)
+	Voltage Of Battery Cell (283,284,285)
+	Voltage Of Battery Cell (286,287,288)
+	Voltage Of Battery Cell (31,32,33)
+	Voltage Of Battery Cell (34,35,36)
+	Voltage Of Battery Cell (37,38,39)
+	Voltage Of Battery Cell (4,5,6)
+	Voltage Of Battery Cell (40,41,42)
+	Voltage Of Battery Cell (43,44,45)
+	Voltage Of Battery Cell (46,47,48)
+	Voltage Of Battery Cell (49,50,51)
+	Voltage Of Battery Cell (52,53,54)
+	Voltage Of Battery Cell (55,56,57)
+	Voltage Of Battery Cell (58,59,60)
+	Voltage Of Battery Cell (61,62,63)
+	Voltage Of Battery Cell (64,65,66)
+	Voltage Of Battery Cell (67,68,69)
+	Voltage Of Battery Cell (7,8,9)
+	Voltage Of Battery Cell (70,71,72)
+	Voltage Of Battery Cell (73,74,75)
+	Voltage Of Battery Cell (76,77,78)
+	Voltage Of Battery Cell (79,80,81)
+	Voltage Of Battery Cell (82,83,84)
+	Voltage Of Battery Cell (85,86,87)
+	Voltage Of Battery Cell (88,89,90)
+	Voltage Of Battery Cell (91,92,93)
+	Voltage Of Battery Cell (94,95,96)
+	Voltage Of Battery Cell (97,98,99)
+	Voltage Of High-Voltage On-Board Electrical System At 'N82/7 Front Battery Management System Contol Unit (Slave)'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Temperature
+	Front Left Tire Pressure
+	Front Left Tire Temperature
+	Front Or Rear Sensor Localization
+	Front Right Tire Pressure
+	Front Right Tire Temperature
+	Identification Number Of Front Left Tire Pressure Sensor (Hex)
+	Identification Number Of Front Right Tire Pressure Sensor (Hex)
+	Identification Number Of Rear Left Tire Pressure Sensor (Hex)
+	Identification Number Of Rear Right Tire Pressure Sensor (Hex)
+	Left Or Right Sensor Localization
+	Main Odometer Reading
+	Message In Multifunction Display
+	Minimum Pressure At Front Axle
+	Minimum Pressure At Rear Axle
+	Position Of Tire Pressure Sensor
+	Rear Left Tire Pressure
+	Rear Left Tire Temperature
+	Rear Right Tire Pressure
+	Rear Right Tire Temperature
+	Set Pressure At Front Axle
+	Specified Pressure Eon Rear Axle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage - Pts
+	Pa01 (Outer Left Front Parktronic Distance Sensor)
+	Pa010 (Outer Left Rear Parktronic Distance Sensor)
+	Pa03 (Inner Left Front Parktronic Distance Sensor)
+	Pa04 (Inner Right Front Parktronic Distance Sensor)
+	Pa06 (Outer Right Front Parktronic Distance Sensor)
+	Pa07 (Outer Right Rear Parktronic Distance Sensor)
+	Pa08 (Inner Right Rear Parktronic Distance Sensor)
+	Pa09 (Inner Left Rear Parktronic Distance Sensor)
+	Power Supply Of Warning Elements
+	Sc46 (Parktronic Button)'Led'
+	Selector Lever Position
+	Sensor Voltage
+	Standstill Detection By Wheel Speed Sensor Or Parking Brake
+	Status Of Function 'Parktronic'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Input Speed
+	Output Speed
+	Pp418 (Pressure Distributor Position Sensor)
+	Pp419 (Park Pawl Position Sensor)
+	Pressure Of Clutch K1
+	Pressure Of Clutch K2
+	Rpm Of Coolant Pump Of Dual Clutch Transmission
+	Rpm Of Hollow Shaft
+	Rpm Of Inner Shaft
+	Sliding Sleeve 'Gearshift 2-6'
+	Sliding Sleeve 'Gearshift 3-1'
+	Sliding Sleeve 'Gearshift 5-7'
+	Sliding Sleeve 'Gearshift R-4'
+	Supply Voltage
+	Temperature At' Cp415(Double Clutch Transmission Control Unit)'
+	Total Distance
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Can Message' Voltage At Circuit30'
+	Resistance Of Ignition Circuit Of Pyrofuse
+	Resistance Value Of Ignition Circuit With 'Zb711'(Front Passenger Sidebag Squib )''
+	Resistance Value Of Ignition Circuit With 'Zb714' (Diver Airbag Squib 1)'
+	Resistance Value Of Ignition Circuit With 'Zb715' (Diver Airbag Squib 2)'
+	Resistance Value Of Ignition Circuit With 'Zb724'(Left Head/Thoraxbag Squib )'
+	Resistance Value Of Ignition Circuit With 'Zb725'(Right Head/Thoraxbag Squib )'
+	Resistance Value Of Ignition Circuit With 'Zb73' (Front Passenger Airbag Squib 1)'
+	Resistance Value Of Ignition Circuit With 'Zb736'(Driver Sidebag Squib )'
+	Resistance Value Of Ignition Circuit With 'Zb74' (Front Passenger Airbag Squib 2)'
+	Sb71 (Driver Belt Buckle Restraint System Switch)
+	Serial Number Of 'Wb71 (Left Sidebag Sensor)'(Hex)
+	Serial Number Of 'Wb72 (Right Sidebag Sensor)'(Hex)
+	Serial Number Of 'Wb77 (Left Frontal Acceleration Sensor)'(Hex)
+	Serial Number Of 'Wb78 (Right Frontal Acceleration Sensor)'(Hex)
+	Serial Number Of 'Yb71 (Left Front Door Pressure Sensor)'(Hex)
+	Serial Number Of 'Yb72 (Right Front Door Pressure Sensor)'(Hex)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Temperature Of Battery Cells (1,2,3)
+	Temperature Of Battery Cells (10,11,12)
+	Temperature Of Battery Cells (100,101,102)
+	Temperature Of Battery Cells (103,104,105)
+	Temperature Of Battery Cells (106,107,108)
+	Temperature Of Battery Cells (109,110,111)
+	Temperature Of Battery Cells (112,113,114)
+	Temperature Of Battery Cells (115,116,117)
+	Temperature Of Battery Cells (118,119,120)
+	Temperature Of Battery Cells (121,122,123)
+	Temperature Of Battery Cells (124,125,126)
+	Temperature Of Battery Cells (127,128,129)
+	Temperature Of Battery Cells (13,14,15)
+	Temperature Of Battery Cells (130,131,132)
+	Temperature Of Battery Cells (133,134,135)
+	Temperature Of Battery Cells (136,137,138)
+	Temperature Of Battery Cells (139,140,141)
+	Temperature Of Battery Cells (142,143,144)
+	Temperature Of Battery Cells (145,146,147)
+	Temperature Of Battery Cells (148,149,150)
+	Temperature Of Battery Cells (151,152,153)
+	Temperature Of Battery Cells (154,155,156)
+	Temperature Of Battery Cells (157,158,159)
+	Temperature Of Battery Cells (16,17,18)
+	Temperature Of Battery Cells (160,161,162)
+	Temperature Of Battery Cells (163,164,165)
+	Temperature Of Battery Cells (166,167,168)
+	Temperature Of Battery Cells (169,170,171)
+	Temperature Of Battery Cells (172,173,174)
+	Temperature Of Battery Cells (175,176,177)
+	Temperature Of Battery Cells (178,179,180)
+	Temperature Of Battery Cells (181,182,183)
+	Temperature Of Battery Cells (184,185,186)
+	Temperature Of Battery Cells (187,188,189)
+	Temperature Of Battery Cells (19,20,21)
+	Temperature Of Battery Cells (190,191,192)
+	Temperature Of Battery Cells (193,194,195)
+	Temperature Of Battery Cells (196,197,198)
+	Temperature Of Battery Cells (199,200,201)
+	Temperature Of Battery Cells (202,203,204)
+	Temperature Of Battery Cells (205,206,207)
+	Temperature Of Battery Cells (208,209,210)
+	Temperature Of Battery Cells (211,212,213)
+	Temperature Of Battery Cells (214,215,216)
+	Temperature Of Battery Cells (217,218,219)
+	Temperature Of Battery Cells (22,23,24)
+	Temperature Of Battery Cells (220,221,222)
+	Temperature Of Battery Cells (223,224,225)
+	Temperature Of Battery Cells (226,227,228)
+	Temperature Of Battery Cells (229,230,231)
+	Temperature Of Battery Cells (232,233,234)
+	Temperature Of Battery Cells (235,236,237)
+	Temperature Of Battery Cells (238,239,240)
+	Temperature Of Battery Cells (241,242,243)
+	Temperature Of Battery Cells (244,245,246)
+	Temperature Of Battery Cells (247,248,249)
+	Temperature Of Battery Cells (25,26,27)
+	Temperature Of Battery Cells (250,251,252)
+	Temperature Of Battery Cells (253,254,255)
+	Temperature Of Battery Cells (256,257,258)
+	Temperature Of Battery Cells (259,260,261)
+	Temperature Of Battery Cells (262,263,264)
+	Temperature Of Battery Cells (265,266,267)
+	Temperature Of Battery Cells (268,269,270)
+	Temperature Of Battery Cells (271,272,273)
+	Temperature Of Battery Cells (274,275,276)
+	Temperature Of Battery Cells (277,278,279)
+	Temperature Of Battery Cells (28,29,30)
+	Temperature Of Battery Cells (280,281,282)
+	Temperature Of Battery Cells (283,284,285)
+	Temperature Of Battery Cells (286,287,288)
+	Temperature Of Battery Cells (31,32,33)
+	Temperature Of Battery Cells (34,35,36)
+	Temperature Of Battery Cells (37,38,39)
+	Temperature Of Battery Cells (4,5,6)
+	Temperature Of Battery Cells (40,41,42)
+	Temperature Of Battery Cells (43,44,45)
+	Temperature Of Battery Cells (46,47,48)
+	Temperature Of Battery Cells (49,50,51)
+	Temperature Of Battery Cells (52,53,54)
+	Temperature Of Battery Cells (55,56,57)
+	Temperature Of Battery Cells (58,59,60)
+	Temperature Of Battery Cells (61,62,63)
+	Temperature Of Battery Cells (64,65,66)
+	Temperature Of Battery Cells (67,68,69)
+	Temperature Of Battery Cells (7,8,9)
+	Temperature Of Battery Cells (70,71,72)
+	Temperature Of Battery Cells (73,74,75)
+	Temperature Of Battery Cells (76,77,78)
+	Temperature Of Battery Cells (79,80,81)
+	Temperature Of Battery Cells (82,83,84)
+	Temperature Of Battery Cells (85,86,87)
+	Temperature Of Battery Cells (88,89,90)
+	Temperature Of Battery Cells (91,92,93)
+	Temperature Of Battery Cells (94,95,96)
+	Temperature Of Battery Cells (97,98,99)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Illumination
+	Auto On/Off Driving Lights
+	Brake Fluid Level
+	Coolant Level
+	Daytime Running Lights
+	Dimming Of Daytime Running Lamps
+	Duct 1 Of 'S1 (Exterior Lights Switch)'
+	Duct 2 Of 'S1 (Exterior Lights Switch)'
+	Duct 3 Of 'S1 (Exterior Lights Switch)'
+	Front Brake Linings
+	Headlamp Switch-Off Delay
+	Le816 (Left Low Beam)
+	Le817 (Right Low Beam)
+	Le826 (Left Front Turn Signal Light )
+	Le827 (Right Front Turn Signal Light )
+	Le869 (Left Parking Light,Standing Light And Daytime Running Light)
+	Le874 (Right Parking Light,Standing Light And Daytime Running Light)
+	Manual Driving Lights
+	Outside Temperature
+	Power Consumption Of 'Zb61 (Refrigerant Compressor)'
+	Status Of Output For 'Interior Lamp'
+	Status Of Output For 'Lea1 (Rear Interior Lamp)'
+	Status Of Output For 'Zb61 (Refrigerant Compressor)'
+	Warning Buzzer 'Driving Lights'
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure
+	Lateral Acceleration
+	Lateral Acceleration 1
+	Longitudinal Acceleration 1
+	Sc723 (Amg Esp Sport Off Button)
+	Se84 (Brake Light Switch)
+	Steering Wheel Angle
+	Supply Voltage At Circuit 30G
+	Supply Voltage To Valves And Output Stages
+	Turn Rate 1
+	Turn Rate 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Conditioning
+	Battery Voltage
+	Coolant Temperature
+	Engine Load
+	Engine Oil Temperature
+	Engine Speed
+	Fan Run-On
+	Fuel Level
+	Fuel Pump Permanently On
+	Idle Recognition
+	Outside Temperature
+	Position Of Accelerator Pedal
+	Specified Value For Engine Temperature
+

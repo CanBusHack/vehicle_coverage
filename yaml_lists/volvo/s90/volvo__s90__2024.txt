@@ -1,0 +1,151 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Volvo 'S90' (2024)
+Signal Descriptions:
+	Gear Selector Position - Tcm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Mass
+	Engine Speed
+	Fuel Level Percentage
+	Intake Air Pressure
+	Throttle Position (Tp) Circuit 1
+	Throttle Position (Tp) Circuit 2
+	Throttle Position (Tp) Nominal Value
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Torque From Engine - Tcm
+	Transmission Oil Temperature - Tcm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Volume
+	Total Distance
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Angle From Sas - Pscm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Throttle Position (Tp) Circuit 1 - Ecm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pedal Switch Status
+	Vacuum Pressure Sensor Signal
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Left Tire Pressure
+	Front Right Tire Pressure
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position (App) Analog - Ecm
+	Air Mass - Ecm
+	Engine Coolant Temperature - Ecm
+	Engine Speed - Ecm
+	Fuel Level (Via Can) - Ecm
+	Time Since Engine Start - Ecm
+	Vehicle Speed (Via Can) - Ecm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Occupant Classification Sensor Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Passenger Side Door Latch Lock Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Driver Side Door Latch Lock Status
+	Front Left Window Switch
+	Front Right Window Switch
+	Rear Left Window Switch
+	Rear Right Window Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Current - Cem
+	Battery State Of Charge (State Of Charge) - Cem
+	Brake Pedal Position - Cem
+	Hazard Switch Input - Cem
+	Horn Switch - Cem
+	Left Front Fog Light - Cem
+	Left High Beam Pwm - Cem
+	Right Front Fog Light - Cem
+	Right High Beam Pwm - Cem
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Kl15 Relay Control - Cem
+	Left Front Turn Indicator Lamp - Cem
+	Left Rear Turn Indicator Lamp - Cem
+	Right Front Turn Indicator Lamp - Cem
+	Right Rear Turn Indicator Lamp - Cem
+	Tailgate Handle Open Button - Cem
+	Washer Fluid Level Sensor - Cem
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Total Distance (Odometer) - Dim
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Angle - Sas
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Current
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Interior Temperature Sensor-Ccm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pedal Switch Status - Bcm
+	Internal Temperature - Bcm
+	Longitudinal Accelerometer Sensor Input - Bcm
+	Park Brake Applied - Left Side - Bcm
+	Park Brake Applied - Right Side - Bcm
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Airbag Warning Lamp - Srs
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position (App)
+	Gear According To Solenoids
+	Torque From Engine
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Status
+	Steering Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Status
+	Charging, Dc Current
+	Charging, Main Current
+	Malfunction Indicator Light (Mil)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adblue Tank Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Switch Front Left
+	Door Switch Front Right
+	Door Switch Rear Left
+	Door Switch Rear Right
+

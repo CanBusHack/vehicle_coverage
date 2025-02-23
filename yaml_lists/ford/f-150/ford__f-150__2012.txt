@@ -1,0 +1,58 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Ford 'F-150' (2012)
+Signal Descriptions:
+	Gear Commanded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Manifold Absolute Pressure
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake On/Off
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Gear Commanded
+	Manifold Absolute Pressure Sensor
+	Throttle Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Ajar Counter
+	Vehicle Battery State Of Charge
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Display
+	Ignition Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Ajar Counter
+	Vehicle Battery State Of Charge
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Display
+	Ignition Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Gear Commanded
+	Manifold Absolute Pressure
+	Throttle Position
+	Vehicle Speed
+

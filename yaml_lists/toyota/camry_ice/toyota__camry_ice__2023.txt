@@ -1,0 +1,1087 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Toyota 'Camry Ice' (2023)
+Signal Descriptions:
+	Asic State Information
+	Can Steering Angle Speed (Ssav)
+	Can Vehicle Speed (Sp1)
+	Can Vehicle Speed (Speed Sensor Rl)
+	Can Vehicle Speed (Speed Sensor Rr)
+	Ecu Estimate Temperature Of Overheat Prevention Part
+	Ecu Overheat Prevention Part
+	Final Motor Current Limited (Q Axis)
+	Motor Estimate Temperature Of Overheat Prevention Part
+	Motor Overheat Prevention Part
+	Power Source
+	Ps Assist Signal
+	Steering Angle Sensor Signal State
+	Steering Angle Sensor Signal State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Consumption Power
+	A/C Useable Power
+	Ac Charger Rated Power
+	Ac Charging Input Minimum Voltage History
+	Ac Input Current (A)
+	Accelerator Position
+	Accelerator Position Sensor 1 Voltage (%)
+	Accelerator Position Sensor 2 Voltage (%)
+	Active Position Status
+	Actual Engine Output Torque
+	Air Conditioner Consumption Power (Kw)
+	Air Conditioner Usable Power (Kw)
+	Airbag Status (Collision) (Can)
+	Ambient Temperature (C)
+	Ambient Temperature Data (C)
+	Atmospheric Pressure (Kpa)
+	Atmospheric Pressure After Ignition On For Mg (Kpa)
+	Auxiliary Battery Average Current During Ig Off 1 Trip Before
+	Auxiliary Battery Supply Power During Ac Charging
+	Auxiliary Battery Voltage Just Before Smr Precharge
+	Auxiliary Battery Warning (Low Voltage)
+	Auxiliary Battery Warning (Over Voltage)
+	Awd Input Switch
+	Awd Input Switch
+	Batt Voltage
+	Body Control With Torque Demand
+	Boost Ratio
+	Boosting Converter B Temperature (Upper) (C)
+	Boosting Converter Carrier Frequency
+	Boosting Converter Temperature (Upper) (C)
+	Calculated Input Torque (Transmission)
+	Calculated Load (%)
+	Calculated Vehicle Speed (Transmission) (Km/H)
+	Charge Canceled By Hybrid/Ev Battery Win Low Trigger Counter
+	Charging Status
+	Coolant Temperature (C)
+	Crank Position (Deg(Ca))
+	Current Fuel Type
+	Dc Charging And Discharging Mode Determination
+	Dc Charging Relay Permission Signal Request
+	Dc Quick Charging Connector Connect Status
+	Dc Quick Charging Relay Status To Dc Quick Charging Control Ecu
+	Dc/Dc Converter 3 Cooling Fan Fail Safe Signal Duty
+	Dc/Dc Converter 3 Terminal Voltage (Abnormal Detection Signal) (V)
+	Dc/Dc Converter Cooling Fan Fail Safe Signal Duty (%)
+	Dc/Dc Converter Drive Request
+	Deceleration Level
+	Downhill Control Level
+	Drive Mode
+	Drive Mode Select Status
+	Elapsed Time From Hv/Ev Ecu Boot Up
+	Electric Vehicle Mode Status
+	Emergency Shutdown Signal (Main)
+	Engine - Hybrid/Ev Communication Reliability
+	Engine Mode
+	Eop Operation Request
+	Eop Speed
+	Eop Torque
+	Estimate Fc Stack Cell Minimum Voltage 1
+	Estimate Fc Stack Cell Minimum Voltage 2
+	Fc Air Compressor Consumption Power
+	Fc Air Compressor Inverter Temperature (Filtered Value)
+	Fc Air Compressor Motor Temperature
+	Fc Air Compressor Motor Temperature (Filtered Value)
+	Fc Coolant Pump Speed
+	Fc Current Limit Value (Auxiliary Battery Driving)
+	Fc Current Limit Value (Cell Monitor)
+	Fc Inter Cooler Outlet Temperature Sensor Voltage
+	Fc Output Power Limit Value (Fc Air Compressor Shutdown)
+	Fc Stack Cell Average Minimum Voltage
+	Fc Stack Cell Minimum Voltage
+	Forward And Rearward G
+	Fr Wheel Speed
+	Gear Shift Actuator Power Supply Voltage (Ma1)
+	Gear Shift Actuator Power Supply Voltage (Ma2)
+	Generate Torque (Request From Dss)
+	Generator Inverter Calculated Temperature
+	Generator Inverter Temperature
+	Generator Revolution
+	Generator Temperature Sensor Voltage
+	Grille Shutter Position
+	High Voltage Power Supply Line Abnormal
+	High-Range Hydrogen Pressure (Filtered Value)
+	Hv/Ev Activate Condition
+	Hybrid/Ev - Ect Communication Reliability
+	Hybrid/Ev - Mg Communication Reliability
+	Hybrid/Ev - Rear Mg Communication Reliability
+	Hybrid/Ev Battery Charging Power
+	Hybrid/Ev Battery Control Status On Thermal Keeping And Charging
+	Hybrid/Ev Battery Discharging Current Upper Limit
+	Hybrid/Ev Battery Maximum State Of Charge
+	Hybrid/Ev Battery Maximum Temperature
+	Hybrid/Ev Battery Minimum Temperature
+	Hybrid/Ev Battery Monitoring Ic 1 Voltage 1
+	Hybrid/Ev Battery State Of Charge
+	Hybrid/Ev Battery State Of Charge Of Immediately After Ig On
+	Hybrid/Ev Control System Control Mode
+	Ig Off Elapsed Time
+	Ig On Duration Time
+	Ignition Keeping Signal Release Request By Transmission Fluid Pump Motor
+	Input Shaft Revolution (Transmission)
+	Intake Air Temperature (Iat)
+	Internal Voltage
+	Inverter Coolant Water Temperature
+	Inverter Water Pump Drive Request
+	Inverter Water Pump Duty Ratio
+	Ko Clutch Control Status
+	Lateral G
+	Master Cylinder Control Torque
+	Maximum Available Fc Current
+	Medium-Range Hydrogen Pressure (Filtered Value)
+	Mil
+	Mil On Run Distance
+	Motor Inverter Temperature
+	Motor Revolution
+	Motor Temperature
+	Motor Temperature Sensor Voltage
+	Motor/Generator Cooling Oil Pump Motor Revolution
+	Motor/Generator Reactor Current Before Smr Precharge
+	Number Of Charging (Same System Voltage)
+	Number Of Emission Dtc
+	Number Of Filling
+	Number Of Ready Off By Transmission Fluid Temperature Low
+	Number Of Specification Information Switching
+	Obd Requirements
+	Output Shaft Speed
+	Output Voltage Upper Limit At Step Down
+	Outside Stand Present Output Current
+	Outside Stand Present Output Voltage
+	P Position Sw Terminal Voltage
+	Park Pawl Position Sensor Voltage 'A'
+	Parking Lock Control Relearning Trigger Counter
+	Permit Start By Immobilizer
+	Power Feeding Method Determination
+	Power Supply Control Driver Operation Status
+	Primary Driving Force Adjustment Result
+	Radiator Outlet Coolant Temperature Sensor Voltage
+	Rear Motor Inverter Intake Air Temperature
+	Rear Motor Inverter Temperature
+	Rear Motor Inverter Temperature Before Operation
+	Rear Motor Revolution
+	Rear Motor Temperature Sensor Voltage
+	Rear Motor Torque Ratio
+	Request Engine Torque
+	Request Motor Regenerative Brake Torque
+	Request Rear Motor Regenerative Brake Torque
+	Running Time From Mil On
+	Shift D/R Operation Rejection From Shift Position N During Acceleration Pedal Depress Trigger Counter
+	Shift D/R Operation Rejection From Shift Position N Without Depressing Brake Pedal Trigger Counter
+	Shift Operation During Advanced Drive/Park Trigger Counter
+	Shift Operation On Gradient During Ready Off Trigger Counter
+	Shift P Position During Slow Speed Running Trigger Counter
+	Shift Position
+	Shift Position (Current Position)
+	Shift Sensor Status
+	Shift Sensor Voltage (Vsi1)
+	Shift Switch Status By Park Pawl Position Sensor 'A'
+	Short Wave Highest Value Level
+	Smoothed Value Batt Voltage
+	Smoothed Value Of Auxiliary Battery Temperature
+	Sports Shift Position
+	Steering Angle
+	Step Down Current Limit
+	Sub Dc/Dc Converter Supply Status (For Charging)
+	Target Calculated Gear Position
+	Target Dc Quick Charging Current Request
+	Target Dc/Dc Converter Voltage
+	Target Engine Power
+	Target Engine Revolution
+	Target Eop Speed
+	Target Fc Current (Filtered Value)
+	Target Low-Range Hydrogen Pressure
+	Target Radiator Rotary Valve Position
+	Target Sub Dc/Dc Converter Voltage (For Charging)
+	Throttle Position Sensor 1 Voltage
+	Time After Dtc Cleared
+	Total Distance Traveled
+	Total Distance Traveled Unit
+	Total Voltage
+	Transaxle Oil Temperature Sensor Voltage
+	Transmission Fluid Pump Motor Coil Temperature
+	Transmission Fluid Pump Motor Driving Control Status
+	Transmission Fluid Pump Motor Revolution
+	Transmission Fluid Temperature
+	Turbine Speed
+	V Phase Generator Current
+	V Phase Motor Current
+	V Phase Rear Motor Current
+	Vehicle Speed
+	Vehicle Speed When Dc Quick Charging Connector Connect
+	Vehicle Stability Control (Vscc0 / Traction Control (Trc) Off Switch
+	Vl-Voltage After Boosting
+	Vl-Voltage Before Boosting
+	Vl-Voltage Before Boosting For Rear Motor
+	Voltage Deviation Between Before Boosting And After Boosting During Smr Precharge
+	Vsc/Trc Off Switch
+	Warm-Up Cycle Cleared Dtc
+	Yaw Rate Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Application Pressure
+	Gear Position
+	Prndl Position
+	Steering Wheel Angle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Battery Voltage (System 2)
+	Battery Voltage Drop History (System 2)
+	Chassis Power Supply Management Eps Control History
+	Chassis Power Supply Management Eps Control History (System 2)
+	Command Value Current 2 (D Axis) (System 2)
+	Cooperation Control State
+	Engine Revolution (Pps)
+	Final Motor Current Limited (Q Axis) (System 2)
+	High Load Continuous Control Number Of Times
+	Ig Power Supply
+	Ig Power Supply (Pps)
+	Ig Power Supply (System 2)
+	Map Information (Pps)
+	Middle Voltage Of Other Systems
+	Middle Voltage Of Other Systems (System 2)
+	Motor 1 Phase Duty
+	Motor 1 Power Supply
+	Motor 1 U Phase Current
+	Motor 1 U Phase Terminal Voltage
+	Motor 1 V Phase Current
+	Motor 1 V Phase Terminal Voltage
+	Motor 1 W Phase Current
+	Motor 1 W Phase Duty
+	Motor 1 W Phase Terminal Voltage
+	Motor 2 Power Supply
+	Motor 2 U Phase Current
+	Motor 2 U Phase Duty
+	Motor 2 U Phase Terminal Voltage
+	Motor 2 V Phase Current
+	Motor 2 V Phase Duty
+	Motor 2 V Phase Terminal Voltage
+	Motor 2 W Phase Current
+	Motor 2 W Phase Duty
+	Motor 2 W Phase Terminal Voltage
+	Motor Rotation Angle 4
+	Motor Rotation Angle Sensor 1 Sin Voltage
+	Motor Rotation Angle Sensor 2 Cos Voltage
+	Motor Rotation Angle Sensor 2 Sin Voltage
+	Motor Rotation Angle Sensor 3 Cos Voltage
+	Motor Rotation Angle Sensor 3 Sin Voltage
+	Motor Rotation Angle Sensor 3 Sin Voltage
+	Motor Rotation Angle2
+	Motor Rotation Angle3
+	Overheat Prevention Control History
+	Overheat Prevention Control History (System 2)
+	Pig Power Supply
+	Pig Power Supply (System 2)
+	Power Supply Voltage Drop Control History
+	Power Supply Voltage Drop Restraint Control History
+	Ps Assist Signal
+	Ready Status
+	Solenoid Actual Current (Pps)
+	Status Learned Left/Right End Position For End Torque Limit Control
+	Status Of Vehicle Power (Igp Pt1)
+	Status Of Vehicle Power (Igp Pt2)
+	Status Of Vehicle Power (Igr Pdc)
+	Steering Angle
+	Steering Angle (Pps)
+	Steering Angle Velocity
+	Steering Angle Velocity (Pps)
+	Super High Speed Steering Angle Speed Abnormality Number Of Times
+	Synchronization Status Of Pwm
+	Thermistor Temperature
+	Thermistor Temperature (System 2)
+	Torque Sensor 1 Output
+	Torque Sensor 1 Power Supply
+	Torque Sensor 1 Zero Point Value
+	Torque Sensor 2 Output
+	Torque Sensor 2 Power Supply
+	Torque Sensor 2 Zero Point Value
+	Torque Sensor 3 Output
+	Torque Sensor 3 Power Supply
+	Torque Sensor 3 Zero Point Value
+	Torque Sensor 4 Output
+	Torque Sensor 4 Power Supply
+	Torque Sensor 4 Zero Point Value
+	Turn Counter 1
+	Turn Counter 2
+	Vehicle Speed (Pps)
+	Vehicle Speed Signal Invalid History
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Warning Light
+	Throttle Position
+	Throttle Sensor Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seat 2Nd Airbag Squib Resistance Value
+	Driver Seat Air Belt Squib Resistance Value
+	Driver Seat Airbag Driver Seat 2Nd Airbag Squib Resistance Valueariable Vent Hole Squib Resistance Value
+	Driver Seat Airbag Squib Resistance Value
+	Driver Seat Buckle Switch Status
+	Driver Seat Buckle Switch Terminal Current (Live)
+	Driver Seat Buckle Switch Terminal Voltage (Inactive)
+	Driver Seat Cushion Airbag Squib Value
+	Driver Seat Knee Airbag Squib Resistance Value
+	Driver Seat Position Sensor Terminal Current (Live)
+	Driver Seat Position Sensor Terminal Voltage (Inactive)
+	Driver Seat Position Status
+	Driver Seat Pretensioner Squib Resistance Value
+	Driver Seat Selectable Force Limiter Squib Resistance Value
+	Front Inner Load Sensor Load Value Information
+	Front Outer Load Sensor Load Value Information
+	Judgement Result For Occupant Detection System (Occupant Of Passenger Seat)
+	Left Side 1St Seat Far Side Squib Resistance Value
+	Left Side 1St Seat Side-Airbag Squib Resistance Value
+	Left Side 2Nd Curtain Shield Airbag Squib Resistance Value
+	Left Side 2Nd Seat Air Belt Squib Resistance Value
+	Left Side 2Nd Seat Buckle Switch Status
+	Left Side 2Nd Seat Buckle Switch Terminal Current (Live)
+	Left Side 2Nd Seat Buckle Switch Terminal Voltage (Inactive)
+	Left Side 2Nd Seat Cushion Airbag Squib Resistance Value
+	Left Side 2Nd Seat Far Side Airbag Squib Resistance Value
+	Left Side 2Nd Seat Pretensioner Squib Resistance Value
+	Left Side 2Nd Seat Pretensioner Squib Resistance Value
+	Left Side 2Nd Seat Selectable Force Limiter Squib Resistance Value
+	Left Side 2Nd Seat Side-Airbag Squib Resistance Value
+	Left Side Curtain Shield Airbag Squib Resistance Value
+	Left Side Front Pop-Up Hood Squib Resistance Value
+	Left Side Pedestrian Protection System Airbag Squib Value
+	Left Side Pop-Up Hood Squib Resistance Value
+	Load Sensor Total Load Value Information
+	Microcomputer/Sensor Voltage
+	Occupant Detection Status
+	Passenger Seat 2Nd Airbag Squib Resistance Value
+	Passenger Seat 3Rd Airbag Squib Resistance Value
+	Passenger Seat Air Belt Squib Resistance Value
+	Passenger Seat Airbag Driver Seat 2Nd Airbag Squib Resistance Valueariable Vent Hole Squib Resistance Value
+	Passenger Seat Airbag Squib Resistance Value
+	Passenger Seat Buckle Switch Status
+	Passenger Seat Buckle Switch Terminal Current (Live)
+	Passenger Seat Buckle Switch Terminal Voltage (Inactive)
+	Passenger Seat Cushion Airbag Squib Resistance Value
+	Passenger Seat Knee Airbag Squib Resistance Value
+	Passenger Seat Manual Cut-Off Switch Terminal Voltage (Inactive)
+	Passenger Seat Manual Cut-Off Switch Terminal Voltage (Live)
+	Passenger Seat Position Sensor Terminal Current (Live)
+	Passenger Seat Position Sensor Terminal Voltage (Inactive)
+	Passenger Seat Position Status
+	Passenger Seat Pretensioner Squib Resistance Value
+	Passenger Seat Selectable Force Limiter Squib Resistance Value
+	Rear Inner Load Sensor Load Value Information
+	Rear Inner Load Sensor Serial No. - Sensor No.
+	Rear Outer Load Sensor Load Value Information
+	Right Side 1St Seat Far Side Squib Resistance Value
+	Right Side 1St Seat Side-Airbag Squib Resistance Value
+	Right Side 2Nd Curtain Shield Airbag Squib Resistance Value
+	Right Side 2Nd Seat Air Belt Squib Resistance Value
+	Right Side 2Nd Seat Buckle Switch Status
+	Right Side 2Nd Seat Buckle Switch Terminal Current (Live)
+	Right Side 2Nd Seat Buckle Switch Terminal Voltage (Inactive)
+	Right Side 2Nd Seat Cushion Airbag Squib Resistance Value
+	Right Side 2Nd Seat Far Side Airbag Squib Resistance Value
+	Right Side 2Nd Seat Pretensioner Squib Resistance Value
+	Right Side 2Nd Seat Selectable Force Limiter Squib Resistance Value
+	Right Side 2Nd Seat Side-Airbag Squib Resistance Value
+	Right Side Curtain Shield Airbag Squib Resistance Value
+	Right Side Front Pop-Up Hood Squib Resistance Value
+	Right Side Pedestrian Protection System Airbag Squib Value
+	Right Side Pop-Up Hood Squib Resistance Value
+	Satellite G Sensor Output Value
+	Satellite P Sensor Absolute Pressure 1
+	Satellite P Sensor Output Value
+	Satellite Sensor Power Supply Voltage
+	Satellite Sensor Reset Information (B-Pillar Floor Cross Sensor)
+	Satellite Sensor Reset Information (C-Pillar Floor Cross Sensor)
+	Satellite Sensor Reset Information (Left Side B-Pillar Sensor 2/Left Side Front Rocker Sensor)
+	Satellite Sensor Reset Information (Left Side B-Pillar Sensor)
+	Satellite Sensor Reset Information (Left Side C-Pillar Sensor)
+	Satellite Sensor Reset Information (Left Side D-Pillar Sensor)
+	Satellite Sensor Reset Information (Left Side Front Door Pressure Sensor)
+	Satellite Sensor Reset Information (Left Side Front Door Sensor/Left Side Front Slide Door Sensor)
+	Satellite Sensor Reset Information (Left Side Front Sensor)
+	Satellite Sensor Reset Information (Left Side Rear Door Sensor/Left Side Rear Slide Door Sensor)
+	Satellite Sensor Reset Information (Left Side Rear Sensor)
+	Satellite Sensor Reset Information (Lh Pressure Sensor For Pedestrian Protection System)
+	Satellite Sensor Reset Information (Rh Pressure Sensor For Pedestrian Protection System)
+	Satellite Sensor Reset Information (Right Side B-Pillar Sensor 2/Right Side Front Rocker Sensor)
+	Satellite Sensor Reset Information (Right Side B-Pillar Sensor)
+	Satellite Sensor Reset Information (Right Side C-Pillar Sensor)
+	Satellite Sensor Reset Information (Right Side D-Pillar Sensor)
+	Satellite Sensor Reset Information (Right Side Front Door Pressure Sensor)
+	Satellite Sensor Reset Information (Right Side Front Door Sensor/Right Side Front Slide Door Sensor)
+	Satellite Sensor Reset Information (Right Side Front Sensor)
+	Satellite Sensor Reset Information (Right Side Rear Door Sensor/Right Side Rear Slide Door Sensor)
+	Satellite Sensor Reset Information (Right Side Rear Sensor)
+	Squib Driver Voltage
+	Voltage After Pressure Rising
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Center Differential Lock Indicator Request
+	Center Differential Lock Motor Output
+	Center Differential Lock Motor Output
+	Fl Wheel Speed
+	Fr Wheel Speed
+	Front Differential Lock Indicator Request
+	Front Differential Lock Position Sensor Power Supply Voltage
+	Front Differential Lock Position Sensor Voltage
+	Front Differential Lock Solenoid Setting Duty
+	Front Differential Lock Solenoid Voltage
+	Igr Voltage
+	L4 Indicator Request
+	Maximum Engine Speed In Inappropriate Operation (H-L Shift)
+	Motor Voltage
+	Number Of Inappropriate Operation (H-L Shift Of High Engine Speed)
+	Rear Differential Lock Indicator Request
+	Rear Differential Lock Solenoid Setting Duty
+	Rear Differential Lock Solenoid Voltage
+	Rl Wheel Speed
+	Rr Wheel Speed
+	Transmission Information
+	Vehicle Speed
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Lid Illumination Lighting Status
+	Charging Lid Switch Confirmed Status
+	Dc Charging And Discharging Control Module
+	Dc Charging And Power Feeding Control Status
+	Dc Charging And Power Feeding Control Status - Preparing 1717
+	Dc Charging Insulation Detection Circuit Status
+	Dc Charging Insulation Deterioration Count (2Nd Latest)
+	Dc Charging Insulation Deterioration Level
+	Dc Charging Lid Opening And Closing Status
+	Dc Charging Relay Stuck Closed Status
+	Dc Operation Mode
+	Dc Quick Charger Available Output Voltage
+	Dc Quick Charger Max Output Voltage
+	Dc Quick Charger Present Output Voltage
+	Dc Quick Charger Stand Number (2Nd Latest)
+	Dc Quick Charger Stand Number (Latest)
+	Dc Quick Charging Mode Transition Permission From Hybrid/Ev Control Ecu
+	Dc Quick Charging Positive Inlet Temperature Sensor Voltage
+	Dc Quick Charging Voltage (Measured Value)
+	Gb/T Spec Version Support Status
+	Hybrid/Ev Battery State Of Charge (Dc Quick Charger Display)
+	Hybrid/Ev Battery State Of Charge (Meter Display)
+	Manufacturer Code Adapted Evps
+	Next Dc Charging And Discharging Prohibition Status
+	Next Dc Charging And Discharging Prohibition Status
+	Number Of Dc Quick Charging
+	Number Of Dc Quick Charging Stop During Preperation
+	Target Dc Quick Charging Current
+	Target Dc Quick Charging Current From Vehicle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fuel Level (Volume)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Input Current
+	Ac Input Current Circuit 2
+	Ac Input Voltage For Control
+	Ac Input Voltage For Control Circuit 2
+	Ac Input Voltage For Monitoring
+	Ac Input Voltage For Monitoring Circuit 2
+	Ac Input Voltage Instantaneous Value 1 For Waveform Monitoring
+	Ac Input Voltage Instantaneous Value 1 For Waveform Monitoring Circuit 2
+	Charger Cooling Fan Drive Request
+	Charger Cooling Fan Driving Duty
+	Charger Input Power
+	Charger Input Power Circuit 2
+	Charger Output Power
+	Charger Output Power Circuit 2
+	Charger Power Supply Voltage Type
+	Charging Current Duty From Charger
+	Charging Current Upper Limit (Charger Cpu)
+	Charging Current Upper Limit (Charger Cpu) Circuit 2
+	Charging Elapsed Time 1
+	Charging Elapsed Time 2
+	Charging Required Time From Hybrid/Ev Control Ecu
+	Charging/Power Feeding Control Status
+	Charging/Power Feeding Current Sensor Current
+	Charging/Power Feeding Relay Melting Diagnosis Status
+	Charing/Power Feeding Control Mode
+	Current After Boosting By Pfc Boosting Circuit
+	Current After Boosting By Pfc Boosting Circuit Circuit 2
+	Dc Power Feeding Mode Select Result
+	Dc/Dc Converter Temperature (For Charging)
+	Dc/Dc Converter Temperature (For Charging) Circuit 2
+	Hood Opening And Closing Status
+	Manufacturer Code Adapted Evps
+	Next Power Charging And Feeding Prohibition Status
+	Pfc Boosting Circuit Current Amplitude
+	Pfc Boosting Circuit Current Amplitude Circuit 2
+	Pfc Boosting Circuit Temperature
+	Pfc Boosting Circuit Temperature Circuit 2
+	Plug-In Control Ecu System Voltage (+12.5V)
+	Plug-In Control Ecu System Voltage (+12.5V) Circuit 2
+	Power Feeding Mode Select Result
+	Sub Dc/Dc Converter Operation Status (For Charging)
+	Target Charging Power
+	Target Charging Power (Charger Cpu)
+	Target Charging Power (Charger Cpu) Circuit 2
+	Target Dc/Dc Converter Current (For Charging)
+	Target Dc/Dc Converter Current (For Charging) Circuit 2
+	Target Pfc Boosting Circuit Boosted Voltage
+	Target Pfc Boosting Circuit Boosted Voltage Circuit 2
+	Time Cycle Of Charging Voltage Zero Crossing Point
+	Time Cycle Of Charging Voltage Zero Crossing Point Circuit 2
+	V2H Charging And Discharging Mode Control Protocol Number Confirmed Result
+	V2H Sequence Protocol Number
+	Voltage After Boosting By Pfc Boosting Circuit
+	Voltage After Boosting By Pfc Boosting Circuit Circuit 2
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	+Bs Voltage
+	Ads Control Eps Pinion Angle
+	Clutch Stroke
+	Ecu +B1 Voltage
+	Ecu +B2 Voltage
+	Eps Motor Angle Zero Point Value
+	Ig1 Voltage
+	Ig1 Voltage Dup
+	Igp Voltage
+	Igr Voltage
+	Indoor Temperature
+	Mt2
+	Parking Brake Light
+	Rh Actuator Motor Adjustment Current
+	Rh Actuator Motor Input Voltage
+	Servo Pressure Sensor Temperature
+	Shift Lever Position
+	Ssa Solenoid Current
+	Target Acceleration Of Lower Limit From Vehicle Motion Control
+	Target Acceleration Of Upper Limit From Vehicle Motion Control
+	Target Driving Force Of Lower Limit From Vehicle Motion Control
+	Target Oil Pressure
+	The Number Of Capacitor Operation
+	Travel Distance From Ig On
+	Trc (Trac) / Vsc Off Mode
+	Vcsk Voltage Value
+	Vehicle Speed Grade
+	Vehicle Stop Time From Ig On
+	Voltage Difference Between Motor Input-Output Terminal
+	Vsc Motor Angle Zero Point Value
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Consumption Power
+	A/C System Status
+	Accelerator Position
+	Ambient Temperature
+	Atmospheric Pressure
+	Batt Voltage
+	Boosting Converter Carrier Frequency
+	Calculated Load
+	Coolant Temperature
+	Delta State Of Charge
+	Distance From Dtc Cleared
+	Engine Run Time
+	Engine Speed
+	Generator Revolution
+	Hv/Ev Activate Condition
+	Hybrid/Ev Battery Block 1 Cell Average Voltage
+	Hybrid/Ev Battery Cell 1 Internal Resistance
+	Hybrid/Ev Battery Cell 1 Internal Resistance
+	Hybrid/Ev Battery Cell 1 Voltage
+	Hybrid/Ev Battery Cell 1 Voltage
+	Hybrid/Ev Battery Cell Circuit Open Information For Monitoring Ic 1
+	Hybrid/Ev Battery Cell Maximum Voltage Up To 1 Trip Before
+	Hybrid/Ev Battery Control Mode
+	Hybrid/Ev Battery Cooling Fan
+	Hybrid/Ev Battery Cooling Fan 1 Drive Request
+	Hybrid/Ev Battery Cooling Fan 2 Drive Request
+	Hybrid/Ev Battery Cooling Fan Intake Air Temperature Sensor Voltage 1
+	Hybrid/Ev Battery Cooling Performance Degradation Factor
+	Hybrid/Ev Battery Cooling Request Level
+	Hybrid/Ev Battery Cooling Status (A/C)
+	Hybrid/Ev Battery Current (Ibl)
+	Hybrid/Ev Battery Current For Driving Control
+	Hybrid/Ev Battery Current For Driving Control
+	Hybrid/Ev Battery Current For Hybrid/Ev Battery Control
+	Hybrid/Ev Battery Current For Hybrid/Ev Battery Control (Sub)
+	Hybrid/Ev Battery Current For Hybrid/Ev Battery Control (Sub) 2
+	Hybrid/Ev Battery Current For Hybrid/Ev Battery Control 2
+	Hybrid/Ev Battery Current Sensor Voltage For Hybrid/Ev Battery Control
+	Hybrid/Ev Battery Determination Signal 1
+	Hybrid/Ev Battery Exhaust Air Temperature 'A'
+	Hybrid/Ev Battery Exhaust Air Temperature Sensor 'A' Voltage
+	Hybrid/Ev Battery Heater 1 Temperature
+	Hybrid/Ev Battery Heater 2 Temperature
+	Hybrid/Ev Battery Heater 3 Temperature
+	Hybrid/Ev Battery Heater 4 Temperature
+	Hybrid/Ev Battery Refrigerant Cooling Control Status
+	Hybrid/Ev Battery Refrigerant Pressure 1
+	Hybrid/Ev Battery Refrigerant Temperature (Duct Inlet 1)
+	Hybrid/Ev Battery Refrigerant Temperature (Duct Inlet 2)
+	Hybrid/Ev Battery Refrigerant Temperature (Duct Outlet 1)
+	Hybrid/Ev Battery Refrigerant Temperature (Duct Outlet 2)
+	Hybrid/Ev Battery Stack 1 Cell Average Voltage
+	Hybrid/Ev Battery Stack 1 Full Charge Capacity
+	Hybrid/Ev Battery Stack 1 Full Charge Capacity (Latest)
+	Hybrid/Ev Battery State Of Charge
+	Hybrid/Ev Battery State Of Charge Just After Ig-On
+	Hybrid/Ev Battery Temperature Sensor Voltage 1
+	Ig Off Time Of Last Trip
+	Junction Block With Smrb Temperature
+	Junction Block With Smrg Temperature
+	Mil
+	Mil On Run Distance
+	Motor Revolution
+	Number Of Emission Dtc
+	Request Motor Regenerative Brake Torque
+	Running Time From Mil On
+	Shift Position
+	Short Wave Highest Value
+	Smoothed Value Of Batt Voltage
+	Target Engine Power
+	Target Hybrid/Ev Battery Refrigerant Cooling Expansion Valve 1 Position
+	Target Hybrid/Ev Battery Refrigerant Cooling Expansion Valve 2 Position
+	Throttle Position Sensor No. 1 Voltage %
+	Time After Dtc Cleared
+	Total Distance Traveled
+	Total Distance Traveled - Unit
+	Vehicle Speed
+	Vl-Voltage Before Boosting
+	Warmup Cycle Cleared Dtc
+	Win Control Limit Power
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Current
+	Battery Fluid Temperature (Start)
+	Bbc Output Voltage (For B41 Connected Load)
+	Bbc Output Voltage (For B42 Connected Load)
+	Bbc Output Voltage (For B43 Connected Load)
+	Bbc Output Voltage (For Ig41 Connected Load)
+	Brake Boost Pressure
+	Brake Booster Pressure Sensor Voltage
+	Brake Negative Pressure
+	Brake Pressure Hold Request
+	Clutch Status
+	Clutch Stroke Position
+	Cranking Time
+	Deceleration Sensor Offset Value
+	Driver Operation Control Torque
+	Driver Seat Belt Buckle Switch
+	Engine Speed (Ecm)
+	Engine Speed (Fuel Cut Off)
+	Engine Speed (Starter Off)
+	Engine Speed (Starter On)
+	Eps Load
+	External Bbc Overcurrent History
+	Gradient Of Road Surface
+	Idling Stop Rate
+	Integrated Current
+	Learning Status Of External Bbc Availability
+	Master Cylinder Pressure
+	Minimum Voltage (Cranking)
+	Minimum Voltage (Cranking)
+	Minimum Voltage (Starter Solenoid Engagement)
+	N Position Switch Signal Voltage
+	Number Of Engine Start Request (4Wd And Rear Differential Lock)
+	Number Of Engine Start Request (Abs/Vsc)
+	Number Of Engine Start Request (Acc)
+	Number Of Engine Start Request (Accelerator)
+	Number Of Engine Start Request (Air Suspension)
+	Number Of Engine Start Request (Brake Negative Pressure Insufficient)
+	Number Of Engine Start Request (Clutch Release)
+	Number Of Engine Start Request (Clutch Stroke Sensor Malfunction)
+	Number Of Engine Start Request (Ig Switch)
+	Number Of Engine Start Request (Ipa)
+	Number Of Engine Start Request (Welcab)
+	Number Of Engine Start Request (Wrong Shift Lever Operation)
+	Number Of Engine Starts (Clutch Released)
+	Number Of Operation Prohibition (Oil Pump Check)
+	Number Of Operation Prohibition (Oil Pump Check)
+	Number Of Stop&Start Canceled (Hood Open)
+	Number Of Stop&Start Operating Prohibition (4Wd And Rear Differential Lock)
+	Number Of Stop&Start Operating Prohibition (Abs/Vsc 1)
+	Number Of Stop&Start Operating Prohibition (Acc)
+	Number Of Stop&Start Operating Prohibition (Air Suspension)
+	Number Of Stop&Start Operating Prohibition (Deceleration Sensor Abnormal)
+	Number Of Stop&Start Operating Prohibition (Dtc)
+	Number Of Stop&Start Operating Prohibition (Elapsed Time After Ig-On)
+	Number Of Stop&Start Operating Prohibition (Elapsed Time After Ig-On) 2
+	Number Of Stop&Start Operating Prohibition (Electromagnetic Oil Pump)
+	Number Of Stop&Start Operating Prohibition (Ipa)
+	Number Of Stop&Start Operating Prohibition (No Shift Operation (Mt))
+	Oil Pump Duty
+	Oil Pump Motor Revolution Frequency
+	Shift Mode
+	Shift Position
+	Starter Circuit Monitor Voltage
+	Starter Operation Number
+	State Of Bbc
+	State Of External Bbc
+	Status Of Battery Charge C Ontrol
+	Steering Angle
+	Steering Wheel Torque
+	Stop & Start A/C Mode
+	Stop&Start Cancel Light Code
+	Stop&Start Ecu Substrate Temperature 1
+	Stop&Start Ecu Substrate Temperature 2
+	Stop&Start Lamp Lighting Request Status
+	Stop&Start Of Engine State
+	Stop&Start Operation Inhibition Frequency (Battery Low Voltage)
+	Stop&Start Permission Status (Low Capacity By Battery Degredation)
+	Total Number Of Engine Starts
+	Welcab Signal Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Driver Seat Belt State
+	Front Passenger Seat Belt State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Cruise Control Switch
+	Ignition 1 Switch
+	Ignition 2 Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	+B Power
+	Ahs Function
+	Auto Door Lock Pattern Setting
+	Auto High Beam Main Switch
+	Automatic High Beam Headlights Sensor Detection Status
+	Back Door Courtesy Switch Status
+	Back Door Lock Position Status
+	Back Door Lock Position Switch Status
+	Back Door Opener Switch (Outside)
+	Back Door Operation Switch (Instrument)
+	Brightness Level Adjust (Canceling)
+	Brightness Level Adjust (Lowering)
+	Cancel Switch
+	Cargo Light Switch
+	D Door P/W Jam Protection Glass Position (Close-1/4)
+	D Door Power Window Auto Switch
+	D Door Power Window Initialize Status
+	D Seat Information
+	D-Seat Occupant Sensor Switch
+	Dome Light Switch
+	Dome Light Switch (Door Linked)
+	Door Lock Indicator Function
+	Door Lock Indicator Pattern Setting (Ig Off)
+	Door Lock Indicator Pattern Setting (Ig On)
+	Door Lock Switch Status By A Mechanical Key (D/P Door)
+	Door Unlock Switch Status By A Mechanical Key (D Door)
+	Door Unlock Switch Status By A Mechanical Key (Ip Door)
+	Driver Seat Mem1 Memory
+	Driver Seat Mem2 Memory
+	Driver Seat Mem3 Memory
+	Driver Seat Memory Switch (M1)
+	Driver Seat Memory Switch (M2)
+	Driver Seat Memory Switch (Mm)
+	Extended Headlight Lighting
+	Fl Door Courtesy Switch Status
+	Fl Door Lock Position Switch Status
+	Fr Door Lock Position Switch Status
+	Glass Breakage Sensor
+	Glass Breakage Sensor Detection (Dop)
+	Glass Hatch Courtesy Switch Status
+	Glass Hatch Opener Switch (Instrument)
+	Headlight Ecu Function
+	High Beam Headlights (By Ahs Ecu)
+	Hood Courtesy Switch Status
+	Igr Power
+	Insolation Amount Of Solar Sensor Lh
+	Insolation Amount Of Solar Sensor Rh
+	Interior Light Control Rheostat Switch (Up)
+	Interior Light Control Rheostat Switch (Up)
+	Interior Sensor Cancel Switch
+	Key Unlock Warning Switch
+	Kick Door Control Sensor
+	Ldm Ecu Function
+	Left Ldm Low Beam Headlight System Error Signal
+	Left The Key Prevention Function (Battery Remove)
+	Light Blink Clearance Lights At Unlock Function
+	Light Control Glass Inverter Circuit
+	Light Control Glass Switch
+	Light Control Switch (Head)
+	Light Sensor Connection History
+	Light Sensor Illuminance
+	Lr Door Lock Position Switch Status
+	Luggage Courtesy Switch Status
+	Manual Door Lock Switch (D/P Switch)
+	Manual Door Unlock Switch (D/P Door)
+	Mem Switch No. With Key Id 1
+	Number Of Wireless Id Code
+	Outer Mirror Auto Switch
+	Outer Mirror Control Switch (Lh Select)
+	Outer Mirror Control Switch (Rh Select)
+	Outer Mirror Control Switch (Surface Adjust Down)
+	Outer Mirror Control Switch (Surface Adjust Left)
+	Outer Mirror Control Switch (Surface Adjust Right)
+	Outer Mirror Control Switch (Surface Adjust Up)
+	Outer Mirror Fold Switch
+	Outer Mirror Return Switch
+	P Door Power Window Auto Switch
+	P Door Power Window Initialize Status
+	Parking Brake Switch
+	Rc-Seat Occupant Sensor Switch
+	Right Ldm Low Beam Headlight System Error Signal
+	Rl Door Courtesy Switch Status
+	Rl Door Power Window Auto Switch
+	Rl Door Power Window Initialize Status
+	Rl Slide Door Operating Switch (Close)
+	Rl Slide Door Operating Switch (Open/Close)
+	Rl-Seat Occupant Sensor Switch
+	Rr Door Courtesy Switch Status
+	Rr Door Lock Position Switch Status
+	Rr Door Power Window Auto Switch
+	Rr Door Power Window Initialize Status
+	Rr Slide Door Operating Switch (Close)
+	Rr Slide Door Operating Switch (Open/Close)
+	Rr-Seat Occupant Sensor Switch
+	Security System
+	Shift Level P
+	Sliding Door Open Sw Operation Adjust
+	Sub +B Power And Second +B Power
+	Trunk Lid Lock Position Status
+	Trunk Lid Lock Position Status
+	Trunk Lid Opener Main Switch
+	Trunk Lid Opener Switch (Instrument)
+	Warning By Horn Function
+	Wiper Control Switch Hi
+	Wiper Motor Cam Switch 1
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	2Nd Air System Status
+	A/F (O2) Density B1S1 Supported
+	A/F (O2) Density B1S2 Supported
+	A/F (O2) Density B2S1 Supported
+	A/F (O2) Density B2S2 Supported
+	A/F Learn Value Idle (Port) Bank 1
+	A/F Learn Value Idle (Port) Bank 2
+	A/F Learn Value Idle Bank 1
+	A/F Learn Value Idle Bank 2
+	A/F Learn Value Low (Dual) Bank 2
+	A/F Learn Value Low (Dual/Port) Bank 1
+	A/F Sensor Determination (Worst Value) (Bank 1) 3
+	A/F Sensor Determination (Worst Value) (Port) Bank 1
+	A/F Sensor Determination (Worst Value) (Port) Bank 1 - 2
+	A/F Sensor Determination (Worst Value) (Port) Bank 1 - 3
+	A/F Sensor Determination (Worst Value) Bank 1
+	A/F Sensor Determination (Worst Value) Bank 1 - 2
+	Acceleration Position From Electronic Fuel Injection (Efi)
+	Acceleration Position From Electronic Fuel Injection (Efi)
+	Accelerator Position Sensor 1 Voltage
+	Accelerator Position Sensor 1 Voltage
+	Accelerator Position Sensor 2 Voltage
+	Acm Duty Ratio
+	Actual Engine Percent Torque
+	Actual Exhaust Gas Recirculation (Egr) Valve Position 2 Supported
+	Actual Throttle Position Bank 1 Supported
+	Actual Throttle Position Bank 2 Supported
+	Actual Vn Turbo Position Bank 1 Supported
+	Actual Vn Turbo Position Bank 2 Supported
+	Air Pump (Obd Request)
+	Alcohol Concentration Estimate
+	Alcohol Density Learning Value
+	Alcohol Feedback Value
+	All Cylinders Misfire Count
+	Ambient Temperature
+	Atmosphere Adoption (Secondary Air)
+	Atmospheric Pressure
+	Average Reagent Consumption Supported
+	Boost Pressure Sensor 2 Supported
+	Boost Pressure Sensor Supported
+	Calculated Load
+	Clogged Exhaust Gas Recirculation (Egr) Port Imbalance Ratio
+	Compression Leakage Count
+	Coolant Temperature
+	Coolant Temperature Sensor 1 Supported
+	Coolant Temperature Sensor 2 Supported
+	Cooling Fan Duty Ratio (%)
+	Cooling Fan Duty Ratio 2
+	Cumulative Continuous Mil Counter Supported
+	Current Fuel Type
+	Cylinder 1 Idle Spark Advance Control
+	Cylinder 1 Idle Spark Advance Control 2
+	Cylinder 1 Idle Spark Advance Control 3
+	Cylinder 1 Misfire Count
+	Cylinder 1 Misfire Count 2
+	Egr Temperature B1S1 Wide Range Supported
+	Electric Water Pump Target Speed
+	Emission System Readiness
+	Engine Driving Time
+	Engine Ecu Internal Temperature
+	Engine Friction Percent Torque
+	Engine Oil Temperature Sensor
+	Evaporative Emission (Evap) (Purge) Vacuum Switching Valve (Vsv)
+	Exhaust Temperature B1S1 Supported
+	Exhaust Temperature B1S2 Supported
+	Exhaust Temperature B1S3 Supported
+	Exhaust Temperature B1S4 Supported
+	Fuel Filter Heater Relay Output Terminal Status
+	Fuel Filter Heater Temperature
+	Fuel Pressure (Low)/Fuel Pressure 2 Supported
+	Fuel Remaining Volume
+	Fuel Temperature
+	Fuel Temperature
+	Glow Indicator Supported
+	Glow Request Lighting Time
+	Heater Coolant Temperature Sensor
+	High Pressure Fuel Pump Internal Temperature
+	Hv Target Engine Speed
+	Ig On Time (Ms)
+	Ignition On Coolant Temperature
+	Ignition On Intake Air Temperature
+	Ignition Timing For Cylinder 1
+	Injection Mode
+	Intake Air Temperature (Iat)
+	Intake Air Temperature (Iat) Bank 1 Sensor 1 Supported
+	Intake Air Temperature (Iat) Bank 1 Sensor 2 Supported
+	Intake Air Temperature (Iat) Bank 1 Sensor 3 Supported
+	Intake Air Temperature (Iat) Bank 2 Sensor 1 Supported
+	Intake Air Temperature (Iat) Bank 2 Sensor 2 Supported
+	Intake Air Temperature (Iat) Bank 2 Sensor 3 Supported
+	Intake Air Temperature (Iat)(Bank 1) (Turbo) Supported
+	Intake Air Temperature B1S2 (Turbo) Supported
+	Intake Manifold Absolute Pressure (Map) Supported
+	Intank Fuel Pump
+	Judge Time Engine Ignition
+	Judge Time Engine Output
+	Long Ft Bank 1 Sensor 1
+	Long Ft Bank 1 Sensor 2
+	Long Ft Bank 2 Sensor 1
+	Long Ft Bank 2 Sensor 2
+	Mass Air Flow (Maf) Sensor (Bank 1) Supported
+	Mass Air Flow (Maf) Sensor (Bank 2) Supported
+	Mass Air Flow (Maf)/Estimate Maf Ratio
+	Mil
+	Mil (All System)
+	Mil Discriminatory
+	Misfire Count Cylinder 1
+	Misfire Load
+	Nox Corrected Density B1S1 Supported
+	Nox Corrected Density B1S2 Supported
+	Nox Corrected Density B2S1 Supported
+	Nox Corrected Density B2S2 Supported
+	Nox Density B1S1 Supported
+	Nox Density B1S2 Supported
+	Nox Density B2S1 Supported
+	Nox Density B2S2 Supported
+	Number Of Emission Dtc
+	Number Of Specification Information Switching
+	O2 Sensor Voltage B1S1
+	Oxygen Sensor Voltage Bank 1 Sensor 2
+	Oxygen Sensor Voltage Bank 2 Sensor 2
+	Particulate Filter Differential Pressure Bank 1 Supported
+	Particulate Filter Differential Pressure Bank 1 Supported
+	Particulate Filter Differential Pressure Bank 1 Supported
+	Particulate Filter Differential Pressure Bank 2 Supported
+	Radiator Coolant Temperature
+	Request Engine Run Time
+	Rough Idle Status
+	Shift Sw Status (Neutral) Supported
+	Shift Switch Status (N, P Range) Supported
+	Short Ft Bank 1 Sensor 1
+	Short Ft Bank 1 Sensor 2
+	Short Ft Bank 2 Sensor 1
+	Short Ft Bank 2 Sensor 2
+	Status Of Fuel Composition Sensor
+	Stop & Start System Engine Status
+	Target Average Reagent Consumption Supported
+	Target Boost Pressure 2 Supported
+	Target Boost Pressure Supported
+	Target Boost Pressure Supported
+	Target Boost Pressure Supported
+	Target Exhaust Gas Recirculation (Egr) Position
+	Target Exhaust Gas Recirculation (Egr) Valve Position 1 Supported
+	Target Exhaust Gas Recirculation (Egr) Valve Position 2 Supported
+	Target Fuel Pressure (High) Supported
+	Target Fuel Pressure (Low) / Target Fuel Pressure 2 Supported
+	Target Throttle Position Bank 1 Supported
+	Target Throttle Position Bank 2 Supported
+	Target Throttle Position Supported
+	Target Vn Turbo Position Bank 1 Supported
+	Target Vn Turbo Position Bank 2 Supported
+	Throttle 2 Target Throttle Position Supported
+	Throttle 2 Throttle Position Sensor 1 Voltage %
+	Throttle 2 Throttle Position Sensor 2 Voltage
+	Throttle 2 Throttle Sensor Position Supported
+	Throttle Motor Current
+	Throttle Motor Duty Ratio
+	Throttle Position Sensor 1 Voltage
+	Throttle Position Sensor 1 Voltage
+	Throttle Position Sensor 1 Voltage
+	Throttle Position Sensor 2 Voltage
+	Throttle Sensor Position
+	Throttle Sensor Position Supported
+	Total Engine Run Time Supported
+	Total Ft Bank 1
+	Total Ft Bank 2
+	Total Run Time By The Engine While Nox Warning Mode Is Activated Supported
+	Vehicle Speed
+	Warm-Up Cycle Cleared Dtc
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seat Belt
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Fuel Rate
+	Engine Intake Air Mass Flow Rate
+	Engine Intake Manifold Pressure
+	Engine Speed
+	Engine Torque
+	Engine Warning Light
+	Odometer
+	Throttle Position Sensor
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Air Conditioning Coolant Temperature Sensor
+	Air Inlet Damper Control Servo Motor Target Pulse
+	Ambient Temperature Adjustment Value
+	Ambient Temperature Sensor
+	Evaporator Refrigerant Temperature Sensor
+	Evaporator Target Temperature
+	External Condenser Refrigerant Temperature Sensor
+	Front Air Outlet Damper Control Servo Motor Target Pulse
+	Front Control Rear Air Outlet Damper Control Servo Motor Target Pulse
+	Front Left Air Mix Damper Control Servo Motor Target Pulse
+	Front Left Air Outlet Damper Control Servo Motor Target Pulse
+	Front Left Air Outlet Damper Control Servo Motor Target Pulse
+	Front Left Air Outlet Temperature
+	Front Left Seat Heat Sensor
+	Front Left Set Temperature
+	Front Left Solar Sensor
+	Front Right Air Mix Damper Control Servo Motor Target Pulse
+	Front Right Air Mix Damper Control Servo Motor Target Pulse
+	Front Right Air Outlet Damper Control Servo Motor Target Pulse
+	Front Right Air Outlet Temperature
+	Front Right Seat Heat Sensor
+	Front Right Set Temperature
+	Front Right Solar Sensor
+	Pm Sensor Contamination Level
+	Rear Evaporator Temperature Sensor
+	Rear Left Air Mix Damper Control Servo Motor Target Pulse
+	Rear Left Air Outlet Temperature
+	Rear Left Room Temperature Sensor
+	Rear Left Seat Heat Sensor
+	Rear Left Set Temperature
+	Rear Right Air Mix Damper Control Servo Motor Target Pulse
+	Rear Right Air Outlet Temperature
+	Rear Right Room Temperature Sensor
+	Rear Right Seat Heat Sensor
+	Rear Right Set Temperature
+	Refrigerant Outlet Temperature Sensor
+	Regulator Pressure Sensor
+	Room Temperature Sensor
+	Total Distance Traveled
+	Water Refrigerant Condenser Refrigerant Temperature Sensor
+

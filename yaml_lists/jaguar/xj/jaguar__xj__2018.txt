@@ -1,0 +1,193 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Jaguar 'Xj' (2018)
+Signal Descriptions:
+	Brake Fluid Hydraulic Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Cruise Control-Dynamic Stability Control(Dsc)-Traction Control
+	Ambient Light Sensor - Left Sensor
+	Ambient Light Sensor - Right Sensor
+	Composite Video Blank Signal Output-Video Output Signal Normal Operation
+	Control Module Supply Voltage
+	Critical Unlock Count
+	Ecu Internal Temperature B
+	Instrument Cluster Cooling Fan - Pulse - Width Modulation (Pwm) Completed
+	Lcd Illumination Level
+	Number Of Nodes Following Ring Break
+	Number Of Trouble Codes Set Due To Diagnostic Test
+	Short Critical Unlock Count
+	Start Authorization Status-Ignition-Target Identification Stored
+	Start Authorization Status-Ignition-Target Identification Valid Challenge Status
+	Start Authorization Status-Ignition-Target Identification Valid Transponder
+	Start Authorization Status-Ignition-Target Identification Verifier Ok
+	Warning Lamp Status 1-Adaptive Cruise Control
+	Warning Lamp Status 1-Charge Warning
+	Warning Lamp Status 1-High Beam
+	Warning Lamp Status 1-Left Turn Sugnal
+	Warning Lamp Status 1-Oil Pressure Low
+	Warning Lamp Status 2 - Frost Alert
+	Warning Lamp Status 2 - Side Lamp Indicator Lamp
+	Warning Lamp Status 2 - Side Lamp Warning
+	Warning Lamp Status1 Mil-Glow Plug
+	Warning Lamp Status2-General Information
+	Warning Lamp Status2-General Red
+	Warning Lamp Status2-Pad Wear/Brake System
+	Warning Lamp Status2-Pad Wear/Brake System (Red)
+	Warning Lamp Status2-Special Vehicle 1
+	Warning Lamp Status2-Special Vehicle 2
+	Warning Lamp Status2-Tpms (Amber)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Number Of Lost Tire Pressure Wheel Units
+	Spare Wheel Tie Pressure
+	Spare Wheel Unit Tire Temperature
+	Tire Acceleration Spare Wheel Unit
+	Tire Acceleration Wheel Unit 1
+	Tire Acceleration Wheel Unit 2
+	Tire Acceleration Wheel Unit 3
+	Tire Acceleration Wheel Unit 4
+	Tire Transmitter Identification Spare Wheel Unit
+	Tire Transmitter Identification Wheel Unit 1
+	Tire Transmitter Identification Wheel Unit 2
+	Tire Transmitter Identification Wheel Unit 3
+	Tire Transmitter Identification Wheel Unit 4
+	Tpm Test Status - Last End Of Line (Eol) Test Status
+	Tpm Test Status - Wheel Unit 3 - Right Rear
+	Tpm Test Status -Wheel Unit 1-Left Front
+	Tpm Test Status -Wheel Unit 2-Right Front
+	Tpm Test Status -Wheel Unit 4-Left Rear
+	Tpm Test Status-Last Workshop Test Status
+	Wheel Unit 1 Tie Pressure
+	Wheel Unit 1 Tire Temperature
+	Wheel Unit 2 Tie Pressure
+	Wheel Unit 2 Tire Temperature
+	Wheel Unit 3 Tie Pressure
+	Wheel Unit 3 Tire Temperature
+	Wheel Unit 4 Tie Pressure
+	Wheel Unit 4 Tire Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Time Since Engine Start
+	Transmission Fluid Temperature
+	Transmission Gear Engaged
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Module Supply Voltage
+	Door Status 2-Door Status Signal Fault
+	Door Status 2-Driver Door
+	Driver Seatbelt Sensor Fault
+	Driver Seatbelt Sensor Status
+	Electric Parking Brake (Epb) - Drive Away Release
+	Electric Parking Brake (Epb) Status-Brake Pad Wear Adjustment
+	Electric Parking Brake (Epb) Status-Dynamic Braking With Electronics Stability Program Vehicle
+	Electric Parking Brake (Epb) Status-Dynamic Braking With Limp Home
+	Electric Parking Brake (Epb) Status-Dynamic Braking With Rear Wheel Unlocker
+	Electric Parking Brake (Epb) Status-Gear N
+	Electric Parking Brake (Epb) Status-Maintenance Mode
+	Electric Parking Brake (Epb) Status-Static Apply
+	Electric Parking Brake (Epb) Status-Static Release
+	Electric Parking Brake (Epb) Status-Vehicle Tire Test Mode
+	Electric Parking Brake (Epb)-Switch Input Status
+	Longitudinal Accelerometer Sensor Input
+	Parking Brake Control Module Lamp Status - Brake Lamp Request Status
+	Parking Brake Control Module Lamp Status-Fault Lamp Status
+	Parking Brake System Positioning-Left-Applied
+	Parking Brake System Positioning-Left-Applying
+	Parking Brake System Positioning-Left-Extended Release For Servicing
+	Parking Brake System Positioning-Left-Released
+	Parking Brake System Positioning-Left-Releasing
+	Parking Brake System Positioning-Right-Applied
+	Parking Brake System Positioning-Right-Applying
+	Parking Brake System Positioning-Right-Extended Release For Servicing
+	Parking Brake System Positioning-Right-Released
+	Parking Brake System Positioning-Right-Releasing
+	Tilt/Inclination Sensor-Calibration Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Crank Determination Factors - Brake
+	Crank Determination Factors - Brake Diagnostic Switch
+	Crank Determination Factors - Gear N
+	Crank Determination Factors - Start Button 1
+	Engine Crank Determination Factors - Challenge Response Transmitted
+	Engine Crank Determination Factors - Clutch Bottom Of Travel Switch
+	Engine Crank Determination Factors - Clutch Top Of Travel Switch
+	Engine Crank Determination Factors-Crank Request
+	Engine Crank Determination Factors-Key Status Valid
+	Engine Crank Determination Factors-Target Identifier Verified
+	Engine Crank Determination Factors-Target Security Identifier
+	Roof Opening Panel-Authorization Switch Status
+	Roof Opening Panel-Express Switch Status
+	Roof Opening Panel-Forward Switch Status
+	Roof Opening Panel-Hall A Signal Status
+	Roof Opening Panel-Hall B Signal Status
+	Roof Opening Panel-Motor A Signal Status
+	Roof Opening Panel-Motor B Signal Status
+	Roof Opening Panel-Rearward Switch Status
+	Roof Opening Panel-Tilt Switch Status
+	Start Authorization Status-Electric Steering Column Lock(Escl) Target Identification Challenge Status
+	Start Authorization Status-Electric Steering Column Lock(Escl) Target Identification Stored
+	Start Authorization Status-Electric Steering Column Lock(Escl) Target Identification Valid Transponder
+	Start Authorization Status-Electric Steering Column Lock(Escl) Target Identification Verifier Ok
+	Start Authorization Status-Fuel Pump-Target Identification Challenge Status
+	Start Authorization Status-Fuel Pump-Target Identification Stored
+	Start Authorization Status-Fuel Pump-Target Identification Valid Transponder
+	Start Authorization Status-Fuel Pump-Target Identification Verifier Ok
+	Start Authorization Status-Ignition-Target Identification Challenge Status
+	Start Authorization Status-Ignition-Target Identification Stored
+	Start Authorization Status-Ignition-Target Identification Verifier Ok
+	Start Authorization Status-Ignition-Target Identification Verifier Valid Transponder
+	Start Authorization Status-Immobilizer -Target Identification Challenge Status
+	Start Authorization Status-Immobilizer -Target Identification Stored
+	Start Authorization Status-Immobilizer -Target Identification Valid Transponder
+	Start Authorization Status-Immobilizer -Target Identification Verifier Ok
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Crash Status-Crash Has Occurred
+	Driver Seatbelt Sensor Status
+	Module Status-Warning Indicator Requested
+	Occupant Classification Sensor Status
+	Passenger Seatbelt Sensor Status
+	Restraint System Mil Requested On
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Accelerator Pedal Position (App) Sensor
+	Ambient Air Temperature
+	Boost Absolute Pressure
+	Brake Fluid Line Hydraulic Pressure - Corrected
+	Brake Switch
+	Brake Switch
+	Calculated Engine Torque
+	Charge Air Temperature
+	Cooling Fan Module Monitor
+	Distance To Next Service
+	Electric Fan Pulse-Width Modulation (Pwm) Control-Commanded
+	Engine Coolant Temperature
+	Engine Intake Air Mass Flow Rate
+	Engine Intake Air Mass Flow Rate Bank 2
+	Engine Oil Level Measured
+	Engine Oil Temperature
+	Engine Oil Volume
+	Engine Speed
+	Estimated Torque From Torque Monitor
+	Fan Speed Indicator
+	Fuel Flow
+	Fuel Level Input
+	Fuel Rail Pressure
+	Fuel Rail Pressure Desired
+	Intake Air Temperature
+	Intake Manifold Absolute Pressure (Map)B
+	Manifold Absolute Pressure (Map) Sensor
+	Mass Air Flow (Maf)
+	Sump Oil Temperature - Measured
+	Time To Next Service
+	Transmission Control Module (Tcm) Malfunction
+	Vehicle Speed
+

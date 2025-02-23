@@ -1,0 +1,17 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Ford 'F-650' (2019)
+Signal Descriptions:
+	Accelerator Pedal Position
+	Fuel Level
+	Manifold Absolute Pressure
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Gear Commanded
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Key In/Out
+	Ignition Switch State
+

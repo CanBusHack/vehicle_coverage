@@ -1,0 +1,145 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Vito/Metris' (2017)
+Signal Descriptions:
+	Position Of Selection Range Valve
+	Torque Converter Slip Speed
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Asr Status
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Parkign Brake Switch Status
+	Turn Rate
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Circuit 61 - Alternator Status
+	Lamba Value
+	Malfunction Of Alternator
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adblue/Def Tank Fill Level
+	Air Mass Per Cylinder
+	Boost Pressure
+	Boost Pressure Range [-20...50]
+	Brake Pedal
+	Coolant Temperature
+	Current Engine Torque
+	Current Gear
+	Current Injection Quantity Per Stroke
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Engine Speed
+	Exhaust Gas Recirculation Valve
+	Exhaust Gas Recirculation Valve Range [-5...5]
+	Exhaust Temperature Upstream Of Diesel Particulate Filter
+	Exhaust Temperature Upstream Of Scr Catalytic Converter Underbody
+	Fill Level Of Diesel Particulate Filter
+	Fill Level Of Engine Oil
+	Fill Level Of Fuel Tank
+	Intake Air Temperature Downstream Of Air Filter
+	Kilometer Reading
+	Lambda Value
+	Main Odometer Reading Since Last Regeneration
+	Operating Condition Of Combustion Engine
+	Outside Temperature
+	Position Of Accelerator Pedal
+	Rail Pressure
+	Rail Pressure Range [-50...50]
+	Throttle Valve
+	Total Distance At Last Regeneration
+	Total Regeneration Time As Percentage
+	Vehicle Speed
+	Vin
+	Water In Fuel Filter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Current Ac
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Battery Voltage
+	Engine Oil Remaining Time
+	Engine Oil Viscosity Remaining Distance Until Next Service Due
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Def/Adblue Tank Fill Level
+	Engine Oil Temperature
+	Exhaust Temperature Upstream Of Diesel Particulate Filter
+	Main Odometer Reading Since Last Regeneration
+	Operation Condition Of Combustion Engine(Regeneration Process)
+	Torque Requested By Driver
+	Torque Requested By Driver
+	Total Distance At Last Regeneration
+	Total Regeneration Of Diesel Particulate Filter
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Tire Pressure Left Front
+	Tire Pressure Left Rear
+	Tire Pressure Right Front
+	Tire Pressure Right Rear
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Charging Mode Of High-Voltage Battery
+	Present Dc Charging Current
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seatbelt Buckle Restraint System Switch Status
+	Front Passenger Seatbelt Buckle Restraint System Switch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Steering Assistance System
+	Torque At Torsion Bar
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure Sensor Of Master Brake Cylinder
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	High-Votlage Battery Coolant Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Indicator Lamp 'Engine Diagnosis'
+	Torque Requested By Driver
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure Of Master Brake Cylinder
+	Status Of 'Parking Brake'
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ignition Status
+	State Of Charge Of High-Voltage Battery
+	Temperature In High-Voltage Battery (Maximum Value)
+	Temperature In High-Voltage Battery (Minimum Value)
+	Temperature In High-Voltage Battery (Moderate Value)
+	Voltage Of Battery Cell 1
+	Voltage Of Battery Cell 288
+	Voltage Of High-Voltage Battery
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Steering Angle
+	Headlamp Flasher And High Beams Switch
+	Internal Fault In The Steering Angle Sensor
+	Turn Signal Lamps Switch
+	Windshield Washer System Switch
+	Wiping Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Remaining Distance Until Next Service Required
+	Remaining Time
+

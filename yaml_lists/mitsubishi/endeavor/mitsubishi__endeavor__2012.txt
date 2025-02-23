@@ -1,0 +1,133 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Endeavor' (2012)
+Signal Descriptions:
+	Fl Wheel Speed Sensor
+	Fr Wheel Speed Sensor
+	Rl Wheel Speed Sensor
+	Rr Wheel Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Llc Switch
+	A/C Compressor Relay
+	A/T Control Relay Output Voltage
+	A/T Fluid Temperature Sensor
+	At Control Pe
+	Engine Speed
+	Engine Torque
+	Input Shaft Speed Sensor
+	Invecs-2 Control Stop
+	Low-Reverse Solenoid Valve Duty
+	Output Shaft Speed Sensor
+	Overdrive Solenoid Valve Duty
+	Reduction Solenoid Valve Duty
+	Second Solenoid Valve Duty
+	Select Switch
+	Shift Switch (Down)
+	Shift Switch (Up)
+	Stop Lamp Switch
+	Underdrive Solenoid Valve Duty
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor Relay
+	A/C Pressure Sensor
+	A/C Switch
+	Absolute Load Value
+	Advance Ignition
+	Afs
+	Aps (Main)
+	Aps (Sub)
+	Brake Lamp Switch
+	Calculated Load Value
+	Cranking Signal
+	Engine Control Relay
+	Engine Coolant Temperature.Sensor
+	Etv Relay
+	Fuel Pump Relay
+	Idle Position Signal
+	Ignition Switch
+	Intake Air Temperature Sensor
+	Intake Vvt Angle 1
+	Isc Learned Value (A/C Off)
+	Isc Learned Value (A/C On)
+	Knock Retard
+	Learned Knock Retard
+	Long Term Fuel Trim 1
+	Oil Pressure Switch
+	Purge Control Solenoid Val.Duty
+	Radiator Fan Relay (High)
+	Radiator Fan Relay (Low)
+	Short Term Fuel Trim 1
+	Starter Relay
+	Throttle Actuator
+	Tps (Main)
+	Tps (Main) Learned Value
+	Tps (Sub)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor Relay
+	A/C Pressure Sensor
+	A/C Switch
+	Absolute Load Value
+	Advance Ignition
+	Afs
+	Aps (Main)
+	Aps (Sub)
+	Brake Lamp Switch
+	Calculated Load Value
+	Cranking Signal
+	Engine Control Relay
+	Engine Coolant Temperature.Sensor
+	Etv Relay
+	Fuel Pump Relay
+	Idle Position Signal
+	Ignition Switch
+	Intake Air Temperature Sensor
+	Intake Vvt Angle 1
+	Isc Learned Value (A/C Off)
+	Isc Learned Value (A/C On)
+	Knock Retard
+	Learned Knock Retard
+	Long Term Fuel Trim 1
+	Oil Pressure Switch
+	Purge Control Solenoid Val.Duty
+	Radiator Fan Relay (High)
+	Radiator Fan Relay (Low)
+	Short Term Fuel Trim 1
+	Starter Relay
+	Throttle Actuator
+	Tps (Main)
+	Tps (Main) Learned Value
+	Tps (Sub)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Fl Wheel Speed Sensor
+	Fr Wheel Speed Sensor
+	Rl Wheel Speed Sensor
+	Rr Wheel Speed Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4Llc Switch
+	A/C Compressor Relay
+	A/T Control Relay Output Voltage
+	A/T Fluid Temperature Sensor
+	At Control Pe
+	Engine Speed
+	Engine Torque
+	Input Shaft Speed Sensor
+	Invecs-2 Control Stop
+	Low-Reverse Solenoid Valve Duty
+	Output Shaft Speed Sensor
+	Overdrive Solenoid Valve Duty
+	Reduction Solenoid Valve Duty
+	Second Solenoid Valve Duty
+	Select Switch
+	Shift Switch (Down)
+	Shift Switch (Up)
+	Stop Lamp Switch
+	Underdrive Solenoid Valve Duty
+

@@ -1,0 +1,74 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Volkswagen 'Id Buzz' (2023)
+Signal Descriptions:
+	Absolute Intake Pressure
+	Accelerator Position
+	Ambient Air Pressure
+	Coolant Temperature
+	Cylinder Fuel Rate
+	Def Level
+	Dpf - Average Distance Between Regeneration
+	Dpf - Status Of Regeneration
+	Driver"S Desired Torque
+	Egr Specified Value
+	Engine Intake Air Mass Flow Rate
+	Engine Intake Manifold Temperature
+	Engine Reference (Max) Torque
+	Engine Running Time Total Run
+	Engine Speed
+	Fuel Pressure
+	Fuel Tank Fill Level
+	Malfunction Indicator Lamp
+	Nominal Torque (Nm)
+	Odometer
+	Outside Air Temperature
+	Particulate Filter Temperature Sensor Outlet
+	Throttle Valve Position
+	Time Since Engine Start
+	Transmission Actual Gear
+	Turbo Boost Pressure
+	Turbo Intake Pressure
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Intake Pressure
+	Accelerator Position
+	Ambient Air Pressure
+	Coolant Temperature
+	Cylinder Fuel Rate
+	Def Level
+	Dpf - Average Distance Between Regeneration
+	Dpf - Status Of Regeneration
+	Driver"S Desired Torque
+	Egr Specified Value
+	Electric Vehicle (Ev) Charging Status
+	Engine Intake Air Mass Flow Rate
+	Engine Intake Manifold Temperature
+	Engine Reference (Max) Torque
+	Engine Running Time Total Run
+	Engine Speed
+	Fuel Pressure
+	Fuel Rate-Vehicle Fuel Rate
+	Fuel Tank Fill Level
+	Malfunction Indicator Lamp
+	Mil-Request From Brake System Control Module
+	Nominal Torque (Nm)
+	Odometer
+	Outside Air Temperature
+	Particulate Filter Temperature Sensor Outlet
+	Throttle Valve Position
+	Time Since Engine Start
+	Transmission Actual Gear
+	Turbo Boost Pressure
+	Turbo Intake Pressure
+	Vehicle Speed
+	Vin
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cruise Control System
+	Prndl
+	Traction Control System
+	Transmission Oil Temperature
+

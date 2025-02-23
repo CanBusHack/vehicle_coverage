@@ -1,0 +1,1446 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Seat 'Ateca' (2025)
+Signal Descriptions:
+	Accelerator Position
+	Cause For Cancellation
+	Economical Driving Time Portion
+	Engine Start Through Start/Stop Function
+	Engine Stop Through Start/Stop Function
+	Gear Selected
+	Gear Selector Lever Lock Status
+	Kickdown Status
+	Manual Driving Time Potion
+	Normal Load Value
+	Number Of Driving Cycles Since Erasing Dtc Memory
+	Number Of Prevented Stop Processes - Adaptation Procedure Active
+	Number Of Prevented Stop Processes - Brake Acceleration Too Great
+	Number Of Prevented Stop Processes - First Gear Or Second Gear Not Engaged
+	Number Of Prevented Stop Processes - Oil Temperature Too High
+	Number Of Prevented Stop Processes - Oil Temperature Too Low
+	Number Of Prevented Stop Processes - Pressure Accumulator Filling Not Completed
+	Number Of Prevented Stop Processes - Shifting Process Active
+	Number Of Requested Start Processes - Driver Intention
+	Number Of Requested Start Processes - Gear Actuator Position
+	Prevented Start Processes (Ring Memory) - Year
+	Prevented Start Processes (Ring Memory) - Year 3
+	Prevented Stop Processes (Ring Memory) - Day
+	Prevented Stop Processes (Ring Memory) - Day 2
+	Prevented Stop Processes (Ring Memory) - Day 3
+	Prevented Stop Processes (Ring Memory) - Hours
+	Prevented Stop Processes (Ring Memory) - Hours 2
+	Prevented Stop Processes (Ring Memory) - Hours 3
+	Prevented Stop Processes (Ring Memory) - Minutes
+	Prevented Stop Processes (Ring Memory) - Minutes 2
+	Prevented Stop Processes (Ring Memory) - Minutes 3
+	Prevented Stop Processes (Ring Memory) - Month
+	Prevented Stop Processes (Ring Memory) - Month 2
+	Prevented Stop Processes (Ring Memory) - Month 3
+	Prevented Stop Processes (Ring Memory) - S
+	Prevented Stop Processes (Ring Memory) - S 2
+	Prevented Stop Processes (Ring Memory) - S 3
+	Requested Start Processes (Ring Memory) - Day
+	Requested Start Processes (Ring Memory) - Day 2
+	Requested Start Processes (Ring Memory) - Day 3
+	Requested Start Processes (Ring Memory) - Hours
+	Requested Start Processes (Ring Memory) - Hours 2
+	Requested Start Processes (Ring Memory) - Hours 3
+	Requested Start Processes (Ring Memory) - Minutes
+	Requested Start Processes (Ring Memory) - Minutes 2
+	Requested Start Processes (Ring Memory) - Minutes 3
+	Requested Start Processes (Ring Memory) - Month
+	Requested Start Processes (Ring Memory) - Month 2
+	Requested Start Processes (Ring Memory) - Month 3
+	Requested Start Processes (Ring Memory) - S
+	Requested Start Processes (Ring Memory) - S 3
+	Requested Start Processes (Ring Memory) - Year
+	Requested Start Processes (Ring Memory) - Year 2
+	Requested Start Processes (Ring Memory) - Year 3
+	Shift Position
+	Sport Driving Time Portion
+	Start Process Requested - Driver Intention
+	Start Process Requested - Gear Actuator Position
+	Stop Process Prevented - Adaptation Procedure Active
+	Stop Process Prevented - Brake Acceleration Too Great
+	Stop Process Prevented - First Gear Or Second Gear Not Engaged
+	Stop Process Prevented - Oil Temperature Too High
+	Stop Process Prevented - Oil Temperature Too Low
+	Stop Process Prevented - Pressure Accumulator Filling Not Completed
+	Stop Process Prevented - Shifting Process Active
+	Throttle Valve Position (Absolute)
+	Torque Transmitting Function
+	Unlearning Counter According Obd
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Driver Rear Rotary Latch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Indicator Lamp
+	Electro-Mechanical Parking Brake Activation Status
+	Electro-Mechanical Parking Brake Button Status
+	Electromechanical Parking Brake - System Available Status
+	Tpms - Left Front Flat Tire Indicator
+	Tpms - Left Rear Flat Tire Indicator
+	Tpms - Right Front Flat Tire Indicator
+	Tpms - Right Rear Flat Tire Indicator
+	Tpms Indicator Lamp
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	2Nd Battery Open Circuit Igniter Ohm Value
+	3Rd Row Passenger Seat Belt Switch
+	A/C System 1 Deactivation Igniter-Resistance
+	A/C System 1 Deactivation Igniter-Status
+	A/C System 2 Deactivation Igniter-Resistance
+	A/C System 2 Deactivation Igniter-Status
+	Ass. Side Airbag Igniter Ohm Value
+	Ass.Side Airbag Igniter 2 Ohm Value
+	Ass.Side Airbag Igniter Ohm Value
+	Battery Interruption Igniter High Voltage Battery
+	Belt Tensioner 2Nd Row,Left-Current Power Consumption
+	Belt Tensioner 2Nd Row,Left-Supply Voltage
+	Belt Tensioner 2Nd Row,Left-Temperature
+	Belt Tensioner 2Nd Row,Left-Tightening Cycle Characteristic Curve 1
+	Belt Tensioner 2Nd Row,Left-Tightening Cycle Characteristic Curve 2
+	Belt Tensioner 2Nd Row,Left-Tightening Cycle Characteristic Curve 3
+	Calibration Status
+	Center 3Rd Row Seat Belt Switch
+	Center Rear Seat Occupied Recognition Ohm Value
+	Data Logger Triggering
+	Driver Airbag Igniter
+	Driver Airbag Release Valve Igniter
+	Driver Belt Tensioner Ohm Value
+	Driver Head Curtain - Airbag Igniter
+	Driver Knee - Airbag Igniter
+	Driver Seat Belt Force Limiter
+	Driver Seat Belt Switch
+	Driver Seat Belt Tensioner Igniter
+	Driver Seat Belt Tensioner Igniter 2
+	Driver Seat Position Sensor Current Value
+	Driver Side 3Rd Row Seat Belt Switch
+	Driver Side Active Head Restraint Igniter
+	Driver Side Active Head Restraint Igniter Ohm Value
+	Driver Side Backrest Lock Sensor - Current
+	Driver Side Backrest Lock Sensor - Status
+	Driver Side Igniter 2 Ohm Value
+	Driver Side Igniter Ohm Value
+	Driver Side Rear Curtain - Airbag Igniter
+	Driver Side Rear Seat Belt Tensioner Igniter
+	Driver Side Rear Seat Belt Tensioner Igniter
+	Driver Side Rear Thorax - Airbag Igniter
+	Driver Side Seat Belt Tensioner Igniter 3
+	Driver Side Seat Belt Tensioner Igniter 3Rd Row Ohm Value
+	Driver Side Seat Occupancy Detection-Resistance
+	Driver Side Seat Occupancy Detection-Status
+	Driver Thorax Airbag Igniter
+	Driver'S Side Airbag Igniter Ohm Value
+	Driving Profile Selection-Actual Value
+	Driving Profile Selection-Compatibility
+	Driving Profile Selection-Driving Profile Switchover
+	Driving Profile Selection-System Status
+	Driving Profile Selection-Target Value
+	Drt.Paas. Side Rear Seat Occupied Recognition Ohm Value
+	Dynamometer Mode, Functional - Activation Stages
+	Dynamometer Mode, Functional - Fault Status
+	Extended Belts Witch Diagnostic - 3Rd Row Passenger Side Seat Belt Switch
+	Extended Belts Witch Diagnostic-Center 3Rd Row Seat Belt Switch
+	Extended Belts Witch Diagnostic-Driver Seat Belt Switch
+	Extended Belts Witch Diagnostic-Driver Side 3Rd Row Seat Belt Switch
+	Extended Belts Witch Diagnostic-Front Passenger Side Safety Belt Switch
+	Extended Belts Witch Diagnostic-Second Row Center Seat Belt Switch
+	Extended Belts Witch Diagnostic-Second Row Passenger Side Seat Belt Switch
+	Front Passenger Airbag Igniter
+	Front Passenger Airbag Igniter 2
+	Front Passenger Airbag Igniter 2
+	Front Passenger Head - Airbag Igniter
+	Front Passenger Knee - Airbag Igniter
+	Front Passenger Rear Thorax - Airbag Igniter
+	Front Passenger Side - Airbag Igniter
+	Front Passenger Side Active Headrest Igniter
+	Front Passenger Side Backrest Lock Sensor - Status
+	Front Passenger Side Backrest Lock Sensor-Current
+	Front Passenger Side Safety Belt Switch
+	Front Passenger Side Seat Belt Force Limiter
+	Front Passenger Side Seat Belt Tensioner Igniter
+	Front Passenger Side Seat Belt Tensioner Igniter 2
+	Front Passenger Side Seat Occupancy Detection
+	Front Passenger Side Seat Position Sensor
+	Front Pedestrian Protection Trigger
+	Front Pedestrian Protection Trigger 2-Resistancce
+	Front Pedestrian Protection Trigger 2-Status
+	Frt. Pass. Airbag Release Valve Igniter
+	Frt.Pass. Belt Tensioner Ohm Value
+	Frt.Pass. Seat Position Sensor Current Value
+	Frt.Pass. Side Seat Belt Tensioner Igniter 3
+	Frt.Pass. Side Seat Belt Tensioner Igniter 3Rd Row Ohm Value
+	Frt.Pass. Side Seat Occupancy Detection, Ohm Value
+	Igniter For Batt. Interrupt, High Volt. Batt. Ohm Value
+	Igniter For Battery Interrupt
+	Igniter For Driver Side Airbag Release Valve, Ohm Value
+	Igniter For Frt.Pass. Side Air Bad Release Valve,Ohm Value
+	Igniter For High Voltage Battery 2 Open Circuit - Resistance
+	Igniter For High Voltage Battery 2 Open Circuit - Status
+	Igniter For Interaction Air Bag, Driver Side - Status
+	Igniter For Interaction Airbag 2Nd Row,Driver Side - Resistance
+	Igniter For Interaction Airbag 2Nd Row,Driver Side - Status
+	Igniter For Interaction Airbag,Driver Side - Resistance
+	Igniter For Window Airbag
+	Igniter For Window Airbag Ohm-Value
+	Key Switch Contact 1 Ohm Value
+	Key Switch Contact 2 Ohm Value
+	Key Switch Terminal 1
+	Key Switch Terminal 2
+	Left Belt Tensioner Current Consumption
+	Left Belt Tensioner Error Status
+	Left Belt Tensioner Supply Voltage
+	Left Belt Tensioner Supply Voltage
+	Left Belt Tensioner Temperature
+	Left Belt Tensioner Tensioning Cycles Charac. Curve 1
+	Left Belt Tensioner Tensioning Cycles Charac. Curve 2
+	Left Belt Tensioner Tensioning Cycles Charac. Curve 3
+	Left Belt Tensioner Tensioning Cycles Charac. Curve 4
+	Left Pedestrian Protection Igniter
+	Number Of Frontal Crashes
+	Number Of Rear Crashes
+	Number Of Rollover Crashes
+	Number Of Side Crashes Driver Side
+	Number Of Side Crashes On Front Passenger Side
+	Pedestrian Protection Trigger,Driver Side Ohm Value
+	Rear Center Seat Belt Tensioner Igniter
+	Rear Passenger Head - Airbag Igniter
+	Rear Passenger Head - Airbag Igniter
+	Right Belt Tensioner Current Consumption
+	Right Belt Tensioner Error Status
+	Right Belt Tensioner Supply Voltage
+	Right Belt Tensioner Supply Voltage
+	Right Belt Tensioner Temperature
+	Right Pedestrian Protection Igniter
+	River Side Rear Seat Occupied Recognition Ohm Value
+	Rollover Protection Trigger,Driver Side Ohm Value
+	Rollover Protection Trigger,Frt.Pass Side Ohm Value
+	Safety Belt Switch 2Nd Row Frt.Pass. Side Ohm Value
+	Safety Belt Switch Center 3Rd Row Ohm Value
+	Seat Belt Switch 3Rd Row Driver Side Ohm Value
+	Seat Occupied Detection, Diagnosis Signal
+	Seat Occupied Detection, Msmt. Signal
+	Seat Occupied Detection, Ref. Signal
+	Seat Occupied Recognition Malfunction Status
+	Seat Occupied Recognition,Center,Rear
+	Seat Occupied Recognition,Driver Side,Rear
+	Seat Occupied Recognition,Front Passenger Side,Rear
+	Seat Position Sensor, Driver Side
+	Second Battery Isolation Igniter
+	Second Row Center Seat Belt Switch
+	Second Row Center Seat Belt Switch Ohm Value
+	Second Row Driver Side Seat Belt Switch
+	Second Row Driver Side Seat Belt Switch Ohm Value
+	Second Row Left Seat Belt Feed Control Unit - Current Power Consumption
+	Second Row Left Seat Belt Feed Control Unit - Number Of Activations
+	Second Row Left Seat Belt Feed Control Unit - Supply Voltage
+	Second Row Passenger Side Seat Belt Switch
+	Second Row Right Seat Belt Feed Control Unit - Current Power Consumptions
+	Second Row Right Seat Belt Feed Control Unit - Hall Sensor Incremental Value
+	Second Row Right Seat Belt Feed Control Unit - Number Of Activations
+	Second Row Right Seat Belt Feed Control Unit - Supply Voltage
+	Security Access Number Of Invalid Keys
+	Supply Voltage
+	Terminal 58Xd Dimmer - Dim. Value Indicator Lamp For Airbag 'Off',Frt.Pass.Side
+	Terminal 58Xd Dimmer - Dim. Value Indicator Lamp For Airbag 'On',Frt.Pass.Side
+	Third Row Driver Side Seat Occupancy Detection-Resistance
+	Third Row Driver Side Seat Occupancy Detection-Status
+	Third Row Passenger Side Seat Belt Switch Ohm Value
+	Third Row Passenger Side Seat Occupancy Detection-Resistance
+	Third Row Passenger Side Seat Occupancy Detection-Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Load Value
+	Absolute Vapor Pressure In Tank Ventilation System
+	Accelerator Position
+	Accelerator Position 2
+	Accelerator Position 3
+	Accelerator Position,Normalized
+	Additional Inputs And Outputs-Status Of Additional Inputs And Outputs-A/T In P Or N
+	Additional Inputs And Outputs-Status Of Additional Inputs And Outputs-Auxiliary Drive
+	Additional Inputs And Outputs-Status Of Additional Inputs And Outputs-Glow Plug Indicator Lamp
+	Additional Inputs And Outputs-Status Of Additional Inputs And Outputs-Manual Transmission At Idle
+	Additional Inputs And Outputs-Status Of Additional Inputs And Outputs-Recommended Transmission Gear For Current Vehicle Conditions
+	Additional Inputs And Outputs-Supported Measurement Values-A/T In P Or N
+	Additional Inputs And Outputs-Supported Measurement Values-Auxiliary Drive T
+	Additional Inputs And Outputs-Supported Measurement Values-Glow Plug Indicator Lamp
+	Additional Inputs And Outputs-Supported Measurement Values-Manual Transmission At Idle
+	Additional Inputs And Outputs-Supported Measurement Values-Recommended Gear Supported
+	Alcohol Content In Fuel
+	Available Torque - Engine Percent Torque At Idle, Point 1
+	Available Torque-Engine Percent Torque At Point 2
+	Available Torque-Engine Percent Torque At Point 3
+	Available Torque-Engine Percent Torque At Point 4
+	Available Torque-Engine Percent Torque At Point 5
+	Boost Pressure Regulation-Charge Air Pressure 1, Actual Value
+	Boost Pressure Regulation-Charge Air Pressure 1, Specified Value
+	Boost Pressure Regulation-Charge Air Pressure 2, Actual Value
+	Boost Pressure Regulation-Charge Air Pressure 2, Specified Value
+	Boost Pressure Regulation-Charge Air Pressure, Status-Charge Air Pressure 1,Status
+	Boost Pressure Regulation-Charge Air Pressure, Status-Charge Air Pressure 2,Status
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 1, Actual Value
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 1, Specified Value
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 1, Status
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 2, Actual Value
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 2, Specified Value
+	Boost Pressure Regulation-Supported Measurement Values-Charge Air Pressure 2, Status
+	Charge Air Temperature Sensor - Charge Air Temperature Sensor Bank 1,Sensor 1
+	Charge Air Temperature Sensor - Charge Air Temperature Sensor Bank 1,Sensor 2
+	Charge Air Temperature Sensor - Charge Air Temperature Sensor Bank 2,Sensor 1
+	Charge Air Temperature Sensor - Charge Air Temperature Sensor Bank 2,Sensor 2
+	Charge Air Temperature Sensor -Supported Measurement Values-Charge Air Temperature Sensor Bank 1,Sensor 2
+	Charge Air Temperature Sensor -Supported Measurement Values-Charge Air Temperature Sensor Bank 1,Sensor1
+	Charge Air Temperature Sensor -Supported Measurement Values-Charge Air Temperature Sensor Bank 2,Sensor 1
+	Charge Air Temperature Sensor -Supported Measurement Values-Charge Air Temperature Sensor Bank 2,Sensor 2
+	Charge Pressure Control Valve - Charge Air Pressure Valve 1,Actual Value
+	Charge Pressure Control Valve - Charge Air Pressure Valve 1,Specified Value
+	Charge Pressure Control Valve - Charge Air Pressure Valve 2,Specified Value
+	Charge Pressure Control Valve-Charge Air Pressure Valve 2, Actual Value
+	Charge Pressure Control Valve-Supported Measurement Values-Charge Air Pressure Valve 1, Actual Value
+	Charge Pressure Control Valve-Supported Measurement Values-Charge Air Pressure Valve 1, Specified Value
+	Charge Pressure Control Valve-Supported Measurement Values-Charge Air Pressure Valve 2, Actual Value
+	Charge Pressure Control Valve-Supported Measurement Values-Charge Air Pressure Valve 2, Specified Value
+	Commencement Of Injection
+	Conversion Factors-Max.Value Of Absolute Intake Pressure
+	Conversion Factors-Max.Value Of Equivalence Ratio
+	Conversion Factors-Max.Value Of Equivalence Ratio
+	Conversion Factors-Max.Value Of Oxygen Sensor Current
+	Conversion Factors-Max.Value Of Oxygen Sensor Voltage
+	Coolant Temperature - Coolant Temperature Sensor 1
+	Coolant Temperature - Coolant Temperature Sensor 2
+	Coolant Temperatures -Supported Measurement Values-Coolant Temperature Sensor 1
+	Coolant Temperatures -Supported Measurement Values-Coolant Temperature Sensor 2
+	Diesel Emissions Re-Treatment, Status - Average Distance Between Dpfregeneration
+	Diesel Emissions Re-Treatment, Status - Average Time Between Dpfregeneration
+	Diesel Emissions Re-Treatment, Status - Desulfurization Of Denox Catalytic Converter
+	Diesel Emissions Re-Treatment, Status - Regeneration Criteria Fulfilled
+	Diesel Emissions Re-Treatment, Status - Status Of Denox Catalytic Converter
+	Diesel Emissions Re-Treatment, Status - Status Of Regeneration
+	Diesel Emissions Re-Treatment, Status - Type Of Regeneration
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Average Distance Between Dpf Regeneration
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Average Time Between Regeneration
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Desulfurization Of Denox Catalytic Converter
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Regeneration Criteria Fulfilled
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Status Of Denox Catalytic Converter
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Status Of Regeneration
+	Diesel Emissions Re-Treatment, Status -Supported Measurement Values-Type Of Regeneration
+	Drive Battery Remaining Runtime
+	Driver'S Desired Torque
+	Engine Friction-Percent Torque
+	Engine Run Time For Aecd #11-#15-Total Run Time With Ei-Aecd#14 Timer 1 Active
+	Engine Run Time For Aecd #11-#15-Total Run Time With Ei-Aecd#14 Timer 2 Active
+	Engine Run Time For Aecd #11-#15-Total Run Time With Ei-Aecd#15 Timer 1 Active
+	Engine Run Time For Aecd #11-#15-Total Run Time With Ei-Aecd#15 Timer 2 Active
+	Engine Run Time For Aecd #16-#20-Supported Measurement Values-Total Run Time With Ei-Aecd#16 Active Supported
+	Engine Run Time For Aecd #16-#20-Supported Measurement Values-Total Run Time With Ei-Aecd#17 Active Supported
+	Engine Run Time For Aecd #16-#20-Supported Measurement Values-Total Run Time With Ei-Aecd#18 Active Supported
+	Engine Run Time For Aecd #16-#20-Supported Measurement Values-Total Run Time With Ei-Aecd#19 Active Supported
+	Engine Run Time For Aecd #16-#20-Supported Measurement Values-Total Run Time With Ei-Aecd#20 Active Supported
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#16 Timer 1 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#16 Timer 2 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#17 Timer 1 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#17 Timer 2 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#18 Timer 1 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#18 Timer 2 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#19 Timer 1 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#19 Timer 2 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#20 Timer 1 Active
+	Engine Run Time For Aecd #16-#20-Total Run Time With Ei-Aecd#20 Timer 2 Active
+	Engine Run Time For Aecd#11-#15-Supported Measurement Values-Total Run Time With Ei-Aecd#11 Active Supported
+	Engine Run Time For Aecd#11-#15-Supported Measurement Values-Total Run Time With Ei-Aecd#12 Active Supported
+	Engine Run Time For Aecd#11-#15-Supported Measurement Values-Total Run Time With Ei-Aecd#13 Active Supported
+	Engine Run Time For Aecd#11-#15-Supported Measurement Values-Total Run Time With Ei-Aecd#14 Active Supported
+	Engine Run Time For Aecd#11-#15-Supported Measurement Values-Total Run Time With Ei-Aecd#15 Active Supported
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#11 Timer 1 Active
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#11 Timer 2 Active
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#12 Timer 1 Active
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#12 Timer 2 Active
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#13 Timer 1 Active
+	Engine Run Time For Aecd#11-#15-Total Run Time With Ei-Aecd#13 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Supported Measurement Values-Exhaust Gas Control Device 1
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Supported Measurement Values-Exhaust Gas Control Device 2
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Supported Measurement Values-Exhaust Gas Control Device 3
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Supported Measurement Values-Exhaust Gas Control Device 4
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Supported Measurement Values-Exhaust Gas Control Device 5
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #1 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #1 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #2 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #2 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #3 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #3 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #4 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #4 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #5 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 1-5-Total Run Time With Ei-Aecd #5 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Supported Measurement Values-Exhaust Gas Control Device 10
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Supported Measurement Values-Exhaust Gas Control Device 6
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Supported Measurement Values-Exhaust Gas Control Device 7
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Supported Measurement Values-Exhaust Gas Control Device 8
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Supported Measurement Values-Exhaust Gas Control Device 9
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #10 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #10 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #6 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #6 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #7 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #7 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #8 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #8 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #9 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10- Total Run Time With Ei-Aecd #9 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10-Supported Measurement Values-Exhaust Gas Control Devices 10
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10-Supported Measurement Values-Exhaust Gas Control Devices 6
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10-Supported Measurement Values-Exhaust Gas Control Devices 7
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10-Supported Measurement Values-Exhaust Gas Control Devices 8
+	Engine Running Time W. Additional Exhaust Gas Ctrl Device 6-10-Supported Measurement Values-Exhaust Gas Control Devices 9
+	Engine Running Time W. Additional Exhaust Gas Ctrl Devices 6-10-Total Run Time With Ei-Aecd #6 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Devices 6-10-Total Run Time With Ei-Aecd #6 Timer 2 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Devices 6-10-Total Run Time With Ei-Aecd #7 Timer 1 Active
+	Engine Running Time W. Additional Exhaust Gas Ctrl Devices 6-10-Total Run Time With Ei-Aecd #7 Timer 2 Active
+	Engine Running Time-Run Time At Idle Speed
+	Engine Running Time-Run Time With Activated Auxiliary Drive
+	Engine Running Time-Supported Measurement Values -Run Time At Idle Speed
+	Engine Running Time-Supported Measurement Values -Run Time With Activated Auxiliary Drive
+	Engine Running Time-Supported Measurement Values -Run Time With Activated Auxiliary Drive
+	Engine Running Time-Supported Measurement Values -Total Run Time
+	Engine Torque, Normalized
+	Exh.Gas Recirculation. Temperature -Support Measurement Values-Exhaust Gas Recirculation. Temperature Sensor Bank 1,Sensor 1
+	Exh.Gas Recirculation. Temperature -Support Measurement Values-Exhaust Gas Recirculation. Temperature Sensor Bank 1,Sensor 2
+	Exh.Gas Recirculation. Temperature -Support Measurement Values-Exhaust Gas Recirculation. Temperature Sensor Bank 2,Sensor 1
+	Exh.Gas Recirculation. Temperature -Support Measurement Values-Exhaust Gas Recirculation. Temperature Sensor Bank 2,Sensor 2
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 1, Actual Value
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 1, Deviation
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 1, Specified Value
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 2, Actual Value
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 2, Deviation
+	Exhaus Gas Recirculation - Exhaust Gas Recirculation. 2, Specified Value
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 1,Actual Value
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 1,Deviation
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 1,Specified Value
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 2, Deviation
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 2,Actual Value
+	Exhaus Gas Recirculation -Supported Measurement Values-Exhaust Gas Recirculation. 2,Specified Value
+	Exhaust Gas Pressure - Exhaust Pressure Sensor 1
+	Exhaust Gas Pressure - Exhaust Pressure Sensor 2
+	Exhaust Gas Pressure- Supported Measurement Values-Exhaust Pressure Sensor 1
+	Exhaust Gas Pressure- Supported Measurement Values-Exhaust Pressure Sensor 2
+	Exhaust Temperature 1 Bank 1
+	Exhaust Temperature 1 Bank 2
+	Exhaust Temperature 2 Bank 1
+	Exhaust Temperature 2 Bank 2
+	Exhaust Temperature Bank 1-Exhaust Gas Temperature Sensor 1
+	Exhaust Temperature Bank 1-Exhaust Gas Temperature Sensor 2
+	Exhaust Temperature Bank 1-Exhaust Gas Temperature Sensor 3
+	Exhaust Temperature Bank 1-Exhaust Gas Temperature Sensor 4
+	Exhaust Temperature Bank 1-Supported Measurement Values -Exhaust Gas Temperature Sensor 1
+	Exhaust Temperature Bank 1-Supported Measurement Values -Exhaust Gas Temperature Sensor 2
+	Exhaust Temperature Bank 1-Supported Measurement Values-Exhaust Gas Temperature Sensor 3
+	Exhaust Temperature Bank 1-Supported Measurement Values-Exhaust Gas Temperature Sensor 4
+	Exhaust Temperature Bank 2 - Exhaust Gas Temperature Sensor 1
+	Exhaust Temperature Bank 2 - Exhaust Gas Temperature Sensor 2
+	Exhaust Temperature Bank 2 - Exhaust Gas Temperature Sensor 3
+	Exhaust Temperature Bank 2 - Exhaust Gas Temperature Sensor 4
+	Exhaust Temperature Bank 2- Supported Measurement Values-Exhaust Gas Temperature Sensor 1
+	Exhaust Temperature Bank 2- Supported Measurement Values-Exhaust Gas Temperature Sensor 2
+	Exhaust Temperature Bank 2- Supported Measurement Values-Exhaust Gas Temperature Sensor 3
+	Exhaust Temperature Bank 2- Supported Measurement Values-Exhaust Gas Temperature Sensor 4
+	Fuel Consumption Per Hour
+	Fuel Pressure Absolute Value
+	Fuel Pressure Regulation - Fuel Pressure 1, Actual Value
+	Fuel Pressure Regulation - Fuel Pressure 1, Specified Value
+	Fuel Pressure Regulation - Fuel Pressure 2, Actual Value
+	Fuel Pressure Regulation - Fuel Pressure 2, Specified Value
+	Fuel Pressure Regulation - Fuel Temperature 1
+	Fuel Pressure Regulation - Fuel Temperature 2,
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Pressure 1, Actual Value
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Pressure 1, Specified Value
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Pressure 2, Actual Temperature
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Pressure 2, Actual Value
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Pressure 2, Specified Value
+	Fuel Pressure Regulation-Supported Measurement Values -Fuel Temperature 1
+	Injection Pressure Control-Injection Pressure 1, Actual Value
+	Injection Pressure Control-Injection Pressure 1, Specified Value
+	Injection Pressure Control-Injection Pressure 2, Actual Value
+	Injection Pressure Control-Injection Pressure 2, Specified Value
+	Injection Pressure Control-Supported Measurement Values-Injection Pressure 1, Actual Value
+	Injection Pressure Control-Supported Measurement Values-Injection Pressure 1, Specified Value
+	Injection Pressure Control-Supported Measurement Values-Injection Pressure 2, Actual Value
+	Injection Pressure Control-Supported Measurement Values-Injection Pressure 2, Specified Value
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 1,Sensor 1
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 1,Sensor 2
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 1,Sensor 3
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 2,Sensor 1
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 2,Sensor 2
+	Intake Air Temperature Sensor-Intake Air Temperature Sensor Bank 2,Sensor 3
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank 2,Sensor 1
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank 2,Sensor 2
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank 2,Sensor 3
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank1,Sensor1
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank1,Sensor2
+	Intake Air Temperature Sensor-Supported Measurement Values-Intake Air Temperature Sensor Bank1,Sensor3
+	Intake Pressure Intake Pressure Sensor 1
+	Intake Pressure Intake Pressure Sensor 2
+	Intake Pressure Supported Measurement Values Intake Pressure Sensor 1
+	Intake Pressure Supported Measurement Values Intake Pressure Sensor 2
+	Long Term Adaptation Of Oxygen Sensor Control Bank 1
+	Long Term Adaptation Of Oxygen Sensor Control Bank 2
+	Mass Air Flow Sensor - Mass Air Flow Sensor 1
+	Mass Air Flow Sensor - Mass Air Flow Sensor 2
+	Mass Air Flow Sensor - Supported Measurement Values - Mass Airflow Sensor 1
+	Mass Air Flow Sensor - Supported Measurement Values - Mass Airflow Sensor 2
+	Maximum Air Throughput
+	Monitoring Status In Current Driving Cycle - Activation Status Of Intermittent Monitoring - Egr/Or Vvt System Monitoring
+	Monitoring Status In Current Driving Cycle - Activation Status Of Intermittent Monitoring - Oxygen Sensor Heater Monitoring
+	Monitoring Status In Current Driving Cycle - Activation Status Of Intermittent Monitoring - Oxygen Sensor Monitoring
+	Monitoring Status In Current Driving Cycle - Implementation Status Of Intermittent Monitoring - Heated Catalyst Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Activation Status Of Continues Monitoring-Comprehensive Component Monitoring Enabled
+	Monitoring Status In Current Driving Cycle -Activation Status Of Continues Monitoring-Fuel System Monitoring Enabled
+	Monitoring Status In Current Driving Cycle -Activation Status Of Continues Monitoring-Misfire Monitoring Enabled
+	Monitoring Status In Current Driving Cycle -Activation Status Of Continues Monitoring-Monitoring Of Compression Ignition
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Catalyst Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Egr And/Or Vvt System Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Evaporative System Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Evaporative System Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Heated Catalyst Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Oxygen Sensor Heater Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Oxygen Sensor Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Secondary Air System Monitoring
+	Monitoring Status In Current Driving Cycle -Activation Status Of Intermittent Monitoring-Secondary Air System Monitoring
+	Monitoring Status In Current Driving Cycle -Completion Status Of All Supported Non-Continuous Monitors This Monitoring Cycle
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Continues Monitoring-Comprehensive Component Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Continues Monitoring-Fuel System Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Continues Monitoring-Misfire Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Catalyst Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Egr And/Or Vvt System Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Evaporative System Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Oxygen Sensor Heater Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Oxygen Sensor Monitoring Completed
+	Monitoring Status In Current Driving Cycle -Implementation Status Of Intermittent Monitoring-Secondary Air System Monitoring Completed
+	Monitoring Status In Currrent Driving Cycle -Activation Status Of Intermittent Monitoring-Catalyst Monitoring
+	Monitoring Status In Currrent Driving Cycle -Activation Status Of Intermittent Monitoring-Heated Catalyst Monitoring
+	Nominal Torque
+	Nox Sensor - Nox Sensor Bank 1 Sensor 1
+	Nox Sensor - Nox Sensor Bank 1 Sensor 2
+	Nox Sensor - Nox Sensor Bank 2 Sensor 1
+	Nox Sensor - Nox Sensor Bank 2 Sensor 2
+	Nox Sensor -Supported Measurement Values-Nox Sensor Bank 1Sensor 1
+	Nox Sensor -Supported Measurement Values-Nox Sensor Bank 1Sensor 2
+	Nox Sensor -Supported Measurement Values-Nox Sensor Bank 2 Sensor 1
+	Nox Sensor -Supported Measurement Values-Nox Sensor Bank 2 Sensor 2
+	Nox Sensor -Supported Measurement Values-Nox Sensor Concentration Bank 1 Sensor 1 Data Availability
+	Nox Sensor -Supported Measurement Values-Nox Sensor Concentration Bank 1 Sensor 2 Data Availability
+	Nox Sensor -Supported Measurement Values-Nox Sensor Concentration Bank 2 Sensor 1 Data Availability
+	Nox Sensor -Supported Measurement Values-Nox Sensor Concentration Bank 2 Sensor 2 Data Availability
+	Oper.Time With Exh. Malfunction Indicator Lamp Activated
+	Outside Temperature
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Concentration Bank 1, Sensor 1
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Concentration Bank 1, Sensor 2
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Concentration Bank 2, Sensor 1
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Concentration Bank 2, Sensor 2
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Value Bank 1, Sensor 1
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Value Bank 1, Sensor 2
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Value Bank 2, Sensor 1
+	Oxygen Sensor (Broadband)-Supported Measurement Values-Oxygen Value Bank 2, Sensor 2
+	Oxygen Sensors (Broadband)-Oxygen Concentration Bank 1, Sensor 1
+	Oxygen Sensors (Broadband)-Oxygen Concentration Bank 1, Sensor 2
+	Oxygen Sensors (Broadband)-Oxygen Concentration Bank 2, Sensor 1
+	Oxygen Sensors (Broadband)-Oxygen Concentration Bank 2, Sensor 2
+	Oxygen Sensors (Broadband)-Oxygen Value Bank 1, Sensor 1
+	Oxygen Sensors (Broadband)-Oxygen Value Bank 1, Sensor 2
+	Oxygen Sensors (Broadband)-Oxygen Value Bank 2, Sensor 1
+	Oxygen Sensors (Broadband)-Oxygen Value Bank 2, Sensor 2
+	Particle Concentration Sensor-Particle Concentration Sensor Bank 1, Sensor 1
+	Particle Concentration Sensor-Particle Concentration Sensor Bank 2, Sensor 1
+	Particle Concentration Sensor-Supported Measurement Values-Particle Concentration Sensor Bank 1, Sensor 1
+	Particle Concentration Sensor-Supported Measurement Values-Particle Concentration Sensor Bank 2, Sensor 1
+	Particulate Filter (Bank1)-Differential Pressure
+	Particulate Filter (Bank1)-Intake Pressure
+	Particulate Filter (Bank1)-Outlet Pressure
+	Particulate Filter (Bank1)-Supported Measurement Values-Differential Pressure
+	Particulate Filter (Bank1)-Supported Measurement Values-Intake Pressure
+	Particulate Filter (Bank1)-Supported Measurement Values-Outlet Pressure
+	Particulate Filter (Bank2)-Differential Pressure
+	Particulate Filter (Bank2)-Intake Pressure
+	Particulate Filter (Bank2)-Outlet Pressure
+	Particulate Filter (Bank2)-Supported Measurement Values-Differential Pressure
+	Particulate Filter (Bank2)-Supported Measurement Values-Intake Pressure
+	Particulate Filter (Bank2)-Supported Measurement Values-Outlet Pressure
+	Particulate Filter Temperature -Supported Measurement Values-Exhaust Gas Temperature. Sensor After Particle Filter, Bank 1
+	Particulate Filter Temperature -Supported Measurement Values-Exhaust Gas Temperature. Sensor After Particle Filter, Bank 2
+	Particulate Filter Temperature -Supported Measurement Values-Exhaust Gas Temperature. Sensor In Front Of Particle Filter, Bank 1
+	Particulate Filter Temperature -Supported Measurement Values-Exhaust Gas Temperature. Sensor In Front Of Particle Filter, Bank 2
+	Particulate Filter Temperature-Exhaust Gas Temperature. Sensor After Particle Filter, Bank 1
+	Particulate Filter Temperature-Exhaust Gas Temperature. Sensor After Particle Filter, Bank 2
+	Particulate Filter Temperature-Exhaust Gas Temperature. Sensor In Front Of Particle Filter, Bank 1
+	Particulate Filter Temperature-Exhaust Gas Temperature. Sensor In Front Of Particle Filter, Bank 2
+	Reduction Agent Dosing - Engine Running Time With Active Nox Warning
+	Reduction Agent Dosing - Reduction Agent Level
+	Reduction Agent Dosing-Average Reduction Agent Consumption
+	Reduction Agent Dosing-Average Reduction Agent Need
+	Reduction Agent Dosing-Supported Measurement Values -Average Reduction Agent Consumption
+	Reduction Agent Dosing-Supported Measurement Values -Average Reduction Agent Level
+	Reduction Agent Dosing-Supported Measurement Values -Average Reduction Agent Need
+	Reduction Agent Dosing-Supported Measurement Values -Engine Running Time With Action Nox Warning
+	Scr Inducement System Status - Distance Traveled In Current 10K Block
+	Scr Inducement System Status - Distance Traveled While Inducement System Active In 20K Block
+	Scr Inducement System Status - Distance Traveled While Inducement System Active In 30K Block
+	Scr Inducement System Status - Distance Traveled While Inducement System Active In 40K Block
+	Scr Inducement System Status - Distance Traveled While Inducement System Active In Current 10K Block
+	Short Term Adaptation Of Oxygen Sensor Bank 2
+	Short Term Adaptation Of Oxygen Sensor Control Bank 1
+	Specified Value Of Equivalence Ratio
+	Throttle Valve Position 2
+	Throttle Valve Position 3
+	Throttle Valve Position 4
+	Throttle Valve Specified Value
+	Throttle Valve, Diesel-Supported Measurement Values-Throttle Valve 1,Actual Value
+	Throttle Valve, Diesel-Supported Measurement Values-Throttle Valve 1,Specified Value
+	Throttle Valve, Diesel-Supported Measurement Values-Throttle Valve 2,Actual Value
+	Throttle Valve, Diesel-Supported Measurement Values-Throttle Valve 2,Specified Value
+	Throttle Valve, Diesel-Throttle Valve 1,Actual Value
+	Throttle Valve, Diesel-Throttle Valve 1,Specified Value
+	Throttle Valve, Diesel-Throttle Valve 2,Actual Value
+	Throttle Valve, Diesel-Throttle Valve 2,Specified Value
+	Time Since Erasing Dtc Memory
+	Turbocharger 1, Temperature - Compressor Intake
+	Turbocharger 1, Temperature - Compressor Outlet
+	Turbocharger 1, Temperature - Turbine Intake
+	Turbocharger 1, Temperature - Turbine Outlet
+	Turbocharger 1, Temperature -Supported Measurement Values-Compressor Intake
+	Turbocharger 1, Temperature -Supported Measurement Values-Compressor Outlet
+	Turbocharger 1, Temperature -Supported Measurement Values-Turbine Intake
+	Turbocharger 1, Temperature -Supported Measurement Values-Turbine Outlet
+	Turbocharger 2, Temperature -Supported Measurement Values-Compressor Intake
+	Turbocharger 2, Temperature -Supported Measurement Values-Compressor Outlet
+	Turbocharger 2, Temperature -Supported Measurement Values-Turbine Intake
+	Turbocharger 2, Temperature -Supported Measurement Values-Turbine Outlet
+	Turbocharger 2, Temperature-Compressor Intake
+	Turbocharger 2, Temperature-Compressor Outlet
+	Turbocharger 2, Temperature-Turbine Intake
+	Turbocharger 2, Temperature-Turbine Outlet
+	Turbocharger Guide Vans Adjustment-Activation-Turbocharger 1, Status
+	Turbocharger Guide Vans Adjustment-Activation-Turbocharger 2, Status
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 1, Actual Value
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 1, Specified Value
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 1, Status
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 2, Actual Value
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 2, Specified Value
+	Turbocharger Guide Vans Adjustment-Supported Measurement Values-Turbocharger 2, Status
+	Turbocharger Guide Vans Adjustment-Turbocharger 1,Actual Value
+	Turbocharger Guide Vans Adjustment-Turbocharger 1,Specified Value
+	Turbocharger Guide Vans Adjustment-Turbocharger 2,Actual Value
+	Turbocharger Guide Vans Adjustment-Turbocharger 2,Specified Value
+	Turbocharger Intake Pressure Sensor-Supported Measurement Values-Turbocharger Intake Pressure Sensor 1
+	Turbocharger Intake Pressure Sensor-Supported Measurement Values-Turbocharger Intake Pressure Sensor 2
+	Turbocharger Intake Pressure Sensor-Turbocharger Intake Pressure Sensor 1
+	Turbocharger Intake Pressure Sensor-Turbocharger Intake Pressure Sensor 2
+	Turbocharger Speed-Supported Measurement Values-Turbocharger 1,Speed
+	Turbocharger Speed-Supported Measurement Values-Turbocharger 2,Speed
+	Turbocharger Speed-Turbocharger 1,Speed
+	Turbocharger Speed-Turbocharger 2,Speed
+	Vapor Pressure In Tank Ventilation System 2
+	Voltage Terminal 30
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Adaptive Cruise Control Activation Status
+	Cruise Control System Status
+	Door Lock Status - Driver
+	Door Lock Status - Driver Side Rear
+	Door Lock Status - Driver Side Rear Sliding Door
+	Door Lock Status - Front Passenger
+	Door Lock Status - Front Passenger Rear
+	Door Lock Status - Passenger Side Rear Sliding Door
+	Door Lock Status - Rear Wing Door
+	Front Windshield Wiper Status
+	High Beam Signal Status
+	Interior Humidity Sensor Temperature
+	Left Turn Signal Duty Cycle
+	Left Turn Signal Status
+	Light Switch Position On/Off
+	Rear Window Wiper Status
+	Right Turn Signal Duty Cycle
+	Right Turn Signal Duty Cycle
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Intake Pressure
+	Air Mass, Actual Value
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 1, Sensor 1
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 1, Sensor 2
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 1, Sensor 3
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 1, Sensor 4
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 2. Sensor 1
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 2. Sensor 2
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 2. Sensor 3
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 2. Sensor 4
+	Allocation Of Oxygen Sensors - Oxygen Sensor Bank 2. Sensor 4
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 1,Sensor 1-2
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 1,Sensor 2-2
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 2,Sensor 1-2
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 2,Sensor 2-2
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 3,Sensor 1
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 3,Sensor 2
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 4,Sensor 1
+	Allocation Of Oxygen Sensors-Oxygen Sensor Bank 4,Sensor 2
+	Ambient Air Pressure
+	Auxiliary Drive Status-Auxiliary Drive
+	Coolant Temperature
+	Current Of Oxygen Sensor Bank 1 Sensor 1 (Broadband Sensor)-Current
+	Current Of Oxygen Sensor Bank 1 Sensor 1 (Broadband Sensor)Oxygen Sensor Value
+	Current Of Oxygen Sensor Bank 1 Sensor 2 (Broadband Sensor)-Current
+	Current Of Oxygen Sensor Bank 1 Sensor 2 (Broadband Sensor)-Oxygen Sensor Value
+	Current Of Oxygen Sensor Bank 2 Sensor 1(Broadband Sensor)-Current
+	Current Of Oxygen Sensor Bank 2 Sensor 1(Broadband Sensor)-Oxygen Sensor Value
+	Cylinder Fuel Rate
+	Cylinder Suppression - Cylinder 1
+	Cylinder Suppression - Cylinder 10
+	Cylinder Suppression - Cylinder 11
+	Cylinder Suppression - Cylinder 12
+	Cylinder Suppression - Cylinder 13
+	Cylinder Suppression - Cylinder 14
+	Cylinder Suppression - Cylinder 15
+	Cylinder Suppression - Cylinder 16
+	Cylinder Suppression - Cylinder 2
+	Cylinder Suppression - Cylinder 3
+	Cylinder Suppression - Cylinder 4
+	Cylinder Suppression - Cylinder 5
+	Cylinder Suppression - Cylinder 6
+	Cylinder Suppression - Cylinder 7
+	Cylinder Suppression - Cylinder 8
+	Cylinder Suppression - Cylinder 9
+	Deviation Of Exh.Gas Recirculation.Rate
+	Diesel Exhaust Fluid -Supported Measurement Values-Commanded Def Dosing Supported
+	Diesel Exhaust Fluid -Supported Measurement Values-Commanded Def Dosing Supported
+	Diesel Exhaust Fluid Dosing - Commanded Def Dosing
+	Diesel Exhaust Fluid Dosing - Def Usage For The Current Driving Cycle
+	Distance Driving Since Erasing Dtc Memory
+	Distance.Driven With Exh.Malfunction Indicator Lamp Activated
+	Egr Specified Value
+	Engine Speed
+	Exhaust Warning Light,Triggering Contr.Module-Indicate Mil Due To Misfire Is Causing Catalyst Damage
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Battery Energy Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Brake System Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Engine Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Engine Control Module 2
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Motor Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Motor Control Module 2
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Transmission Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil Request From Transmission Control Module 2
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From All Wheel Drive Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Battery Energy Control Module 48V
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Bccm
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Brake System Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Dcdc
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Drive Control Module 48V
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request From Hvac Control Module
+	Exhaust Warning Light,Triggering Contr.Module-Mil-Request-Register-Ident
+	Fuel Pressure 2
+	Fuel Pressure In Relation To Intake Pressure
+	Fuel Tank Fill Level
+	Function Which Can Be Activated,Status Of Activation - Cancellation
+	Function Which Can Be Activated,Status Of Activation - Id Number
+	Function Which Can Be Activated,Status Of Activation - Individualization
+	Function Which Can Be Activated,Status Of Activation - Last State
+	Function Which Can Be Activated,Status Of Activation - Number Of Function Which Can Be Activated
+	Function Which Can Be Activated,Status Of Activation - Release Code For A Swap Function
+	Ignition Timing Adjustment Cylinder 1
+	Intake Air Temperature
+	Long Term Adaptation Of Mixture Formation Bank 1
+	Long Term Adaptation Of Mixture Formation Bank 2
+	Monitoring Status Since Erasing Dtc Memory - Status Contin.Monitoring Session Since Event Memory Cleared - Fuel System Test
+	Monitoring Status Since Erasing Dtc Memory - Status Contin.Monitoring Session Since Event Memory Cleared - Ignition Misfire Test
+	Monitoring Status Since Erasing Dtc Memory -Continuous Monitoring-Monitoring Of Compression Ignition
+	Monitoring Status Since Erasing Dtc Memory -Continuous Monitoring-Monitoring Of Fuel System
+	Monitoring Status Since Erasing Dtc Memory -Continuous Monitoring-Monitoring Of Ignition Misfires
+	Monitoring Status Since Erasing Dtc Memory -Continuous Monitoring-Overall System Monitoring
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Catalytic Converter Monitoring
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Gasoline Particulate Filter Monitor Supported
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Catalytic Converter At Operating Temperature
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Egr And Camshaft Adjustment
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Oxygen Sensor
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Oxygen Sensor Heater
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Secondary Air System
+	Monitoring Status Since Erasing Dtc Memory -Intermittent Monitoring-Monitoring Of Tank Ventilation System
+	Monitoring Status Since Erasing Dtc Memory -Malfunction And Exhaust Malfunction Indicator Lamp Status-Malfunction Indicator Lamp
+	Monitoring Status Since Erasing Dtc Memory -Malfunction And Exhaust Malfunction Indicator Lamp Status-Number Of Emission-Relevant Dtc
+	Monitoring Status Since Erasing Dtc Memory -Status Contin.Monitoring Session Since Event Memory Cleared-Overall System Test
+	Normal Load Value
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 1 Sensor 3 Data Availability
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 1 Sensor 3 Supported
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 1 Sensor 4 Data Availability
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 1 Sensor 4 Supported
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 2 Sensor 3 Data Availability
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 2 Sensor 3 Supported
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 2 Sensor 4 Data Availability
+	Nox Sensor 2-Supported Measurement Values -Nox Sensor Concentration Bank 2 Sensor 4 Supported
+	Nox Sensor Corrected - Nox Sensor Corrected Concentration Bank 1 Sensor 1
+	Nox Sensor Corrected - Nox Sensor Corrected Concentration Bank 1 Sensor 2
+	Nox Sensor Corrected - Nox Sensor Corrected Concentration Bank 2 Sensor 1
+	Nox Sensor Corrected - Nox Sensor Corrected Concentration Bank 2 Sensor 2
+	Nox Sensor Corrected 2-Nox Sensor Corrected Concentration Bank 1 Sensor 3
+	Nox Sensor Corrected 2-Nox Sensor Corrected Concentration Bank 1 Sensor 4
+	Nox Sensor Corrected 2-Nox Sensor Corrected Concentration Bank 2 Sensor 3
+	Nox Sensor Corrected 2-Nox Sensor Corrected Concentration Bank 2 Sensor 4
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 1 Sensor 1 Data Availability
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 1 Sensor 1 Supported
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 1 Sensor 2 Data Availability
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 1 Sensor 2 Supported
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 2 Sensor 1 Data Availability
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 2 Sensor 1 Supported
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 2 Sensor 2 Data Availability
+	Nox Sensor Corrected- Supported Measurement Values-Nox Sensor Corrected Concentration Bank 2 Sensor 2 Supported
+	Number Of Driving Cycles Since Erasing Dtc Memory
+	Oxygen Sensor Bank 1 Sensor 1 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 1 Sensor 1 (Jump Sensor)-Voltage
+	Oxygen Sensor Bank 1 Sensor 2 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 1 Sensor 3 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 1 Sensor 3 (Jump Sensor)-Voltage
+	Oxygen Sensor Bank 1 Sensor 4 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 1 Sensor 4 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 1 Sensor 4 (Jump Sensor)-Voltage
+	Oxygen Sensor Bank 2 Sensor 1 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 2 Sensor 2 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 2 Sensor 3 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 2 Sensor 3 (Jump Sensor)-Voltage
+	Oxygen Sensor Bank 2 Sensor 4 (Jump Sensor)-Short Term Adaptation Of Mixture Formation
+	Oxygen Sensor Bank 2 Sensor 4 (Jump Sensor)-Voltage
+	Particular Filter, Kilometers Since Last Regeneration
+	Short Term Adaptation Of Mixture Formation Bank 1
+	Short Term Adaptation Of Mixture Formation Bank 2
+	Starter Control, Relay 1
+	Starter Control, Relay 2
+	Starter Control, Shut-Off Condition 1
+	Starter Control, Shut-Off Condition 2
+	Starter Control, Terminal 50 Acknowledgement
+	Starter Control,Interlock-Or P/N- Signal
+	Status Of Oil Pressure Switches - Oil Pressure Switch For High Pressure
+	Status Of Oil Pressure Switches - Oil Pressure Switch For Low Pressure
+	Target Position Of Evap Canister Value
+	Throttle Valve Position (Absolute)
+	Time Since Engine Start
+	Transmission Actual Gear - Transmission Actual Gear Ratio
+	Transmission Actual Gear - Transmission Actual Gear Status
+	Transmission Actual Gear -Supported Measurement Values-Transmission Actual Gear Ratio Supported
+	Transmission Actual Gear -Supported Measurement Values-Transmission Actual Gear Status Supported
+	Unlearning Counter According Obd
+	Vapor Pressure In Tank Ventilation System
+	Vehicle Odometer
+	Voltage Of Oxygen Sensor Bank 1 Sensor 1(Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 1 Sensor 1(Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 1 Sensor 2(Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 1 Sensor 3 (Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 1 Sensor 3(Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 1 Sensor 4 (Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 1 Sensor 4(Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 2 Sensor 1 (Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 2 Sensor 1 (Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 2 Sensor 2 (Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 2 Sensor 2 (Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 2 Sensor 3 (Broadband Sensor)-Voltage
+	Voltage Of Oxygen Sensor Bank 2 Sensor 4 (Broadband Sensor)-Oxygen Sensor Value
+	Voltage Of Oxygen Sensor Bank 2 Sensor 4 (Broadband Sensor)-Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Buttons For Multi-Funciton Steering Wheel - Mfs Button Operating Method Current
+	Buttons For Multi-Funciton Steering Wheel - Mfs Button Operating Method Eeprom
+	Buttons For Multi-Function Display - Mfi Button 'Esc'
+	Buttons For Multi-Function Display - Mfi Button Down
+	Buttons For Multi-Function Display - Mfi Button Reset/Ok
+	Buttons For Multi-Function Display - Mfi Button Up
+	Buttons For Multi-Function Display - Mfi Buttons, Number 3/4
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Down'
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Esc' Cancel
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Left'
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Ok'
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Right'
+	Buttons For Multi-Function Steering Wheel - Mfs Button 'Up'
+	Charge Air Pressure, Actual Value
+	Cold Start
+	Control Button In Instrument Cluster - External Button For Daily Distance Driven
+	Control Button In Instrument Cluster - Menu Button
+	Control Module Switch-Off Counter - Control Module
+	Control Module Switch-Off Counter - Data Bus
+	Coolant Temperature
+	Date - Day
+	Date - Month
+	Date - Year
+	Day Counter
+	Diagnostic Mode
+	Dimming Channel Dot Above White
+	Dimming Channel Dot Below Basic Color Red
+	Dimming Channel Dot Below Basic Color White
+	Dimming Channel Dot Top Red
+	Dimming Channel Dot Top Yellow
+	Dimming Channel Indicator Lamps Blue
+	Dimming Channel Indicator Lamps Green
+	Dimming Channel Indicator Lamps Red
+	Dimming Channel Indicator Lamps Yellow
+	Dimming Channel Large Dial
+	Dimming Channel Lcd Center
+	Dimming Channel Lcd Left
+	Dimming Channel Lcd Right
+	Dimming Channel Long Pointer
+	Dimming Channel Mini Dot Red
+	Dimming Channel Short Pointer
+	Dimming Channel Small Dial
+	Dimming Channel Tft Background Lighting
+	Displayed Fuel Supply Bar Graph - Number Segments
+	Displayed Value Of Exterior Temperature
+	Driver Assistance System Button - Button Driver Assist System
+	Driver Assistance System Button - Button Driver Assist System Error
+	Engine Oil Temperature
+	Engine Speed
+	Fixed Period: Distance Covered Since Last Mileage-Dependent Inspection
+	Fixed Period: Maximum Distance Until Next Mileage-Related Inspection
+	Fixed Period: Maximum Until Next Time-Dependent Inspection
+	Fixed Period: Reset Value For Next Mileage-Dependent Inspection
+	Fixed Period: Reset Value For Next Mileage-Dependent Inspection
+	Fixed Period: Time Since Last Time-Dependent Inspection
+	Fuel Gauge Needle Position
+	Fuel Level
+	Fuel Level From Sensor 1
+	Fuel Level From Sensor 2
+	Fuel Level From Sensor 3
+	Fuel Level From Sensor 4
+	Fuel Level Gasoline
+	Fuel Level Sensor
+	Fuel Level Sensor 1
+	Fuel Level Sensor 2
+	Fuel Level Sensor 3
+	Fuel Level Sensor 4
+	Gear Change Display
+	Gear Change Display - Communication Status At Specified Installations
+	Gear Change Display - Current Gear
+	Gear Change Display - Target Gear
+	Instantaneous Consumption
+	Key Number
+	Mileage
+	Mileage Per Day
+	Oil Filling Level
+	Oil Pressure Switch
+	Operating Mode
+	Operating Mode Display
+	Operating Range Consumption
+	Operating Range Consumption Damping
+	Operating Ranges Of Fuel Supply
+	Outside Temperature
+	Phototransistor
+	Refuel Detection - Refuel Detection Gas
+	Refuel Detection - Refuel Recognition Petrol
+	Second Oil Pressure Switch - Enable Oil Pressure
+	Service Notification
+	Sie: Distance Driven From Inspection
+	Sie: Long Term Mean Value Of Oil Level Differences
+	Sie: Lower Limit Of Service Interval Driving Distance
+	Sie: Lower Limit Of Service Interval Time Interval
+	Sie: Maximum Oil Level In Service Interval
+	Sie: Minimum Oil Level In Service Interval
+	Sie: Remaining Distance
+	Sie: Remaining Running Time
+	Sie: Service Exceedance In Km
+	Sie: Time From Inspection
+	Sie: Upper Limit Of Service Interval Driving Distance
+	Sie: Upper Limit Of Service Interval Time Interval
+	Status Comfort 1 - Child Safety
+	Status Comfort 1 - Id Sensor Battery Warning
+	Status Directional Stabilization Assistance - Heading Control Acoustics 1
+	Status Directional Stabilization Assistance - Heading Control Acoustics 2
+	Status Directional Stabilization Assistance - Heading Control Green
+	Status Directional Stabilization Assistance - Heading Control Text 1
+	Status Directional Stabilization Assistance - Heading Control Text 2
+	Status Directional Stabilization Assistance - Heading Control Text 3
+	Status Directional Stabilization Assistance - Heading Control Text 4
+	Status Directional Stabilization Assistance - Heading Control Text 5
+	Status Directional Stabilization Assistance - Heading Control Yellow
+	Status Input Signals High Beam Assistant - Check Light Or Pictogram
+	Status Input Signals High Beam Assistant - Text: Faulty
+	Status Input Signals High Beam Assistant - Text: Sensor Blocked
+	Status Of Brake Text/Acoustics - Brake Acoustics 2
+	Status Of Brake Text/Acoustics - Brake Text 2
+	Status Of Brake Text/Acoustics - System Status Of Tire Poressure Monitoring Display
+	Status Of Brake Text/Acoustics - Tire Pressure Monitoring Display (Us) Mi Lamp
+	Status Of Brake Text/Acoustics - Tire Pressure Monitoring Display (Us) Warning Lamp
+	Status Of Brake Text/Acoustics - Tire Pressure Monitoring Display Indicator Lamp
+	Status Of Brake Text/Acoustics - Tire Pressure Warning
+	Status Of Doors/Lids 1 - Driver Door
+	Status Of Doors/Lids 1 - Front Passenger Door
+	Status Of Doors/Lids 1 - Fuel Tank Cap
+	Status Of Doors/Lids 1 - Hood
+	Status Of Doors/Lids 1 - Left Rear Door
+	Status Of Doors/Lids 1 - Rear Lid
+	Status Of Doors/Lids 1 - Rear Window
+	Status Of Doors/Lids 1 - Right Rear Door
+	Status Of Input Signals 1 - Brake Pad Wear
+	Status Of Input Signals 1 - External Button For Daily Distance Driven
+	Status Of Input Signals 1 - Insufficient Brake Fluid
+	Status Of Input Signals 1 - Insufficient Coolant
+	Status Of Input Signals 1 - Insufficient Washer Fluid
+	Status Of Input Signals 1 - Parking Brake
+	Status Of Input Signals 1 - Pivoting Trailer Hitch
+	Status Of Input Signals 1 - Spare Wheel Button
+	Status Of Input Signals 10 - Awd Lock/Gear Reduction Display
+	Status Of Input Signals 2 - Abs Indicator Lamp
+	Status Of Input Signals 2 - Airbag Indicator Lamp
+	Status Of Input Signals 2 - Differential Lock Indicator Lamp
+	Status Of Input Signals 2 - Ebv Indicator Lamp
+	Status Of Input Signals 2 - Ei. Sterring Indicator Lamp (Red)
+	Status Of Input Signals 2 - Ei. Sterring Indicator Lamp (Yellow)
+	Status Of Input Signals 2 - Esp Warning Lamp
+	Status Of Input Signals 2 - Synchronize Ebv Indicator Lamp
+	Status Of Input Signals 3 - Ccs Indicator Lamp
+	Status Of Input Signals 3 - Coolant Temperature Indicator Lamp Analog
+	Status Of Input Signals 3 - Coolant Temperature Indicator Lamp Can
+	Status Of Input Signals 3 - Epc Indicator Lamp
+	Status Of Input Signals 3 - Exhaust Malfunction Indicator Lamp (Mil) (Obd)
+	Status Of Input Signals 3 - Glow Plug System Indicator Lamp
+	Status Of Input Signals 3 - Particulate Filter Indicator Lamp
+	Status Of Input Signals 3 - Tank Flap Indicator Lamp
+	Status Of Input Signals 4 - Driving Light Malfunction
+	Status Of Input Signals 4 - Generator Indicator Lamp
+	Status Of Input Signals 4 - High Beam Indicator Lamp
+	Status Of Input Signals 4 - Indicator Lamp For Open Doors
+	Status Of Input Signals 4 - Rear Backrest Indicator Lamp
+	Status Of Input Signals 4 - Rear Fog Light Indicator Lamp
+	Status Of Input Signals 4 - Trailer Turn Signal Indicator Lamp
+	Status Of Input Signals 4 - Turn Signal Indicator Lamp
+	Status Of Input Signals 5 - Closing Assist Open Signal (Alt Bit)
+	Status Of Input Signals 5 - Indicator Lamp For Closing Assist Open
+	Status Of Input Signals 5 - Indicator Lamp For Open Hood
+	Status Of Input Signals 5 - Indicator Lamp For Open Rear Lid
+	Status Of Input Signals 5 - Indicator Lamp For Open Rear Window
+	Status Of Input Signals 5 - Parking Light/Driving Light Indicator Lamp
+	Status Of Input Signals 5 - Rear Window Open Signal (Altbit)
+	Status Of Input Signals 6 - Electric Parking Brake Indicator (Shift Lock Green)
+	Status Of Input Signals 6 - Engine Indicator Lamp (Shift Lock Green)
+	Status Of Input Signals 6 - Hill Descent Indicator Lamp
+	Status Of Input Signals 6 - Indicator Lamp For Safety Belt Warning
+	Status Of Input Signals 6 - Indicator Lamp For Tire Pressure Monitor
+	Status Of Input Signals 6 - Pulsing Of Tire Pressure Monitoring Signal
+	Status Of Input Signals 6 - Shift Lock Indicator
+	Status Of Input Signals 6 - Tire Pressure Monitor Signal, System Status
+	Status Of Input Signals 7 - Electromechanical Parking Brake Indicator Lamp
+	Status Of Input Signals 7 - Immobilizer (Kessy) Indicator Light
+	Status Of Input Signals 7 - Indicator Lamp For Automatic Driving Light (Afs)
+	Status Of Input Signals 7 - Pulsing Of Automatic Driving Light (Afs) Signal
+	Status Of Input Signals 7 - Pulsing Of Electric Steering Column Lock Signal
+	Status Of Input Signals 7 - Pulsing Og Immobilizer (Kessy) Signal
+	Status Of Input Signals 7 - Red Indicator Lamp For Electric Steering Column Lock
+	Status Of Input Signals 7 - Yellow Indicator Lamp For Electric Steering Column Lock
+	Status Of Input Signals 8 - Automatic Convertible Top Operation (Alt Bit)
+	Status Of Input Signals 8 - Brake System Indicator Lamp
+	Status Of Input Signals 8 - Electronic Steering Column Lock Indicator Lamp, Shift Lock Green
+	Status Of Input Signals 8 - Indicator Lamp For Automatic Convertible Top Operation
+	Status Of Input Signals 8 - Indicator Lamp For Steering Wheel Heater
+	Status Of Input Signals 8 - Indicator Light For Automatic Distance Control
+	Status Of Input Signals 8 - Indicator Light For Daytime Running Lights
+	Status Of Input Signals 8 - Pulsing Of Automatic Convertible Top Operation
+	Status Of Input Signals 9 - Combustion Engine, Status
+	Status Of Input Signals 9 - Driver Readiness
+	Status Of Input Signals 9 - Engine Cold Indicator Lamp
+	Status Of Input Signals 9 - Ethanol Warning
+	Status Of Input Signals 9 - Hybrid Readiness, Status
+	Status Of Input Signals 9 - Indicator Lamp For Air Cleaner Dirty Display
+	Status Of Input Signals 9 - Low Fuel Indicator Lamp
+	Status Of Input Signals 9 - Low Fuel Indicator Lamp 2
+	Status Of Lane Change Assist - Lane Change Assistant Acoustics 1
+	Status Of Lane Change Assist - Lane Change Assistant Acoustics 2
+	Status Of Lane Change Assist - Lane Change Assistant Green
+	Status Of Lane Change Assist - Lane Change Assistant Text 1
+	Status Of Lane Change Assist - Lane Change Assistant Text 2
+	Status Of Lane Change Assist - Lane Change Assistant Text 3
+	Status Of Lane Change Assist - Lane Change Assistant Text 4
+	Status Of Lane Change Assist - Lane Change Assistant Yellow
+	Status Of Multi-Function Steering Wheel 5 Buttons - Mfi Button Down
+	Status Of Multi-Function Steering Wheel 5 Buttons - Mfi Button Reset / Ok
+	Status Of Multi-Function Steering Wheel 5 Buttons - Mfi Button Up
+	Status Of Rear Safety Belt 2Nd Row - Driver'S Side
+	Status Of Rear Safety Belt 2Nd Row - Middle
+	Status Of Rear Safety Belt 2Nd Row - Passenger Side
+	Status Of Rear Safety Belt 3Rd Row - Driver'S Side
+	Status Of Rear Safety Belt 3Rd Row - Middle
+	Status Of Rear Safety Belt 3Rd Row - Passenger Side
+	Status Of Seat/Convertible Top Switch - Convertible Top Buzzer
+	Status Of Seat/Convertible Top Switch - Front Passenger Side Seat Occupancy
+	Status Of Seat/Convertible Top Switch - Memory Seat Buzzer
+	Status Of Seat/Convertible Top Switch - Rear Backrest, Left
+	Status Of Seat/Convertible Top Switch - Rear Backrest, Right
+	Status Of Seat/Convertible Top Switch - Safety Belt Switch, Driver Side
+	Status Of Seat/Convertible Top Switch - Safety Belt Switch, Driver Side
+	Status Of Text/Acoustics 1 - Airbag: Deactivated
+	Status Of Text/Acoustics 1 - Airbag: Malfunction
+	Status Of Text/Acoustics 1 - All Wheel Drive Acoustics
+	Status Of Text/Acoustics 1 - Electric Steering Acoustics
+	Status Of Text/Acoustics 1 - Engine: Exhaust Gas
+	Status Of Text/Acoustics 1 - Engine: Fuel Tank Cover
+	Status Of Text/Acoustics 1 - Engine: Malfunction
+	Status Of Text/Acoustics 1 - Engine: Particulate Filter
+	Status Of Text/Acoustics 2 - Automatic Distance Control, Acoustics 1
+	Status Of Text/Acoustics 2 - Automatic Distance Control, Acoustics 2
+	Status Of Text/Acoustics 2 - Electric Steering Column Lock, Acoustics 1
+	Status Of Text/Acoustics 2 - Electric Steering Column Lock, Acoustics 2
+	Status Of Text/Acoustics 2 - Memory Seat Acoustics
+	Status Of Text/Acoustics 2 - Passenger Memory Seat Acoustics
+	Status Of Text/Acoustics 2 - Tire Pressure Monitor Acoustics 1
+	Status Of Text/Acoustics 2 - Tire Pressure Monitor Acoustics 2
+	Status Of Text/Acoustics 3 - Automatic Front-Lighting System (Afs) Text
+	Status Of Text/Acoustics 3 - Electromechanical Parking Brake Acoustics
+	Status Of Text/Acoustics 3 - Electromechanical Parking Brake Acoustics 1
+	Status Of Text/Acoustics 3 - Electromechanical Parking Brake Acoustics 2
+	Status Of Text/Acoustics 3 - Electromechanical Parking Brake Text 1
+	Status Of Text/Acoustics 3 - Electromechanical Parking Brake Text 2
+	Status Of Text/Acoustics 4 - Automatic Convertible Top Operation Acoustics 1
+	Status Of Text/Acoustics 4 - Automatic Convertible Top Operation Acoustics 2
+	Status Of Text/Acoustics 4 - Automatic Convertible Top Operation Acoustics 3
+	Status Of Text/Acoustics 4 - Daytime Driving Light Change-Over Acoustics
+	Status Of Text/Acoustics 4 - Depress Clutch: Acoustics
+	Status Of Text/Acoustics 4 - Depress Clutch: Text
+	Status Of Text/Acoustics 4 - Special-Purpose Vehicle Acoustics
+	Status Of Text/Acoustics 5 - Break Recommendation
+	Status Of Text/Acoustics 5 - Natural Gas Quantity
+	Status Of Text/Acoustics 7 - Charge Manager
+	Status Of Text/Acoustics 7 - Energy Manager
+	Status Of Texts/Acoustics Hybrid - Acoustics 1
+	Status Of Texts/Acoustics Hybrid - Acoustics 2
+	Status Of Texts/Acoustics Hybrid - Indicator Lamp For Malfunction Message
+	Status Of Texts/Acoustics Hybrid - Text 1
+	Status Of Texts/Acoustics Hybrid - Text 2
+	Status Of Texts/Acoustics Hybrid - Text 3
+	Status Of Texts/Acoustics Hybrid - Text 4
+	Status Of Texts/Acoustics Hybrid - Text 5
+	Status Of Texts/Acoustics Hybrid - Text 6
+	Status Of Texts/Acoustics Hybrid - Text 7
+	Status Of Texts/Acoustics Hybrid - Text 8
+	Status Of Texts/Acoustics Hybrid - Warning Indicator Lamp
+	Status Transmission 1 - Clutch Alert
+	Status Transmission 1 - Current Gear
+	Status Transmission 1 - Gear N Sensor Status
+	Status Transmission 1 - Variant
+	Steering Angle Output
+	Steering Wheel Angle
+	Terminal 58D, Input Voltage
+	Time - Hour
+	Time - Minute
+	Vehicle Speed
+	Volume To Be Replenished - Calculated Refueling Quantity
+	Wheel Circumference
+	Wiv: Annual Mileage
+	Wiv: Cumulative Total Of Fuel Level Differences Zdiff
+	Wiv: Cumulative Total Of Fuel Level Values
+	Wiv: Maximum Lower Limit Of Distance Between Maintenance Intervals
+	Wiv: Maximum Lower Limit Of Time Bwteen Maintenance Intervals
+	Wiv: Maximum Upper Limit Of Distance Between Maintenance Intervals
+	Wiv: Maximum Upper Limit Of Time Between Maintenance Intervals
+	Wiv: Short Term Average Of Fuel Level Differences
+	Wiv: Theoretical Service Interval
+	Wiv: Total Fuel Level Differnces Sdiff
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Load Value
+	Accelerator Position
+	Engine Speed
+	Gear Selected
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Day
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Day 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Day 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Day 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Day 5
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Hours
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Hours 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Hours 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Hours 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Hours 5
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Minutes
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Minutes 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Minutes 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Minutes 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Minutes 5
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Month
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Month 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Month 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Month 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Month 5
+	Prevented Stop Processes (Ring Memory) - Time Stamp - S
+	Prevented Stop Processes (Ring Memory) - Time Stamp - S 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - S 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - S 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - S 5
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Year
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Year 2
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Year 3
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Year 4
+	Prevented Stop Processes (Ring Memory) - Time Stamp - Year 5
+	Requested Start Processes (Ring Memory) - Time Stamp - Day
+	Requested Start Processes (Ring Memory) - Time Stamp - Day 2
+	Requested Start Processes (Ring Memory) - Time Stamp - Day 3
+	Requested Start Processes (Ring Memory) - Time Stamp - Day 4
+	Requested Start Processes (Ring Memory) - Time Stamp - Day 5
+	Requested Start Processes (Ring Memory) - Time Stamp - Hours
+	Requested Start Processes (Ring Memory) - Time Stamp - Hours 2
+	Requested Start Processes (Ring Memory) - Time Stamp - Hours 3
+	Requested Start Processes (Ring Memory) - Time Stamp - Hours 4
+	Requested Start Processes (Ring Memory) - Time Stamp - Hours 5
+	Requested Start Processes (Ring Memory) - Time Stamp - Minutes
+	Requested Start Processes (Ring Memory) - Time Stamp - Minutes 2
+	Requested Start Processes (Ring Memory) - Time Stamp - Minutes 3
+	Requested Start Processes (Ring Memory) - Time Stamp - Minutes 4
+	Requested Start Processes (Ring Memory) - Time Stamp - Minutes 5
+	Requested Start Processes (Ring Memory) - Time Stamp - Month
+	Requested Start Processes (Ring Memory) - Time Stamp - Month 2
+	Requested Start Processes (Ring Memory) - Time Stamp - Month 3
+	Requested Start Processes (Ring Memory) - Time Stamp - Month 4
+	Requested Start Processes (Ring Memory) - Time Stamp - Month 5
+	Requested Start Processes (Ring Memory) - Time Stamp - S
+	Requested Start Processes (Ring Memory) - Time Stamp - S 2
+	Requested Start Processes (Ring Memory) - Time Stamp - S 3
+	Requested Start Processes (Ring Memory) - Time Stamp - S 4
+	Requested Start Processes (Ring Memory) - Time Stamp - S 5
+	Requested Start Processes (Ring Memory) - Time Stamp - Year
+	Requested Start Processes (Ring Memory) - Time Stamp - Year 2
+	Requested Start Processes (Ring Memory) - Time Stamp - Year 3
+	Requested Start Processes (Ring Memory) - Time Stamp - Year 4
+	Requested Start Processes (Ring Memory) - Time Stamp - Year 5
+	Road Resistance Index
+	Shift Position
+	Sport Driving Time Portion
+	Stop Process Prevented - Brake Acceleration Too Great
+	Terminal 15 Status
+	Total Driving Time
+	Voltage Terminal 30
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch Status
+	Distance Traveled Since Evap Monitoring Decision
+	Distance Traveled Since Evap Monitoring Decision 10
+	Distance Traveled Since Evap Monitoring Decision 2
+	Distance Traveled Since Evap Monitoring Decision 3
+	Distance Traveled Since Evap Monitoring Decision 4
+	Distance Traveled Since Evap Monitoring Decision 5
+	Distance Traveled Since Evap Monitoring Decision 6
+	Distance Traveled Since Evap Monitoring Decision 7
+	Distance Traveled Since Evap Monitoring Decision 8
+	Distance Traveled Since Evap Monitoring Decision 9
+	Driver Door Status
+	Driver Seatbelt Buckled
+	Engine Running Time - Run Time At Idle Speed
+	Engine Running Time - Run Time With Activated Auxiliary Drive
+	Engine Running Time - Total Run Time
+	Fuel Rate - Engine Fuel Rate
+	Fuel Rate - Vehicle Fuel Rate
+	Fuel System Percentage Use - Fuel System A Use Percentage Bank 1
+	Fuel System Percentage Use - Fuel System A Use Percentage Bank 2
+	Fuel System Percentage Use - Fuel System A Use Percentage Bank 3
+	Fuel System Percentage Use - Fuel System A Use Percentage Bank 4
+	Fuel System Percentage Use - Fuel System B Use Percentage Bank 1
+	Fuel System Percentage Use - Fuel System B Use Percentage Bank 2
+	Fuel System Percentage Use - Fuel System B Use Percentage Bank 3
+	Fuel System Percentage Use - Fuel System B Use Percentage Bank 4
+	Oil Pressure Switch Status For Low Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Oil Quality
+	Service Exceedance In Days
+	Service Exceedance In Km
+	Service Warning Fixed Days
+	Service Warning Fixed Km
+	Service Warning Wiv Days
+	Service Warning Wiv Km
+	Theoretical Service Interval
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Cause Of Cancellation
+	Control Module Temperature
+	Coolant Temperature
+	Distance Driven Since Erasing Dtc Memory
+	Driving Position
+	Economical Driving Time Portion
+	Engine Speed
+	Engine Stop Through Start/Stop Function
+	Engine Torque
+	Gear Selector Lever Lock Status
+	Gear Selector Lever Maximum Pulse Width-High
+	Gear Selector Lever Maximum Pulse Width-Low
+	Gear Selector Lever Position
+	Kickdown Status
+	Manual Driving Time Portion
+	Monitoring Status In Current Driving Cycle Activation Status Of Continuous Monitoring - Comprehensive Component Monitoring Enabled
+	Monitoring Status In Current Driving Cycle Activation Status Of Continuous Monitoring - Fuel System Monitoring Enabled
+	Monitoring Status In Current Driving Cycle Activation Status Of Continuous Monitoring - Misfire Monitoring Enabled
+	Monitoring Status In Current Driving Cycle Activation Status Of Continuous Monitoring - Monitoring Of Compression Ignition
+	Monitoring Status In Current Driving Cycle Activation Status Of Intermittent Monitoring-Evaporative System Monitoring
+	Monitoring Status In Current Driving Cycle Activation Status Of Intermittent Monitoring-Heated Catalyst Monitoring
+	Monitoring Status In Current Driving Cycle Implementation Status Of Continuous Monitoring - Comprehensive Component Monitoring Completed
+	Monitoring Status In Current Driving Cycle Implementation Status Of Continuous Monitoring - Fuel System Monitoring Completed
+	Monitoring Status In Current Driving Cycle Implementation Status Of Continuous Monitoring - Misfire Monitoring Completed
+	Monitoring Status In Current Driving Cycle Implementation Status Of Intermittent Monitoring-Evaporative System Monitoring Completed
+	Monitoring Status In Current Driving Cycle Implementation Status Of Intermittent Monitoring-Heated Catalyst Monitoring Completed
+	Monitoring Status In Current Driving Cycle-Activation Status Of Intermittent Monitoring-Catalyst Monitoring
+	Monitoring Status In Current Driving Cycle-Activation Status Of Intermittent Monitoring-Evaporative System Monitoring
+	Monitoring Status In Current Driving Cycle-Implementation Status Of Intermittent Monitoring-Catalyst Monitoring Completed
+	Monitoring Status In Current Driving Cycle-Implementation Status Of Intermittent Monitoring-Evaporative System Monitoring Completed
+	Monitoring Status Since Erasing Dtc Memory-Completion Status Of All Supported Non-Continuous Monitors Since Dtcs Cleared
+	Monitoring Status Since Erasing Dtc Memory-Continuous Monitoring - Monitoring Of Compression Ignition
+	Monitoring Status Since Erasing Dtc Memory-Continuous Monitoring -Monitoring Of Fuel System
+	Monitoring Status Since Erasing Dtc Memory-Continuous Monitoring -Monitoring Of Ignition Misfires
+	Monitoring Status Since Erasing Dtc Memory-Continuous Monitoring -Overall System Monitoring
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Catalytic Converter Monitoring
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Gasoline Particulate Filter Monitor Supported
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Catalytic Converter At Operating Temperature
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Egr And Camshaft Adjustment
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Oxygen Sensor
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Oxygen Sensor Heater
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Secondary Air System
+	Monitoring Status Since Erasing Dtc Memory-Intermittent Monitoring -Monitoring Of Tank Ventilation System
+	Monitoring Status Since Erasing Dtc Memory-Malfunction And Exhaust Malfunction Indicator Lamp Status -Malfunction Indicator Lamp
+	Monitoring Status Since Erasing Dtc Memory-Malfunction And Exhaust Malfunction Indicator Lamp Status -Number Of Emission -Relevant Dtc
+	Monitoring Status Since Erasing Dtc Memory-Status Contin. Monitoring Session Since Event Memory Cleared -Fuel System Test
+	Monitoring Status Since Erasing Dtc Memory-Status Contin. Monitoring Session Since Event Memory Cleared -Ignition Misfire Test
+	Monitoring Status Since Erasing Dtc Memory-Status Contin. Monitoring Session Since Event Memory Cleared -Overall System Test
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Catalytic Converter Monitoring
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Gasoline Particulate Filter Monitoring
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Catalytic Converter
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Egr And Camshaft Adjustment
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Oxygen Sensor
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Oxygen Sensor Heater
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Secondary Air System
+	Monitoring Status Since Erasing Dtc Memory-Status Not Contin. Monitoring Since Erasing Event Memory -Monitoring Of Tank Ventilation
+	Normed Load Value
+	Number Of Driving Cycles Since Erasing Dtc Memory
+	Number Of Prevented Stop Process-First Gear Or Second Gear Not Engaged
+	Number Of Prevented Stop Process-Pressure Accumulator Filling Not Completed
+	Number Of Prevented Stop Processes-Adaptation Procedure Active
+	Number Of Prevented Stop Processes-Brake Acceleration Too Great
+	Number Of Prevented Stop Processes-Oil Temperature Too High
+	Number Of Prevented Stop Processes-Oil Temperature Too Low
+	Number Of Prevented Stop Processes-Shifting Process Active
+	Number Of Requested Start Process-Driver Intention
+	Number Of Requested Start Process-Gear Actuator Position
+	Selected Gear
+	Start /Stop Conditions
+	Start /Stop Enabling
+	Start Process Requested Driver Intention
+	Start Process Requested Gear Actuator Position
+	Status Of Basic Setting
+	Status Of Brake Signals - Brake Light Switch
+	Status Of Brake Signals - Brake Pressure Switch
+	Status Of Brake Signals - Validity Of Brake Pedal Information
+	Status Of Brake Signals - Validity Pf Brake Pressure Information
+	Status Of Vehicle Condition Influence - Cruise Control System
+	Status Of Vehicle Condition Influence - Kickdown
+	Stop Process Prevented-Adaptation Procedure Active
+	Stop Process Prevented-Brake Acceleration Too Great
+	Stop Process Prevented-First Gear Or Second Gear Not Engaged
+	Stop Process Prevented-Oil Acceleration Too Low
+	Stop Process Prevented-Oil Temperature Too High
+	Stop Process Prevented-Pressure Accumulator Not Completed
+	Stop Process Prevented-Shifting Process Active
+	Throttle Valve Position (Absolute)
+	Tiptronic Status Tiptronic +
+	Tiptronic Status Tiptronic -
+	Tiptronic Status Tiptronic Gate
+	Tiptronic Status Tiptronic Steering Wheel
+	Tiptronic Status Tiptronic Steering Wheel +
+	Tiptronic Status-Tiptronic Steering Wheel
+	Torque Transmitting Function
+	Transmission Fluid Temperature
+	Transmission Input Speed
+	Transmission Output Speed
+	Transmission Position
+	Unlearning Counter According Obd
+	Vehicle Speed
+	Vehicle Speed From Transmission
+	Voltage Terminal 15
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Load Value
+	Coolant Temperature
+	Current Of Hv / Hybrid Battery
+	Hybrid Battery Current Measurement Offset
+	Insulation Resistance In Hv System
+	Normed Load Value
+	Powertrain Hybrid
+	State Of Charge (State Of Charge)
+	Total Voltage Of Hybrid Battery After Protection - Hybrid Battery Voltage External
+	Total Voltage Of Hybrid Battery Before Protection - Hybrid Battery Voltage Internal
+	Voltage At Terminal 30
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Passenger Occupancy Detection Sensor Status
+	Front Passenger Seatbelt Status
+	Occupation Status Front Passenger Seat
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Front Passenger Door Rotary Latch Status
+	Front Passenger Rear Window Position
+	Front Passenger Window Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Hybrid/Ev Vehicle System Data - Enhanced Hybrid/Ev Charging State
+	Hybrid/Ev Vehicle System Data - Hybrid/Ev Battery System Voltage
+	Hybrid/Ev Vehicle System Data - Supported Measurement Values - Battery Current Supported
+	Hybrid/Ev Vehicle System Data - Supported Measurement Values - Battery Voltage Supported
+	Hybrid/Ev Vehicle System Data - Supported Measurement Values - Enhanced Hybrid/Ev Vehicle State Supported
+	Hybrid/Ev Vehicle System Data - Supported Measurement Values - Hybrid/Ev Vehicle State Supported
+	Hybrid/Ev Vehicle System Daya - Hybrid/Ev Charging System
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Charge Depletion Operation With Engine Off (Lifetime)
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Charge Depletion Operation With Engine Off (Recent)
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Charge Depletion Operation With Engine Running (Lifetime)
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Charge Depletion Operation With Engine Running (Recent)
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Driver-Selectable Charge Increasing Operation (Lifetime)
+	Plug-In Hybrid Vehicle Distance Data - Total Distance Traveled In Driver-Selectable Charge Increasing Operation (Recent)
+	Plug-In Hybrid Vehicle Fuel Data - Total Fuel Consumed In Charge Depletion Operation (Lifetime)
+	Plug-In Hybrid Vehicle Fuel Data - Total Fuel Consumed In Charge Depletion Operation (Recent)
+	Plug-In Hybrid Vehicle Fuel Data - Total Fuel Consumed In Driver Selectable Charge Increasing Operation (Lifetime)
+	Plug-In Hybrid Vehicle Fuel Data - Total Fuel Consumed In Driver Selectable Charge Increasing Operation (Recent)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Consumed In Charge Depletion Operation With Engine Off (Lifetime)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Consumed In Charge Depletion Operation With Engine Off (Recent)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Consumed In Charge Depletion Operation With Engine Running (Lifetime)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Consumed In Charge Depletion Operation With Engine Running (Recent)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Into The Battery (Lifetime)
+	Plug-In Hybrid Vehicle Grid Data - Total Grid Energy Into The Battery (Recent)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Door Front Passenger Rear Rotary Latch Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Rotary Latch Status
+	Driver Window Position
+	Rear Window Driver Side Position
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Switch Status
+	Cylinder Suppression - Cylinder 1
+	Cylinder Suppression - Cylinder 10
+	Cylinder Suppression - Cylinder 11
+	Cylinder Suppression - Cylinder 12
+	Cylinder Suppression - Cylinder 13
+	Cylinder Suppression - Cylinder 14
+	Cylinder Suppression - Cylinder 16
+	Cylinder Suppression - Cylinder 2
+	Cylinder Suppression - Cylinder 3
+	Cylinder Suppression - Cylinder 4
+	Cylinder Suppression - Cylinder 5
+	Cylinder Suppression - Cylinder 6
+	Cylinder Suppression - Cylinder 7
+	Cylinder Suppression - Cylinder 8
+	Cylinder Suppression - Cylinder 9
+	Driver Door Status
+	Driver Seatbelt Buckled
+	Oil Pressure Switch Status For Low Pressure
+

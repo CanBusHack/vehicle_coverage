@@ -1,0 +1,759 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Land Rover 'Discovery' (2023)
+Signal Descriptions:
+	Central Lock Relay
+	Driver Door Lock Status Led
+	Front Window Down Output
+	Front Window Up Output
+	Left Rear Window Down-Remote Switch
+	Passenger Window Down-Remote Switch
+	Rear Door Central Lock Relay
+	Rear Window Down Output
+	Rear Window Up Output
+	Right Rear Window Down-Remote Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Passenger Door Central Lock
+	Passenger Door Lock Status Led
+	Rear Door Door Lock Status Led
+	Rear Passenger Door Central Lock
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Alternator Current
+	Charge Mode
+	Vehicle Battery Temperature - Estimated
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C System Refrigerant Monitoring Ready
+	A/C System Refrigerant Monitoring Supported
+	Autonomous Vehicle Control Active Number Of Brake System Control Module (Bscm) Network Communication Failures - Last Event Counter
+	Autonomous Vehicle Control Active Number Of Longitudinal Motion Controller (Lmc) Network Communication Failures - Last Event Counter
+	Autonomous Vehicle Control Active Number Of Park Request Above The Park Speed Lock Threshold Plausible Data - Last Event Counter
+	Calibration Data
+	Catalyst Monitoring Ready/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Ready
+	Catalyst Monitoring Supported/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Supported
+	Clutch A - Filling Pressure Counter
+	Clutch A - Filling Time Counter
+	Clutch B - Filling Pressure Counter
+	Clutch B - Filling Time Counter
+	Clutch C - Filling Pressure Counter
+	Clutch C - Filling Time Counter
+	Clutch D - Filling Pressure Counter
+	Clutch D - Filling Time Counter
+	Clutch E - Filling Pressure Counter
+	Clutch E - Filling Time Counter
+	Code
+	Comprehensive Component Monitoring Ready
+	Comprehensive Component Monitoring Supported
+	Cumulative Flexray Error Count
+	Current Flexray Error Count
+	Current Transmission Gear Ratio
+	Data
+	Driver Control Active Number Of Failed Drive Gear Selections From Neutral Plausible Data - Last Event Counter
+	Driver Control Active Number Of Failed Drive Gear Selections From Park Plausible Data - Last Event Counter
+	Driver Control Active Number Of Park Request Above The Park Speed Lock Threshold - Last Event Counter
+	Driver Control Active Number Of Park Request Above The Park Speed Lock Threshold - Last Event Counter
+	Engine Coolant Overtemperature Counter
+	Engine Oil Overtemperature Counter
+	Evaporative Emission (Evap) System Monitoring Supported
+	Evaporative System Monitoring Ready
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Ready
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Supported
+	Fuel System Monitoring Ready
+	Fuel System Monitoring Supported
+	Heated Catalyst Monitoring Ready/Nox Aftertreatment Monitoring Ready
+	Heated Catalyst Monitoring Supported/Nox Aftertreatment Monitoring Supported
+	High Side Supply Continued Operation
+	High Side Supply Control Circuit To Ground
+	High Side Supply Short Circuit To Battery
+	Maximum Pressure Shift Counter
+	Memory Description Table
+	Misfire Monitoring Ready
+	Misfire Monitoring Supported
+	Module Internal Over Temperature Counter
+	Number Of Abs Network Communication Failures - Last Event Counter
+	Number Of Driver Exit Auto Park Requests
+	Number Of Failed Drive Gear Selections
+	Number Of Failed Gear Engagement Events
+	Number Of Gsa Network Communication Failures - Last Event Counter
+	Number Of Hold Neutral Events
+	Number Of Invalid Gsa Gear Selection Requests - Plausibility - Last Event Counter
+	Number Of Modules (Iso14229 Compatibility - Always Set To 01H)
+	Number Of Near Stall Events
+	Number Of Remote Start Events
+	Number Of Transmission Control Module (Tcm) Park Re-Alignment With Brake System Control Module (Bscm) - Failed Park Request Plausibility
+	Number Of Warm-Ups Since Dtcs Cleared
+	Oem-Boot
+	Offset Correction
+	Oxygen Sensor Heater Monitoring Ready/Pm Filter Monitoring Ready
+	Oxygen Sensor Heater Monitoring Supported/Pm Filter Monitoring Supported
+	Oxygen Sensor Monitoring Ready/Exhaust Gas Sensor Monitoring Ready
+	Oxygen Sensor Monitoring Supported/Exhaust Gas Sensor Monitoring Supported
+	Parking Lock Sensor Status
+	Rate Correction
+	Safety Control Circuit 2 Continued Operation
+	Safety Control Circuit Incorrect Status
+	Safety Control Circuit Processor Reset Failure
+	Secondary Air System Monitoring Ready/Boost Pressure System Monitoring Ready
+	Secondary Air System Monitoring Supported/Boost Pressure System Monitoring Supported
+	Service Park Pawl Release Successful Event Count
+	Slave Ecu
+	Solenoid Current Regulator Continued Operation
+	State Of Solenoid 10
+	State Of Solenoid 11
+	State Of Solenoid 12
+	State Of Solenoid 14
+	State Of Solenoid 8
+	State Of Solenoid 9
+	Status Chip Temperature
+	Status Of Solenoid 13
+	Status Of Solenoid 7
+	Status Output Speed
+	Status Turbine Speed
+	System Management Unit Continued Operation
+	Tcu-Boot
+	Transmission Fluid Overtemperature Counter
+	Transmission Oil Temperature Status
+	Transmission Oil Temperature Status Compared To Chip Temperature
+	Transmission Watchdog Switch Off Path Test Software Line Number
+	Transmissions Watchdog Switch Off Path Test Software Line Number
+	Trim Values For Current Regulators
+	Volcano
+	Watchdog Control Circuit Activation Inhibited
+	Watchdog Control Circuit Continued Operation
+	Watchdog Control Circuit Disablement Inhibited
+	Watchdog Control Circuit Incorrect State
+	Watchdog Control Circuit Low Side Incorrect Status
+	Watchdog Control Circuit Operating Fault
+	Watchdog Control Circuit Processor Reset Failure
+	Watchdog Control Circuit Signal Fault
+	Watchdog Control Circuit Temperature Fault
+	Zf-Boot
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	In-Car Temperature
+	Mil Status
+	Outside Temperature
+	Status Ignition On/Off
+	Torque Request
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Aperture Ajar Switch - Driver Door (0 V/Battery Voltage)
+	Aperture Ajar Switch - Left Rear Door (0 V/Battery Voltage)
+	Aperture Ajar Switch - Passenger Door (0 V/Battery Voltage)
+	Aperture Ajar Switch - Right Rear Door (0 V/Battery Voltage)
+	Driver Door Handle Pull Switch
+	Driver Door Handle Pull Switch (0 V/Battery Voltage)
+	Front Passenger Door Handle Pull Switch
+	Passenger Door Handle Pull Switch (0 V/Battery Voltage)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Air Temperature
+	Ambient Air Temperature(Ambient Air Temperature - 0)
+	Autonomous Vehicle Control Active Brake System Control Module (Bscm) Park Request Control Last Event Odometer Distance
+	Autonomous Vehicle Control Active Brake System Control Module (Bscm) Park Request Control Last Event Odometer Distance
+	Autonomous Vehicle Control Active Gear Shift Arbitrator Neutral Request Plausibility Last Event Odometer Distance
+	Autonomous Vehicle Control Active Gear Shift Arbitrator Sport Request Plausibility Last Event Odometer Distance
+	Autonomous Vehicle Control Active Longitudinal Motion Controller (Lmc) Vehicle Hold Not Active Plausibility Last Event Odometer Distance
+	Autonomous Vehicle Control Active Transmission Control Module (Tcm) Park Request Control Last Event Odometer Distance
+	Calculated Transmission Oil Temperature
+	Can Communication Break Duration (First Can Signal Timeout Event Log)
+	Can Communication Break Duration (Latest Can Signal Timeout Event Log)
+	Clutch A Filling Time Adaptation
+	Clutch B Filling Time Adaptation
+	Cold Start (Neutral)
+	Current Operation Cycle Data Received And Passed Validation
+	Current Operation Cycle Data Received With Non-Null/Zero Value
+	Distance Since Dtcs Cleared
+	Distance Traveled While Mil Is Activated
+	Dog Clutch Down Shift
+	Dog Clutch Gear Engagement
+	Driver Control Active Brake System Control Module Park Request Plausibility Last Event Odometer Distance
+	Driver Control Active Longitudinal Motion Controller (Lmc) Vehicle Hold Active Plausibility - Last Event Odometer Distance
+	Driver Control Active Longitudinal Motion Controller (Lmc) Vehicle Hold Active Plausibility Last Event Odometer Distance
+	Driver Control Active Longitudinal Motion Controller (Lmc) Vehicle Hold Active Plausibility Last Event Odometer Distance
+	Ecu Internal Temperature
+	Emergency Gear
+	Emergency Gear Information
+	Engine Coolant Temperature
+	Engine Oil Temperature
+	Engine Rpm
+	Engine Rpm (Engine Speed - 0)
+	Extended Neutral
+	Extended Neutral With Dog Clutch F Engaged
+	Gear Engagement With A-Monitoring (Dog Clutch A Is Not Engaged)
+	High Side Supply Continued Operation
+	High Side Supply Short Circuit To Battery
+	High Side Supply Short Circuit To Ground
+	In-Car Temperature
+	Initialisation
+	Low Pressure
+	Minimum Pressure Extended
+	Normal
+	Odometer Distance Of Last Completed Transmission Clutch Stationary Adaption Cycle
+	Odometer Reading At Last Failed Engagement
+	Odometer Reading Of Last Driver Exit Auto Park Request
+	Odometer Reading Of Last Failed Drive Gear Selection
+	Odometer Reading Of Last Failed Gear Engagement Event
+	Odometer Reading Of Last Hold Neutral Event
+	Odometer Reading Of Last Invalid Park Request
+	Odometer Reading Of Last Invalid Park Request
+	Odometer Reading Of Last Near Stall Event
+	Odometer Reading Of Last Near Stall Event
+	Odometer Reading Of Last Remote Start Event
+	Odometer Reading Of Last Remote Start Event
+	Odometer Value At Time Of Last Incident
+	Open Circuit (Central Processing Unit - Temperature Sensor Status)
+	Open Circuit (Printed Circuit Board - Temperature Sensor Status)
+	Outside Temperature
+	Overspeed During Gear Disengagement
+	Plausibility Error
+	Plausibility Fault (Central Processing Unit - Temperature Sensor Status)
+	Plausibility Fault (Printed Circuit Board - Temperature Sensor Status)
+	Pos Valve
+	Position Sensor
+	Pressure Sensor (Incorrect Dog Clutch Position)
+	Pressure Sensor Fault
+	Ratio Symptom After Dog Clutch Shift
+	Reset
+	Safety Control Circuit 2 Continued Operation
+	Safety Control Circuit Incorrect Status
+	Safety Control Circuit Processor Reset Failure
+	Sensor Short Circuit (Central Processing Unit - Temperature Sensor Status)
+	Sensor Short Circuit (Printed Circuit Board - Temperature Sensor Status)
+	Shift Canceled By Gear Disengagement
+	Short Circuit To Battery (Central Processing Unit - Temperature Sensor Status)
+	Short Circuit To Battery (Printed Circuit Board - Temperature Sensor Status)
+	Short Circuit To Ground (Central Processing Unit - Temperature Sensor Status)
+	Short Circuit To Ground (Printed Circuit Board - Temperature Sensor Status)
+	Signal Above Upper Limit (Central Processing Unit - Temperature Sensor Status)
+	Signal Above Upper Limit (Printed Circuit Board - Temperature Sensor Status)
+	Signal Under Lower Limit (Central Processing Unit - Temperature Sensor Status)
+	Signal Under Lower Limit (Printed Circuit Board - Temperature Sensor Status)
+	Standstill Adaption
+	Static Monitoring
+	Stored Transmission Oil Temperature
+	System Management Unit Continued Operation
+	Temperature Of The Clutch That Caused The Maximum Temperature Event
+	Test Mode
+	Torque Converter Clutch - Fast Filling Time Adaptation Value
+	Torque Converter Operating Temperature
+	Total Distance
+	Total Distance (Latest Can Signal Timeout Event Log)
+	Transmission Differential Output Speed
+	Transmission Dog Clutch Differential Speed After Synchronization Point
+	Transmission Dog Clutch Differential Speed Gradient
+	Transmission Oil Temperature
+	Transmission Output Shaft Speed
+	Trim Data Adaption
+	Turbine Speed
+	Value Stored Matches Received Value (Update Not Required)
+	Value Written To Non-Volatile Memory (Nvm)
+	Variable Engine Speed Limit Value
+	Watchdog Control Circuit Continued Operation
+	Watchdog Control Circuit Disablement Inhibited
+	Watchdog Control Circuit Disablement Inhibited
+	Watchdog Control Circuit Incorrect State
+	Watchdog Control Circuit Low Side Incorrect Status
+	Watchdog Control Circuit Operating Fault
+	Watchdog Control Circuit Processor Reset Failure
+	Watchdog Control Circuit Signal Fault
+	Watchdog Control Circuit Temperature Fault
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C Compressor Run-In
+	Driver Heated Seat Target Temperature
+	Passenger Heated Seat Target Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Current Engine Torque
+	Engine Rpm
+	Engine Rpm (Engine Speed - 0)
+	Engine Speed
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure Ok To Start
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Absolute Throttle Position B
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Engine Rpm(Engine Speed - 0)
+	Fuel Level Input
+	Gear Display
+	Mass Air Flow Sensor A
+	Mass Air Flow Sensor B
+	Relative Accelerator Pedal Position
+	Relative Throttle Position
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Seat Belt Sensor Status
+	Impact Status Flag
+	Indicator Lamp Status(Restraint System Fault Indicator )
+	Occupant Classification Sensor State
+	Passenger Seat Belt Sensor State
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Absolute Throttle Position B
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Accelerator Pedal Position From Sensor 2
+	Air Flow Rate From Mass Air Flow Sensor
+	Air Flow Rate From Mass Air Flow Sensor Bank 1
+	Brake Booster Relay - Commanded (Engine Output 1)
+	Brake Fluid Line Hydraulic Pressure - Corrected
+	Brake Pedal Pressed
+	Brake Switch (Engine Input 1)
+	Brake Switch (Engine Input 3)
+	Brake Switch 2(Engine Input 1)
+	Brake Switch 2(Engine Input 3)
+	Calculated Engine Torque
+	Engine Rpm
+	Engine Rpm (Engine Speed - 0)
+	Engine Warning Lamp - Commanded (Engine Output 1)
+	Fuel Level Input
+	Gear Display
+	Ignition Switch (Engine Input 1)
+	Ignition Switch (Engine Input 3)
+	Intake Manifold Absolute Pressure
+	Manifold Absolute Pressure - High Resolution
+	Relative Accelerator Pedal Position
+	Relative Throttle Position
+	Throttle Position - Desired
+	Vehicle Speed (Vehicle Speed - 2)
+	Vehicle Speed (Vss)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Wheel Pressure Status
+	Left Rear Wheel Pressure Status
+	Right Front Wheel Pressure Status
+	Right Rear Wheel Pressure Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	A/C System Refrigerant Monitoring Competed
+	A/C System Refrigerant Monitoring Ready
+	A/C System Refrigerant Monitoring Supported
+	Abs Requests Engine Running
+	Accelerator Pedal Kick Down
+	Active Speed Limiter Is Not Fitted
+	Adaptive Condition Flag
+	Adaptive Cruise Control Not Fitted/Configured
+	Alternator Alt-C
+	Back-Up Ecu
+	Bank 1 Sensor 1 Present At That Location
+	Bank 1 Sensor 2 Present At That Location
+	Bank 1 Sensor 3 Present At That Location
+	Bank 1 Sensor 4 Present At That Location
+	Bank 2 Sensor 1 Present At That Location
+	Bank 2 Sensor 2 Present At That Location
+	Bank 2 Sensor 3 Present At That Location
+	Bank 2 Sensor 4 Present At That Location
+	Battery Voltage Out Of Permitted Range
+	Boost Pressure B Control Status Supported (Boost Pressure Control)
+	Boost Pressure Sensor A Supported (Boost Pressure Control)
+	Boost Pressure Sensor B Supported (Boost Pressure Control)
+	Brake Pedal Pressed
+	Brake Switch (Engine Input 1)
+	Brake Switch (Engine Input 3)
+	Brake Switch 2 (Engine Input 1)
+	Brake Switch 2 (Engine Input 3)
+	Cam (Bank 1) Signal Monitor (Engine Input 3)
+	Cam (Bank 2) Signal Monitor (Engine Input 3)
+	Cam Signal Monitor (Bank 1) (Engine Input 1)
+	Cam Signal Monitor (Bank 2) (Engine Input 1)
+	Camshaft Location And Crankshaft Location Are Synchronized
+	Can Related Errors Causing Shutoff
+	Cancel Button Pressed
+	Catalyst Monitoring Completed/Nmhc Catalyst Monitoring Completed
+	Catalyst Monitoring Ready/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Ready
+	Catalyst Monitoring Supported/Non-Methane Hydro-Carbons (Nmhc) Catalyst Monitoring Supported
+	Catalyst Monitoring/Nmhc Catalyst Monitoring
+	Closed Loop - Using Oxygen Sensor (S) As Feedback For Fuel Control - 0
+	Closed Loop - Using Oxygen Sensor(S) As Feedback For Fuel Control
+	Closed Loop, But Fault With At Least One Oxygen Sensor - May Be Using Single Oxygen Sensor For Fuel Control
+	Closed Loop, But Fault With At Least One Oxygen Sensor - May Be Using Single Oxygen Sensor For Fuel Control 0
+	Clutch Pedal Depressed Or In Park/Neutral
+	Commanded Boost Pressure A Supported (Boost Pressure Control)
+	Commanded Boost Pressure B Supported (Boost Pressure Control)
+	Comprehensive Component Monitoring Completed
+	Comprehensive Component Monitoring Enabled
+	Comprehensive Component Monitoring Ready
+	Comprehensive Component Monitoring Supported
+	Cooling Fan Module Monitor (Engine Input 1)
+	Crank Request (Engine Input 1)
+	Cruise Control Is Overridden For A Calibrated Time
+	Cruise Control Lamp - Commanded
+	Cruise Control Not Fitted
+	Current Transmission Forward Or Reverse Gear Not Allowed
+	Dechoke Function Operating
+	Delay To Eco Stop
+	Direct Ecu Configuration Transfer Mechanism Supported
+	Driver Approval Timeout During Stall Recovery - 0
+	Driver Approval Timeout During Stall Recovery - 2
+	Driver Approval Timeout During Stall Recovery - 3
+	Driver Approval Timeout During Stall Recovery - 4
+	Driver Approval Timeout During Stall Recovery - 5
+	Driver Approval Timeout During Stall Recovery - Latest
+	Driver Approval Timeout During Stall Recovery 1
+	Driver Approval Timeout During Stall Recovery 7
+	Driver Approval Timeout During System Induced Start
+	Driver Approval Timeout During System Induced Start - 2
+	Driver Approval Timeout During System Induced Start - 3
+	Driver Approval Timeout During System Induced Start - 4
+	Driver Approval Timeout During System Induced Start - 7
+	Driver Approval Timeout During System Induced Start 5
+	Driver Approval Timeout During System Induced Start 6
+	Driver Belt Unbuckled
+	Driver Belt Unbuckled - 0
+	Driver Belt Unbuckled - 1
+	Driver Belt Unbuckled - 2
+	Driver Belt Unbuckled - 7
+	Driver Belt Unbuckled - Newest
+	Driver Door Opened
+	Driver Door Opened - 0
+	Driver Door Opened - 1
+	Driver Door Opened - 5
+	Driver Door Opened - 7
+	Driver Not Present During System Induced Restart
+	Driver Not Present During System Induced Restart - 0
+	Driver Not Present During System Induced Restart - 3
+	Driver Not Present During System Induced Restart - Latest
+	Driver Not Present During System Induced Restart 1
+	Driver Seat Belt Unbuckled - 4
+	Driver Seat Belt Unbuckled - 5
+	Driver Selects Hill Descent Modes
+	E-Box Fan
+	E-Box Fan Monitor
+	Eco Button Pressed - 0
+	Eco Button Pressed - 3
+	Eco Button Pressed - 4
+	Eco Button Pressed - 6
+	Eco Button Pressed - Latest
+	Ecu Relay - Commanded
+	Ecu Supported Configuration Gateway
+	Ecu Supporting Proxy Configuration
+	Egr And/Or Vvt System Monitoring
+	Egr And/Or Vvt System Monitoring Completed
+	Engine Is Not In Normal State
+	Engine Speed Exceeds Permitted Range
+	Engine Warning Lamp - Commanded
+	Evaporative Emission (Evap) System Monitoring Supported
+	Evaporative System Monitoring Ready
+	Exhaust Box Actuator - Commanded
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Ready
+	Exhaust Gas Recirculation (Egr) And/Or Variable Valve Timing (Vvt) System Monitoring Supported
+	Explicit Learning Request Required
+	Fuel Cut-Off Execution Flag (Bank A)
+	Fuel Cut-Off Execution Flag (Bank B)
+	Fuel Injection Control Module Camshaft And Crankshaft Locations Synchronized
+	Fuel Pump Driver Module (Fpdm) Monitor
+	Fuel Pump Relay - Commanded
+	Fuel Rail Pressure Enable/Engine Sync
+	Fuel Run-Dry Prevention Strategy Is Active
+	Fuel System Monitoring Completed
+	Fuel System Monitoring Enabled
+	Fuel System Monitoring Ready
+	Fuel System Monitoring Supported
+	Gear Shift In Progress
+	Heated Catalyst Monitoring Completed/Nox Aftertreatment Monitoring Completed
+	Heated Catalyst Monitoring Ready/Nox Aftertreatment Monitoring Ready
+	Heated Catalyst Monitoring Supported/Nox Aftertreatment Monitoring Supported
+	Heated Catalyst Monitoring/Nox Aftertreatment Monitoring
+	Hood Opened
+	Hood Opened - 0
+	Hood Opened - 1
+	Hood Opened - 2
+	Hood Opened - 3
+	Hood Opened - 5
+	Hood Opened - 6
+	Hood Opened - 7
+	Hood Opened - Latest
+	Idle Jack Active - Battery Charge Request (Engine Input 1)
+	Idle Jack Active - Catalyst Heat Request (Engine Input 1)
+	Idle Jack Active - Heating, Ventilation And Air Conditioning (Hvac) (Engine Input 1)
+	Idle Speed Control Active (Engine Input 1)
+	Igniter 1 (1A)
+	Igniter 3 (2A)
+	Igniter 4 (2B)
+	Igniter 5 (3A)
+	Igniter 6 (3B)
+	Igniter 7 (4A)
+	Igniter 8 (4B)
+	Ignition Switch (Engine Input 1)
+	Ignition Switch (Engine Input 3)
+	Inertia Switch (Crash Signal) (Engine Input 1)
+	Inhibit Cruise - Instrument Cluster Not Programmed For Adaptive Cruise Control
+	Injector 1 (1A)
+	Injector 2 (1B)
+	Injector 2 (1B)
+	Injector 3 (2A)
+	Injector 4 (2B)
+	Injector 5 (3A)
+	Injector 6 (3B)
+	Injector 7 (4A)
+	Injector 8 (4B)
+	Intake Air Temperature (Iat) (Bank 1 Sensor 2) Supported (Intake Air Temperature Sensor)
+	Intake Air Temperature (Iat) (Bank 2 Sensor 1) Supported (Intake Air Temperature Sensor)
+	Intake Air Temperature (Iat) Supported (Bank 1 Sensor 1)(Intake Air Temperature Sensor)
+	Intake Air Temperature (Iat) Supported (Bank 1 Sensor 3)(Intake Air Temperature Sensor)
+	Intake Air Temperature (Iat) Supported (Bank 2 Sensor 2)(Intake Air Temperature Sensor)
+	Intake Air Temperature (Iat) Supported (Bank 2 Sensor 3)(Intake Air Temperature Sensor)
+	Intake Manifold Tuning Valve (Imtv) 1 Monitor
+	Intake Manifold Tuning Valve 1
+	Interaction Of The Electronic Stability Program
+	Intercooler Water Pump Relay - Commanded
+	Level 2 Monitoring Starter Error Detected
+	Level 2 Monitoring Starter Error Detected - 1
+	Level 2 Monitoring Starter Error Detected - 2
+	Level 2 Monitoring Starter Error Detected - 6
+	Low Oil Pressure Indicator Lamp
+	Low Range Selected
+	Maf Sensor A Supported (Mass Air Flow Sensor)
+	Maf Sensor B Supported (Mass Air Flow Sensor)
+	Main Switch Is Off
+	Master Ecu
+	Mil Warning Lamp - Commanded
+	Misfire Judgement Execution Flag
+	Misfire Monitoring Completed
+	Misfire Monitoring Enabled
+	Misfire Monitoring Ready
+	Open Loop - Due To Detected System Fault
+	Open Loop - Due To Detected System Fault 0
+	Open Loop - Has Not Yet Satisfied Conditions To Go Closed Loop 0
+	Open Loop - Has Not Yet Satisfied Conditions To Go To Closed Loop
+	Open Loop Due To Driving Conditions (E.G. Power Enrichment, Deceleration Enleanment)
+	Open Loop Due To Driving Conditions (E.G. Power Enrichment, Deceleration Enleanment) - 0
+	Oxygen Sensor Heater Monitoring Completed/Pm Filter Monitoring Completed
+	Oxygen Sensor Heater Monitoring Ready/Pm Filter Monitoring Ready
+	Oxygen Sensor Heater Monitoring Supported/Pm Filter Monitoring Supported
+	Oxygen Sensor Heater Monitoring/Pm Filter Monitoring
+	Oxygen Sensor Monitoring Completed/Exhaust Gas Sensor Monitoring Completed
+	Oxygen Sensor Monitoring Ready/Exhaust Gas Sensor Monitoring Ready
+	Oxygen Sensor Monitoring Supported/Exhaust Gas Sensor Monitoring Supported
+	Oxygen Sensor Monitoring/Exhaust Gas Sensor Monitoring
+	Park Neutral/Clutch Switch (Engine Input 1)
+	Park Neutral/Clutch Switch (Engine Input 3)
+	Pcm Dtc Set
+	Pcm Dtc Set - Newest
+	Permanent Error In Cruise Control User Interface
+	Pinion Relay High Side
+	Pinion Relay Low Side
+	Pip Status - High
+	Powertrain Control Module (Pcm) Dtc Set - 1
+	Powertrain Control Module (Pcm) Dtc Set - 4
+	Powertrain Control Module (Pcm) Dtc Set - 7
+	Powertrain Control Module (Pcm) Enabled/Disabled Set - 1
+	Powertrain Control Module (Pcm) Enabled/Disabled Set - 4
+	Powertrain Control Module (Pcm) Enabled/Disabled Set - 7
+	Powertrain Control Module (Pcm) Start Inhibition Set - 0
+	Powertrain Control Module (Pcm) Start Inhibition Set - 3
+	Powertrain Control Module (Pcm) Start Inhibition Set - 5
+	Powertrain Control Module (Pcm) Start Inhibition Set - Latest
+	Reverse Gear Interlock
+	Second Battery Requests Engine Running
+	Secondary Air System Monitoring Completed/Boost Pressure System Monitoring Completed
+	Secondary Air System Monitoring Ready/Boost Pressure System Monitoring Ready
+	Secondary Air System Monitoring Supported/Boost Pressure System Monitoring Supported
+	Secondary Air System Monitoring/Boost Pressure System Monitoring
+	Shut Off From Cruise Control Monitoring
+	Slave Ecu
+	Start Authorization Target Id Verify Ok
+	Start Authorization Valid Transponder
+	Start Error Detected - 2
+	Start Error Detected - 3
+	Start Error Detected - 4
+	Start Error Detected - 4
+	Start Error Detected - 6
+	Start Error Detected 1
+	Starter Relay High Side
+	Starter Relay Low Side
+	Starter Relay Monitor (Engine Input 1)
+	Steering Wheel Input Detected
+	Stop Error Detected - 0
+	Stop Error Detected - 10
+	Stop Error Detected - 3
+	Stop Error Detected - Newest
+	Stop Inhibited - Air Fuel Ratio Adaptions Not Within Rage
+	Stop Inhibited - Canister Purge Vapor Concentration Too High
+	Stop Inhibited - Catalyst Heating Active
+	Stop Inhibited - Engine Stop Is Not Allowed During Calibratable Time After First Start
+	Stop Inhibited - Engine Temperature Too High
+	Stop Inhibited - Engine Temperature Too Low
+	Stop Inhibited - Environment Air Temperature Too High
+	Stop Inhibited - Environment Air Temperature Too Low
+	Stop Inhibited - Evaporation Of Fuel In Oil
+	Stop Inhibited - Expected Hot Start Due To Fuel Temperature Too High
+	Stop Inhibited - Glow Time For Restart Too High
+	Stop Inhibited - Hot Start Detected - Rising Fluid Air Temperatures Indicating Rising Charge Temperature
+	Stop Inhibited - Particulate Filter Regeneration Attempt In Progress
+	Stop Inhibited - Particulate Filter Regeneration Required Or Particulate Filter Blocked (Driver Warning Displayed)
+	Stop Inhibited - Starter Protection Active
+	Stop Inhibited - Throttle Flow Adaptations Not In Range
+	Stop Inhibited - Torque Adaptations Not In Range
+	Stop Inhibited - Turbocharger Temperature Too High
+	Stop Inhibited Due To Aftertreatment System Temperature Too High
+	Stop Inhibited Due To Aftertreatment System Temperature Too Low
+	Stop Inhibited Due To Ambient Air Pressure Too Low
+	Stop Inhibited Due To Brake Mitigate Accelerator Pedal Active
+	Stop Inhibited Due To Diagnostic System
+	Stop Inhibited Due To Diagnostics Monitor Requires Engine Running
+	Stop Inhibited Due To Engine Speed Too High
+	System Error Which Leads To Permanent Shutoff
+	System Error Which Leads To Temporary Shutoff
+	Temporary Error In Cruise Control User Interface
+	Temporary Error In Cruise Control User Interface Without Clearing Set Point
+	Terrain Mode Selected - 0
+	Terrain Mode Selected - 1
+	Terrain Mode Selected - 3
+	Terrain Mode Selected - 5
+	Terrain Mode Selected - Latest
+	Terrain Modes Not Permitted
+	The Engine Coolant Temperature Is Outside Thresholds
+	Throttle Dc Motor Power Monitor (Engine Input 3)
+	Throttle Relay - Commanded
+	Transmission Control Module (Tcm) Enabled/Disabled
+	Transmission Control Module (Tcm) Enabled/Disabled Set - 1
+	Transmission Control Module (Tcm) Enabled/Disabled Set - 4
+	Transmission Control Module (Tcm) Enabled/Disabled Set - 5
+	Transmission Control Module (Tcm) Enabled/Disabled Set - Latest
+	Transmission Control Module (Tcm) Malfunction Indicator Lamp (Mil) Request (Engine Input 1)
+	Transmission Control Module (Tcm) Start Inhibit Set 0
+	Transmission Control Module (Tcm) Start Inhibition Set
+	Upload/Download Transfer Mechanism Supported
+	Vehicle Acceleration Or Deceleration Above Acceleration Or Deceleration Limits
+	Vehicle Speed Diverges From The Cruise Control Speed More Than Calibrated Speed Difference (Vehicle Speed Too High)
+	Vehicle Speed Diverges From The Cruise Control Speed More Than Calibrated Speed Difference (Vehicle Speed Too Low)
+	Vehicle Speed Is Crossing Maximum Or Minimum Speed Limits
+	Yaw, Skid Or Drift Detected
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Hybrid /Electric Battery Maximum Cell Temperature
+	Hybrid /Electric Battery Minimum Cell Temperature
+	Hybrid /Electric Vehicle Battery Maximum Cell Voltage
+	Hybrid Battery Back Remaining Life
+	Hybrid Battery Pack Voltage
+	Hybrid Battery State Of Charge
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Accelerator Pedal Position
+	Boost Absolute Pressure
+	Brake Fluid Line Hydraulic Pressure
+	Brake Pedal Switch
+	Completion Status Of Most Recent Particulate Filter Regeneration
+	Cruise Control Status
+	Distance Remaining Until Service Required
+	Distance Since Exhaust Particulate Filter Regeneration
+	Driver Belt Unbuckled
+	Eco Button Pressed
+	Engine Fan Speed Indicated
+	Engine Friction-Percent Torque
+	Engine Oil Pressure
+	Engine Oil Temperature
+	Engine Reference Torque
+	Engine Speed
+	Engine Torque
+	Estimated Torque From Torque Monitor
+	Fuel Level
+	Fuel Rail Pressure
+	Gas Temperature At Particulate Filter Middle Point
+	Gear Display
+	Hood Opened
+	Intake Air Temperature Bank 1, Sensor 1
+	Intake Air Temperature Bank 1, Sensor 3
+	Lambda
+	Long Term-Fuel Trim
+	Manifold Absolute Pressure
+	Mass Air Flow Sensor
+	Odometer
+	Powertrain Control Module Dtc Set
+	Radiator Coolant Temperature
+	Time Remaining Until Service Required
+	Time Since Engine Start
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Value Relay Output State
+	Brake Pedal Switch (Bls)
+	Door Status Signal Fault Status
+	Driver Door
+	Dynamic Stability Control Switch Status
+	Fault Lamp Status (Abs)
+	Gear Information
+	Maintenance Moe Epb Status
+	Park Brake Switch
+	Static Apply (Electric Parking Brake Status)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Absolute Throttle Position
+	Absolute Throttle Position B
+	Accelerator Pedal Position D
+	Accelerator Pedal Position E
+	Accelerator Pedal Position From Sensor 2
+	Air Flow Rate From Mass Air Flow Sensor
+	Air Flow Rate From Mass Air Flow Sensor Bank 1
+	Brake Booster Relay - Commanded (Engine Output 1)
+	Brake Fluid Line Hydraulic Pressure Corrected
+	Brake Switch (Engine Input 1)
+	Brake Switch (Engine Input 3)
+	Brake Switch 2(Engine Input 1)
+	Brake Switch 2(Engine Input 3)
+	Calculated Engine Torque
+	Engine Rpm
+	Engine Rpm(Engine Speed - 0)
+	Engine Warning Lamp - Commanded (Engine Output 1)
+	Fuel Level Input
+	Gear Display
+	Ignition Switch (Engine Input 1)
+	Ignition Switch (Engine Input 3)
+	Intake Manifold Absolute Pressure
+	Manifold Absolute Pressure - High Resolution
+	Relative Accelerator Pedal Position
+	Relative Throttle Position
+	Throttle Position - Desired
+	Vehicle Speed (Vehicle Speed - 2)
+	Vehicle Speed Sensor (Vss)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Steering Wheel Angle
+	Yaw Rate-Corrected
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs
+	Adaptive Cruise Contro
+	Cruise Active
+	Front Fog Lamp
+	High Beam
+	Left Direction Indicator
+	Oil Pressure Low
+	Pad Wear/Brake System (Red)
+	Right Direction Indicator
+	Tpms (Amber)
+

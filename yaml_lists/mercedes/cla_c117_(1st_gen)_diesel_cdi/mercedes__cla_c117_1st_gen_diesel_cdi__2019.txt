@@ -1,0 +1,105 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes 'Cla C117 (1St Gen) Diesel Cdi' (2019)
+Signal Descriptions:
+	Right Front Door Rotary Tumbler Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ambient Temperature
+	Front Left Tire Pressure
+	Front Right Tire Pressure
+	Rear Left Tire Pressure
+	Rear Right Tire Pressure
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Boost Pressure
+	Coolant Temperature
+	Engine Speed
+	Measured Air Mass
+	Position Of 'Mp32 (Throttle Valve Actuator)'
+	Position Of 'Zp326 (Exhaust Gas Recirculation Actuator, High Pressure)'
+	Position Of Accelerator Pedal
+	Rail Pressure
+	Status Of Fan
+	Travel Distance Until Next Maintenance
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Main Od0Meter Reading
+	Park Pawl
+	Transmission Oil Temperature
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Belt Buckler Restraint System Switch
+	Front Passenger Belt Buckler Restraint System Switch
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Fluid Level
+	Coolant Level
+	Fanfare Horn Relay
+	Fog Light
+	Front Brake Linings
+	Left Taillight And Parking Light
+	Left Turn Signal Light
+	Right Taillight And Parking Light
+	Right Turn Signal Light
+	Stage Of Windshield Wiper
+	Status Of Output For 'Le8187(Right Parking Light,Standing Light,High Beam And Drl) (Functions High Beam)
+	Washer Fluid Level
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Distance From Sensor To Target Objects
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Gear
+	Main Odometer Reading
+	Oil Temperature Of Transmission
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Parking System
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Boost Pressure
+	Current Injection Quantity
+	Distance Remaining Until Service Required
+	Engine Coolant Temperature
+	Engine Speed
+	Fuel Level
+	Intake Air Temperature
+	Measured Air Mass
+	Position Of 'Zp326(Exhaust Gas Recirculation Actuator, High Pressure)
+	Position Of Accelerator Pedal
+	Rail Pressure
+	Status Of Fan
+	Throttle Valve Actuator
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Brake Pressure
+	Lateral Acceleration
+	Longitudinal Acceleration
+	Parking Brake
+	Status Of Switch 'Esp Off'
+	Steering Wheel Angle
+	Turn Rate (Yaw Rate)
+	Vacuum Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver Door Status Of Rotary Tumbler
+	Driver Window Relay Switch Window Open
+	Left Rear Power Window
+	Lock Central Locking
+	Right Front Power Window
+	Right Rear Power Window
+	Unlock Central Locking
+

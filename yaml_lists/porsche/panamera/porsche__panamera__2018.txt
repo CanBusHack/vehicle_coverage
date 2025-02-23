@@ -1,0 +1,49 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Porsche 'Panamera' (2018)
+Signal Descriptions:
+	Brake Pedal Activation
+	Brake Pressure Sensor
+	Driver Presence: Driver Door Status
+	Driver Presence: Driver Seatbelt Status
+	Pressure In Brake Booster
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Boost Pressure Control Bank 1 - Actual Value
+	Boost Pressure Control Bank 2 - Actual Value
+	Boost Pressure Control Sensor 1 - Set Point Value
+	Boost Pressure Control Sensor 2 - Set Point Value
+	Engine Speed
+	Engine Torque Normalized
+	Intake Air Temperature
+	Outside Air Temperature
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Acceleration
+	Coolant Temperature
+	Crankshaft Actual Torque
+	Distance
+	Electronic Parking Brake Status
+	Engine Speed (1)
+	Engine Temperature
+	Gear Information: Current Gear
+	Gear Information: Target Gear
+	Mileage From Instrument Cluster
+	Transmission Fluid Pan Temperature
+	Transmission Fluid Pan Temperature (1)
+	Transmission Fluid Pan Temperature (2)
+	Transmission Input Speed
+	Transmission Input Speed (2)
+	Transmission Output Speed
+	Vehicle Speed (1)
+	Vehicle Speed (2)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Left Front Tire Pressure Sensor Actual Pressure
+	Left Rear Tire Pressure Sensor Actual Pressure
+	Right Front Tire Pressure Sensor Actual Pressure
+	Right Rear Tire Pressure Sensor Actual Pressure
+

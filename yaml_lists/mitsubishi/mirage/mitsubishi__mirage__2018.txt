@@ -1,0 +1,73 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mitsubishi 'Mirage' (2018)
+Signal Descriptions:
+	Engine Speed
+	Engine Torque
+	Lateral G Sensor
+	Longitudinal G Sensor
+	Master Cylinder Pressure
+	Odometer
+	Parking Brake Switch
+	Steering Angle
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Actuation Signal
+	Accelerator Pedal Position
+	Brake Fluid Pressure
+	Brake Switch
+	Cvt Oil Temperature
+	Gear Position (Aux Gearbox)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Blower Fan Signal
+	Brake Boost Pressure Sensor
+	Charging Battery Mode Flag
+	Check Battery Flag
+	Engine Coolant Temperature.Sensor
+	Ignition Switch
+	Intake Air Temperature Sensor1
+	Oil Pressure Switch
+	Throttle Actuator
+	Vehicle Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Driver'S Side Door Sw
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Engine Speed
+	Engine Torque
+	Lateral G Sensor
+	Longitudinal G Sensor
+	Master Cylinder Pressure
+	Odometer
+	Parking Brake Switch
+	Steering Angle
+	Yaw Rate Sensor
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Actuation Signal
+	Accelerator Pedal Position
+	Brake Fluid Pressure
+	Brake Switch
+	Cvt Oil Temperature
+	Gear Position (Aux Gearbox)
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Blower Fan Signal
+	Brake Boost Pressure Sensor
+	Charging Battery Mode Flag
+	Check Battery Flag
+	Engine Coolant Temperature.Sensor
+	Ignition Switch
+	Intake Air Temperature Sensor1
+	Oil Pressure Switch
+	Throttle Actuator
+	Vehicle Speed
+
