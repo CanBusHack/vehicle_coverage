@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volkswagen 'Amarok' (2022)
 Signal Descriptions:
 	Auto Lights
@@ -22,7 +22,7 @@ Signal Descriptions:
 	Driver Door Window Upper And Lower Limit Switch
 	Driver Heated Seat Level
 	Exterior Light Fault Tell Tale Active
-	Fault Light Assist Message On IC Active
+	Fault Light Assist Message On Ic Active
 	Front Left Door Open Switch
 	Front Passenger Door Lock State
 	Front Passenger Door Lock Switch
@@ -50,9 +50,9 @@ Signal Descriptions:
 	Language
 	Left Turn Signal
 	Left Turn Signal Indicator Active
-	Light Assist Clean Windshield Message On IC Active
+	Light Assist Clean Windshield Message On Ic Active
 	Low Beams
-	Move Selector Lever To Position P N Message On IC Active
+	Move Selector Lever To Position P N Message On Ic Active
 	Odometer
 	Park Lights
 	Radio Power On
@@ -72,7 +72,7 @@ Signal Descriptions:
 	Rear Right Door Window Switch Down
 	Rear Right Door Window Switch Up
 	Recirculation Active
-	Renew Key Battery Message On IC Active
+	Renew Key Battery Message On Ic Active
 	Reversing Light Active
 	Right Stock Pulled Forward Flash To Pass Active
 	Right Turn Signal
@@ -86,7 +86,7 @@ Signal Descriptions:
 	Trunk Open Switch
 	Turn Signals Active
 	Under Voltage
-	VIN Part 1
+	Vin Part 1
 	Windscreen Washer Motor
 	Wiper In Parked Position
 	Wiper Movement Speed High
@@ -100,7 +100,7 @@ Signal Descriptions:
 	Wiper Stock Wash Switch
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Compressor Active
+	Ac Compressor Active
 	Actual Acceleration
 	Alternator Generator Output
 	Brake Intervention Release Active
@@ -111,9 +111,9 @@ Signal Descriptions:
 	Instant Torque For Gear
 	Key Fob Commands
 	Longitudinal Acceleration
-	MKB Safe
-	Main Switch OI Button Pressed
+	Main Switch Oi Button Pressed
 	Minus Button Pressed
+	Mkb Safe
 	Oil Temperature Protection Active
 	Plus Button Pressed
 	Res Button Pressed
@@ -135,10 +135,9 @@ Signal Descriptions:
 	Wheel Speed Sensor Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS In Diagnostic Mode Active
-	ABS Tell Tale Active
-	ATM Temperature
+	Abs Active
+	Abs In Diagnostic Mode Active
+	Abs Tell Tale Active
 	Accel Pedal Raw Signal
 	Accelerator Pedal Application Rate
 	Accelerator Pedal Changing Towards Closed
@@ -153,11 +152,12 @@ Signal Descriptions:
 	Airbag Disabled Active
 	Airbag System Error Active
 	Airbag Tell Tale Active
+	Atm Temperature
 	Audio Reduction For Radio Started
 	Battery Voltage
 	Battery Voltage
 	Brake Boost Active
-	Brake Light ECD Active
+	Brake Light Ecd Active
 	Brake Lights Active
 	Brake Message Time Out
 	Brake Pedal Switch
@@ -166,7 +166,7 @@ Signal Descriptions:
 	Brake Pressure Signed
 	Brake Tell Tale Active
 	Brake Torque Input Error
-	Button For Driver Assistant System Defective Message On IC
+	Button For Driver Assistant System Defective Message On Ic
 	Car In Gear
 	Car In Park Or Neutral
 	Car In Reverse
@@ -187,9 +187,7 @@ Signal Descriptions:
 	Driver Side Crash
 	Driving Resistance Index
 	Dynamic Oil Pressure Warning Active
-	EGS Request Active
-	EPC Tell Tale Active
-	ESP Tell Tale Active
+	Egs Request Active
 	Engine Coolant Warning Tell Tale Active
 	Engine Cooling Fan Rate
 	Engine Idle Target Speed
@@ -197,8 +195,10 @@ Signal Descriptions:
 	Engine Speed Gradient
 	Engine Speed Max Warning Active
 	Engine Speed Override
-	Engine TQ Wint
 	Engine Torque
+	Engine Tq Wint
+	Epc Tell Tale Active
+	Esp Tell Tale Active
 	Fog Lights Active
 	Front Crash
 	Front Driver Seatbelt Switch Not Active
@@ -221,7 +221,7 @@ Signal Descriptions:
 	High Beams Active
 	Hood Open
 	Hot Lights Warning Active
-	IC Message With Starting System
+	Ic Message With Starting System
 	Ideal Target Speed Set To Max
 	Intake Air Temperature Error Active
 	Intermediate Gas Flag
@@ -246,7 +246,6 @@ Signal Descriptions:
 	Oil Temperature
 	Outside Temperature Filtered
 	Overtemperature Protection For Motor Active
-	PRNDL
 	Parking Assist Active
 	Parking Assist Active Front
 	Parking Assist Active Rear
@@ -261,6 +260,7 @@ Signal Descriptions:
 	Parking Brake Engaged
 	Passenger Side Crash
 	Pre Heat Message Active
+	Prndl
 	Rear Crash
 	Remote Start Active
 	Right Turn Stock Signal Active
@@ -275,7 +275,7 @@ Signal Descriptions:
 	Source Vehicle Speed Signal Active
 	Speed Limit Active
 	Speed Limit Status Bit
-	Status Brake Pressure Through ESP System
+	Status Brake Pressure Through Esp System
 	Status Transmission And Converter Protection Active
 	Steering Wheel Buttons
 	Steering Wheel Buttons
@@ -288,7 +288,7 @@ Signal Descriptions:
 	Tire Pressure Tell Tale Active
 	Torque Information Inaccurate
 	Trailer Tell Tale Active
-	Trans Overheated Stop See Owners Manual Message Active On IC
+	Trans Overheated Stop See Owners Manual Message Active On Ic
 	Transmission Torque Error
 	Trigger Image Activation
 	Trunk Open On Display
@@ -297,6 +297,6 @@ Signal Descriptions:
 	Turn Off Heated Seats Active
 	Vehicle Speed
 	Vehicle Speed
-	Water In Fuel Filter See Owners Manual Message On IC Active
+	Water In Fuel Filter See Owners Manual Message On Ic Active
 	Wheel Desired Moment
 	Yaw Rate

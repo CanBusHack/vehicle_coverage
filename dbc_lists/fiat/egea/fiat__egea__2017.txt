@@ -1,21 +1,21 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Fiat 'Egea' (2017)
 Signal Descriptions:
-	ABS In Action
-	ADAS ACC Speed Set
-	ADAS ACC State
-	ADAS Cruise Control On
+	Abs In Action
 	Accelerator Application Rate
 	Accelerator Pedal Pressed
+	Adas Acc Speed Set
+	Adas Acc State
+	Adas Cruise Control On
 	Adblue Level
 	Airbag Tell Tale Active
 	Alarm Status
-	BMS Error Detected
-	BMS Lateral Acceleration
-	BMS Longitudinal Acceleration
-	BMS Yaw Rate
 	Battery Current
 	Battery Voltage
+	Bms Error Detected
+	Bms Lateral Acceleration
+	Bms Longitudinal Acceleration
+	Bms Yaw Rate
 	Brake Light Status
 	Calculated Engine Load Value
 	Camera Sees A Car In Front
@@ -26,16 +26,16 @@ Signal Descriptions:
 	Coolant Temperature High Tell Tale Active
 	Cranking Bit
 	Cruise Control Tell Tale Speed
-	Dash Prompt ABS Unavailable
+	Dash Prompt Abs Unavailable
 	Dash Prompt Adblue Range Low Refill Soon
 	Dash Prompt Attention Assist Take A Break
 	Dash Prompt Attention Assist Unavailable Service Required
 	Dash Prompt Brake Fluid Low
 	Dash Prompt Change Engine Oil
-	Dash Prompt Check AEB Control 1
-	Dash Prompt Check AEB Control 2
 	Dash Prompt Check Adblue System 1
 	Dash Prompt Check Adblue System 2
+	Dash Prompt Check Aeb Control 1
+	Dash Prompt Check Aeb Control 2
 	Dash Prompt Check Airbag
 	Dash Prompt Check Brakes
 	Dash Prompt Check Diesel Fuel Filter
@@ -44,21 +44,21 @@ Signal Descriptions:
 	Dash Prompt Check Tire Pressure Level Reset Required Front Right
 	Dash Prompt Check Tire Pressure Level Reset Required Rear Left
 	Dash Prompt Check Tire Pressure Level Reset Required Rear Right
-	Dash Prompt ESC Unavailable
 	Dash Prompt Engine Will Not Restart In 4094Km Check Adblue System 0
 	Dash Prompt Engine Will Not Restart In 4094Km Check Adblue System 1
 	Dash Prompt Engine Will Not Restart In 4094Km Refill Adblue 0
 	Dash Prompt Engine Will Not Restart In 4094Km Refill Adblue 1
+	Dash Prompt Esc Unavailable
 	Dash Prompt High Beams Control Unavailable
 	Dash Prompt High Beams Control Unavailable Clean Windscreen
 	Dash Prompt Hill Hold Control Unavailable
-	Dash Prompt Key FOB Battery Low
+	Dash Prompt Key Fob Battery Low
 	Dash Prompt Key Not In Car
 	Dash Prompt Low Tire Unavailable
 	Dash Prompt Oil Change Done
 	Dash Prompt Place Hands On Steering Wheel
 	Dash Prompt Service Keyless Entry Vehicle Will Not Shut Off Or Restart
-	Dash Prompt TPMS Reset Saved
+	Dash Prompt Tpms Reset Saved
 	Dash Prompt Traffic Sign Recognition Unavailable Clean Front Windshield
 	Dash Prompt Traffic Sign Recognition Unavailable Service Requested
 	Days
@@ -70,8 +70,8 @@ Signal Descriptions:
 	Doors Locked
 	Drift Correction Active
 	Driver Seatbelt Fastened Status
-	ESC Off
 	Engine Speed
+	Esc Off
 	Follow Cruise Control Active
 	Follow Distance
 	Front Fog Lights Active
@@ -124,18 +124,18 @@ Signal Descriptions:
 	Settings Attention Assist Off
 	Settings New Speed Zone Indication Chime On
 	Settings New Speed Zone Indication Visual On
-	Settings Security Passenger AIRBAG Off In Progress
-	Settings Security Passenger AIRBAG On In Progress
+	Settings Security Passenger Airbag Off In Progress
+	Settings Security Passenger Airbag On In Progress
 	Settings Traffic Sign Assist Warning
-	Settings Unite Speed Set To MPH
+	Settings Unite Speed Set To Mph
 	Settings Units Distance Set To Mi
 	Speed Limiter Or Cruise Auto Set To Speed Limit Active
 	Speed Limiter Or Cruise Set Speed Km
 	Speed Limiter Or Cruise Set Speed Miles
 	Speed Limiter Or Cruise State
 	Steering Column Left Stock Button Pressed
-	Steering Wheel ACC Button Pressed
-	Steering Wheel ACC Follow Distance Button Pressed
+	Steering Wheel Acc Button Pressed
+	Steering Wheel Acc Follow Distance Button Pressed
 	Steering Wheel Angle
 	Steering Wheel Cruise Control Button Pressed
 	Steering Wheel Cruise Control Cancel Button Pressed
@@ -147,7 +147,7 @@ Signal Descriptions:
 	Suggested Gear Displayed Number
 	Tell Tale Off Passenger Airbag On
 	Traction Control Tell Tale Blinking Active
-	Traffic Sign Speed Displayed On IC
+	Traffic Sign Speed Displayed On Ic
 	Traffic Sign Speed From Camera
 	Transmission Manual In Gear
 	Transmission Manual Out Of Gear
@@ -161,7 +161,7 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Pressure
+	Ac Pressure
 	Auto Start Stop Off
 	Battery State Extremely Low
 	Cabin Light Level
@@ -175,11 +175,11 @@ Signal Descriptions:
 	Front Wiper Active
 	Fuel Consumption
 	Fuel Level
-	HVAC AC On
-	HVAC Max Defrost Off
-	HVAC Max Defrost On
-	HVAC Rear Deicer Switch State
 	Hood Ajar Tell Tale Active
+	Hvac Ac On
+	Hvac Max Defrost Off
+	Hvac Max Defrost On
+	Hvac Rear Deicer Switch State
 	Instrument Display Setting See Navigation On
 	Key State Status
 	Lane Control On
@@ -197,14 +197,14 @@ Signal Descriptions:
 	Passenger Door Tell Tale Active
 	Pedal Brake Pressed
 	Power Mode State
-	RDS Text 10
-	RDS Text 11
-	RDS Text 12
 	Range
+	Rds Text 10
+	Rds Text 11
+	Rds Text 12
 	Rear Hatch Tell Tale Active
 	Remote Start Active
 	Right Side Rear Door Tell Tale Active
-	Setting ADAS Lane Keep Alert
+	Setting Adas Lane Keep Alert
 	Setting Blind Spot Assist
 	Setting Cornering Lights Off
 	Setting Driver Easy Exit On
@@ -215,7 +215,7 @@ Signal Descriptions:
 	Setting Keyless Entry Off
 	Setting Language
 	Setting Remote Start Normal State Enable
-	Setting Windows Down With FOB
+	Setting Windows Down With Fob
 	Settings Active Rear View Camera Guidelines On
 	Settings Brake Control
 	Settings Brake Control Sensitivity

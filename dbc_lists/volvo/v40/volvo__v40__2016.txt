@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volvo 'V40' (2016)
 Signal Descriptions:
 	Accelerometer Lateral
@@ -16,20 +16,20 @@ Signal Descriptions:
 	Door Rear Right Closed
 	Door Rear Right Locked
 	Door Trunk Closed
-	ECO Plus Mode On
+	Eco Plus Mode On
 	Engine Speed
 	Fuel Level Volume
 	Fuel Level Volume
-	HVAC Defroster Rear On
-	HVAC Defroster Windshield Status
-	HVAC Fan Speed Requested
-	HVAC Fan Speed Selected
-	HVAC Recirculation Active
-	HVAC Recirculation Change Request
-	HVAC Temperature Adjustment Setting
-	HVAC Temperature Set Driver
-	HVAC Temperature Set Passenger
 	Headlights Side Lights On
+	Hvac Defroster Rear On
+	Hvac Defroster Windshield Status
+	Hvac Fan Speed Requested
+	Hvac Fan Speed Selected
+	Hvac Recirculation Active
+	Hvac Recirculation Change Request
+	Hvac Temperature Adjustment Setting
+	Hvac Temperature Set Driver
+	Hvac Temperature Set Passenger
 	Infotainment Panel Button Pressed
 	Lights Fog Rear On
 	Lights Panel Brightness Level
@@ -54,7 +54,7 @@ Signal Descriptions:
 	Seatbelt Rear Left Buckled
 	Seatbelt Rear Middle Buckled
 	Seatbelt Rear Right Buckled
-	Stalk Left Button OK Pressed
+	Stalk Left Button Ok Pressed
 	Stalk Left Button Reset Pressed
 	Stalk Left Ring Rotation Position
 	Stalk Right Position Windshield Sprayer
@@ -65,25 +65,25 @@ Signal Descriptions:
 	Time Displayed Second
 	Trip Odometer T1
 	Trip Odometer T2
-	VIN Characters 1 To 3
-	VIN Characters 11 To 17
-	VIN Characters 4 To 10
-	VIN Index
 	Vehicle Speed
 	Vehicle Speed Low Resolution
+	Vin Characters 1 To 3
+	Vin Characters 11 To 17
+	Vin Characters 4 To 10
+	Vin Index
 	Window Front Driver Open Status
 	Window Front Passenger Open Status
 	Window Rear Left Open Status
 	Windows Rear Locked
 	Wiper Rear Window Active
-	Wiper Rear Window INT Active
+	Wiper Rear Window Int Active
 	Wiper Rear Window Sprayer Active
 	Wiper Windshield Int Speed Level
 	Wiper Windshield Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS ESC Failure Service Required Dash Prompt Message Active
-	ABS Tell Tale Not Active
+	Abs Esc Failure Service Required Dash Prompt Message Active
+	Abs Tell Tale Not Active
 	Accelerator Pedal Application Rate
 	Accelerator Pedal Position
 	Adaptive Headlights Tell Tale Active
@@ -96,10 +96,10 @@ Signal Descriptions:
 	Auto High Beam Tell Tale
 	Auto Start Stop On
 	Auto Start Stop Standby On
-	BLIS And CTA Service Required Message Active
-	BLIS OFF Message Sent
-	BLIS ON Message Sent
 	Back Light Dimmer Level
+	Blis And Cta Service Required Message Active
+	Blis Off Message Sent
+	Blis On Message Sent
 	Brake Pedal Applied Switch Active
 	Brake Pedal Applied Switch Not Active
 	Brake Switch Active
@@ -107,7 +107,6 @@ Signal Descriptions:
 	Brake System Service Required Message Active
 	Brake System Service Urgent Message Active
 	Brake Tell Tale Not Active
-	CTA OFF
 	Car Key Battery Low See Manual Message Active
 	Center Console Controls Cam Button Active
 	Center Console Controls Eject Button Active
@@ -124,6 +123,7 @@ Signal Descriptions:
 	Climate Settings Auto Rear Defrost On
 	Climate Settings Change Active
 	Climate Settings Recirculation Timeout On
+	Cta Off
 	Dash Reset Button
 	Dash Scroll Wheel Last Turned Up
 	Depress Brake And Clutch Pedals To Start Message Active
@@ -140,12 +140,12 @@ Signal Descriptions:
 	Driver Seat Moving
 	Driver Seatbelt Unbuckled
 	Driver Window Open State
-	ECO Tell Tale
-	ESC Temporarily OFF Dash Prompt Message Active
-	End Left Stock OK Button Command
+	Eco Tell Tale
+	End Left Stock Ok Button Command
 	Engine Coolant Level Low Turn Off Engine Message Active
 	Engine Speed
 	Engine System Service Urgent
+	Esc Temporarily Off Dash Prompt Message Active
 	Exit Button Pressed
 	Exit Button Released
 	Exterior Lights Warning
@@ -164,20 +164,20 @@ Signal Descriptions:
 	Fuel Tank Sensor 1
 	Fuel Tank Sensor 2
 	Gear Indication Service Required
-	HVAC AC Compressor Active
-	HVAC AC On
-	HVAC Air Recirculation Active
-	HVAC Cabin Fan Speed Setting
-	HVAC Front Left Climate Zone Temperature 1
-	HVAC Front Left Climate Zone Temperature 2
-	HVAC Manual Air Directed To Body Active
-	HVAC Manual Air Directed To Floor Active
-	HVAC Manual Air Directed To Window Active
-	HVAC Max Front Defroster Active
-	Hill Descent Control OFF Message Active
-	Hill Descent Control ON Message Active
+	Hill Descent Control Off Message Active
+	Hill Descent Control On Message Active
 	Home Safe Light Duration
 	Hood Closed
+	Hvac Ac Compressor Active
+	Hvac Ac On
+	Hvac Air Recirculation Active
+	Hvac Cabin Fan Speed Setting
+	Hvac Front Left Climate Zone Temperature 1
+	Hvac Front Left Climate Zone Temperature 2
+	Hvac Manual Air Directed To Body Active
+	Hvac Manual Air Directed To Floor Active
+	Hvac Manual Air Directed To Window Active
+	Hvac Max Front Defroster Active
 	Infotanment System Is Shutting Down
 	Infotanment System Will Shut Down Soon Due To Low Battery Message Active
 	Keyfob Command Received
@@ -191,10 +191,9 @@ Signal Descriptions:
 	Mode Messages
 	Not In Park
 	Number Pad
-	OK Button Pressed
-	OK Button Released
 	Oil Level Warnings
-	PRNDL Position
+	Ok Button Pressed
+	Ok Button Released
 	Park Tell Tale Active
 	Parking Assist Sensors On
 	Parking Brake Disengaged
@@ -214,6 +213,7 @@ Signal Descriptions:
 	Passenger Side Exterior Mirror Controls
 	Power Button Pressed
 	Power Steering Service Required Message Active
+	Prndl Position
 	Rear Driver Side Door Locked
 	Rear Driver Side Window Open State
 	Rear Hatch Closed
@@ -251,7 +251,7 @@ Signal Descriptions:
 	Settings Door Lock Confirmation Light On
 	Settings Door Unlock Confirmation Light On
 	Settings Doors Unlock
-	Settings ESC On
+	Settings Esc On
 	Settings Fold Mirrors When Locking On
 	Settings Language
 	Settings Temperature Unit Set To Fahrenheit
@@ -281,7 +281,6 @@ Signal Descriptions:
 	Steering Wheel Undo Button Active
 	Steering Wheel Volume Down Button Active
 	Steering Wheel Volume Up Button Active
-	TPMS Tell Tale
 	Time Change Day
 	Time Change Hour
 	Time Change Months
@@ -295,6 +294,7 @@ Signal Descriptions:
 	Time Second
 	Time Updated
 	Time Year
+	Tpms Tell Tale
 	Traction Control Tell Tale Not Active
 	Traction Control Temporarily Off Dash Prompt Message Active
 	Transmission Oil Change Needed
@@ -305,8 +305,8 @@ Signal Descriptions:
 	Tune Dial Number Of Change
 	Turn Signal Stock Position
 	Use Parking Brake Control To Release Message Active
-	VIN Part 1
 	Vehicle Speed
+	Vin Part 1
 	Vol Dial Changed
 	Vol Dial Last Turned Clockwise
 	Vol Dial Number Of Changes
@@ -321,25 +321,25 @@ Signal Descriptions:
 	Wiper Intermittent Speed Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Button Cancel Pressed
-	ADAS Button Cancel Released
-	ADAS Button Cruise Control Pressed
-	ADAS Button Cruise Control Released
-	ADAS Button Decrease Pressed
-	ADAS Button Decrease Released
-	ADAS Button Increase Pressed
-	ADAS Button Increase Released
-	ADAS Button Resume Pressed
-	ADAS Button Resume Released
-	ADAS Button Speed Limiter Pressed
-	ADAS Button Speed Limiter Released
-	ADAS Cruise Control Off
-	ADAS Cruise Control On
-	ADAS Speed Limiter Off
-	ADAS Speed Limiter On
-	ADAS Speed Set
 	Accelerometer Lateral
 	Accelerometer Longitudinal
+	Adas Button Cancel Pressed
+	Adas Button Cancel Released
+	Adas Button Cruise Control Pressed
+	Adas Button Cruise Control Released
+	Adas Button Decrease Pressed
+	Adas Button Decrease Released
+	Adas Button Increase Pressed
+	Adas Button Increase Released
+	Adas Button Resume Pressed
+	Adas Button Resume Released
+	Adas Button Speed Limiter Pressed
+	Adas Button Speed Limiter Released
+	Adas Cruise Control Off
+	Adas Cruise Control On
+	Adas Speed Limiter Off
+	Adas Speed Limiter On
+	Adas Speed Set
 	Brake Application Pressure
 	Brake Switch 1 Active
 	Brake Switch 2 Active
@@ -350,7 +350,7 @@ Signal Descriptions:
 	Door Rear Right Closed
 	Door Trunk Closed
 	Drive Mode Automatic
-	ECO Plus Mode Active
+	Eco Plus Mode Active
 	Engine Acceleration
 	Engine Speed
 	Engine Speed Displayed
@@ -362,9 +362,9 @@ Signal Descriptions:
 	Gear Engaged Number
 	Gear Indication Service Required
 	Gearbox Engaged
-	HVAC Fan Speed Requested
 	Headlights High Beam On
 	Horn Active
+	Hvac Fan Speed Requested
 	Intake Air Temperature
 	Lights Turn Signal Left On
 	Lights Turn Signal Right On
@@ -372,7 +372,6 @@ Signal Descriptions:
 	Low Brake Fluid Tell Tale Off
 	Malfunction Lamp On
 	Odometer
-	PRNDL Position
 	Pedal Accelerator Kickdown Switch Active
 	Pedal Accelerator Position
 	Pedal Accelerator Position Rate
@@ -381,6 +380,7 @@ Signal Descriptions:
 	Pedal Brake Pressed
 	Pedal Brake Released
 	Power Mode
+	Prndl Position
 	Seatbelt Front Driver Buckled
 	Seatbelt Front Passenger Buckled
 	Seatbelt Rear Left Buckled
@@ -405,13 +405,13 @@ Signal Descriptions:
 	Transmission Service Required
 	Transmission Service Urgent Message Active
 	Transmission Speed Input
-	VIN Characters 1 To 3
-	VIN Characters 11 To 17
-	VIN Characters 4 To 10
-	VIN Index
 	Vehicle Acceleration
 	Vehicle Speed
 	Vehicle Speed Displayed
+	Vin Characters 1 To 3
+	Vin Characters 11 To 17
+	Vin Characters 4 To 10
+	Vin Index
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
@@ -421,8 +421,8 @@ Signal Descriptions:
 	Wiper Windshield Sprayer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS ESC Failure Service Required Dash Prompt Message Active
-	ABS Tell Tale Not Active
+	Abs Esc Failure Service Required Dash Prompt Message Active
+	Abs Tell Tale Not Active
 	Adaptive Headlights Tell Tale Active
 	Air Recirculation State Change
 	Airbag Tell Tale Active
@@ -432,16 +432,15 @@ Signal Descriptions:
 	Auto Front Wipertelltale Active
 	Auto High Beam Tell Tale
 	Auto Start Stop On
-	BLIS And CTA Service Required Message Active
-	BLIS OFF Message Sent
-	BLIS ON Message Sent
 	Back Light Dimmer Level
+	Blis And Cta Service Required Message Active
+	Blis Off Message Sent
+	Blis On Message Sent
 	Brake Press
 	Brake System Failure Stop Safely Dash Prompt Message Active
 	Brake System Service Required Message Active
 	Brake System Service Urgent Message Active
 	Brake Tell Tale Not Active
-	CTA OFF
 	Car Key Battery Low See Manual Message Active
 	Center Console Controls Cam Button Active
 	Center Console Controls Eject Button Active
@@ -458,6 +457,7 @@ Signal Descriptions:
 	Climate Settings Auto Rear Defrost On
 	Climate Settings Change Active
 	Climate Settings Recirculation Timeout On
+	Cta Off
 	Dash Reset Button
 	Dash Scroll Wheel Last Turned Up
 	Depress Brake And Clutch Pedals To Start Message Active
@@ -473,11 +473,11 @@ Signal Descriptions:
 	Driver Seat Moving
 	Driver Seatbelt Unbuckled
 	Driver Window Open State
-	ECO Tell Tale
-	ESC Temporarily OFF Dash Prompt Message Active
-	End Left Stock OK Button Command
+	Eco Tell Tale
+	End Left Stock Ok Button Command
 	Engine Coolant Level Low Turn Off Engine Message Active
 	Engine System Service Urgent
+	Esc Temporarily Off Dash Prompt Message Active
 	Exit Button Pressed
 	Exit Button Released
 	Exterior Lights Warning
@@ -492,17 +492,17 @@ Signal Descriptions:
 	Front Wiper Signal Wipe
 	Front Wiper State
 	Gear Indication Service Required
-	HVAC Air Recirculation Active
-	HVAC Cabin Fan Speed Setting
-	HVAC Front Left Climate Zone Temperature 1
-	HVAC Front Left Climate Zone Temperature 2
-	HVAC Manual Air Directed To Body Active
-	HVAC Manual Air Directed To Floor Active
-	HVAC Manual Air Directed To Window Active
-	HVAC Max Front Defroster Active
-	Hill Descent Control OFF Message Active
-	Hill Descent Control ON Message Active
+	Hill Descent Control Off Message Active
+	Hill Descent Control On Message Active
 	Home Safe Light Duration
+	Hvac Air Recirculation Active
+	Hvac Cabin Fan Speed Setting
+	Hvac Front Left Climate Zone Temperature 1
+	Hvac Front Left Climate Zone Temperature 2
+	Hvac Manual Air Directed To Body Active
+	Hvac Manual Air Directed To Floor Active
+	Hvac Manual Air Directed To Window Active
+	Hvac Max Front Defroster Active
 	Infotanment System Is Shutting Down
 	Infotanment System Will Shut Down Soon Due To Low Battery Message Active
 	Keyfob Command Received
@@ -515,10 +515,9 @@ Signal Descriptions:
 	Low Oil Pressure Tell Tale Active
 	Mode Messages
 	Number Pad
-	OK Button Pressed
-	OK Button Released
 	Oil Level Warnings
-	PRNDL Position
+	Ok Button Pressed
+	Ok Button Released
 	Park Tell Tale Active
 	Parking Assist Sensors On
 	Parking Brake Disengaged
@@ -536,6 +535,7 @@ Signal Descriptions:
 	Passenger Side Exterior Mirror Controls
 	Power Button Pressed
 	Power Steering Service Required Message Active
+	Prndl Position
 	Rear Driver Side Door Locked
 	Rear Driver Side Window Open State
 	Rear Head Rest Release Active
@@ -571,7 +571,7 @@ Signal Descriptions:
 	Settings Door Lock Confirmation Light On
 	Settings Door Unlock Confirmation Light On
 	Settings Doors Unlock
-	Settings ESC On
+	Settings Esc On
 	Settings Fold Mirrors When Locking On
 	Settings Language
 	Settings Temperature Unit Set To Fahrenheit
@@ -593,7 +593,6 @@ Signal Descriptions:
 	Steering Wheel Undo Button Active
 	Steering Wheel Volume Down Button Active
 	Steering Wheel Volume Up Button Active
-	TPMS Tell Tale
 	Time Change Day
 	Time Change Hour
 	Time Change Months
@@ -607,6 +606,7 @@ Signal Descriptions:
 	Time Second
 	Time Updated
 	Time Year
+	Tpms Tell Tale
 	Traction Control Tell Tale Not Active
 	Traction Control Temporarily Off Dash Prompt Message Active
 	Transmission Oil Change Needed
@@ -616,7 +616,7 @@ Signal Descriptions:
 	Tune Dial Last Turned Clockwise
 	Tune Dial Number Of Change
 	Use Parking Brake Control To Release Message Active
-	VIN Part 1
+	Vin Part 1
 	Vol Dial Changed
 	Vol Dial Last Turned Clockwise
 	Vol Dial Number Of Changes

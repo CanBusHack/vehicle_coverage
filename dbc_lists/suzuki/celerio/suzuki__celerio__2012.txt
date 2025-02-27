@@ -1,13 +1,13 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Suzuki 'Celerio' (2012)
 Signal Descriptions:
 	Acceleration Lateral
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Compressor Active
-	ADAS Cruise Control Speed Set
-	ADAS Cruise Control State
+	Ac Compressor Active
+	Adas Cruise Control Speed Set
+	Adas Cruise Control State
 	Air Flow Rate
 	Barometric Pressure
 	Coolant Temperature
@@ -25,22 +25,22 @@ Signal Descriptions:
 	Door Settings Unlock All
 	Door Settings Unlock Front Left
 	Door Tell Tale On
-	ESP ABS Active
-	ESP ABS Tell Tale On
-	ESP Hill Descent Tell Tale Flashi
-	ESP Hill Descent Tell Tale On
-	ESP Initialization Active
-	ESP Prompt Hill Hold Disable
-	ESP Prompt Maintenance Mode Acti
-	ESP Prompt Service System Active
-	ESP System Deactivated
-	ESP TC Tell Tale Flashing
-	ESP TC Tell Tale On
-	ESP TCSS Off Tell Tale On
-	ESP Tell Tale On
 	Engine Load
 	Engine Running
 	Engine Speed
+	Esp Abs Active
+	Esp Abs Tell Tale On
+	Esp Hill Descent Tell Tale Flashi
+	Esp Hill Descent Tell Tale On
+	Esp Initialization Active
+	Esp Prompt Hill Hold Disable
+	Esp Prompt Maintenance Mode Acti
+	Esp Prompt Service System Active
+	Esp System Deactivated
+	Esp Tc Tell Tale Flashing
+	Esp Tc Tell Tale On
+	Esp Tcss Off Tell Tale On
+	Esp Tell Tale On
 	Fuel Cut Off
 	Fuel Injection Rate
 	Fuel Pump On
@@ -49,9 +49,9 @@ Signal Descriptions:
 	Fuel System Open Loop Drive
 	Fuel Trim Long Term
 	Fuel Trim Short Term
-	HVAC AC Active
-	HVAC AC Compressor Relay On
-	HVAC AC Pressure
+	Hvac Ac Active
+	Hvac Ac Compressor Relay On
+	Hvac Ac Pressure
 	Ignition Advance
 	Injection Pulse Width
 	Intake Air Temperature
@@ -78,8 +78,7 @@ Signal Descriptions:
 	Setting Units Temperature
 	Steering Wheel Angle Sensor 1
 	Steering Wheel Angle Sensor 2
-	TCSS Off
-	TPMS System Active
+	Tcss Off
 	Tell Tale Battery On
 	Tell Tale Immobilizer Flashing
 	Tell Tale Immobilizer On
@@ -93,6 +92,7 @@ Signal Descriptions:
 	Throttle Position Sensor 1 Volta
 	Torque Actual
 	Torque Driver Requested
+	Tpms System Active
 	Vehicle Speed
 	Wheel Speed Front Left
 	Wheel Speed Front Right

@@ -1,10 +1,10 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Audi 'A6' (2015)
 Signal Descriptions:
-	ABS Lamp Active
-	ACC Display Active
-	ACC Key Position Active
-	ACC Selected
+	Abs Lamp Active
+	Acc Display Active
+	Acc Key Position Active
+	Acc Selected
 	Accelerator Pedal Rate Of Change
 	Accerlator Pedal Position
 	Actuator Test Active
@@ -17,7 +17,6 @@ Signal Descriptions:
 	Automatic Off Active
 	Automatic Off Deactivate
 	Automatic Stop Start System Off
-	BRAKE Lamp Active
 	Belt Tensioner Mode
 	Blidspot System On
 	Blindspot Dection Active
@@ -25,6 +24,7 @@ Signal Descriptions:
 	Blindspot Dection System Error
 	Blindspot Warning Left
 	Blindspot Warning Right
+	Brake Lamp Active
 	Brake Switch
 	Console Lighting Group 2 Light Level
 	Crank Key Position Active
@@ -37,11 +37,11 @@ Signal Descriptions:
 	Driver Automatic Belt Tensioner On
 	Driver Seatbelt Buckled
 	Driver Seatbelt Not Buckled
-	ESP Lamp Active
-	ESP Voltage Request
 	Engine And Transmission Mode
 	Engine Speed
 	Engine Speed Warning
+	Esp Lamp Active
+	Esp Voltage Request
 	Fog Lights Active
 	Fuel Level
 	Fuel Tank Warning Lamp Active
@@ -66,9 +66,9 @@ Signal Descriptions:
 	Oil Pressure Switch
 	Oil Pressure Warning Active
 	Outside Temperature
-	PHC Selected
 	Passenger Automatic Belt Tensioner On
 	Passenger Seatbelt Buckled
+	Phc Selected
 	Rear Crash
 	Right Turn Siganl Status Active
 	Right Turn Signal Active 1
@@ -76,7 +76,7 @@ Signal Descriptions:
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
 	Seconds
-	Settings Speed MPH
+	Settings Speed Mph
 	Steering Mode
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
@@ -87,10 +87,10 @@ Signal Descriptions:
 	Tell Tale Seatbelt For Passenger Icon Active
 	Traction Control Off Active
 	Turn Signal Being Activated
-	USA Variant
 	Upper Engine Speed Limit
-	VIN Index Number
+	Usa Variant
 	Vehicle Speed
+	Vin Index Number
 	Wheel Speed Back Left
 	Wheel Speed Back Right
 	Wheel Speed Front Left
@@ -112,16 +112,16 @@ Signal Descriptions:
 	Cruise Control Stock Resume Pressed
 	Cruise Control Stock To Off Position
 	Current Gear
-	DPF Installed
 	Dates Units
 	Display Engine Speed
 	Distance Units Km 0 Mi 1
+	Dpf Installed
 	Driver Heated Seat Setting
 	Driving Cycle
 	Engine Coolant Temperature
 	Engine Liters
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Hazards Active
 	Headlights Active
 	Intake Air Temperature
@@ -136,10 +136,10 @@ Signal Descriptions:
 	Number Of Cylinders
 	Off Button Active
 	Oil Temperature
-	PRNDL 1
-	PRNDL 2
 	Passenger Heated Seat Setting
 	Pressure Units
+	Prndl 1
+	Prndl 2
 	Raising Vehicle
 	Recirculation Button Pressed
 	Speed Units 0 Km H 1 Mph
@@ -156,11 +156,11 @@ Signal Descriptions:
 	Warm Up Cycle
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
+	Abs Active
+	Abs Lamp Active
 	Absolute Load Value
 	Absolute Throttle Position
+	Acc Display Active
 	Accelerator Pedal Position
 	Accelerator Pedal Rate Of Change
 	Actuator Test Active
@@ -172,9 +172,9 @@ Signal Descriptions:
 	Auto Off Button Not Active
 	Autohold Active
 	Autohold In Standby
-	BRAKE Lamp Active
 	Belt Tensioner Mode
 	Brake And Acc Pressed Simultaneously
+	Brake Lamp Active
 	Brake Pressure
 	Brake Switch
 	Calculated Load Value
@@ -186,7 +186,6 @@ Signal Descriptions:
 	Cruise Control Stalk Pull Back
 	Cruise Control Stalk Up
 	Current Gear
-	DPF Installed
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Clutch Pedal Please Check Operation
 	Dash Prompt Clutch Temperature High You Can Continue Driving
@@ -201,6 +200,7 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Door Rear Driver Open
 	Door Rear Passenger Open
+	Dpf Installed
 	Drive System Mode Surface
 	Driver Door Error Left Mirror Indicator Faulty Message
 	Driver Door Lift Gate Close Button Pressed
@@ -223,8 +223,7 @@ Signal Descriptions:
 	Driver Window Up Switch
 	Driver Window Upper And Lower Limit Switch
 	Driving Cycle Active
-	ECD Not Available
-	ESP Lamp Active
+	Ecd Not Available
 	Engine And Transmission Mode
 	Engine Coolant Tempature
 	Engine Coolant Temperature
@@ -232,9 +231,10 @@ Signal Descriptions:
 	Engine Speed
 	Engine Torque Actual
 	Engine Torque Request
+	Esp Lamp Active
 	Exhaust Button Active
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Fog Lights Active
 	Front Drive Window Safety Retraction Active
 	Front Drive Window Window Over Heat
@@ -250,7 +250,6 @@ Signal Descriptions:
 	Fuel Tank Level Percent
 	Fuel Tank Warning Lamp Active
 	Glow Plug Lamp Active
-	HVAC Compress Active
 	Handbrake Active
 	Hazards Active
 	Head Light Switch State
@@ -260,9 +259,10 @@ Signal Descriptions:
 	Hill Descent Control Active
 	Hill Descent Control In Standby
 	Hood Open
+	Hvac Compress Active
 	Hydraulic Brake Assist Active
 	Intake Air Temperature
-	Key Position ACC
+	Key Position Acc
 	Key Position Crank
 	Key Position Ignition
 	Kickdown Trigger
@@ -270,8 +270,8 @@ Signal Descriptions:
 	Left Child Lock Active
 	Left Child Lock Button
 	Left Turn Signal Active
-	MIL Tell Tale
-	MKB Safe
+	Mil Tell Tale
+	Mkb Safe
 	Month
 	Normalized Trip Active
 	Number Of Cylinders
@@ -281,10 +281,10 @@ Signal Descriptions:
 	Oil Pressure Warning Active
 	Oil Temperature
 	Outside Air Temperature
-	PRNDL
 	Parking Brake Engaged
 	Passenger Seat Warmer Level
 	Pressure Units
+	Prndl
 	Rear Crash
 	Refueling Recognized
 	Right Child Lock Active
@@ -293,20 +293,20 @@ Signal Descriptions:
 	Right Turn Signal Active
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	SCR System Error Active
+	Scr System Error Active
 	Seatbelt Front Driver Buckled
 	Seatbelt Front Passenger Buckled
 	Seatbelt Rear Driver Buckled
 	Seatbelt Rear Middle Buckled
 	Seatbelt Rear Passenger Buckled
-	Settings Speed MPH
+	Settings Speed Mph
 	Shift Interlock
 	Side Mirrors Out State
 	Speed Units 0Kmh 1Mph
 	Start Assist Active
 	Steering Angle
 	Steering Angle Negative
-	Steering Intervention By ADAS
+	Steering Intervention By Adas
 	Steering Mode
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
@@ -329,13 +329,13 @@ Signal Descriptions:
 	Transmission Over Temperature Warning
 	Trunk Closed
 	Trunk Open
-	USA Variant
-	USA Variant
-	VIN Part1
-	VIN Part2
-	VIN Part3
+	Usa Variant
+	Usa Variant
 	Vehicle Speed
 	Vehicle Speed High Resolution
+	Vin Part1
+	Vin Part2
+	Vin Part3
 	Voltage Request
 	Volume Units
 	Warm Up Cycle Active
@@ -356,7 +356,6 @@ Signal Descriptions:
 Signal Descriptions:
 	Audio Reduction For Radio Started
 	Child Lock Fault Message
-	DTR Light
 	Driver Adjusting Passenger Seat Active
 	Driver Door Error Left Mirror Indicator Faulty Message
 	Driver Door Lift Gate Close Button Pressed
@@ -393,6 +392,7 @@ Signal Descriptions:
 	Driver Window Open
 	Driver Window Up Switch
 	Driver Window Upper And Lower Limit Switch
+	Dtr Light
 	Front Drive Window Safety Retraction Active
 	Front Drive Window Window Over Heat
 	Front Left Wheel Direction
@@ -415,7 +415,7 @@ Signal Descriptions:
 	Front Passenger Window Up Switch
 	Front Passenger Window Upper And Lower Limit Switch
 	Front Right Wheel Direction
-	Frount LED Strips Low Output
+	Frount Led Strips Low Output
 	Garage Door 1 Button Pressed
 	Garage Door 2 Button Pressed
 	Garage Door 3 Button Pressed
@@ -435,7 +435,7 @@ Signal Descriptions:
 	Key Fob Panic Pressed
 	Key Fob Trunk Pressed
 	Key Fob Unlock Pressed
-	LCA Not Available Service Necessary
+	Lca Not Available Service Necessary
 	Left Child Lock Active
 	Left Child Lock Button
 	Left Side Mirror Selected For Adjustment
@@ -514,7 +514,7 @@ Signal Descriptions:
 	Side Mirror Adjustment Switch Down
 	Side Mirror Adjustment Switch Left
 	Side Mirror Adjustment Switch Right
-	Side Mirror Adjustment Switch UP
+	Side Mirror Adjustment Switch Up
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
@@ -525,6 +525,6 @@ Signal Descriptions:
 	Trigger Image Activation
 	Wiper 1X Signal Stock Position Active
 	Wiper High Signal Stock Position Active
-	Wiper INT Signal Stock Position Active
-	Wiper LOW Signal Stock Position Active
+	Wiper Int Signal Stock Position Active
+	Wiper Low Signal Stock Position Active
 	Wiper Mister Pull Toward Driver Signal Stock Position Active

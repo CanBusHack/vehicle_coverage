@@ -1,114 +1,12 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Amg Sl' (2024)
 Signal Descriptions:
-	AC Active
-	Accelerator Pedal Position
-	Acoustic Lock Setting Active
-	Air Temperature Outside
-	Battery Voltage
-	Brake Pedal Percentage
-	Brake Pedal Pressure
-	Brake Switch Pressed
-	Check Engine Tell Tale Active
-	Check Fuel Filter Dash Prompt Active
-	Clock Day
-	Clock Hour
-	Clock Minute
-	Clock Month
-	Clock Seconds
-	Clock Year
-	Cruise Control Set Speed
-	Current Gear
-	Driver Door Closed
-	Driver Door Open
-	Driver Side Temperature In F
-	Driver Window Open Status
-	Engine Coolant Temperature
-	Engine Off Timer
-	Engine Speed
-	Engine Speed
-	Engine Torque
-	Fan Speed Driver Side
-	Fan Speed Passenger Side
-	Font Wipers Movement Speed
-	Front Driver Window Open Percent
-	Front Left Wheel Speed
-	Front Right Window Open Status
-	Fuel Pressure
-	Fuel Pump Duty Cycle
-	Fuel Rate
-	Fuel System MIL Tell Tale Request
-	Fuel Tank Level
-	Fuel Tell Tale Blinking
-	Fuel Temperature
-	Gear
-	HVAC Blower Position Driver Side
-	HVAC Blower Position Passenger Side
-	HVAC Max Active
-	HVAC Recirculation Active
-	Hood Closed
-	Hood Open
-	INT Wiper Active
-	Instrument Cluster Brightness Level
-	Left Rear Door Closed
-	Left Rear Door Open
-	Left Rear Wheel Speed
-	Light Dial Set Low Beams
-	Light Dial Set Side Lights
-	Light Dial Set To Auto
-	Light Dial Set To Left Parking Lights
-	Light Dial Set To Right Parking Lights
-	Lights High Beam Active
-	Lights High Beam Flash
-	Lights Low Beam Active
-	Odometer
-	PRNDL
-	Passenger Side Temperature In F
-	Power Mode
-	Power Mode
-	Rear INT Wiper Active
-	Rear Left Wheel Speed
-	Rear Left Window Open Percent
-	Rear Left Window Open Status
-	Rear Right Window Open Status
-	Rear Windows Unlocked
-	Rear Wiper In Motion
-	Recirculation Status Active
-	Right Front Door Closed
-	Right Front Door Open
-	Right Front Window Open Percent
-	Right Rear Door Closed
-	Right Rear Door Open
-	Right Rear Wheel Speed
-	Right Rear Window Open Percent
-	Steering Left Side Back Home Button Selected
-	Steering Left Side Mute Button Selected
-	Steering Right Side Answer Call Button Pressed
-	Steering Right Side Back Home Button Pressed
-	Steering Right Side Hang Up Button Pressed
-	Steering Right Side Home Button Pressed
-	Steering Right Side Start Button Pressed
-	Steering Right Side Voice Command Button Pressed
-	Steering Right Side Volume Control Up Pressed
-	Steering Wheel Angle
-	Steering Wheel Angle Acceleration
-	Turn And Hazard Light Status
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
-	Vehicle Speed
-	Vehicle Speed Units
-	Wheel Moving In Reverse
-	Wheel Moving In Reverse
-	Wipers In Motion
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	ABS Tell Tale Active
-	ASB And Traction Control Inoperative Dash Prompt
+	Abs Tell Tale Active
 	Accelerator Pedal Position
 	Acoustic Lock Setting Active
 	Active Hood Malfunction Dash Prompt
 	Ambient Temperature
+	Asb And Traction Control Inoperative Dash Prompt
 	Attention Assist Inoperative Dash Prompt
 	Attention Assist Take A Break Dash Prompt
 	Battery Malfunction Dash Prompt
@@ -142,12 +40,12 @@ Signal Descriptions:
 	Cruise Control Off Dash Prompt
 	Cruise Control Resume
 	Cruise Set Speed
-	DSR Inoperative Dash Prompt
-	DSR Off Dash Prompt
 	Day Time Running Lights Setting Active Lights
 	Display Gear
 	Drive More Slowly Dash Prompt
 	Driver Brake
+	Dsr Inoperative Dash Prompt
+	Dsr Off Dash Prompt
 	Engine Coolant Temperature
 	Engine Oil Pressure Stop Switch Off Engine Dash Prompt
 	Engine Speed
@@ -155,11 +53,11 @@ Signal Descriptions:
 	Front Wiper In Motion
 	Fuel Tank Displayed Level
 	Gear Park Button Pressed
-	HOLD Cannot Be Activated Dash Prompt
-	HOLD Dash Prompt
 	Heated Steering Wheel Stock Position Off
 	Heated Steering Wheel Stock Position On
 	High Beam Active
+	Hold Cannot Be Activated Dash Prompt
+	Hold Dash Prompt
 	Horn
 	Intake Air Temperature
 	Key Being Initialized Please Wait Dash Prompt
@@ -174,10 +72,10 @@ Signal Descriptions:
 	Low Beam Active
 	Low Fuel Tell Tale Active
 	Low Fuel Tell Tale Active
-	MIL Tell Tale Active
 	Manual Display Gear
 	Max Speed 20 Kmh Dash Prompt
 	Max Speed 40Mph Dash Prompt
+	Mil Tell Tale Active
 	Obtain A New Key Dash Prompt
 	Odometer
 	Odometer Dash Display
@@ -213,7 +111,7 @@ Signal Descriptions:
 	Steering Wheel End Call Button Active
 	Steering Wheel Left Arrow Button Active
 	Steering Wheel Mute Button Active
-	Steering Wheel OK Button Active
+	Steering Wheel Ok Button Active
 	Steering Wheel Rate
 	Steering Wheel Right Arrow Button Active
 	Steering Wheel Up Arrow Button Active
@@ -222,14 +120,14 @@ Signal Descriptions:
 	Steering Wheel Volume Up Button Active
 	Steering Wheel X Y And Z Control Stock Position
 	Stop Vehicle Shift To P Leave Engine Running Dash Prompt
-	TPMS Front Left
-	TPMS Front Left Low Tier Low Tell Tale
-	TPMS Front Right
-	TPMS Front Right Low Tier Low Tell Tale
-	TPMS Rear Left
-	TPMS Rear Left Low Tier Low Tell Tale
-	TPMS Rear Right
-	TPMS Rear Right Low Tier Low Tell Tale
+	Tpms Front Left
+	Tpms Front Left Low Tier Low Tell Tale
+	Tpms Front Right
+	Tpms Front Right Low Tier Low Tell Tale
+	Tpms Rear Left
+	Tpms Rear Left Low Tier Low Tell Tale
+	Tpms Rear Right
+	Tpms Rear Right Low Tier Low Tell Tale
 	Traction Control Currently Unavailable Dash Prompt
 	Traction Control Inoperative Dash Prompt
 	Traction Control Off Tell Tale Active
@@ -237,8 +135,8 @@ Signal Descriptions:
 	Traction Control Tell Tale Blinking Active
 	Transmission Malfunction Stop Dash Prompt
 	Units In Miles Active
-	VIN Part 1
 	Vehicle Speed
+	Vin Part 1
 	Wiper Movement Speed
 	Yellow Auto Start Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -309,8 +207,8 @@ Signal Descriptions:
 	Driver Seat Surface Setting
 	Driver Seat Vent Switch Active
 	Driver Window Moving
-	ECO Mode On
 	Easy Entry And Exit Setting Active
+	Eco Mode On
 	Exterior Light Switch Auto Selected
 	Exterior Light Switch Left Parking Light Active Selected
 	Exterior Light Switch Low Beam Selected
@@ -319,15 +217,15 @@ Signal Descriptions:
 	Front Left Park Assist Distance Bars
 	Front Parking Assist Alert Activ
 	Front Right Park Assist Distance Bars
-	HVAC Auto On
-	HVAC Cabin Recirculation
-	HVAC Change Bit
-	HVAC Driver Side Climate Zone Temperature
-	HVAC Off
-	HVAC Passenger Side Climate Zone Temperature
 	Hazard Lights Button Active
 	Hood Closed
 	Hood Open
+	Hvac Auto On
+	Hvac Cabin Recirculation
+	Hvac Change Bit
+	Hvac Driver Side Climate Zone Temperature
+	Hvac Off
+	Hvac Passenger Side Climate Zone Temperature
 	Interior Lighting Delay Setting Active
 	Left A Pillar Overhead Light
 	Left Side Curtain Airbag Malfunction Service Required Dash Prompt
@@ -336,7 +234,7 @@ Signal Descriptions:
 	Left Window Open Percentage
 	Malfunction Service Required Dash Prompt
 	Manual Mode
-	Open Close Vario Roof Completely Message In RED
+	Open Close Vario Roof Completely Message In Red
 	Open Close Vario Roof Completely Message In White
 	P M Active
 	Park Assist Button Active
@@ -399,11 +297,11 @@ Signal Descriptions:
 	Right Window Open Percentage
 	Roof Converting In Progress
 	Roof Operation Tone
-	SRS Malfunction Service Required Dash Prompt
 	Settings Display Night Mode Active
 	Settings Language
 	Settings Rear View Camera Activation By R Gear Active
 	Side Mirror Directional Controls Active
+	Srs Malfunction Service Required Dash Prompt
 	Surround Lighting Setting Active
 	Suspension Sport Mode Active
 	Traction Control Button Active
@@ -421,3 +319,105 @@ Signal Descriptions:
 	Wheel Speed Rear Right
 	Wind Deflector Button Active
 	Wind Deflector Up
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Active
+	Accelerator Pedal Position
+	Acoustic Lock Setting Active
+	Air Temperature Outside
+	Battery Voltage
+	Brake Pedal Percentage
+	Brake Pedal Pressure
+	Brake Switch Pressed
+	Check Engine Tell Tale Active
+	Check Fuel Filter Dash Prompt Active
+	Clock Day
+	Clock Hour
+	Clock Minute
+	Clock Month
+	Clock Seconds
+	Clock Year
+	Cruise Control Set Speed
+	Current Gear
+	Driver Door Closed
+	Driver Door Open
+	Driver Side Temperature In F
+	Driver Window Open Status
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Speed
+	Engine Speed
+	Engine Torque
+	Fan Speed Driver Side
+	Fan Speed Passenger Side
+	Font Wipers Movement Speed
+	Front Driver Window Open Percent
+	Front Left Wheel Speed
+	Front Right Window Open Status
+	Fuel Pressure
+	Fuel Pump Duty Cycle
+	Fuel Rate
+	Fuel System Mil Tell Tale Request
+	Fuel Tank Level
+	Fuel Tell Tale Blinking
+	Fuel Temperature
+	Gear
+	Hood Closed
+	Hood Open
+	Hvac Blower Position Driver Side
+	Hvac Blower Position Passenger Side
+	Hvac Max Active
+	Hvac Recirculation Active
+	Instrument Cluster Brightness Level
+	Int Wiper Active
+	Left Rear Door Closed
+	Left Rear Door Open
+	Left Rear Wheel Speed
+	Light Dial Set Low Beams
+	Light Dial Set Side Lights
+	Light Dial Set To Auto
+	Light Dial Set To Left Parking Lights
+	Light Dial Set To Right Parking Lights
+	Lights High Beam Active
+	Lights High Beam Flash
+	Lights Low Beam Active
+	Odometer
+	Passenger Side Temperature In F
+	Power Mode
+	Power Mode
+	Prndl
+	Rear Int Wiper Active
+	Rear Left Wheel Speed
+	Rear Left Window Open Percent
+	Rear Left Window Open Status
+	Rear Right Window Open Status
+	Rear Windows Unlocked
+	Rear Wiper In Motion
+	Recirculation Status Active
+	Right Front Door Closed
+	Right Front Door Open
+	Right Front Window Open Percent
+	Right Rear Door Closed
+	Right Rear Door Open
+	Right Rear Wheel Speed
+	Right Rear Window Open Percent
+	Steering Left Side Back Home Button Selected
+	Steering Left Side Mute Button Selected
+	Steering Right Side Answer Call Button Pressed
+	Steering Right Side Back Home Button Pressed
+	Steering Right Side Hang Up Button Pressed
+	Steering Right Side Home Button Pressed
+	Steering Right Side Start Button Pressed
+	Steering Right Side Voice Command Button Pressed
+	Steering Right Side Volume Control Up Pressed
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Turn And Hazard Light Status
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse
+	Wipers In Motion

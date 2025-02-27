@@ -1,11 +1,11 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Inifiniti 'Q60' (2020)
 Signal Descriptions:
-	ABS Active
-	ABS Tell Tale Active
-	ACC NA Front Camera Imared
-	ACC Unavailable High Cabin Temperature
 	Abs Active
+	Abs Active
+	Abs Tell Tale Active
+	Acc Na Front Camera Imared
+	Acc Unavailable High Cabin Temperature
 	Accelerator Pedal Position 1
 	Accelerator Pedal Position 2
 	Adaptive Cruise Currently Unavai 1
@@ -34,7 +34,7 @@ Signal Descriptions:
 	Brake Switch 2 Active
 	Brake Switch Not Active
 	Brake Tell Tale Active
-	Brakes ESP On
+	Brakes Esp On
 	Brakes Parking Brake Disengaged
 	Brakes Parking Brake Engaged
 	Camera Active
@@ -51,7 +51,7 @@ Signal Descriptions:
 	Crash Avoidance Unavailable High
 	Cruise Control And Speed Limiter Set Speed
 	Cruise Control And Speed Limiter Status
-	Cruise Units MPH Set
+	Cruise Units Mph Set
 	Deceleration G Sensor
 	Door Front Left Closed
 	Door Front Left Open
@@ -64,9 +64,8 @@ Signal Descriptions:
 	Driving Aid Emergency Braking Off
 	Driving Aid Emergency Braking On
 	Driving Assist Traffic Sign Displayed
-	ECO Icon Active
-	ESP Disabled
 	Eco Button Pressed
+	Eco Icon Active
 	Engine Auto Start And Stop System Off
 	Engine Auto Start And Stop System On
 	Engine Coolant Temperature
@@ -75,6 +74,7 @@ Signal Descriptions:
 	Engine Torque
 	Engine Torque Name From Scan Tool
 	Error Can Not Shift To Desidered Manual Gear
+	Esp Disabled
 	Fog Lights Active
 	Follow Distance
 	Follow Distance Button Pressed
@@ -98,11 +98,6 @@ Signal Descriptions:
 	Front Wipers Active
 	Fuel Level
 	Fuel Rate
-	HVAC AC Active
-	HVAC Fan Active
-	HVAC System Rear Defroster On
-	HVAC Windscreen Defroster Off
-	HVAC Windscreen Max Defogger On
 	Hands On Wheel Warning
 	Hazards Active
 	Hazards Not Active
@@ -110,13 +105,17 @@ Signal Descriptions:
 	High Beams Active
 	Hood Closed
 	Hood Open
-	IC Message Large Warning Flashing
+	Hvac Ac Active
+	Hvac Fan Active
+	Hvac System Rear Defroster On
+	Hvac Windscreen Defroster Off
+	Hvac Windscreen Max Defogger On
+	Ic Message Large Warning Flashing
 	Ignition On 1
 	Ignition On 2
 	Intake Air Temperature
 	Key Fob Central Lock Applied
 	Key Fob Central Lock Unlock
-	LKAS Error Flashing
 	Lane Departure Unavailable Clean
 	Lane Departure Unavailable High 1
 	Lane Departure Unavailable High 2
@@ -132,11 +131,11 @@ Signal Descriptions:
 	Lights All Off
 	Lights Any On
 	Lights Side Lights On
+	Lkas Error Flashing
 	Lock Command
-	MIL Status
+	Mil Status
 	No Button Pressed
 	Overdrive Switch Status
-	PRNDL
 	Park Or Neutral Active
 	Parking Aid Moving Object Off
 	Parking Aid Moving Object On
@@ -146,17 +145,18 @@ Signal Descriptions:
 	Parking Brake Disengaging
 	Parking Brake Engaging
 	Pedal Accelerator Pedal Position
-	Pedal Accelerator Pedal WOT Switch On
+	Pedal Accelerator Pedal Wot Switch On
 	Power Mode
 	Power Steering Tell Tale Active
 	Press Brake To Start Image Active
 	Primary Torque Name From Scan Tool
+	Prndl
 	Propilot Button Pressed
-	Propilot NA Front Camera Obstructed
-	Propilot NA High Cabin Temperature
-	Propilot NA Message
-	Pulley Gea Ratio MSB
-	Pulley Gear Ratio LSB
+	Propilot Na Front Camera Obstructed
+	Propilot Na High Cabin Temperature
+	Propilot Na Message
+	Pulley Gea Ratio Msb
+	Pulley Gear Ratio Lsb
 	Rear Defroster Active
 	Rear Left Flat Tire
 	Rear Left Tire Pressure
@@ -211,10 +211,10 @@ Signal Descriptions:
 	Steering Wheel Torque
 	System Setting Read Welcome Lights Set To On
 	System Setting Welcome Light Set To On
-	TPMS Error See Owner S Manual
 	Tell Tale Auto Hold Gray Active
 	Tell Tale Auto Hold Green Active
 	Tell Tale Tire Pressure Active
+	Tpms Error See Owner S Manual
 	Traction Control Tell Tale Active
 	Traffic Sign Detection Active
 	Traffic Sign Detection Not Active
@@ -229,7 +229,7 @@ Signal Descriptions:
 	Turnsignal Right Stock Position Active
 	Unavailable Select Driving Aids 1
 	Unavailable Select Driving Aids 2
-	Unit For Speed Set To MPH
+	Unit For Speed Set To Mph
 	Unlock Command
 	Vehicle Speed
 	Warning Blind Spot Detection Mal
@@ -255,4 +255,4 @@ Signal Descriptions:
 	Wheel Speed Front Right
 	Wheel Speed Rear Driver
 	Wheel Speed Rear Passenger
-	Wheels Front Axle ABS Torque QQ
+	Wheels Front Axle Abs Torque Qq

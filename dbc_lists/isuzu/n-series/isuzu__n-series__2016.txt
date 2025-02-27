@@ -1,0 +1,132 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Isuzu 'N-Series' (2016)
+Signal Descriptions:
+	Abs Active
+	Abs Ebsamberwarningsignal
+	Accelpedal1Lowidleswitch
+	Accelpedal2Lowidleswitch
+	Accelpedalkickdownswitch
+	Accelpedalpos1
+	Accelpedalpos2
+	Actlengprcnttorquehighresolution
+	Actlmaxavailableengpercenttorque
+	Actualengpercenttorque
+	Auxi O01
+	Auxi O02
+	Auxi O03
+	Auxi O04
+	Auxi O05
+	Auxi O06
+	Auxi O07
+	Auxi O08
+	Auxi O09
+	Auxi O10
+	Auxi O11
+	Auxi O12
+	Auxi O13
+	Auxi O14
+	Auxi O15
+	Auxi O16
+	Auxi Ochannel1
+	Auxi Ochannel2
+	Battery Voltage
+	Brakeswitch
+	Brakeswitch
+	Clutchswitch
+	Clutchswitch
+	Cruisectrlaccelerateswitch
+	Cruisectrlaccelerateswitch
+	Cruisectrlactive
+	Cruisectrlactive
+	Cruisectrlcoastswitch
+	Cruisectrlcoastswitch
+	Cruisectrlenableswitch
+	Cruisectrlenableswitch
+	Cruisectrlpauseswitch
+	Cruisectrlpauseswitch
+	Cruisectrlresumeswitch
+	Cruisectrlresumeswitch
+	Cruisectrlsetspeed
+	Cruisectrlsetspeed
+	Cruisectrlsetswitch
+	Cruisectrlsetswitch
+	Cruisectrlstates
+	Dpfthermalmanagementactive
+	Driver Seat Belt Telltail On
+	Driversdemandengpercenttorque
+	Ebsredwarningsignal
+	Engcoolanttemp
+	Engdemandpercenttorque
+	Engfueltemp1
+	Engidledecrementswitch
+	Engidleincrementswitch
+	Engintercoolertemp
+	Engintercoolerthermostatopening
+	Engoiltemp1
+	Engpercentloadatcurrentspeed
+	Engshutdownoverrideswitch
+	Engspeed
+	Engstartermode
+	Engtestmodeswitch
+	Engtorquemode
+	Engtotalhoursofoperation
+	Engtotalrevolutions
+	Engturbooiltemp
+	Fuel Rail Pressure
+	Intake Air Flow Valve 1
+	Intake Air Flow Valve 2
+	Intake Air Temperature
+	Master Cylinder Pressure Sensor Output
+	Mmntaryengmaxpowerenablefeedback
+	Nominalfrictionpercenttorque
+	Odometer
+	Parkbrakereleaseinhibitrq
+	Parkbrakereleaseinhibitrq
+	Parkingbrakeswitch
+	Parkingbrakeswitch
+	Prndl
+	Ptogovernorstate
+	Relative Intake Air Flow A Position
+	Remoteaccelpedalpos
+	Roadspeedlimitstatus
+	Scrthermalmanagementactive
+	Srcaddrssofcntrllngdvcforengctrl
+	Transcurrentgear
+	Transmission Fluid Temperature Tcc
+	Transmission Fluid Temperature Valve Body
+	Transmission Overdrive Off
+	Transselectedgear
+	Twospeedaxleswitch
+	Twospeedaxleswitch
+	Variable Geometry Turbo A Position
+	Vhcleaccelerationratelimitstatus
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Wheelbasedvehiclespeed
+	Wheelbasedvehiclespeed
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Actual Engine Torque 1
+	Actual Engine Torque 2
+	Ambient Air Temperature
+	Battery Voltage
+	Egr A Duty Cycle Position
+	Egr Solenoid Valve Position
+	Engine Coolant Temperature
+	Engine Load
+	Engine Speed
+	Fuel Temperature
+	Intake Air Flow Valve Position
+	Intake Air Temperature
+	Mass Air Flow Maf
+	Nox Concentration Downstream
+	Nox Concentration Upstream
+	O2 Ratio Downstream
+	O2 Ratio Upstream
+	Power Mode
+	Time Since Engine Start
+	Turbocharger Boost Pressure
+	Urea Fluid Tank Temperature
+	Vehicle Speed

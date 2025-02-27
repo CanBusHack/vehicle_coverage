@@ -1,28 +1,28 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Hyundai 'I30' (2013)
 Signal Descriptions:
-	ABS Active
-	ABS Diagnostic Mode Active
-	ABS System Failure
-	ABS Tell Tale Active
-	AC Blower Active
-	AC Clutch Disable Active
-	AC Compressor On
-	AC Compressor State
-	AC Compressor Type
-	AC Engine Stop Disable Active
-	AC Max Active
-	AC Remote Start Request
-	AC Switch On
-	AC System Fault Active
-	AC System Manufacturer
+	Abs Active
+	Abs Diagnostic Mode Active
+	Abs System Failure
+	Abs Tell Tale Active
+	Ac Blower Active
+	Ac Clutch Disable Active
+	Ac Compressor On
+	Ac Compressor State
+	Ac Compressor Type
+	Ac Engine Stop Disable Active
+	Ac Max Active
+	Ac Remote Start Request
+	Ac Switch On
+	Ac System Fault Active
+	Ac System Manufacturer
 	Accelerator Pedal Position
 	Accelerator Pedal Pressed
 	Activate Brake Lights Request
 	Actual Engine Torque
 	Adaptive Cruise Control Active
-	Airbag Controller DTC State
-	Airbag Controller DTC Value
+	Airbag Controller Dtc State
+	Airbag Controller Dtc Value
 	Airbag Controller Fault Count
 	Airbag Controller Side Airbag St
 	Barometric Pressure
@@ -91,7 +91,6 @@ Signal Descriptions:
 	Fuel Temperature
 	Glow Plug State
 	Glow Plug Tell Tale On
-	HVAC Current Torque
 	Hazards
 	Headlight Switch State
 	Headlights High
@@ -102,6 +101,7 @@ Signal Descriptions:
 	Hill Start System Failure
 	Hill Start System On
 	Hood State
+	Hvac Current Torque
 	Ignition Status
 	Immobilizer State
 	Immobilizer Status
@@ -114,13 +114,12 @@ Signal Descriptions:
 	Long Term Fuel Trim Bank 1
 	Long Term Fuel Trim Bank 2
 	Longitudinal Acceleration
-	MIL Lamp Active
 	Maximum Torque
+	Mil Lamp Active
 	Odometer
 	Outside Air Temperature Correcte
 	Outside Air Temperature Raw
 	Overdrive Off
-	PTC Relay Active
 	Parking Brake Set
 	Passenger Detected
 	Passenger Door Status
@@ -129,6 +128,7 @@ Signal Descriptions:
 	Passenger Seatbelt State
 	Passenger Seatbelt Status
 	Passive Access Lock
+	Ptc Relay Active
 	Requested Torque
 	Requested Torque
 	Right Turn Signal
@@ -138,10 +138,10 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Sun Roof Open
-	TCU Failure State
+	Tcu Failure State
 	Telematics Current Gear
 	Telematics Cylinder Displacement
-	Telematics ECO Available
+	Telematics Eco Available
 	Telematics Electronics Starter T
 	Telematics Engine Speed Limit Va
 	Telematics Fuel Cut Inhibit Requ
@@ -170,7 +170,7 @@ Signal Descriptions:
 	Torque Min Max Ration
 	Torque Minimum
 	Traction Control System Active
-	Traction Control System And ESP
+	Traction Control System And Esp
 	Traction Control System Disabled
 	Traction Control System Error Te
 	Traction Control System Failure
@@ -179,7 +179,7 @@ Signal Descriptions:
 	Traction Control System Warning
 	Tranmission Output Speed
 	Tranmission Temperature
-	Transmission Control CAN Message
+	Transmission Control Can Message
 	Transmission Reduction Percent
 	Transmission Torque Limit Percent
 	Transmission Type

@@ -1,23 +1,23 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Kia 'K3000S' (2018)
 Signal Descriptions:
-	ABS Active
-	ABS Diagnostic Mode Active
-	ABS System Failure
-	ABS Tell Tale Active
-	AC Active
-	AC Automatic Controls Active
-	AC Blower Active
-	AC Clutch Disable Active
-	AC Compressor On
-	AC Compressor State
-	AC Compressor Type
-	AC Engine Stop Disable Active
-	AC Max Active
-	AC Remote Start Request
-	AC Switch On
-	AC System Fault Active
-	AC System Manufacturer
+	Abs Active
+	Abs Diagnostic Mode Active
+	Abs System Failure
+	Abs Tell Tale Active
+	Ac Active
+	Ac Automatic Controls Active
+	Ac Blower Active
+	Ac Clutch Disable Active
+	Ac Compressor On
+	Ac Compressor State
+	Ac Compressor Type
+	Ac Engine Stop Disable Active
+	Ac Max Active
+	Ac Remote Start Request
+	Ac Switch On
+	Ac System Fault Active
+	Ac System Manufacturer
 	Accelerator Pedal Position
 	Accelerator Pedal Position
 	Accelerator Pedal Pressed
@@ -36,8 +36,8 @@ Signal Descriptions:
 	Adaptive Cruise Torque Percent
 	Adaptive Cruise Torque Request
 	Adaptive Cruise Vehicle Ahead
-	Airbag Controller DTC State
-	Airbag Controller DTC Value
+	Airbag Controller Dtc State
+	Airbag Controller Dtc Value
 	Airbag Controller Fault Count
 	Airbag Controller Side Airbag St
 	Ambient Air Temperature
@@ -95,13 +95,12 @@ Signal Descriptions:
 	Cruise Control Active
 	Cruise Control Set Tell Tale On
 	Cruise Control Speed
-	Cruise Control Speed In KPH
+	Cruise Control Speed In Kph
 	Cruise Control Switch State
 	Cruise Control Tell Tale On
 	Current Fuel Consumption
 	Current Spark Ignition Time
 	Current Torque
-	DTC Count
 	Deceleration Active
 	Deceleration Request
 	Defogger On
@@ -120,7 +119,8 @@ Signal Descriptions:
 	Driver Temperature In Fahrenheit
 	Driver Window Open
 	Driving Style Tell Tale
-	ECO Tell Tale Active
+	Dtc Count
+	Eco Tell Tale Active
 	Electronic Stability Control Bra
 	Electronic Stability Control Sta
 	Electronic Stability Vehicle Active
@@ -171,11 +171,8 @@ Signal Descriptions:
 	Gear Shift Up Tell Tale Active
 	Glow Plug State
 	Glow Plug Tell Tale On
-	HD Maps Support
-	HVAC Current Torque
-	HVAC Mode
-	HVAC State
 	Hazards
+	Hd Maps Support
 	Headlight Switch State
 	Headlights High
 	Headlights Low
@@ -186,6 +183,9 @@ Signal Descriptions:
 	Hill Start System Failure
 	Hill Start System On
 	Hood State
+	Hvac Current Torque
+	Hvac Mode
+	Hvac State
 	Ignition Cycle Count
 	Ignition Status
 	Immobilizer State
@@ -201,11 +201,11 @@ Signal Descriptions:
 	Long Term Fuel Trim Bank 2
 	Longitudinal Acceleration
 	Low Fuel Tell Tale Active
-	MIL Lamp Active
 	Mass Air Flow
 	Mass Air Flow
 	Max Acceleration Request
 	Maximum Torque
+	Mil Lamp Active
 	Minimum Acceleration Request
 	Module Reprogramming State
 	Navigation Distance Units
@@ -216,12 +216,12 @@ Signal Descriptions:
 	Navigation Preset Number
 	Navigation Time Format
 	Navigation Time Type
-	Network Management 4WD Command
-	Network Management 4WD Key
-	Network Management 4WD Sleep Indic
-	Network Management DATC Command
-	Network Management DATC Key
-	Network Management DATC Sleep Indi
+	Network Management 4Wd Command
+	Network Management 4Wd Key
+	Network Management 4Wd Sleep Indic
+	Network Management Datc Command
+	Network Management Datc Key
+	Network Management Datc Sleep Indi
 	Odometer
 	Odometer
 	Oil Pressure Tell Tale Active
@@ -231,7 +231,6 @@ Signal Descriptions:
 	Outside Air Temperature Raw
 	Outside Mirror Temperature
 	Overdrive Off
-	PTC Relay Active
 	Park Aid System Center Front
 	Park Aid System Center Rear
 	Park Aid System Enabled
@@ -243,7 +242,7 @@ Signal Descriptions:
 	Parking Brake Active
 	Parking Brake Set
 	Passenger Door Status
-	Passenger HVAC Mode
+	Passenger Hvac Mode
 	Passenger Rear Door Open
 	Passenger Seatbelt Failure
 	Passenger Seatbelt State
@@ -259,6 +258,7 @@ Signal Descriptions:
 	Playback Time Minute
 	Playback Time Seconds
 	Playback Track Number
+	Ptc Relay Active
 	Radio Country Setting
 	Radio Language Setting
 	Radio Mute Active
@@ -269,11 +269,11 @@ Signal Descriptions:
 	Radio Vehicle Speed
 	Radio Volume
 	Rear Actual Torque
-	Rear Automatic HVAC Active
+	Rear Automatic Hvac Active
 	Rear Blower State
 	Rear Driver Window Open
-	Rear HVAC Display State
-	Rear HVAC Mode
+	Rear Hvac Display State
+	Rear Hvac Mode
 	Rear Left Tire Pressure
 	Rear Left Tire Pressure Tell Tale
 	Rear Passenger Window Open
@@ -297,12 +297,12 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Gradient
 	Sun Roof Open
-	TCU Failure State
 	Target Engine Idle Speed
+	Tcu Failure State
 	Telematics Current Gear
 	Telematics Cylinder Displacement
 	Telematics Defrost Activate
-	Telematics ECO Available
+	Telematics Eco Available
 	Telematics Electronics Starter T
 	Telematics Engine Speed Limit Va
 	Telematics Fuel Cut Inhibit Requ
@@ -339,7 +339,7 @@ Signal Descriptions:
 	Torque Percentage
 	Traction Control Brake Light Active
 	Traction Control System Active
-	Traction Control System And ESP
+	Traction Control System And Esp
 	Traction Control System Disabled
 	Traction Control System Error Te
 	Traction Control System Failure
@@ -348,7 +348,7 @@ Signal Descriptions:
 	Traction Control System Warning
 	Tranmission Output Speed
 	Tranmission Temperature
-	Transmission Control CAN Message
+	Transmission Control Can Message
 	Transmission Reduction Percent
 	Transmission Torque Limit Percent
 	Transmission Type

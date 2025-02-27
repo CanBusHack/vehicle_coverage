@@ -1,25 +1,13 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Lincoln 'Mkx Nautilus' (2011)
 Signal Descriptions:
-	ABS Chime
-	ABS Tell Tale
-	ABS Vehicle Speed
-	AC Clutch On
-	AC High Side Pressure
-	AC Recycle Request
-	AC Request
-	AWD Auto Tell Tale
-	AWD High Tell Tale
-	AWD Lock Tell Tale
-	AWD Low Tell Tale
-	AWD Max Torque
-	AWD Min Torque
-	AWD Offroad Mode State
-	AWD Rear Whd Driver Tell Tale
-	AWD Shift In Progress
-	AWD State
-	AWD System Torque
-	AWD Tell Tale
+	Abs Chime
+	Abs Tell Tale
+	Abs Vehicle Speed
+	Ac Clutch On
+	Ac High Side Pressure
+	Ac Recycle Request
+	Ac Request
 	Accelerator Pedal Pos Speed
 	Accelerator Pedal Position
 	Accessory Power Delay Setting
@@ -44,6 +32,18 @@ Signal Descriptions:
 	Aux 2 Active
 	Aux 3 Active
 	Aux 4 Active
+	Awd Auto Tell Tale
+	Awd High Tell Tale
+	Awd Lock Tell Tale
+	Awd Low Tell Tale
+	Awd Max Torque
+	Awd Min Torque
+	Awd Offroad Mode State
+	Awd Rear Whd Driver Tell Tale
+	Awd Shift In Progress
+	Awd State
+	Awd System Torque
+	Awd Tell Tale
 	Barometric Pressure
 	Battery Temperature
 	Blower Motor
@@ -52,8 +52,8 @@ Signal Descriptions:
 	Brake Pedal Switch Status
 	Brake Pressure
 	Brake Switch Status
-	CC Vehicle Speed Display
 	Calibrate Icon Tell Tale
+	Cc Vehicle Speed Display
 	Center 2Nd Rw Seatbelt
 	Center 3Rd Rw Seatbelt
 	Center Left Rear Cnr Sen Range
@@ -77,15 +77,15 @@ Signal Descriptions:
 	Driver 3Rd Rw Seatbelt
 	Driver Alert System On
 	Driver Door Status
-	Driver Front Seat HVAC Level
-	Driver Front Seat HVAC Req
+	Driver Front Seat Hvac Level
+	Driver Front Seat Hvac Req
 	Driver Front Tire Pressure
 	Driver Front Tire Pressure State
 	Driver Gear Choice
 	Driver Input Steering Torque
 	Driver Overiding Cruise Control
-	Driver Rear Seat HVAC Level
-	Driver Rear Seat HVAC Req
+	Driver Rear Seat Hvac Level
+	Driver Rear Seat Hvac Req
 	Driver Rear Tire Pressure
 	Driver Rear Tire Pressure State
 	Driver Seat Climate
@@ -108,13 +108,9 @@ Signal Descriptions:
 	Fuel Alcohol Percent
 	Fuel Level
 	Fuel Pump Shutdown Req
-	GPS Heading
 	Gear Reverse Status
 	Gear Tell Tale
-	HVAC AC Enabled
-	HVAC Current Evap Temperature
-	HVAC Rear Control Master
-	HVAC Requested Evap Temperature
+	Gps Heading
 	Headlamp High Beam
 	Headlights Switch State
 	Heated Steering Wheel State
@@ -124,6 +120,10 @@ Signal Descriptions:
 	Hill Start System
 	Hill Stop Transmission Output Sp
 	Hood Status
+	Hvac Ac Enabled
+	Hvac Current Evap Temperature
+	Hvac Rear Control Master
+	Hvac Requested Evap Temperature
 	Ignition State
 	Immobilizer Tell Tale
 	Instanteous Fuel Flow
@@ -142,23 +142,20 @@ Signal Descriptions:
 	Locking System State
 	Lognitudinal Accel
 	Lower Volume Request
-	MIL Request
 	Max Delta Velocity
 	Memory Seat Recall Save
 	Mid 2Nd Rw Seatblt St Arbg Evnt
 	Mid 3Rd Rw Seatblt St Arbg Evnt
+	Mil Request
 	Multiple Deployment Events
-	Muxed VIN Part 1
-	Muxed VIN Part 2
-	Muxed VIN Part 3
+	Muxed Vin Part 1
+	Muxed Vin Part 2
+	Muxed Vin Part 3
 	Odometer
 	Oil Life Percent
 	Oil Pressure Tell Tale
 	Outside Air Temperature
 	Outside Air Temperature
-	PRNDL Position
-	PRNDL Tell Tale
-	PRNDL Tell Tale State
 	Park Aid Chime Enabled
 	Park Aid Chime Front Target
 	Park Aid Chime Front Warning
@@ -175,12 +172,12 @@ Signal Descriptions:
 	Passenger 2Nd Rw Seatbelt
 	Passenger 3Rd Rw Seatbelt
 	Passenger Door Status
-	Passenger Front Seat HVAC Level
-	Passenger Front Seat HVAC Req
+	Passenger Front Seat Hvac Level
+	Passenger Front Seat Hvac Req
 	Passenger Front Tire Pressure
 	Passenger Front Tire Pressure St
-	Passenger Rear HVAC Level
-	Passenger Rear Seat HVAC Req
+	Passenger Rear Hvac Level
+	Passenger Rear Seat Hvac Req
 	Passenger Rear Tire Pressure
 	Passenger Rear Tire Pressure Sta
 	Passenger Seat Climate
@@ -189,12 +186,15 @@ Signal Descriptions:
 	Passenger Seatbelt Tell Tale
 	Pitch Rate
 	Power Assist Failure
-	RCM Tell Tale
+	Prndl Position
+	Prndl Tell Tale
+	Prndl Tell Tale State
 	Radio Multimedia System On
+	Rcm Tell Tale
 	Rear Defroster
 	Rear Driver Door Status
 	Rear Fog Lamp Tell Tale
-	Rear HVAC Blower Setting
+	Rear Hvac Blower Setting
 	Rear Passenger Door Status
 	Recirculation
 	Remote Start Active
@@ -223,28 +223,28 @@ Signal Descriptions:
 	Steering Wheel Angle B Sensor
 	Steering Wheel Angle Calculated
 	Steering Wheel Column
-	Str Wheel END Button Press
-	Str Wheel LEFT SEEK Button Press
-	Str Wheel Left DOWN Button Press
-	Str Wheel Left LEFT Button Press
-	Str Wheel Left OK Button Press
-	Str Wheel Left RIGHT Button Press
-	Str Wheel Left UP Button Press
-	Str Wheel MEDIA Button Press
-	Str Wheel MODE Button Press
-	Str Wheel MUTE Button Press
-	Str Wheel OK Button Press
-	Str Wheel PHONE Button Press
-	Str Wheel RIGHT SEEK Button Press
-	Str Wheel Right DOWN Button Press
-	Str Wheel Right LEFT Button Press
-	Str Wheel Right OK Button Press
-	Str Wheel Right RIGHT Button Press
-	Str Wheel Right UP Button Press
-	Str Wheel SEND Button Press
-	Str Wheel VOICE Button Press
-	Str Wheel VOL DOWN Button Press
-	Str Wheel VOL UP Button Press
+	Str Wheel End Button Press
+	Str Wheel Left Down Button Press
+	Str Wheel Left Left Button Press
+	Str Wheel Left Ok Button Press
+	Str Wheel Left Right Button Press
+	Str Wheel Left Seek Button Press
+	Str Wheel Left Up Button Press
+	Str Wheel Media Button Press
+	Str Wheel Mode Button Press
+	Str Wheel Mute Button Press
+	Str Wheel Ok Button Press
+	Str Wheel Phone Button Press
+	Str Wheel Right Down Button Press
+	Str Wheel Right Left Button Press
+	Str Wheel Right Ok Button Press
+	Str Wheel Right Right Button Press
+	Str Wheel Right Seek Button Press
+	Str Wheel Right Up Button Press
+	Str Wheel Send Button Press
+	Str Wheel Voice Button Press
+	Str Wheel Vol Down Button Press
+	Str Wheel Vol Up Button Press
 	Sun Brightness Driver
 	Sun Brightness Passenger
 	Tailgate Status
@@ -269,38 +269,38 @@ Signal Descriptions:
 	Zone Icon Tell Tale
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Clutch On
-	AC High Side Pressure
-	AC On
-	AC Recirculation On
+	Ac Clutch On
+	Ac High Side Pressure
+	Ac On
+	Ac Recirculation On
 	Accelerator Pedal Position
 	Air Temperature
-	BCM Netw Managment Frame
+	Bcm Netw Managment Frame
 	Blower Motor Setting
 	Cross Traffic Sys On
-	DEF Fluid Low
 	Deck Lid Ajar
+	Def Fluid Low
 	Driver Door Ajar
 	Driver Door Ajar
 	Driver Door Lock
-	Driver Seat HVAC Level
+	Driver Seat Hvac Level
 	Driver Seat Temperature
 	Engine Air Intake Temperature
 	Engine Coolant Temperature
 	Engine Off Time
 	Engine Speed
 	Fuel Level Low
-	HVAC Blower Speed
-	HVAC Engine Speed
-	HVAC Evaperative Temperature
-	HVAC Fan Step
-	HVAC Flow Air Flow
-	HVAC Increase Idle
-	HVAC Network Managment
-	HVAC Recircluation Percent
 	Heated Mirrors On
 	Hood Ajar
 	Hood Ajar
+	Hvac Blower Speed
+	Hvac Engine Speed
+	Hvac Evaperative Temperature
+	Hvac Fan Step
+	Hvac Flow Air Flow
+	Hvac Increase Idle
+	Hvac Network Managment
+	Hvac Recircluation Percent
 	Ignition Position
 	In Vehicle Temperature
 	Key In Igntition
@@ -312,30 +312,30 @@ Signal Descriptions:
 	Odomenter
 	Outside Air Temperature
 	Outside Air Temperature
-	PRNDL Gear Position
 	Passenger Door Ajar
 	Passenger Door Ajar
-	Passenger Seat HVAC Level
+	Passenger Seat Hvac Level
 	Passenger Seat Temperature
 	Power Liftgate Commandable
-	RFA Network Managment
+	Prndl Gear Position
 	Rear Driver Door Ajar
 	Rear Driver Door Ajar
-	Rear Driver Seat HVAC Level
+	Rear Driver Seat Hvac Level
 	Rear Driver Seat Temperature
 	Rear Passenger Door Ajar
 	Rear Passenger Door Ajar
-	Rear Passenger Seat HVAC Level
+	Rear Passenger Seat Hvac Level
 	Rear Passenger Seat Temperature
 	Remote Start Active
 	Retain Accessory On
+	Rfa Network Managment
 	Right Front Wheel Direction Reve
 	Right Rear Wheel Direction Rever
 	Side Collision Sys On
 	Sunlight Drivers Side
 	Sunlight Passenger Side
-	TPM Network Managment
 	Tailgate Ajar
 	Temperature Units Are Metric
+	Tpm Network Managment
 	Vehicle Speed
 	Very Low State Of Charge

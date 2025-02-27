@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volkswagen 'Id.3' (2022)
 Signal Descriptions:
 	Audio Reduction For Radio Started
@@ -6,9 +6,9 @@ Signal Descriptions:
 	Cruise Control Set Speed
 	Cruise Control System On
 	Fog Lights
-	HCA Active
-	HCA Available
-	HCA Standby
+	Hca Active
+	Hca Available
+	Hca Standby
 	High Beams
 	Left Side Mirror Selected For Adjustment
 	Left Turn Signal
@@ -16,7 +16,6 @@ Signal Descriptions:
 	Mirror Heater Selected
 	Obstacle Detected Front Active
 	Obstacle Detected Rear Active
-	PRNDL
 	Parking Assist Active
 	Parking Assist Active Front
 	Parking Assist Active Rear
@@ -31,13 +30,14 @@ Signal Descriptions:
 	Parking Brake Disengaging
 	Parking Brake Engaged
 	Parking Brake Engaging
+	Prndl
 	Right Side Mirror Selected For Adjustment
 	Right Turn Signal
 	Side Lights
 	Side Mirror Adjustment Switch Down
 	Side Mirror Adjustment Switch Left
 	Side Mirror Adjustment Switch Right
-	Side Mirror Adjustment Switch UP
+	Side Mirror Adjustment Switch Up
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
@@ -67,19 +67,19 @@ Signal Descriptions:
 	Brake Pad Warning Active
 	Coolant Sensor Error Active
 	Driver Heated Seat Level
-	EZS Pressed
 	Eco Button Pressed
+	Ezs Pressed
 	Front Or Rear Defrost Selected
-	HSK Pressed
 	Hazard Button Pressed
 	Heated Steering Wheel Level
 	Heated Steering Wheel Toggled
+	Hsk Pressed
 	Ice Offroad Button Pressed
-	Passenger HVAC Fan Speed
 	Passenger Heated Seat Level
+	Passenger Hvac Fan Speed
 	Range
 	Remote Start Active
-	SST Pressed
+	Sst Pressed
 	Thermalmanagement Active
 	Thermalmanagement Error
 	Toggle Auto Strat Stop State
@@ -89,9 +89,9 @@ Signal Descriptions:
 	Washer Fluid Low Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AAG Trailer Recognized
-	AC Switch Active
-	ACC Button Pressed
+	Aag Trailer Recognized
+	Ac Switch Active
+	Acc Button Pressed
 	Active Safe Enabled
 	Adjustment Of Time Gap
 	Airbag Actuator Test
@@ -130,8 +130,8 @@ Signal Descriptions:
 	Dash Prompt Please Reduce Oil Level See Manual
 	Dash Prompt Restart Not Possible Do Not Open Hood
 	Dash Prompt Unable To Start Please Remove Charging Connector
-	Dash Tell Tale CEL
-	Dash Tell Tale EPC
+	Dash Tell Tale Cel
+	Dash Tell Tale Epc
 	Dates Units
 	Distance Units Km0 Mi1
 	Driver Detected In Driver Seat
@@ -151,37 +151,37 @@ Signal Descriptions:
 	Left Tail Light Faulty Message
 	Light Warning Tell Tale
 	Limiter Active
-	MKB Safe
 	Minus Button Pressed
+	Mkb Safe
 	Oil Level
 	Oil Temperature
-	PNRDL Pushed Up Or Down
 	Passenger Seatbelt Buckled
 	Please Reduce Oil Level
+	Pnrdl Pushed Up Or Down
 	Pressure Units
 	Pulse Button Pressed
-	RES Button Pressed
 	Rear Crash
 	Rear Left Fog Light Faulty Message
 	Rear Mister Active
 	Rear Wiper Active
+	Res Button Pressed
 	Right Blinker Active
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	SET Button Pressed
+	Set Button Pressed
 	Several Rear Lights Faulty Message
 	Speed Units 0Kmh 1Mph
 	Steering Wheel Rate Of Change
 	Steering Wheel Rate Of Change In Clockwise
 	Steering Wheel Turned To The Right
-	TKS Qbit Slope
-	TKS Slope
-	TKS Vehicle Mass
 	Tell Tale Seatbelt Icon For Drive Active
 	Tell Tale Seatbelt Icon For Passenger Active
 	Temperature Units C0 F1
 	Time Units 24Hour0 12Hour1
+	Tks Qbit Slope
 	Tks Qbit Vehicle Mass
+	Tks Slope
+	Tks Vehicle Mass
 	Transmission Over Temperature Warning
 	Voltage Request
 	Volume Units
@@ -191,13 +191,13 @@ Signal Descriptions:
 	Wheel Direction Rear Right
 	Wiper Right Stock Position 1X
 	Wiper Right Stock Position High
-	Wiper Right Stock Position INT
+	Wiper Right Stock Position Int
 	Wiper Right Stock Position Low
 	Wiper Speed Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ACC Key Position Active
+	Abs Active
+	Acc Key Position Active
 	Automatic Off Active
 	Automatic Off Deactivated
 	Automatic Stop Start System Off
@@ -208,17 +208,17 @@ Signal Descriptions:
 	Console Lighting Group 2 Light Level
 	Crank Key Position Active
 	Cylinder Deactivation
-	DPF Installed
-	DRL On
 	Default Console Lighting Group 1 Light Level
+	Dpf Installed
 	Driver Seat Heating Balance Setting
 	Driver Seat Ventilation Balance Setting
-	ESC
+	Drl On
 	Emergency Call Grey Active
 	Emergency Call Yellow Active
 	Engine Liters
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Esc
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Fog Light
 	Front Left Door Child Lock State
 	Front Left Door Lock State
@@ -256,8 +256,8 @@ Signal Descriptions:
 	Inline Accelleration
 	Instrument Cluster Ambient Lighting
 	Instrument Cluster Backlight Level
-	LCA Not Available Service Necessary
 	Lateral Accelleration
+	Lca Not Available Service Necessary
 	Lights Active
 	Low Pressure Warning Active
 	Mirrors Not Moving
@@ -318,7 +318,7 @@ Signal Descriptions:
 	Start Stop Stop Motor
 	State Of Charge
 	Stop Confirmation
-	Stopping Process ACC Active
+	Stopping Process Acc Active
 	Sun Roof Cover Button State
 	Sun Roof Cover Open
 	Sun Roof Cover Safety Retraction
@@ -329,8 +329,8 @@ Signal Descriptions:
 	Trunk Button Being Pulled Up
 	Trunk Open
 	Upper Engine Speed Limit
-	VIN Part1
 	Vehicle Speed
+	Vin Part1
 	Yaw Rate
 	Yaw Value Is Negative
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============

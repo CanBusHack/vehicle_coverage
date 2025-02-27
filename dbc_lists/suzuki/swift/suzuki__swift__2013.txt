@@ -1,0 +1,40 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Suzuki 'Swift' (2013)
+Signal Descriptions:
+	Abs Tell Tale Active
+	Accelerator Pedal Position
+	Accelerator Pedal Released
+	Actual Engine Torque
+	Any Other Door Open
+	Battery Tell Tale Active
+	Brake Switch Active
+	Crash Off Button Pressed
+	Driver Door Open
+	Ecm Initialization Active
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Torque Driver Requested
+	Esp Initialization Active
+	Front Left Door Locked
+	Front Right Door Locked
+	Fuel System
+	Handbrake Active
+	Hvac System Air Conditioning Active
+	Ic Night Mode Active
+	Ignition Advance Timing
+	Instrument Cluster Iniatilationation
+	Key In
+	Mil Lamp On
+	Rear Defrost Active
+	Rear Left Door Locked
+	Rear Right Door Locked
+	Tell Tale Instrument Cluster Oil Level Low
+	Tell Tale Instrument Cluster Seat Belt Unfastened
+	Traction Control Off Tell Tale Active
+	Traction Control Tell Tale Active
+	Traction Control Tell Tale Blinking Active
+	Vehicle Speed
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right

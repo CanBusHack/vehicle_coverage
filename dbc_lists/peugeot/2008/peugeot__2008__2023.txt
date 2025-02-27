@@ -1,18 +1,18 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Peugeot '2008' (2023)
 Signal Descriptions:
 	A C Compressor Power Consumed
-	ABS Active
-	AC Compressor Active
-	ADAS Cruise Control Speed Limiter Status In Engine ECU
-	ADAS SL Active
-	ADAS SL On And Paused
-	ADAS Speed Set
-	ASR In Normal Operation
-	ASR Off
+	Abs Active
+	Ac Compressor Active
 	Acceleration Lateral
 	Accelerator Pedal Position Pre Kickdown
+	Adas Cruise Control Speed Limiter Status In Engine Ecu
+	Adas Sl Active
+	Adas Sl On And Paused
+	Adas Speed Set
 	Air Quantity Measured Corrected
+	Asr In Normal Operation
+	Asr Off
 	Battery Current
 	Battery State Of Charge
 	Battery Voltage
@@ -25,19 +25,19 @@ Signal Descriptions:
 	Dash Tell Tale Stop Start Service
 	Dash Warn Eng Fault Repair Needed
 	Dash Warn Eng Fault Stop Vehicle
-	Dash Warning ESP ASR Fault
 	Dash Warning Eng Temperature Fault
 	Dash Warning Engine Oil Pressure Fault
+	Dash Warning Esp Asr Fault
 	Dash Warning Park Brake Fault
 	Dash Warning Power Steering Fault
 	Dashboard Speedometer
-	Dashboard Tell Tale ESP System Deactivated
+	Dashboard Tell Tale Esp System Deactivated
 	Dashboard Tell Tale Service And Stop Warning Blinking On
 	Dashboard Tell Tale Service And Stop Warning On
-	Dashboard Warning ABS Fault Have The Vehicle Repaired
+	Dashboard Warning Abs Fault Have The Vehicle Repaired
 	Dashboard Warning Battery Charge Fault Stop The Vehicle
 	Dashboard Warning Braking System Fault Stop The Vehicle
-	Dashboard Warning ESP System Deactivated
+	Dashboard Warning Esp System Deactivated
 	Dashboard Warning Have The Brake Pads Changed
 	Dashboard Warning Tire Pressure Monitoring System Fault
 	Distance Traveled
@@ -50,8 +50,6 @@ Signal Descriptions:
 	Drive Mode Selected Sport Mode
 	Driving Mode Snow Pressed
 	Driving Mode Sport Button Pressed
-	ESP System Activated
-	ESP Traction Control Deactivated
 	Electrical System Emergency Mode
 	Engine Indicated Torque
 	Engine Operation Cut Off
@@ -63,19 +61,21 @@ Signal Descriptions:
 	Engine Torque Request By Driver
 	Engine Torque Resistive Estimated
 	Enginge Torque Requested By Driver
+	Esp System Activated
+	Esp Traction Control Deactivated
 	Fault With Lane Departure System Warning And Service Tell Tale
 	Filter Regeneration Request
 	Gear Position Drive Or Reverse
 	Gear Requested
-	HVAC A C On
-	HVAC Air Blower Supply Passenger Compartment Voltage
-	HVAC Defroster Windshield Active
-	HVAC Fan Control Via CAN
 	Head Light Setting Adaptive Lighting Set To On
 	Headlights System Setting Directional Headlamps System Set To On
 	Hill Start System Fault Warning
-	IC Warning Power Steering Fault Have The Vehicle Repaired
-	IC Warning Power Steering Fault Stop The Vehicle
+	Hvac A C On
+	Hvac Air Blower Supply Passenger Compartment Voltage
+	Hvac Defroster Windshield Active
+	Hvac Fan Control Via Can
+	Ic Warning Power Steering Fault Have The Vehicle Repaired
+	Ic Warning Power Steering Fault Stop The Vehicle
 	Intake Air Temperature At Manifold
 	Internal Status Steering Wheel Angle Sensor Active
 	Key In Cranking Position
@@ -125,27 +125,27 @@ Signal Descriptions:
 	Secondary Brake Switch Status
 	Start Stop System Activated
 	Start Stop System Deactivated
-	Status Of The ASR MSR Function
+	Status Of The Asr Msr Function
 	Steering Wheel Angle
 	Steering Wheel Rate
 	Steering Wheel Torque
 	Steering Wheel Turning Clockwise
-	TPMS Under Inflation Initialization
 	Tell Tale Drive Mode Selected Sport Mode
 	Tell Tale Glow Plug
-	Tell Tale MIL
-	Tell Tale MIL Flashing
+	Tell Tale Mil
+	Tell Tale Mil Flashing
 	Tell Tale Park Brake Auto Off
 	Tell Tale Traction Control Flashing
 	Torque Estimated Uncertain
+	Tpms Under Inflation Initialization
 	Traction Control Off
 	Transmission Reverse Engaged
 	Up Shift Paddle Pressed
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
 	Vehicle Acceleration
 	Vehicle Speed 40Ms Frequency
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 	Water In Diesel
 	Wheel Front Average Speed
 	Wheel Front Left Speed
@@ -160,8 +160,8 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Speed Limiter Status In BSI
-	ADAS Speed Limiter Cruise Control Memorized Speed Reached
+	Adas Cruise Control Speed Limiter Status In Bsi
+	Adas Speed Limiter Cruise Control Memorized Speed Reached
 	Ambient Air Temperature
 	Car Off
 	Central Lock Active
@@ -178,24 +178,24 @@ Signal Descriptions:
 	Drive Mode Selected
 	Engine Status
 	Fuel Pump Relay Active
-	HVAC A C Off
-	HVAC Air Distribution
-	HVAC Auto Mode Auto
-	HVAC Auto Mode Fast
-	HVAC Evaporator Temperature Sensor
-	HVAC Fan Speed Selected
-	HVAC Max Blower On
-	HVAC Motor Air Intake And Recirculation Position
-	HVAC Motor Distribution Position
-	HVAC Motor Front Mixing Left Position
-	HVAC Motor Front Mixing Right Position
-	HVAC Recirculation Active
-	HVAC Sunshine Sensor Value
-	HVAC System Available
-	HVAC Temperature Driver
-	HVAC Temperature Front Passenger
-	HVAC Ventilation Reference Value
 	Headlight Status
+	Hvac A C Off
+	Hvac Air Distribution
+	Hvac Auto Mode Auto
+	Hvac Auto Mode Fast
+	Hvac Evaporator Temperature Sensor
+	Hvac Fan Speed Selected
+	Hvac Max Blower On
+	Hvac Motor Air Intake And Recirculation Position
+	Hvac Motor Distribution Position
+	Hvac Motor Front Mixing Left Position
+	Hvac Motor Front Mixing Right Position
+	Hvac Recirculation Active
+	Hvac Sunshine Sensor Value
+	Hvac System Available
+	Hvac Temperature Driver
+	Hvac Temperature Front Passenger
+	Hvac Ventilation Reference Value
 	Instrument Cluster Active
 	Instrument Cluster Brightness Level
 	Left Hand Drive Car
@@ -205,7 +205,6 @@ Signal Descriptions:
 	Power Mode Car On
 	Reverse Lights On
 	Right Hand Drive Car
-	SOS Call Active
 	Seatbelt Driver Fastened
 	Seatbelt Driver Unfastened
 	Seatbelt Front Right Passenger Fastened
@@ -214,11 +213,12 @@ Signal Descriptions:
 	Seatbelt Rear Left Passenger Unfastened
 	Seatbelt Rear Right Passenger Fastened
 	Seatbelt Rear Right Passenger Unfastened
-	Stalk ADAS Button Down Pressed
-	Stalk ADAS Button Outer Pressed
-	Stalk ADAS Button Up Pressed
-	Stalk ADAS Ring Position Cruise
-	Stalk ADAS Ring Position Limit
+	Sos Call Active
+	Stalk Adas Button Down Pressed
+	Stalk Adas Button Outer Pressed
+	Stalk Adas Button Up Pressed
+	Stalk Adas Ring Position Cruise
+	Stalk Adas Ring Position Limit
 	Stalk Left Button Pressed
 	Stalk Left Inner Ring Pressed Down
 	Stalk Left Inner Ring Pressed Up
@@ -239,8 +239,8 @@ Signal Descriptions:
 	Stalk Right Ring Rear Window Sprayer Active
 	Stalk Right Ring Rear Window Wiper Active
 	Steering Wheel Honk Active
-	Steering Wheel LIST Button Pressed
-	Steering Wheel SRC Button Pressed
+	Steering Wheel List Button Pressed
+	Steering Wheel Src Button Pressed
 	Steering Wheel Srcbutton Pressed
 	Steering Wheel Thumbwheel Left Position
 	Steering Wheel Thumbwheel Left Pressed
@@ -250,7 +250,7 @@ Signal Descriptions:
 	System Settings Distance And Fuel Consumption Mpg Mi
 	Tell Tale Instrument Cluster Eco Mode Active
 	Tell Tale Instrument Cluster Sport Mode Active
-	Total Mileage Memorized In The BSI
+	Total Mileage Memorized In The Bsi
 	Transmission Input Shaft
 	Trunk Open
 	Vehicle Speed

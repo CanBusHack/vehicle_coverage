@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Land Rover 'Range Rover Evoque' (2013)
 Signal Descriptions:
 	Accelerator Pedal Position
@@ -23,9 +23,9 @@ Signal Descriptions:
 	Drive Away Locking System Setting Changing
 	Drive Away Locking System Setting Set To
 	Driver Door Closed
-	ECO Button Pressed
-	ECO Mode Off
-	ECO Mode On
+	Eco Button Pressed
+	Eco Mode Off
+	Eco Mode On
 	Engine Coolant Temperature
 	Engine Net Torque
 	Engine Operational Time
@@ -39,14 +39,14 @@ Signal Descriptions:
 	Headlight Delay System Setting Changed
 	Headlight Delay System Setting Set To
 	Hood Closed
-	INT Wiper Setting
+	Int Wiper Setting
 	Manual Gear
-	PRNDL D
-	PRNDL N
-	PRNDL R
-	PRNDL S
 	Passenger Door Closed
 	Power Mode
+	Prndl D
+	Prndl N
+	Prndl R
+	Prndl S
 	Rear Driver Door Closed
 	Rear Left Seat Buckled
 	Rear Left Tire Pressure
@@ -55,7 +55,7 @@ Signal Descriptions:
 	Rear Right Seat Buckled
 	Rear Right Tire Pressure
 	Rear Wiper Mister Button Pressed
-	Rear Wiper Set To INT
+	Rear Wiper Set To Int
 	Rear Wiper Set To On
 	Security Feature 2 Stage Unlock System Setting Changing
 	Security Feature 2 Stage Unlock System Setting Set To On
@@ -75,7 +75,7 @@ Signal Descriptions:
 	Wipers Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Active
+	Ac Active
 	Accelerator Peddle Position
 	Auto Blower Active
 	Button Pressed On Key Fob
@@ -95,23 +95,23 @@ Signal Descriptions:
 	Cross Traffic Detection Reverse System Setting On
 	Cross Traffic Detection Reverse System Setting State Change
 	Cross Traffic Detection System Forward System Setting On
-	DSC Off
 	Driver Assistance Blind Spot Monitor System Setting Off
 	Driver Assistance Blind Spot Monitor System Setting On
 	Driver Side Front Vent Active
-	Driver Side HVAC Temperature
+	Driver Side Hvac Temperature
 	Driver Side Lower Vent Active
 	Driver Side Upper Vent Active
+	Dsc Off
 	Engine Coolant Temperature
 	Engine Speed
 	Front Windshield Defrost Active
-	HVAC Fan Speed
 	Heated Steering Wheel Active
+	Hvac Fan Speed
 	Language Setting
-	Max AC Active
+	Max Ac Active
 	Odometer
 	Passenger Side Front Vent Active
-	Passenger Side HVAC Temperature
+	Passenger Side Hvac Temperature
 	Passenger Side Lower Vent Active
 	Passenger Side Upper Vent Active
 	Rear Camera View
@@ -123,12 +123,12 @@ Signal Descriptions:
 	Recirculation Active
 	Speed Limiter Set To Or Cruise Control Set Speed Set To
 	Sync Temperature Active
-	System Trip Units Set To Miles MPH MPG
-	TPM Load Setting Set To Light Load
-	TPM Load Setting Set To Normal Load
+	System Trip Units Set To Miles Mph Mpg
 	Temperature Setting To F
 	Tire Pressure Units Changing
 	Tire Pressure Units Set To Kpa
+	Tpm Load Setting Set To Light Load
+	Tpm Load Setting Set To Normal Load
 	Trip Content Average Consumption System Setting On
 	Trip Content Distance To Empty System Setting On
 	Trip Content System Setting Average Speed Set On
@@ -166,8 +166,8 @@ Signal Descriptions:
 	Drive Mode
 	Driver Door Closed
 	Driver Seat Belt Fastened
-	ECO Button Pressed
-	ECO Mode Active
+	Eco Button Pressed
+	Eco Mode Active
 	Electronic Parking Brake State
 	Engine Coolant Temperature
 	Engine Net Torque
@@ -183,19 +183,19 @@ Signal Descriptions:
 	Headlight Delay System Setting Set To
 	High Beam Switch State
 	Hood Closed
-	INT Wiper Setting
+	Int Wiper Setting
 	Interior Back Light Level
 	Manual Gear
-	ODOMETER
+	Odometer
 	Outside Temperature
-	PRNDL D
-	PRNDL N
-	PRNDL R
-	PRNDL S
 	Parking Brake Indicator Active
 	Passenger Door Closed
 	Passenger Seat Belt Fastened
 	Power Mode
+	Prndl D
+	Prndl N
+	Prndl R
+	Prndl S
 	Rear Driver Door Closed
 	Rear Left Seat Buckled
 	Rear Left Tire Pressure
@@ -204,7 +204,7 @@ Signal Descriptions:
 	Rear Right Seat Buckled
 	Rear Right Tire Pressure
 	Rear Wiper Mister Button Pressed
-	Rear Wiper Set To INT
+	Rear Wiper Set To Int
 	Rear Wiper Set To On
 	Relative Throttle Position
 	Security Feature 2 Stage Unlock System Setting Changing
@@ -221,10 +221,10 @@ Signal Descriptions:
 	Transmission Turbine Speed
 	Trunk Closed
 	Upshift Paddle Pressed
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
 	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 	Wipers Active Alt
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:

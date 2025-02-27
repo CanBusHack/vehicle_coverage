@@ -1,29 +1,29 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Subaru 'Forester' (2021)
 Signal Descriptions:
-	ABS Dash Prompt Active
-	AC Compressor Active
-	AC Fan Speed
-	AIR MASS SENSOR Broken Circuit
-	AL OFF Dash Prompt Active
-	AL ON Dash Prompt Active
-	AVH Tell Tale Active
-	AWD Tell Tale Active
+	Abs Dash Prompt Active
+	Ac Compressor Active
+	Ac Fan Speed
 	Accelerator Pedal Not Pressed
 	Accelerator Pedal Position
 	Accelerator Switch 1 Not Active
 	Accelerator Switch 2 Not Active
 	Access Key Battery Low Dash Prompt Active
 	Access Key Disabled Dash Prompt Active
+	Air Mass Sensor Broken Circuit
 	Airbag 2 On Tell Tale Active
 	Airbag Tell Tale Active
-	All Wheel Drive AWD Dash Prompt Active
+	Al Off Dash Prompt Active
+	Al On Dash Prompt Active
+	All Wheel Drive Awd Dash Prompt Active
 	Auto Hold Brakes Tell Tale Active
 	Auto Start Button Pressed
 	Auto Stop Disabled Active
 	Auto Stop System Active
 	Autostartstop Disabled Dash Prompt Active
-	Average Fuel Economy See Arb ID 390 For Units L 100Km Or Mpg
+	Average Fuel Economy See Arb Id 390 For Units L 100Km Or Mpg
+	Avh Tell Tale Active
+	Awd Tell Tale Active
 	Backward Speed Limit Menu
 	Battery Tell Tale Active
 	Battery Voltage
@@ -34,14 +34,14 @@ Signal Descriptions:
 	Brake Switch Active
 	Brake Switch Active
 	Brake Switch Active
-	Brake System BRAKE Dash Prompt Active
+	Brake System Brake Dash Prompt Active
 	Brake Vacuum Pump System Dash Prompt
 	Car Follow
 	Car Follow Dash Prompt Active
 	Car In Park Or Neutral
 	Car Is Moving
 	Car Out Of Park
-	Car Settings BSD RCTA ON
+	Car Settings Bsd Rcta On
 	Check Engine Dash Prompt Active
 	Close Distance
 	Collison System Off Button Pressed
@@ -52,15 +52,15 @@ Signal Descriptions:
 	Cruise Cancel
 	Cruise Control Acceleration Characteristic Setting
 	Cruise Disengaged
-	Cruise EPB
+	Cruise Epb
 	Cruise Fault
 	Cruise Fault
 	Cruise Fault Active
 	Cruise Follow Distance
 	Cruise Hold Active
 	Cruise On
-	Cruise RPM
 	Cruise Resume
+	Cruise Rpm
 	Cruise Set
 	Cruise Set Speed
 	Cruise Soft Disable
@@ -77,16 +77,16 @@ Signal Descriptions:
 	Display Own Car
 	Distance Swap
 	Driver Seat Belt Tell Tale Active
-	Driver Side HVAC Temperature
+	Driver Side Hvac Temperature
 	Driver Window Fully Not Closed
 	Driver Window Not Fully Open
-	ES Brake Active
 	Engine Coolant Temperature
 	Engine Oil Level Low Tell Tale Active
 	Engine On Time
 	Engine Speed
 	Engine Speed
 	Engine Torque
+	Es Brake Active
 	Eyesight Assist Monitor Green Indicator Setting On
 	Eyesight Assist Monitor Red Indicator Setting On
 	Eyesight Assist Monitor Yellow Indicator Setting On
@@ -105,57 +105,55 @@ Signal Descriptions:
 	Front Right Tire Pressure
 	Front Right Wheel Speed
 	Front Window Defrost Active
-	HVAC Change Active
-	HVAC Driver Mode
-	HVCA Active
 	High Beam Assist Disabled Dash Prompt Active
 	High Beam Assist Disabled No Camera View Dash Prompt Active
 	High Beams Active
 	Hill Descent Control System Active
 	Hill Start Assist System Disabled Dash Prompt Active
 	Hood Open
+	Hvac Change Active
+	Hvac Driver Mode
+	Hvca Active
 	Ignition Status
 	Immobilizer Tell Tale Active
-	Instant Fuel Economy See Arb ID 390 For Units L 100Km Or Mpg
+	Instant Fuel Economy See Arb Id 390 For Units L 100Km Or Mpg
 	Instrument Cluster Warning Chime
 	Key Fob Command Received
 	Keyless Access System Disabled Dash Prompt Active
-	LDW Off
-	LKAS ACTIVE
-	LKAS Active
-	LKAS Alert
-	LKAS Alert Msg
-	LKAS Dash State
-	LKAS Left Line Enable
-	LKAS Left Line Light Blink
-	LKAS Left Line Visible
-	LKAS Output
-	LKAS Request
-	LKAS Right Line Enable
-	LKAS Right Line Light Blink
-	LKAS Right Line Visible
 	Lane Keep System Off Button Pressed
 	Language Setting
 	Lateral Acceleration
+	Ldw Off
 	Left Adjacent Radar Active
 	Left Approaching Radar Active
 	Left Indicator
 	Left Lane Drive
+	Lkas Active
+	Lkas Active
+	Lkas Alert
+	Lkas Alert Msg
+	Lkas Dash State
+	Lkas Left Line Enable
+	Lkas Left Line Light Blink
+	Lkas Left Line Visible
+	Lkas Output
+	Lkas Request
+	Lkas Right Line Enable
+	Lkas Right Line Light Blink
+	Lkas Right Line Visible
 	Lock Signals
 	Longitudinal Acceleration
 	Low Beams Active
 	Low Tire Pressure Dash Prompt Active
-	MAP
-	MIL Actiive
+	Map
 	Message Index
 	Message Start And End
+	Mil Actiive
 	Mirror Defrost Active
 	Move Shift Lever To P Dash Prompt Active
 	Normal Drive Mode Active
 	Odometer
 	Oil Temperature
-	PCB Off
-	PRNDL
 	Parking Brake Being Engaged
 	Parking Brake Engaged
 	Parking Brake Lever Not Moved
@@ -163,13 +161,15 @@ Signal Descriptions:
 	Parking Brake Not Engaged
 	Passenger Occupancy
 	Passenger Seat Belt
-	Passenger Side HVAC Temperature
+	Passenger Side Hvac Temperature
 	Passenger Window Fully Not Closed
 	Passenger Window Not Fully Open
+	Pcb Off
 	Power Steering Tell Tale Active
+	Prndl
 	Push Ignition To Start Dash Prompt Active
 	Radio Mode
-	Radio RDS Line
+	Radio Rds Line
 	Rear And Mirror Defrost Active
 	Rear Defrost Active
 	Rear Driver Window Fully Not Closed
@@ -193,10 +193,9 @@ Signal Descriptions:
 	Right Approaching Radar Active
 	Right Indicator
 	Running Lights Tell Tale Active
-	SRH OFF Active
-	SRH System On
-	SYNC Active
 	Selected Trip 0 A 1 B
+	Srh Off Active
+	Srh System On
 	Steer Error 1
 	Steer Error 2
 	Steer Torque Output
@@ -204,26 +203,27 @@ Signal Descriptions:
 	Steer Warning
 	Steering Angle
 	Steering Angle
-	Steering CU Sensing Current
+	Steering Cu Sensing Current
 	Steering Torque Sensor Main
 	Steering Wheel Left Side Down Button Pressed
 	Steering Wheel Left Side Info Button Pressed
 	Steering Wheel Left Side Up Button Pressed
 	Steering Wheel Locked Dash Prompt Active
 	Steering Wheel Moving
-	TPMS Dash Prompt Active
-	TPMS Tell Tale Active
-	TPMS1 Prompt Active
-	TPMS1 SET Prompt Active
+	Sync Active
 	Throttle Combo
 	Throttle Cruise
 	Throttle Position
+	Tpms Dash Prompt Active
+	Tpms Tell Tale Active
+	Tpms1 Prompt Active
+	Tpms1 Set Prompt Active
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Transmission Dash Prompt Active
 	Transmission Oil Temperature Dash Prompt Active
 	Transmission Speed
-	Trip Average Speed See Arb ID 390 For Units Kmh Or Mph
+	Trip Average Speed See Arb Id 390 For Units Kmh Or Mph
 	Trunk Open
 	Turn Off Engine Before Exiting Dash Prompt Active
 	Type Of Data
@@ -234,28 +234,28 @@ Signal Descriptions:
 	Write Interior Light System Setting
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Dash Prompt Active
-	AC Compressor Active
-	AC Fan Speed
-	AIR MASS SENSOR Broken Circuit
-	AL OFF Dash Prompt Active
-	AL ON Dash Prompt Active
-	AVH Tell Tale Active
-	AWD Tell Tale Active
+	Abs Dash Prompt Active
+	Ac Compressor Active
+	Ac Fan Speed
 	Accelerator Pedal Not Pressed
 	Accelerator Switch 1 Not Active
 	Accelerator Switch 2 Not Active
 	Access Key Battery Low Dash Prompt Active
 	Access Key Disabled Dash Prompt Active
+	Air Mass Sensor Broken Circuit
 	Airbag 2 On Tell Tale Active
 	Airbag Tell Tale Active
-	All Wheel Drive AWD Dash Prompt Active
+	Al Off Dash Prompt Active
+	Al On Dash Prompt Active
+	All Wheel Drive Awd Dash Prompt Active
 	Auto Hold Brakes Tell Tale Active
 	Auto Start Button Pressed
 	Auto Stop Disabled Active
 	Auto Stop System Active
 	Autostartstop Disabled Dash Prompt Active
-	Average Fuel Economy See Arb ID 390 For Units L 100Km Or Mpg
+	Average Fuel Economy See Arb Id 390 For Units L 100Km Or Mpg
+	Avh Tell Tale Active
+	Awd Tell Tale Active
 	Backward Speed Limit Menu
 	Battery Tell Tale Active
 	Battery Voltage
@@ -265,14 +265,14 @@ Signal Descriptions:
 	Brake Switch Active
 	Brake Switch Active
 	Brake Switch Active
-	Brake System BRAKE Dash Prompt Active
+	Brake System Brake Dash Prompt Active
 	Brake Vacuum Pump System Dash Prompt
 	Car Follow
 	Car Follow Dash Prompt Active
 	Car In Park Or Neutral
 	Car Is Moving
 	Car Out Of Park
-	Car Settings BSD RCTA ON
+	Car Settings Bsd Rcta On
 	Check Engine Dash Prompt Active
 	Close Distance
 	Collison System Off Button Pressed
@@ -282,7 +282,7 @@ Signal Descriptions:
 	Cruise Cancel
 	Cruise Control Acceleration Characteristic Setting
 	Cruise Disengaged
-	Cruise EPB
+	Cruise Epb
 	Cruise Fault
 	Cruise Fault
 	Cruise Follow Distance
@@ -304,15 +304,15 @@ Signal Descriptions:
 	Depress The Brake Pedal Dash Prompt Active
 	Display Own Car
 	Distance Swap
-	Driver Side HVAC Temperature
+	Driver Side Hvac Temperature
 	Driver Window Fully Not Closed
 	Driver Window Not Fully Open
-	ES Brake Active
 	Engine Coolant Temperature
 	Engine Oil Level Low Tell Tale Active
 	Engine On Time
 	Engine Speed
 	Engine Speed
+	Es Brake Active
 	Eyesight Assist Monitor Green Indicator Setting On
 	Eyesight Assist Monitor Red Indicator Setting On
 	Eyesight Assist Monitor Yellow Indicator Setting On
@@ -331,38 +331,38 @@ Signal Descriptions:
 	Front Right Tire Pressure
 	Front Right Wheel Speed
 	Front Window Defrost Active
-	HVAC Change Active
-	HVAC Driver Mode
-	HVCA Active
 	High Beam Assist Disabled Dash Prompt Active
 	High Beam Assist Disabled No Camera View Dash Prompt Active
 	High Beams Active
 	Hill Descent Control System Active
 	Hill Start Assist System Disabled Dash Prompt Active
 	Hood Open
+	Hvac Change Active
+	Hvac Driver Mode
+	Hvca Active
 	Immobilizer Tell Tale Active
-	Instant Fuel Economy See Arb ID 390 For Units L 100Km Or Mpg
+	Instant Fuel Economy See Arb Id 390 For Units L 100Km Or Mpg
 	Instrument Cluster Warning Chime
 	Key Fob Command Received
 	Keyless Access System Disabled Dash Prompt Active
-	LDW Off
-	LKAS ACTIVE
-	LKAS Alert
-	LKAS Alert Msg
-	LKAS Dash State
-	LKAS Left Line Enable
-	LKAS Left Line Light Blink
-	LKAS Left Line Visible
-	LKAS Right Line Enable
-	LKAS Right Line Light Blink
-	LKAS Right Line Visible
 	Lane Keep System Off Button Pressed
 	Language Setting
 	Lateral Acceleration
+	Ldw Off
 	Left Adjacent Radar Active
 	Left Approaching Radar Active
 	Left Indicator
 	Left Lane Drive
+	Lkas Active
+	Lkas Alert
+	Lkas Alert Msg
+	Lkas Dash State
+	Lkas Left Line Enable
+	Lkas Left Line Light Blink
+	Lkas Left Line Visible
+	Lkas Right Line Enable
+	Lkas Right Line Light Blink
+	Lkas Right Line Visible
 	Lock Signals
 	Longitudinal Acceleration
 	Low Beams Active
@@ -374,19 +374,19 @@ Signal Descriptions:
 	Normal Drive Mode Active
 	Odometer
 	Oil Temperature
-	PCB Off
 	Parking Brake Being Engaged
 	Parking Brake Engaged
 	Parking Brake Lever Not Moved
 	Parking Brake Lever Pushed Down
 	Parking Brake Not Engaged
-	Passenger Side HVAC Temperature
+	Passenger Side Hvac Temperature
 	Passenger Window Fully Not Closed
 	Passenger Window Not Fully Open
+	Pcb Off
 	Power Steering Tell Tale Active
 	Push Ignition To Start Dash Prompt Active
 	Radio Mode
-	Radio RDS Line
+	Radio Rds Line
 	Rear And Mirror Defrost Active
 	Rear Defrost Active
 	Rear Driver Window Fully Not Closed
@@ -410,32 +410,32 @@ Signal Descriptions:
 	Right Approaching Radar Active
 	Right Indicator
 	Running Lights Tell Tale Active
-	SRH OFF Active
-	SRH System On
-	SYNC Active
 	Seatbelt Tell Tale Active
 	Selected Trip 0 A 1 B
-	Steering CU Sensing Current
+	Srh Off Active
+	Srh System On
+	Steering Cu Sensing Current
 	Steering Torque Sensor Main
 	Steering Wheel Left Side Down Button Pressed
 	Steering Wheel Left Side Info Button Pressed
 	Steering Wheel Left Side Up Button Pressed
 	Steering Wheel Locked Dash Prompt Active
 	Steering Wheel Moving
-	TPMS Dash Prompt Active
-	TPMS Tell Tale Active
-	TPMS1 Prompt Active
-	TPMS1 SET Prompt Active
+	Sync Active
 	Throttle Combo
 	Throttle Cruise
 	Throttle Pedal Position
 	Throttle Position
+	Tpms Dash Prompt Active
+	Tpms Tell Tale Active
+	Tpms1 Prompt Active
+	Tpms1 Set Prompt Active
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Transmission Dash Prompt Active
 	Transmission Oil Temperature Dash Prompt Active
 	Transmission Speed
-	Trip Average Speed See Arb ID 390 For Units Kmh Or Mph
+	Trip Average Speed See Arb Id 390 For Units Kmh Or Mph
 	Trunk Open
 	Turn Off Engine Before Exiting Dash Prompt Active
 	Type Of Data
@@ -450,10 +450,10 @@ Signal Descriptions:
 	Cruise Activated
 	Cruise Fault Active
 	Cruise Hold Active
-	Cruise RPM
-	LKAS Active
-	LKAS Output
-	LKAS Request
+	Cruise Rpm
+	Lkas Active
+	Lkas Output
+	Lkas Request
 	Steer Error 1
 	Steer Error 2
 	Steer Torque Output

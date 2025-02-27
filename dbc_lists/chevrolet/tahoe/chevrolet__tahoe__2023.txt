@@ -1,5 +1,65 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Chevrolet 'Tahoe' (2023)
+Signal Descriptions:
+	Brake Switch Active
+	Cruise Control Button Not Pushed Up More
+	Cruise Control Button Not Pushed Up Or Hitting Cancel
+	Cruise Control Button Pushed
+	Cruise Control Button Pushed More
+	Cruise Control On Button Pressed
+	Dash Prompt Abs Active
+	Dash Prompt Buckle Passenger Seatbelt
+	Dash Prompt Buckle Seat Belt
+	Dash Prompt Front Park Assist Off
+	Dash Prompt Park Assist Blocked See Owners Manual
+	Dash Prompt Park Assist Clean Sensor
+	Dash Prompt Park Assist Off
+	Dash Prompt Park Assist Temporarily Unavailable
+	Dash Prompt Rear Park Assist Off
+	Dash Prompt Reset Hood See Owners Manual
+	Dash Prompt Restraints Activated Service Required
+	Dash Prompt Service Pedestrian Protection
+	Dash Prompt Service Safety Restraint System
+	Dash Prompt Teen Driver Active Action Not Available
+	Driver Door Open
+	Gap Adjustment Button Pressed
+	Hazards Active
+	High Beams On
+	Left Front Wheel Speed
+	Left Turn Signal Stock Position
+	Low Beams On
+	Low Tire Tell Tale Active
+	Oil Pressure
+	Parking Brake Status
+	Passenger Airbag Disabled
+	Passenger Door Open
+	Rear Driver Door Open
+	Rear Passenger Door Open
+	Right Front Wheel Speed
+	Right Turn Signal Stock Position
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Steering Wheel Left Button Volume Down
+	Steering Wheel Left Button Volume Mute
+	Steering Wheel Left Button Volume Up
+	Tell Tale Passenger Airbag Flashing
+	Tell Tale Passenger Airbag Off Flash
+	Tell Tale Passenger Airbag On
+	Tell Tale Seat Status 2Nd Row Left
+	Tell Tale Seat Status 2Nd Row Right
+	Tell Tale Seat Status 3Rd Row Center
+	Tell Tale Seat Status 3Rd Row Left
+	Tell Tale Seat Status 3Rd Row Right
+	Tell Tale Seatbelt Center Console
+	Tell Tale Seatbelt2 Flashing
+	Tell Tale Seatbelt2 Illuminated
+	Tell Tale Srs Center Console Fast Flash
+	Tell Tale Srs Center Console Illuminated
+	Tell Tale Srs Center Console Slow Flash
+	Tell Tale Vehicle Occupancy And Belt Status
+	Trunk Open
+	Yaw Rate
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Accelerator Pedal Position
 	Brake Pedal Percentage
@@ -14,11 +74,11 @@ Signal Descriptions:
 	Driver Seatbelt Status Changed
 	Front Washer Spray Active
 	Front Wipers Active
-	HVAC Driver Set Temperature
-	HVAC Passenger Set Temperature
 	Hazard Light Active
 	Headlight Light Status
 	Hood Open
+	Hvac Driver Set Temperature
+	Hvac Passenger Set Temperature
 	Key Fob Unlock Active
 	Lane Assist Button Pressed
 	Left Rear Door Open
@@ -63,19 +123,19 @@ Signal Descriptions:
 	Odometer
 	Odometer Trip 2
 	One Pedal Driving Level
-	PRNDL Position
 	Parking Brake Active
 	Passenger Door Open
 	Power Mode Vehicle On
 	Preferred Charge Times State Changed
+	Prndl Position
 	Ready By Time Hour
 	Ready By Time Minutes
 	Regen Paddle Pressed
 	Right Rear Door Open
 	Right Turn Signal
-	STATE OF CHARGE HV Battery
-	STATE OF CHARGE TEST 5
-	STATE OF CHARGE TEST 6
+	State Of Charge Hv Battery
+	State Of Charge Test 5
+	State Of Charge Test 6
 	Steering Mode Set To Normal
 	Steering Mode Set To Sport
 	Torque
@@ -83,11 +143,11 @@ Signal Descriptions:
 	Trip 1 Odometer
 	Trip 2 Kwh
 	Trunk Open
-	Units Set To US Is 1 Units Set To Metric Is 0
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
+	Units Set To Us Is 1 Units Set To Metric Is 0
 	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	4Wd Active
@@ -133,9 +193,9 @@ Signal Descriptions:
 	Driver Control Panel Rear Driver Side Window Button State
 	Driver Control Panel Rear Passenger Side Window Button State
 	Mirror Button State Change
-	PRNDL Position
+	Prndl Position
 	Trunk Knob Set To 3 4
-	Trunk Knob Set To MAX
+	Trunk Knob Set To Max
 	Trunk Status
 	Window Lock Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -150,7 +210,7 @@ Signal Descriptions:
 	Battery Voltage Displayed
 	Dash Prompt 2 Gears Selected Vehicle In Neutral
 	Dash Prompt 2 Gears Selected Vehicle In Park
-	Dash Prompt ABS Active
+	Dash Prompt Abs Active
 	Dash Prompt Always Shift To Park When Exiting
 	Dash Prompt Auto Hold Unavailable
 	Dash Prompt Auto Seatbelt Tightening System Unavailable
@@ -265,24 +325,24 @@ Signal Descriptions:
 	Fade Front Rear
 	Front Brake Pad Life Remaining Percentage
 	Fuel Level Percentage
-	HVAC AC Active
-	HVAC AC Inactive
-	HVAC Driver Side Blower Position
-	HVAC Driver Side Temperature
-	HVAC Front Fan Speed Level Selected
-	HVAC Passenger Side Blower Position
-	HVAC Passenger Side Temperature
-	HVAC Rear Climate Locked
-	HVAC Rear Climate SYNC Active
-	HVAC Rear Driver Side Blower Position
-	HVAC Rear Driver Side Temperature
-	HVAC Rear Fan Speed Level Selected
-	HVAC Rear Passenger Side Blower Position
-	HVAC Rear Passenger Side Temperature
-	HVAC Recirculation Active
-	HVAC Recirculation Inactive
-	HVAC SYNC Active
 	Heated Steering Wheel Active
+	Hvac Ac Active
+	Hvac Ac Inactive
+	Hvac Driver Side Blower Position
+	Hvac Driver Side Temperature
+	Hvac Front Fan Speed Level Selected
+	Hvac Passenger Side Blower Position
+	Hvac Passenger Side Temperature
+	Hvac Rear Climate Locked
+	Hvac Rear Climate Sync Active
+	Hvac Rear Driver Side Blower Position
+	Hvac Rear Driver Side Temperature
+	Hvac Rear Fan Speed Level Selected
+	Hvac Rear Passenger Side Blower Position
+	Hvac Rear Passenger Side Temperature
+	Hvac Recirculation Active
+	Hvac Recirculation Inactive
+	Hvac Sync Active
 	Infotainment Wireless Charging Prompt
 	Lane Keep Assist Active
 	Lane Keep Assist Active
@@ -394,73 +454,13 @@ Signal Descriptions:
 	Traction Control States
 	Trans Temperature
 	Treble
-	Units Set To US
+	Units Set To Us
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Accelerator Pedal Position
 	Battery Voltage
 	Engine Speed
-	Park Button On PRNDL Pressed
-	Shift Button On PRNDL Pressed
-	VIN Part 1
+	Park Button On Prndl Pressed
+	Shift Button On Prndl Pressed
+	Vin Part 1
 	Vin Part 2
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Brake Switch Active
-	Cruise Control Button Not Pushed Up More
-	Cruise Control Button Not Pushed Up Or Hitting Cancel
-	Cruise Control Button Pushed
-	Cruise Control Button Pushed More
-	Cruise Control On Button Pressed
-	Dash Prompt ABS Active
-	Dash Prompt Buckle Passenger Seatbelt
-	Dash Prompt Buckle Seat Belt
-	Dash Prompt Front Park Assist Off
-	Dash Prompt Park Assist Blocked See Owners Manual
-	Dash Prompt Park Assist Clean Sensor
-	Dash Prompt Park Assist Off
-	Dash Prompt Park Assist Temporarily Unavailable
-	Dash Prompt Rear Park Assist Off
-	Dash Prompt Reset Hood See Owners Manual
-	Dash Prompt Restraints Activated Service Required
-	Dash Prompt Service Pedestrian Protection
-	Dash Prompt Service Safety Restraint System
-	Dash Prompt Teen Driver Active Action Not Available
-	Driver Door Open
-	Gap Adjustment Button Pressed
-	Hazards Active
-	High Beams On
-	Left Front Wheel Speed
-	Left Turn Signal Stock Position
-	Low Beams On
-	Low Tire Tell Tale Active
-	Oil Pressure
-	Parking Brake Status
-	Passenger Airbag Disabled
-	Passenger Door Open
-	Rear Driver Door Open
-	Rear Passenger Door Open
-	Right Front Wheel Speed
-	Right Turn Signal Stock Position
-	Steering Wheel Angle
-	Steering Wheel Angle Acceleration
-	Steering Wheel Left Button Volume Down
-	Steering Wheel Left Button Volume Mute
-	Steering Wheel Left Button Volume Up
-	Tell Tale Passenger Airbag Flashing
-	Tell Tale Passenger Airbag Off Flash
-	Tell Tale Passenger Airbag On
-	Tell Tale SRS Center Console Fast Flash
-	Tell Tale SRS Center Console Illuminated
-	Tell Tale SRS Center Console Slow Flash
-	Tell Tale Seat Status 2Nd Row Left
-	Tell Tale Seat Status 2Nd Row Right
-	Tell Tale Seat Status 3Rd Row Center
-	Tell Tale Seat Status 3Rd Row Left
-	Tell Tale Seat Status 3Rd Row Right
-	Tell Tale Seatbelt Center Console
-	Tell Tale Seatbelt2 Flashing
-	Tell Tale Seatbelt2 Illuminated
-	Tell Tale Vehicle Occupancy And Belt Status
-	Trunk Open
-	Yaw Rate

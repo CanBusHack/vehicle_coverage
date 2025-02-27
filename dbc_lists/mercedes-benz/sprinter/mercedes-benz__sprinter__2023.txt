@@ -1,7 +1,7 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Sprinter' (2023)
 Signal Descriptions:
-	AC Active
+	Ac Active
 	Accelerator Pedal Position
 	Acoustic Lock Option Active
 	Active Brake Assist Setting
@@ -19,7 +19,7 @@ Signal Descriptions:
 	Cellular Power Bars
 	Climate Control Driver Level In F
 	Climate Control Passenger Level In F
-	Climate SYNC Active
+	Climate Sync Active
 	Clock Day
 	Clock Hour
 	Clock Minute
@@ -45,7 +45,7 @@ Signal Descriptions:
 	Driver Temperature Switch Up Or Down Pressed
 	Driver Window Moving
 	Driver Window Open
-	Emergency SOS Ready
+	Emergency Sos Ready
 	Engine Coolant Temperature
 	Engine Off Timer
 	Engine Speed
@@ -60,20 +60,14 @@ Signal Descriptions:
 	Front Passenger Window Open Length
 	Front Wipers Setting
 	Fuel Level
-	GPS Latitude Degrees
-	GPS Latitude Hemisphere
-	GPS Latitude Minutes
-	GPS Latitude Seconds
-	GPS Longitude Degrees
-	GPS Longitude Hemisphere
-	GPS Longitude Minutes
-	GPS Longitude Seconds
-	HVAC Auto Active
-	HVAC Blower Position
-	HVAC Fan Speed
-	HVAC Max Active
-	HVAC Recirculation Active
-	HVAC Recirculation Button Pressed
+	Gps Latitude Degrees
+	Gps Latitude Hemisphere
+	Gps Latitude Minutes
+	Gps Latitude Seconds
+	Gps Longitude Degrees
+	Gps Longitude Hemisphere
+	Gps Longitude Minutes
+	Gps Longitude Seconds
 	Hazard Lights Active
 	Hazard Lights Active
 	Head Lights Active
@@ -85,10 +79,16 @@ Signal Descriptions:
 	Hood Ajar
 	Hood Closed
 	Horn Active
-	INT Wiper Active
+	Hvac Auto Active
+	Hvac Blower Position
+	Hvac Fan Speed
+	Hvac Max Active
+	Hvac Recirculation Active
+	Hvac Recirculation Button Pressed
 	Ignition Button Pressed
 	Incoming Telemetry Call Info
 	Instrument Cluster Brightness Level
+	Int Wiper Active
 	Intake Air Temperature
 	Key Fob Commands
 	Left Rear Wheel Speed
@@ -99,7 +99,6 @@ Signal Descriptions:
 	Menu Switched Up Or Down Pressed
 	Odometer
 	Only Shift To P When Vehicle Is Stationary Dash Prompt
-	PRNDL
 	Paddle Shifter Down Pressed
 	Paddle Shifter Up Pressed
 	Park Brake Disengage Request
@@ -117,7 +116,8 @@ Signal Descriptions:
 	Passenger Window Moving
 	Passenger Window Open
 	Power Mode
-	Rear INT Wiper Active
+	Prndl
+	Rear Int Wiper Active
 	Rear Left Wheel Speed
 	Rear Wiper In Motion
 	Rear Wiper On
@@ -130,15 +130,15 @@ Signal Descriptions:
 	Steering Left Side Home Button Selected
 	Steering Wheel Angle
 	Steering Wheel Angle Acceleration
-	TPMS Tire Pressure Front Left
-	TPMS Tire Pressure Front Right
-	TPMS Tire Pressure Rear Left
-	TPMS Tire Pressure Rear Right
 	To Engage R First Depress Brake Dash Prompt
+	Tpms Tire Pressure Front Left
+	Tpms Tire Pressure Front Right
+	Tpms Tire Pressure Rear Left
+	Tpms Tire Pressure Rear Right
 	Traction Control Active
 	Traction Control Off
 	Transmission Malfunction Dash Prompt
-	Transmission Malfunction STOP Dash Prompt
+	Transmission Malfunction Stop Dash Prompt
 	Turn Signal Active
 	Units Miles Selected
 	Vehicle Speed

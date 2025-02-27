@@ -1,51 +1,51 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mazda 'Cx 3' (2016)
 Signal Descriptions:
 	Langue Setting
-	Left BSW
+	Left Bsw
 	Rear Right Object Alert Active
-	Right BSW
+	Right Bsw
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Not Active
-	ADAS ACC Set Follow Distance
-	ADAS Blind Spot Warning Left Active
-	ADAS Blind Spot Warning Right Active
-	ADAS Cruise Control Active
-	ADAS Cruise Control Button Cancel Pressed
-	ADAS Cruise Control Button Cancel Released
-	ADAS Cruise Control Button Decrease Pressed
-	ADAS Cruise Control Button Decrease Released
-	ADAS Cruise Control Button Increase Pressed
-	ADAS Cruise Control Button Increase Released
-	ADAS Cruise Control Button ON Pressed
-	ADAS Cruise Control Button ON Released
-	ADAS Cruise Control Button RES Pressed
-	ADAS Cruise Control Button RES Released
-	ADAS Cruise Control Speed Set
-	ADAS Cruise Control Standby
-	ADAS Distance Recognition Support System On
-	ADAS Follow Distance Alert
-	ADAS Follow Distance Button Down Pressed
-	ADAS Follow Distance Button Down Released
-	ADAS Follow Distance Button Up Pressed
-	ADAS Follow Distance Button Up Released
-	ADAS Follow Distance Current Close
-	ADAS Follow Distance Current Far
-	ADAS Follow Distance Current Medium
-	ADAS Lane Departure Warning Error
-	ADAS Lane Departure Warning Left Side
-	ADAS Lane Departure Warning Right Side
-	ADAS Lane Detection Status
-	ADAS Lane Detection System On
-	ADAS Object Alert Rear Right Ative
-	ADAS Upcoming Vehicle Detected
-	AEB Not Active
-	AT Transmission Malfunction Prompt
+	Abs Not Active
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Acc Set Follow Distance
+	Adas Blind Spot Warning Left Active
+	Adas Blind Spot Warning Right Active
+	Adas Cruise Control Active
+	Adas Cruise Control Button Cancel Pressed
+	Adas Cruise Control Button Cancel Released
+	Adas Cruise Control Button Decrease Pressed
+	Adas Cruise Control Button Decrease Released
+	Adas Cruise Control Button Increase Pressed
+	Adas Cruise Control Button Increase Released
+	Adas Cruise Control Button On Pressed
+	Adas Cruise Control Button On Released
+	Adas Cruise Control Button Res Pressed
+	Adas Cruise Control Button Res Released
+	Adas Cruise Control Speed Set
+	Adas Cruise Control Standby
+	Adas Distance Recognition Support System On
+	Adas Follow Distance Alert
+	Adas Follow Distance Button Down Pressed
+	Adas Follow Distance Button Down Released
+	Adas Follow Distance Button Up Pressed
+	Adas Follow Distance Button Up Released
+	Adas Follow Distance Current Close
+	Adas Follow Distance Current Far
+	Adas Follow Distance Current Medium
+	Adas Lane Departure Warning Error
+	Adas Lane Departure Warning Left Side
+	Adas Lane Departure Warning Right Side
+	Adas Lane Detection Status
+	Adas Lane Detection System On
+	Adas Object Alert Rear Right Ative
+	Adas Upcoming Vehicle Detected
+	Aeb Not Active
 	Airbag Tell Tale Active
 	Ambient Temperature
+	At Transmission Malfunction Prompt
 	Auto Door Lock Mode
 	Auto Headlight On
 	Auto Hold Button Pressed
@@ -82,16 +82,6 @@ Signal Descriptions:
 	Door Trunk Open
 	Doors All Unlocked
 	Driving Mode Sport Active
-	EPS Prompt Brake Pedal Must Be Depressed To Deactivate Auto Hold System
-	EPS Prompt Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position
-	EPS Prompt Parking Brake Now Activated Press Accelerator Pedal To Release
-	ESP ABS Tell Tale Active
-	ESP ABS Tell Tale Flashing
-	ESP Traction Control Off Button Pressed
-	ESP Traction Control Off Tell Tale Active
-	ESP Traction Control Status Off
-	ESP Traction Control Tell Tale Active
-	ESP Traction Control Tell Tale Flashing
 	Engine Running
 	Engine Running Chime Active
 	Engine Speed
@@ -101,6 +91,16 @@ Signal Descriptions:
 	Engine Torque Actual
 	Engine Torque Desired
 	Engine Torque Reference
+	Eps Prompt Brake Pedal Must Be Depressed To Deactivate Auto Hold System
+	Eps Prompt Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position
+	Eps Prompt Parking Brake Now Activated Press Accelerator Pedal To Release
+	Esp Abs Tell Tale Active
+	Esp Abs Tell Tale Flashing
+	Esp Traction Control Off Button Pressed
+	Esp Traction Control Off Tell Tale Active
+	Esp Traction Control Status Off
+	Esp Traction Control Tell Tale Active
+	Esp Traction Control Tell Tale Flashing
 	Flash Turn Signal 3 Active
 	Flash Turn Signal Not 3 Active
 	Forward Collision System Active
@@ -113,10 +113,6 @@ Signal Descriptions:
 	Gear Target
 	Gearbox Engaged
 	Gearbox Out Of Gear
-	HVAC Compressor Active
-	HVAC Compressor Not Active
-	HVAC Defrost Front Active
-	HVAC Defrost Rear Active
 	Hands On Steering Wheel Warning 1
 	Hands On Steering Wheel Warning 2
 	Hands On Steering Wheel Warning Level
@@ -130,6 +126,10 @@ Signal Descriptions:
 	Headlights Low Beam Active
 	Headlights Side Light Active
 	Headlights Stalk Position Off
+	Hvac Compressor Active
+	Hvac Compressor Not Active
+	Hvac Defrost Front Active
+	Hvac Defrost Rear Active
 	Ignition On
 	Ignition On Chime Active
 	Ignition Ready To Start Engine
@@ -168,10 +168,6 @@ Signal Descriptions:
 	Oil Prompt Excessive Oil Level
 	Oil Prompt Level Sensor Malfunction
 	Oil Tell Tale Active
-	PRNDL Display
-	PRNDL Position Manual
-	PRNDL Position Manual Decrease Gear
-	PRNDL Position Manual Increase Gear
 	Parking Brake Button Pressed Down
 	Parking Brake Button Pulled Up
 	Parking Brake Engaged
@@ -187,6 +183,10 @@ Signal Descriptions:
 	Power Mode
 	Power Steering Malfunction Prompt
 	Power Steering Tell Tale Active
+	Prndl Display
+	Prndl Position Manual
+	Prndl Position Manual Decrease Gear
+	Prndl Position Manual Increase Gear
 	Rain Light Sensor Humidity Level
 	Rain Light Sensor Temperature
 	Rain Light Sensor Windshield Temperature
@@ -199,19 +199,19 @@ Signal Descriptions:
 	Safety Settings Lane Keep Assist System Lane Alert On
 	Safety Settings Lane Keep Assist System Sensitivity High
 	Safety Settings Lane Keep Assist System Sensitivity Low
-	Safety Settings SBS SCBS System Active
-	Safety Settings SBS SCBS System Inactive
-	Safety Settings SBS SCBS Warning Distance
+	Safety Settings Sbs Scbs System Active
+	Safety Settings Sbs Scbs System Inactive
+	Safety Settings Sbs Scbs Warning Distance
 	Seatbelt Front Driver Fastened
 	Seatbelt Front Passenger Fastened
 	Seatbelt Rear Left Fastened
 	Seatbelt Rear Middle Fastened
 	Seatbelt Rear Right Fastened
-	Settings AD Display Height
 	Settings Active Driving Display Brightness Auto
 	Settings Active Driving Display Brightness Control Manual
 	Settings Active Driving Display Brightness Manual
 	Settings Active Driving Display On
+	Settings Ad Display Height
 	Settings Light On Volume
 	Settings Temperature Unit C
 	Settings Temperature Unit F
@@ -240,11 +240,11 @@ Signal Descriptions:
 	Transmission Mode Manual
 	Unlock All Doors Once
 	Unlock Mode Driver Once All Doors Twice Active
-	VIN Characters 1 To 6
-	VIN Characters 13 To 17
-	VIN Characters 7 To 12
 	Vehicle Speed
 	Vehicle System Malfunction Prompt
+	Vin Characters 1 To 6
+	Vin Characters 13 To 17
+	Vin Characters 7 To 12
 	Walk Away Lock Active
 	Walk Away Unlock Active
 	Water Must Be Drained From Fuel Filter Prompt
@@ -263,21 +263,21 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Not Active
-	ABS Tell Tale Active
-	ACC Set Follow Distance
-	AEB Not Active
-	AT Transmission Malfunction Dash Prompt Active
-	AVG
+	Abs Not Active
+	Abs Tell Tale Active
+	Acc Set Follow Distance
 	Accelerator Pedal Position
 	Active Miles Per Gallon
+	Aeb Not Active
 	Airbag Tell Tale Active
+	At Transmission Malfunction Dash Prompt Active
 	Auto Door Lock Mode
 	Auto Headlight On
 	Auto Hold Button Pressed
 	Auto Hold System Temporarily Unavailable Dash Prompt Active
 	Auto Relock Time
 	Automatic Headlight Tell Tale Active
+	Avg
 	Battery Management System Malfunction Dash Prompt Active
 	Battery Voltage
 	Blind Spot Monitoring System Malfunction Active
@@ -307,7 +307,7 @@ Signal Descriptions:
 	Cruise Control Negative Set Button Pressed
 	Cruise Control On
 	Cruise Control Positive Set Button Pressed
-	Cruise Control RES Button Pressed
+	Cruise Control Res Button Pressed
 	Cruise Control System On
 	Current Follow Distance Close
 	Current Follow Distance Far
@@ -334,8 +334,6 @@ Signal Descriptions:
 	Front Wiper Low Active
 	Frost Defrost Active
 	Fuel Level
-	HVAC Compressor Active
-	HVAC Compressor Not Active
 	Hands On Steering Wheel Warning 1
 	Hands On Steering Wheel Warning 2
 	Hands On Steering Wheel Warning Level
@@ -347,6 +345,8 @@ Signal Descriptions:
 	High Beam Control Not Active
 	High Beams Active
 	Horn Command From Key Fob
+	Hvac Compressor Active
+	Hvac Compressor Not Active
 	Ignition Is On Dash Prompt Active
 	Immobilizer Tell Tale Active
 	Incline Too Steep Vehicle May Not Be Able To Hold Stopped Position Dash Prompt Active
@@ -385,10 +385,6 @@ Signal Descriptions:
 	Oil Change Setting Interval Set To Fixed Active
 	Oil Level Tell Tale Active
 	Oil Tell Tale Active
-	PRNDL Display
-	PRNDL Stock In M Position
-	PRNDL Stock Pushed To Negative
-	PRNDL Stock Pushed To Pulse
 	Paddle Negative Active
 	Paddle Positive Active
 	Panic Command From Key Fob
@@ -404,6 +400,10 @@ Signal Descriptions:
 	Pedestrian Warning Active
 	Power Steering Malfunction Dash Prompt Active
 	Power Steering Tell Tale Active
+	Prndl Display
+	Prndl Stock In M Position
+	Prndl Stock Pushed To Negative
+	Prndl Stock Pushed To Pulse
 	Rain Sensing Wiper Active
 	Rain Sensing Wiper Not Active
 	Read Lane Keep Assist System Intervention Active
@@ -425,13 +425,13 @@ Signal Descriptions:
 	Read Setting Distance Recognition Support System Active
 	Read Setting Distance Recognition Support System Not Active
 	Read Setting Distance Recognition Support System Warning Distance
-	Read Setting HUD Navigation Displayed
-	Read Setting HUD Navigation Off
-	Read Setting HUD Navigation On
-	Read Setting HUD Navigation Reset
 	Read Setting Headlight Off Timer
 	Read Setting High Beam Control Active
 	Read Setting High Beam Control Not Active
+	Read Setting Hud Navigation Displayed
+	Read Setting Hud Navigation Off
+	Read Setting Hud Navigation On
+	Read Setting Hud Navigation Reset
 	Read Setting Interior Light Timeout Door Close
 	Read Setting Interior Light Timeout Door Open
 	Read Setting Keyless Lock Beep Volume
@@ -440,10 +440,10 @@ Signal Descriptions:
 	Read Setting Light On Vol
 	Read Setting Rain Sensing Wiper Active
 	Read Setting Rain Sensing Wiper Not Active
-	Read Setting SBS SCBS System Active
-	Read Setting SBS SCBS System Not Active
-	Read Setting SBS SCBS System Warning Distance
-	Read Setting SBS SCBS Warning Volume
+	Read Setting Sbs Scbs System Active
+	Read Setting Sbs Scbs System Not Active
+	Read Setting Sbs Scbs System Warning Distance
+	Read Setting Sbs Scbs Warning Volume
 	Read Setting Traffic Sign Display Speed Limit Alert
 	Read Setting Traffic Sign Display Speed Limit Alert Threshold
 	Read Setting Traffic Sign Display System Off
@@ -461,7 +461,7 @@ Signal Descriptions:
 	Rear Mister Active
 	Rear Right Door Ajar
 	Rear Wiper Command Active
-	Rear Wiper INT Active
+	Rear Wiper Int Active
 	Rear Wiper On Active
 	Request Gear
 	Right Turn Indicator Active
@@ -473,15 +473,15 @@ Signal Descriptions:
 	Safety Settings Lane Keep Assist System Lane Alert On
 	Safety Settings Lane Keep Assist System Senstivity High
 	Safety Settings Lane Keep Assist System Senstivity Low
-	Safety Settings SBS SCBS System Active
-	Safety Settings SBS SCBS System Inactive
-	Safety Settings SBS SCBS Warning Distance
+	Safety Settings Sbs Scbs System Active
+	Safety Settings Sbs Scbs System Inactive
+	Safety Settings Sbs Scbs Warning Distance
 	Selected Unit Miles
 	Setting Active Driving Display On
 	Setting Ad Display Brightness Control Manual True Auto False
-	Settings AD Display Height
 	Settings Ad Display Brightness Auto
 	Settings Ad Display Brightness Manual
+	Settings Ad Display Height
 	Settings Temperature Units C Selected
 	Settings Temperature Units F Selected
 	Shift In Progress
@@ -531,13 +531,13 @@ Signal Descriptions:
 	Write Setting Distance Recognition Support System Active
 	Write Setting Distance Recognition Support System Not Active
 	Write Setting Distance Recognition Support System Warning Distance
-	Write Setting HUD Navigation Displayed
-	Write Setting HUD Navigation Off
-	Write Setting HUD Navigation On
-	Write Setting HUD Navigation Reset
 	Write Setting Headlight Off Timer
 	Write Setting High Beam Control Active
 	Write Setting High Beam Control Not Active
+	Write Setting Hud Navigation Displayed
+	Write Setting Hud Navigation Off
+	Write Setting Hud Navigation On
+	Write Setting Hud Navigation Reset
 	Write Setting Interior Light Timeout Door Close
 	Write Setting Interior Light Timeout Door Open
 	Write Setting Keyless Lock Beep Volume
@@ -546,10 +546,10 @@ Signal Descriptions:
 	Write Setting Light On Vol
 	Write Setting Rain Sensing Wiper Active
 	Write Setting Rain Sensing Wiper Not Active
-	Write Setting SBS SCBS System Active
-	Write Setting SBS SCBS System Not Active
-	Write Setting SBS SCBS System Warning Distance
-	Write Setting SBS SCBS Warning Volume
+	Write Setting Sbs Scbs System Active
+	Write Setting Sbs Scbs System Not Active
+	Write Setting Sbs Scbs System Warning Distance
+	Write Setting Sbs Scbs Warning Volume
 	Write Setting Traffic Sign Display Speed Limit Alert
 	Write Setting Traffic Sign Display Speed Limit Alert Threshold
 	Write Setting Traffic Sign Display System Off

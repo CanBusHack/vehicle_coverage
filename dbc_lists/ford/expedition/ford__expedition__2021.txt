@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Ford 'Expedition' (2021)
 Signal Descriptions:
 	Cylinder Head Temperature
@@ -6,13 +6,13 @@ Signal Descriptions:
 	Roll
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	AC High Side Pressure
-	AC Recirculation
-	ACC Braking Active
-	ACC Braking Temperature Warm
-	ACC Following Distance Button Active
-	ACC Pre Fill Brake
+	Abs Active
+	Ac High Side Pressure
+	Ac Recirculation
+	Acc Braking Active
+	Acc Braking Temperature Warm
+	Acc Following Distance Button Active
+	Acc Pre Fill Brake
 	Accelerator Pedal Position
 	Accelerator Pedal Rate Of Change
 	Accessory Delay Power Active
@@ -32,7 +32,7 @@ Signal Descriptions:
 	Advanced Park Assist Button
 	Air Conditioner
 	Air Conditioning Clutch
-	Air Flow HVAC
+	Air Flow Hvac
 	Auto High Beams Tell Tale
 	Automatic Speed Limit Chime
 	Automatic Speed Limiter Tell Tale
@@ -40,7 +40,7 @@ Signal Descriptions:
 	Barometric Air Pressure
 	Battery Current
 	Battery Voltage
-	Blower Status HVAC
+	Blower Status Hvac
 	Body Systems Service Req
 	Brake Apply Request
 	Brake Pedal Applied
@@ -49,7 +49,7 @@ Signal Descriptions:
 	Brake Pedal Pressure
 	Calculated Ambient Air Temperature
 	Camera Defog
-	Check Engine Light MIL
+	Check Engine Light Mil
 	Child Lock Tell Tale
 	Collision Avoid Brake Equipt
 	Collision Avoid Brake Not Allowed
@@ -71,7 +71,7 @@ Signal Descriptions:
 	Delay Start
 	Diesel Manual Regen Requested
 	Dimming Mode Level
-	Disengage CC From Brake
+	Disengage Cc From Brake
 	Driver Door State Error Condition
 	Driver Seat Belt
 	Driving Mode Selected
@@ -109,36 +109,36 @@ Signal Descriptions:
 	Fuel Level Tell Tale Indication
 	Fuel Pump Inhibit Active
 	Fuel Pump State
-	GPS Altitude Above Sea Level
-	GPS B Fault
-	GPS Based Ground Speed
-	GPS Compass Direction
-	GPS Compass Heading
-	GPS HDOP
-	GPS Latitude Degrees
-	GPS Latitude Min Dec
-	GPS Latitude Minutes
-	GPS Longitude Degrees
-	GPS Longitude Min Dec
-	GPS Longitude Minutes
-	GPS UTC Day
-	GPS UTC Hours
-	GPS UTC Minutes
-	GPS UTC Month
-	GPS UTC Seconds
-	GPS VDOP
 	Gear Level Position
-	HVAC Air Conditioning B Request
-	HVAC Evap Temperature Actual
-	HVAC Evap Temperature Offset
-	HVAC Evap Temperature Request
-	HVAC Internal Temperature
-	HVAC Recirculation Air Percentage
+	Gps Altitude Above Sea Level
+	Gps B Fault
+	Gps Based Ground Speed
+	Gps Compass Direction
+	Gps Compass Heading
+	Gps Hdop
+	Gps Latitude Degrees
+	Gps Latitude Min Dec
+	Gps Latitude Minutes
+	Gps Longitude Degrees
+	Gps Longitude Min Dec
+	Gps Longitude Minutes
+	Gps Utc Day
+	Gps Utc Hours
+	Gps Utc Minutes
+	Gps Utc Month
+	Gps Utc Seconds
+	Gps Vdop
 	Hazards Active
 	High Beams
 	High Headlight
 	High Resolution Engine Speed
 	Hood Open
+	Hvac Air Conditioning B Request
+	Hvac Evap Temperature Actual
+	Hvac Evap Temperature Offset
+	Hvac Evap Temperature Request
+	Hvac Internal Temperature
+	Hvac Recirculation Air Percentage
 	Idle Shutdown
 	Instantaneous Fuel Flow
 	Internal Ambient Air Temperature
@@ -162,16 +162,15 @@ Signal Descriptions:
 	Lights Dial State
 	Lights High Beams Active
 	Lights Left On Chime
-	MIL
 	Max Vehicle Velocity Allowed
 	Metric Units Selected
 	Middle First Row Seat Belt
+	Mil
 	Neutral Tow Mode
-	Number Of GPS Satellites In View
+	Number Of Gps Satellites In View
 	Odometer
 	Oil Pressure Tell Tale
 	Outside Air Temperature
-	PRNDL Range
 	Pair Aid Failure Modes
 	Park Aid Brake Apply Decel
 	Park Aid Button
@@ -190,9 +189,10 @@ Signal Descriptions:
 	Power Tailgate Closing Active
 	Power Tailgate Opening Active
 	Prevent Locking
+	Prndl Range
 	Quite Exhaust Mode
 	Rear Blower Motor
-	Rear Blower Motor HVAC
+	Rear Blower Motor Hvac
 	Rear Defrost
 	Rear Diff Oil Temperature Tell Tale
 	Rear Differential Oil Temperature
@@ -206,7 +206,7 @@ Signal Descriptions:
 	Rear Passenger Door Open
 	Reduced Guard Alarm
 	Remote Start Active
-	Remote Start HVAC Engine Speed Req
+	Remote Start Hvac Engine Speed Req
 	Remote State In Quite Mode
 	Requested Gear
 	Resume Button
@@ -235,15 +235,15 @@ Signal Descriptions:
 	Stability Control Brake
 	Starting Motor Request
 	Steering Column Controller V
-	Steering Column ECU Current
+	Steering Column Ecu Current
 	Steering Column Torque
 	Steering Wheel Angel
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Tire Pressure
 	Tailgate Open
 	Tell Tale Traction Control Off Active
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
 	Traction Control Active
 	Trailer Brake Request
 	Trailer Hitch Light
@@ -271,24 +271,23 @@ Signal Descriptions:
 	Wiper Heater
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Active Freshness
-	ABS Failure
-	ABS Fault
-	AC High Side Pressure
-	AC High Side Pressure
-	AC Recirculation
-	ACC Braking Active
-	ACC Braking Pre-Charging
-	ACC Braking Temperature Warm
-	ACC Cancel Button
-	ACC Decelerate Button
-	ACC Distance Decrease Button
-	ACC Distance Increase Button
-	ACC Following Distance Toggle B
-	ACC Pre Fill Brake
-	ACC Resume Button
-	AWD System Service Req
+	Abs Active
+	Abs Active Freshness
+	Abs Failure
+	Abs Fault
+	Ac High Side Pressure
+	Ac High Side Pressure
+	Ac Recirculation
+	Acc Braking Active
+	Acc Braking Pre-Charging
+	Acc Braking Temperature Warm
+	Acc Cancel Button
+	Acc Decelerate Button
+	Acc Distance Decrease Button
+	Acc Distance Increase Button
+	Acc Following Distance Toggle B
+	Acc Pre Fill Brake
+	Acc Resume Button
 	Accelerator Pedal Gradient
 	Accelerator Pedal Position
 	Accelerator Pedal Position
@@ -306,15 +305,15 @@ Signal Descriptions:
 	Active Park Assist Side
 	Active Park Assist Steering Whee
 	Active Park Assist Switch
-	Actual AWD Torque Lock
 	Actual Ambient Air Temperature
+	Actual Awd Torque Lock
 	Adaptive Cruise Engine
 	Adaptive Cruise Stop Mode
 	Advanced Park Assist Button
 	Advanced Parking Assist B Presse
 	Air Conditioner
 	Air Conditioning Clutch
-	Air Flow HVAC
+	Air Flow Hvac
 	Air Suspension Mode Availability
 	Airbag Deployment Event Type
 	Alarm Chime
@@ -336,6 +335,7 @@ Signal Descriptions:
 	Automatic Speed Limiter Button
 	Automatic Speed Limiter Tell Tale
 	Automatic Speed Set Button
+	Awd System Service Req
 	Backlight Level
 	Barometric Air Pressure
 	Battery Charging Voltage
@@ -346,7 +346,7 @@ Signal Descriptions:
 	Battery State Of Charge Percent
 	Battery Tell Tale
 	Battery Voltage
-	Blower Status HVAC
+	Blower Status Hvac
 	Body Systems Service Req
 	Brake Apply Request
 	Brake Fluid Low Tell Tale
@@ -356,13 +356,13 @@ Signal Descriptions:
 	Brake Pedal Signal Integrity
 	Brake Pressure
 	Braking System Chime
-	CC On Off Cancel Button
 	Calculated Ambient Air Temperature
 	Calculated Torque Output Of Engine Percent
 	Camera Defog
 	Camera Split View Button
 	Cancel Button
 	Cancel Button Press
+	Cc On Off Cancel Button
 	Center Screen Display
 	Charge Cord Lock
 	Charge Now Button
@@ -374,7 +374,7 @@ Signal Descriptions:
 	Charger Power
 	Charging Cord Unlatch Button
 	Charging Tell Tale
-	Check Engine Light MIL
+	Check Engine Light Mil
 	Child Lock Tell Tale
 	Child Locks
 	Cluster Displayed Gear
@@ -402,9 +402,9 @@ Signal Descriptions:
 	Delay Start
 	Diesel Manual Regen Requested
 	Dimming Mode Level
-	Disengage CC From Brake
+	Disengage Cc From Brake
 	Display Gear Info On Cluster
-	Display PRNDL Info On Cluster
+	Display Prndl Info On Cluster
 	Dome Lights
 	Door Locks
 	Door Ramp Light Reason
@@ -473,14 +473,12 @@ Signal Descriptions:
 	Fuel Pump Enabled
 	Fuel Pump Inhibit
 	Fuel Pump State
-	GPS Altitude Above Sea Level
-	GPS Based Ground Speed
-	GPS Compass Heading
-	GPS HDOP
-	GPS VDOP
 	Gear Level Position
-	HVAC Internal Temperature
-	HVAC Recirculation Air Percentag
+	Gps Altitude Above Sea Level
+	Gps Based Ground Speed
+	Gps Compass Heading
+	Gps Hdop
+	Gps Vdop
 	Headlights On Tell Tale
 	Headlights Switch
 	High Beams
@@ -494,6 +492,8 @@ Signal Descriptions:
 	Hill Decent Tell Tale
 	Hill Mode Control Switch
 	Hood
+	Hvac Internal Temperature
+	Hvac Recirculation Air Percentag
 	Hybrid Mode Switch
 	Idle Shutdown
 	Increase Speed Button
@@ -535,15 +535,15 @@ Signal Descriptions:
 	Longitudinal Acceleration
 	Low Beams Lamp Burnt Out
 	Low Headlamps
-	MIL
 	Max Allowed Engine Speed
 	Max Torque Allowed
 	Max Vehicle Velocity Allowed
 	Metric Units Selected
 	Middle First Row Seat Belt
+	Mil
 	Mute Parking Notification
 	Neutral Tow Mode
-	Number Of GPS Satellites In View
+	Number Of Gps Satellites In View
 	Odometer
 	Off Button
 	Oil Level Warning
@@ -551,8 +551,6 @@ Signal Descriptions:
 	On Button
 	Outside Air Temperature
 	Override
-	PRNDL Info For Cluster
-	PRNDL Range
 	Pair Aid Failure Modes
 	Park Aid Brake Apply Decel
 	Park Aid Button
@@ -584,10 +582,12 @@ Signal Descriptions:
 	Power Deck Lid Request
 	Power Liftgate Request
 	Prevent Locking
+	Prndl Info For Cluster
+	Prndl Range
 	Quite Exhaust Mode
 	Ramp Light Reason
 	Rear Blower Motor
-	Rear Blower Motor HVAC
+	Rear Blower Motor Hvac
 	Rear Defrost
 	Rear Diff Oil Temperature Tell Tale
 	Rear Differential Lock Request
@@ -607,9 +607,9 @@ Signal Descriptions:
 	Rear Right Door Child Lock
 	Reduced Guard Alarm
 	Remote Start Active
-	Remote Start HVAC Engine Speed Req
+	Remote Start Hvac Engine Speed Req
 	Remote State In Quite Mode
-	Requested AWD Torque Lock
+	Requested Awd Torque Lock
 	Requested Gear
 	Reset Engine Air Filter
 	Resume Button
@@ -655,13 +655,9 @@ Signal Descriptions:
 	Start Stop Mode Request Button
 	Starting Motor Request
 	Steering Column Controller V
-	Steering Column ECU Current
+	Steering Column Ecu Current
 	Steering Column Torque
 	Steering Wheel Angle
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Tire Pressure
 	Tailgate
 	Tailgate Ajar
 	Tailgate Lock
@@ -669,6 +665,10 @@ Signal Descriptions:
 	Toggle Button
 	Total Braking Torque
 	Tow Haul Mode
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
 	Traction Control
 	Traction Control Active
 	Traction Control Active

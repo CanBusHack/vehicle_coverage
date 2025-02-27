@@ -1,16 +1,16 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Renault 'Kwid' (2023)
 Signal Descriptions:
-	ABS Active
-	ABS Not Available
-	ABS Warning Fault
-	ADAS Speed Limiter Active
-	ADAS Speed Limiter Speed Exceeded
-	ADAS Speed Limiter Speed Set
-	ADAS Speed Limiter Standby
-	ADAS Tell Tale CRUISE On
+	Abs Active
+	Abs Not Available
+	Abs Warning Fault
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Speed Limiter Active
+	Adas Speed Limiter Speed Exceeded
+	Adas Speed Limiter Speed Set
+	Adas Speed Limiter Standby
+	Adas Tell Tale Cruise On
 	Airbag Fault Warning Lamp On
 	Airbag Passenger Off
 	Airbag Tell Tale On
@@ -46,32 +46,32 @@ Signal Descriptions:
 	Door Trunk Closed
 	Door Trunk Open
 	Door Trunk Warning Open
-	ECO Mode Off
-	ECO Mode On
-	ECO Mode Tell Tale On
-	ESP ABS Tell Tale Flashing Fast
-	ESP ABS Tell Tale Flashing Slow
-	ESP ABS Tell Tale On
-	ESP ABS Warning Chime On
-	ESP Traction Control System Status
-	ESP Traction Control Tell Tale Flashing
-	ESP Traction Control Tell Tale On
+	Eco Mode Off
+	Eco Mode On
+	Eco Mode Tell Tale On
 	Engine Running
 	Engine Speed
 	Engine Speed Idling Reference
 	Engine Status
 	Engine Torque Net
 	Engine Torque Reference
+	Esp Abs Tell Tale Flashing Fast
+	Esp Abs Tell Tale Flashing Slow
+	Esp Abs Tell Tale On
+	Esp Abs Warning Chime On
+	Esp Traction Control System Status
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
 	Fuel Low Level Info Status Low
-	Fuel Low Level Info Status OK
+	Fuel Low Level Info Status Ok
 	Fuel Pump Powered
 	Fuel Pump Unavailable
 	Fuel Tank Level
 	Gear Reverse Not Engaged
-	HVAC Heater Rear Active
 	Headlight Status High Beam
 	Headlight Status Low Beam
 	Headlights Status On
+	Hvac Heater Rear Active
 	Ignition On
 	Immobilizer Active
 	Immobilizer Injection Code Allocated
@@ -136,10 +136,10 @@ Signal Descriptions:
 	Steering Wheel Tell Tale Service Required
 	Steering Wheel Warning Fault
 	Stop Start System Tell Tale Flashing
-	TPMS Resetting Values
-	TPMS Service Required
-	TPMS Tell Tale On
 	Tell Tale Battery Flashing
+	Tpms Resetting Values
+	Tpms Service Required
+	Tpms Tell Tale On
 	Trip A Computer Reset
 	Trip A Distance
 	Trip A Fuel Consumption Average

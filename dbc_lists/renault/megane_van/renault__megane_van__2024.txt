@@ -1,15 +1,15 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Renault 'Megane Van' (2024)
 Signal Descriptions:
-	Ambient Lighting RGB Blue
-	Ambient Lighting RGB Green
-	Ambient Lighting RGB Red
+	Ambient Lighting Rgb Blue
+	Ambient Lighting Rgb Green
+	Ambient Lighting Rgb Red
 	Ambient Lighting Setting
 	Ambient Lighting System Active
 	Anydoor Open
 	Central Display Day Mode Setting
 	Central Display Night Mode Setting
-	FM Stored Station Selected
+	Fm Stored Station Selected
 	Infotainment System Driving Assistance Button Long Pressed
 	Infotainment System Home Button Long Pressed
 	Infotainment System Screen Turned Off
@@ -74,7 +74,7 @@ Signal Descriptions:
 	Command Auto Soft On
 	Command Demist On
 	Command Forced Recycling On
-	Command HVAC Off
+	Command Hvac Off
 	Command Rear Defrost On
 	Command Turn Off Start Stop And
 	Command Turn Off Start Stop Unlo
@@ -85,21 +85,21 @@ Signal Descriptions:
 	Dash Message Battery In Safe Mod
 	Dash Message Battery Low Start E
 	Dash Message Brake System Fault
-	Dash Message Check ABS
+	Dash Message Check Abs
 	Dash Message Check Airbag
 	Dash Message Check Airbag
 	Dash Message Check Anti Theft Ste
 	Dash Message Check Braking Syste
 	Dash Message Check Child Safety D
-	Dash Message Check ESC
 	Dash Message Check Electric System
+	Dash Message Check Esc
 	Dash Message Check Hill Start As
 	Dash Message Check Lighting Low
 	Dash Message Check Vehicle
 	Dash Message Child Lock Activated
 	Dash Message Child Lock Deactivate
 	Dash Message Clean Diesel Filter
-	Dash Message Electric Failure DANGER
+	Dash Message Electric Failure Danger
 	Dash Message Engine Failure Hazard
 	Dash Message Engine Failure Hazards
 	Dash Message Gear P Position Def
@@ -114,9 +114,9 @@ Signal Descriptions:
 	Dash Message Push Brake Pedal
 	Dash Message Release Parking Bra
 	Dash Message Restart With The Key
-	Dash Message SOS Call Info State
 	Dash Message Select N
 	Dash Message Select P
+	Dash Message Sos Call Info State
 	Dash Message Steering Wheel Not Locked
 	Dash Message Stop Vehicle
 	Dash Messages Check Automatic Hea
@@ -125,7 +125,7 @@ Signal Descriptions:
 	Dash Messages Remove Key From Ign
 	Dash Messages Start Process Message
 	Dash Tachometer Indication
-	Dash Warning Check ESP 0 True
+	Dash Warning Check Esp 0 True
 	Dash Warning P Not Engaged
 	Dash Warning Powersteering Fault
 	Deicer Rear Off
@@ -142,7 +142,7 @@ Signal Descriptions:
 	Door Rear Right Open Warning
 	Door Trunk Ajar Tell Tale
 	Door Trunk Open Warning
-	Driver Door Switch ES
+	Driver Door Switch Es
 	Driver Masage System Set To On
 	Driver Massage Intensity Setting
 	Driver Massage Seat Button Activ
@@ -152,8 +152,7 @@ Signal Descriptions:
 	Driving Style Indicator System Setting Changing To Off
 	Driving Style Indicator System Setting Changing To On
 	Duel Zone Active
-	ECO Mode Active
-	ESC On
+	Eco Mode Active
 	Eco Mode Off
 	Eco Mode On
 	Eco Tree Related
@@ -162,6 +161,7 @@ Signal Descriptions:
 	Engine Stop Request Via Stop Button Present
 	Engine Torque Net
 	Engine Torque Requested By Driver
+	Esc On
 	External Welcome System Setting Changing To Off
 	External Welcome System Setting Changing To On
 	External Welcome System Setting Set To Off
@@ -172,18 +172,6 @@ Signal Descriptions:
 	Front Wheel Speed Average
 	Fuel Not Low
 	Glow Plug Tell Tale Active
-	HVAC AC Off
-	HVAC AC On
-	HVAC Air Recirculation Through Upper Vent
-	HVAC Cabin Air Directed Lower Le
-	HVAC Cabin Air Directed Mid Leve
-	HVAC Cabin Air Directed Upper Le
-	HVAC Cabin Fan Speed
-	HVAC Cabin Fan Speed Changing
-	HVAC Fast Active
-	HVAC Left Temperature Control Setting
-	HVAC Right Temperature Control Setting
-	HVAC Soft Active
 	Hands Free Key Functions System Setting Changing To Off
 	Hands Free Key Functions System Setting Changing To On
 	Hazards Command Active
@@ -191,6 +179,18 @@ Signal Descriptions:
 	High Beams Active
 	Hood Not Open
 	Hood Open
+	Hvac Ac Off
+	Hvac Ac On
+	Hvac Air Recirculation Through Upper Vent
+	Hvac Cabin Air Directed Lower Le
+	Hvac Cabin Air Directed Mid Leve
+	Hvac Cabin Air Directed Upper Le
+	Hvac Cabin Fan Speed
+	Hvac Cabin Fan Speed Changing
+	Hvac Fast Active
+	Hvac Left Temperature Control Setting
+	Hvac Right Temperature Control Setting
+	Hvac Soft Active
 	Immobilizer Active
 	Immobilizer Injection Code Allocated
 	Immobilizer Injection Code Blank
@@ -202,7 +202,7 @@ Signal Descriptions:
 	Lane Departure Warning System Setting Changing To Off
 	Lane Departure Warning System Setting Changing To On
 	Language
-	Learning TP Initiated
+	Learning Tp Initiated
 	Lights Low Beam On Command
 	Lights Side Lights On Command
 	Low Beams Active
@@ -240,7 +240,7 @@ Signal Descriptions:
 	Parking Sensor Right Rear Door L
 	Parking Sensor Right Rear Fender
 	Parking Sensor Side Sensors Disp
-	Pass Door Switch ES
+	Pass Door Switch Es
 	Pedal Accelerator Kick Down
 	Pedal Accelerator Position
 	Pedal Accelerator With Switch Position
@@ -249,7 +249,7 @@ Signal Descriptions:
 	Pedal Clutch Fully Pressed
 	Pedal Clutch Not At Rest
 	Pedal Clutch Not Fully Pressed
-	Power Mode ACC
+	Power Mode Acc
 	Power Mode Crank
 	Power Mode Ignition Or Engine Running
 	Power Mode Run
@@ -277,21 +277,21 @@ Signal Descriptions:
 	Sport Mode Active
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	Tell Tale ABS Flashing Fast On
-	Tell Tale ABS Flashing On
+	Tell Tale Abs Flashing Fast On
+	Tell Tale Abs Flashing On
 	Tell Tale Auto Start Stop Green W
 	Tell Tale Automatic Headlights Gr
 	Tell Tale Driver Seat Belt Unbuckled
 	Tell Tale Gas
 	Tell Tale Gears
 	Tell Tale High Beam
-	Tell Tale LPG
 	Tell Tale Left Turn Signal Active
 	Tell Tale Lights Front Fog Lights
 	Tell Tale Lights Rear Fog Lights
 	Tell Tale Lights Side Lights Acti
 	Tell Tale Low Beam
-	Tell Tale MIL
+	Tell Tale Lpg
+	Tell Tale Mil
 	Tell Tale Parking Brake Flashing
 	Tell Tale Parking Brake Solid On
 	Tell Tale Passenger Seat Belt Unbuckled
@@ -308,7 +308,7 @@ Signal Descriptions:
 	Trip Vehicle Speed Average
 	Trunk Closed
 	Trunk Open
-	Vehicle Speed Unit MPH Active
+	Vehicle Speed Unit Mph Active
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
 	Wipers Not Moving

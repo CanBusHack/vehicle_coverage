@@ -1,18 +1,18 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Peugeot '5008' (2013)
 Signal Descriptions:
 	A C Compressor Power Consumed
-	AC Compressor Active
-	ADAS SL Active
-	ADAS SL On And Paused
-	ADAS SP Or CC State
-	ADAS Speed Set
-	ASR In Normal Operation
-	ASR Off
+	Ac Compressor Active
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Sl Active
+	Adas Sl On And Paused
+	Adas Sp Or Cc State
+	Adas Speed Set
 	Air Quantity Measured Corrected
 	Ambient Temperature
+	Asr In Normal Operation
+	Asr Off
 	Auto Start Stop System Off
 	Auto Start Stop System On
 	Battery Current
@@ -35,20 +35,20 @@ Signal Descriptions:
 	Dash Warn Eng Fault Stop Vehicle
 	Dash Warn Eng Oil Press Fault Stop Vehicle
 	Dash Warn Gearbox Fault Repair Needed
-	Dash Warning ABS Fault
+	Dash Warning Abs Fault
 	Dash Warning Brake Pads Change
 	Dash Warning Braking System Fault
-	Dash Warning ESP ASR Fault
 	Dash Warning Eng Fault Repair Needed
 	Dash Warning Eng Temperature Fault
+	Dash Warning Esp Asr Fault
 	Dash Warning Park Brake Fault
 	Dash Warning Power Steering Fault
 	Dashboard Gear Indication Neutral Engaged
-	Dashboard Tell Tale ESP System Deactivated
+	Dashboard Tell Tale Esp System Deactivated
 	Dashboard Tell Tale Service And Stop Warning Blinking On
 	Dashboard Tell Tale Service And Stop Warning On
 	Dashboard Warning Battery Charge Fault Stop The Vehicle
-	Dashboard Warning ESP System Deactivated
+	Dashboard Warning Esp System Deactivated
 	Dashboard Warning Tire Pressure Monitoring System Fault
 	Declutching Status Stationary
 	Diagnosis Network Communication
@@ -62,10 +62,7 @@ Signal Descriptions:
 	Driving Mode
 	Driving Mode Snow Pressed
 	Driving Mode Sport Button Pressed
-	ECU Wake Up Status Main Triggering
-	ESP ABS Active
-	ESP System Activated
-	ESP Traction Control Deactivated
+	Ecu Wake Up Status Main Triggering
 	Electrical System Emergency Mode
 	Engine Operation Cut Off
 	Engine Operation Driving Starting
@@ -75,6 +72,9 @@ Signal Descriptions:
 	Engine Torque Managing Air Flow
 	Engine Torque Request By Driver
 	Engine Torque Resistive Estimated
+	Esp Abs Active
+	Esp System Activated
+	Esp Traction Control Deactivated
 	Fault With Lane Departure System Warning And Service Tell Tale
 	Filter Regeneration Request
 	Gear Displayed Dashboard
@@ -83,19 +83,19 @@ Signal Descriptions:
 	Gear Position Drive Or Reverse
 	Gear Requested
 	Gear Shifting Status
-	HVAC A C On
-	HVAC Fan Control Via CAN
 	Hazards On Sharp Speed Reduction
 	Headlight Setting Adaptive Active
 	Headlights System Setting Directional Headlamps System Set To On
 	Hill Start System Fault Warning
-	IC Warning Power Steering Fault Have The Vehicle Repaired
-	IC Warning Power Steering Fault Stop The Vehicle
+	Hvac A C On
+	Hvac Fan Control Via Can
+	Ic Warning Power Steering Fault Have The Vehicle Repaired
+	Ic Warning Power Steering Fault Stop The Vehicle
 	Intake Air Temperature At Manifold
 	Key In Cranking Position
 	Key In Ignition Position
-	Key Position Not In START
-	Key Position START
+	Key Position Not In Start
+	Key Position Start
 	Lights Antifog Front On
 	Lights High Beam On
 	Lights Low Beam On
@@ -103,7 +103,6 @@ Signal Descriptions:
 	Lights Reversing On
 	Lights Side On
 	Oil Temperature
-	PRNDL Position
 	Park Brake Button Light On
 	Park Brake Button Position Pulled Upwards
 	Park Brake Disengaged
@@ -131,7 +130,8 @@ Signal Descriptions:
 	Power Mode Ignition Off
 	Power Mode Ignition Or Cranking
 	Power Mode Off
-	Power Mode Switching To RAP Or Ignition
+	Power Mode Switching To Rap Or Ignition
+	Prndl Position
 	Raw Fuel Level
 	Refrigerant Circuit Pressure
 	Request For Freezing Of Disturbances Torque
@@ -141,7 +141,7 @@ Signal Descriptions:
 	Shift Up Icon Active
 	Starting Inhibit Ctrl Lock Active
 	Starting Inhibit Ctrl Lock Inactive
-	Status Of The ASR MSR Function
+	Status Of The Asr Msr Function
 	Steering Wheel Angle
 	Steering Wheel Rate
 	Steering Wheel Sensor Adjusted
@@ -150,8 +150,8 @@ Signal Descriptions:
 	Steering Wheel Turning Clockwise
 	Tell Tale Drive Mode Selected Sport Mode
 	Tell Tale Glow Plug
-	Tell Tale MIL
-	Tell Tale MIL Flashing
+	Tell Tale Mil
+	Tell Tale Mil Flashing
 	Tell Tale Park Brake
 	Tell Tale Park Brake Auto Off
 	Tell Tale Park Brake Auto Off
@@ -165,11 +165,11 @@ Signal Descriptions:
 	Transmission Input Speed Calculated
 	Transmission Oil Temperature
 	Up Shift Paddle Pressed
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
 	Vehicle Acceleration
 	Vehicle Speed 40Ms Frequency
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 	Water In Diesel
 	Wheel Speed Front Average
 	Wheel Speed Front Left

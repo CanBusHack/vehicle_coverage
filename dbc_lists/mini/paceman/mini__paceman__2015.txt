@@ -1,15 +1,15 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mini 'Paceman' (2015)
 Signal Descriptions:
-	ADAD Stalk Cruise Control Position
-	ADAS Cruise Control Speed Decrease 1Mph Request
-	ADAS Cruise Control Speed Decrease 5Mph Request
-	ADAS Cruise Control Speed Increase 1Mph Request
-	ADAS Cruise Control Speed Increase 5Mph Request
 	Absolute Throttle Position Sensor
 	Acceleration Lateral
 	Acceleration Latitude
 	Acceleration Longitudinal
+	Adad Stalk Cruise Control Position
+	Adas Cruise Control Speed Decrease 1Mph Request
+	Adas Cruise Control Speed Decrease 5Mph Request
+	Adas Cruise Control Speed Increase 1Mph Request
+	Adas Cruise Control Speed Increase 5Mph Request
 	Ambient Air Temperature
 	Baro Challenge
 	Battery Voltage
@@ -48,20 +48,20 @@ Signal Descriptions:
 	Doors Locked
 	Doors Unlocked
 	Driving Mode Eco Pro Active
-	ESP ABS Active
-	ESP Traction Control Off Alt
-	ESP Traction Control On Alt
 	Engine Oil Temperature
 	Engine Speed
 	Engine Speed Alt
 	Engine Torque
 	Engine Torque Request
+	Esp Abs Active
+	Esp Traction Control Off Alt
+	Esp Traction Control On Alt
 	Fuel Level In Liters
 	Fuel Range
 	Gearbox Shift In Progress
-	HVAC System Active
 	Hill Descent Control Active
-	IC Backlight Level
+	Hvac System Active
+	Ic Backlight Level
 	Key Fob Lock Command
 	Key Fob Open Hatch Command
 	Key Fob Panic
@@ -78,15 +78,14 @@ Signal Descriptions:
 	Lock State Not Changing
 	Locking Command
 	Low Fuel Tell Tale Active
-	MIL Tell Tale Active
 	Manual Gear Displayed
 	Manual Mode Active
 	Manual Mode Started
+	Mil Tell Tale Active
 	Odometer
 	Oil Pressure Displayed
 	Oil Temperature
 	Output Shaft Speed
-	PRNDL And Gear
 	Parking Brake Disengaged
 	Parking Brake Engaged
 	Partial Network Information 0003
@@ -96,7 +95,7 @@ Signal Descriptions:
 	Pedal Accelerator Pressed
 	Pedal Brake Pressed
 	Pedal Brake Pressed
-	Power Mode ACC
+	Power Mode Acc
 	Power Mode Change Request
 	Power Mode Crank Active
 	Power Mode Key In
@@ -106,6 +105,7 @@ Signal Descriptions:
 	Power Mode Run Alt
 	Power Mode Start Button Pressed
 	Power Steering Consistency Count
+	Prndl And Gear
 	Reverse Engage
 	Reverse Not Engage
 	Seatbelt Front Driver Fastened
@@ -116,7 +116,7 @@ Signal Descriptions:
 	Shift Lever Position In Reverse
 	Sport Mode Active
 	Sport Mode Not Active
-	Stalk Lights BC Button Pressed
+	Stalk Lights Bc Button Pressed
 	Stalk Lights Position High Beam Flash Pulled
 	Stalk Lights Position High Beam Pushed
 	Stalk Lights Position Turn Left Full
@@ -127,7 +127,7 @@ Signal Descriptions:
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Rate Alt
-	Steering Wheel Button AC Pressed
+	Steering Wheel Button Ac Pressed
 	Steering Wheel Button Arrow Down Pressed
 	Steering Wheel Button Arrow Up Pressed
 	Steering Wheel Button Disc Change Pressed
@@ -136,10 +136,6 @@ Signal Descriptions:
 	Steering Wheel Button Volume Down Pressed
 	Steering Wheel Button Volume Up Pressed
 	Sun Roof In Motion
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Tire Pressure
 	Target Idle Speed
 	Time Current Hours
 	Time Current Minutes
@@ -149,6 +145,10 @@ Signal Descriptions:
 	Torque Minimum Available
 	Torque Spark Negative Available
 	Torque Spark Positive Available
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
 	Traction Control Off
 	Transmission Temperature
 	Turn Signal Left Active
@@ -204,24 +204,24 @@ Signal Descriptions:
 	Fuel Consumption Rate Units Selected
 	Fuel Sensor 1
 	Fuel Sensor 2
-	HAZARD Button Pressed
-	HVAC Driver Air Dash Baffle Open Percentage
-	HVAC Driver Air Floor Baffle Open Percentage
-	HVAC Driver Air Mode
-	HVAC Driver Air Windscreen Baffle Open Percentage
-	HVAC Driver Cabin Fan Speed Setting
-	HVAC Driver Climate Temperature Adjustment Setting Negative Cold Positive Hot
-	HVAC Driver Climate Zone Auto Active
-	HVAC Driver Climate Zone Set Temperature
-	HVAC Passenger Air Dash Baffle Open Percentage
-	HVAC Passenger Air Floor Baffle Open Percentage
-	HVAC Passenger Air Mode
-	HVAC Passenger Air Windscreen Baffle Open Percentage
-	HVAC Passenger Cabin Fan Speed Setting
-	HVAC Passenger Climate Temperature Adjustment Setting Negative Cold Positive Hot
-	HVAC Passenger Climate Zone Set Temperature
 	Hand Brake Disengaged
 	Hand Brake Engaged
+	Hazard Button Pressed
+	Hvac Driver Air Dash Baffle Open Percentage
+	Hvac Driver Air Floor Baffle Open Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Air Windscreen Baffle Open Percentage
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temperature
+	Hvac Passenger Air Dash Baffle Open Percentage
+	Hvac Passenger Air Floor Baffle Open Percentage
+	Hvac Passenger Air Mode
+	Hvac Passenger Air Windscreen Baffle Open Percentage
+	Hvac Passenger Cabin Fan Speed Setting
+	Hvac Passenger Climate Temperature Adjustment Setting Negative Cold Positive Hot
+	Hvac Passenger Climate Zone Set Temperature
 	Internal Air Temperature
 	Internal Temperature
 	Language
@@ -292,7 +292,7 @@ Signal Descriptions:
 	Turn Signal Temporarily Active
 	Unlock All Doors On Fob Unlock Request Option Selected
 	Unlock Driver Door On Fob Unlock Request Option Selected
-	VIN
+	Vin
 	Water Temperature
 	Window Lock Active
 	Window Lock Button Pressed

@@ -1,29 +1,29 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volkswagen 'Caddy' (2012)
 Signal Descriptions:
 	Audio Player Radio Power On
 	Battery Voltage
 	Central Lock Doors Setting
-	Convenience ATA Confirm On
-	DDP Front Driver Window Switch Auto Down
-	DDP Front Driver Window Switch Auto Up
-	DDP Front Driver Window Switch Down
-	DDP Front Driver Window Switch Up
-	DDP Front Passenger Window Switch Auto Down
-	DDP Front Passenger Window Switch Auto Up
-	DDP Front Passenger Window Switch Down
-	DDP Front Passenger Window Switch Up
-	DDP Rear Left Window Lock Off
-	DDP Rear Left Window Switch Auto Down
-	DDP Rear Left Window Switch Auto Up
-	DDP Rear Left Window Switch Down
-	DDP Rear Left Window Switch Up
-	DDP Rear Right Window Lock Off
-	DDP Rear Right Window Switch Auto Down
-	DDP Rear Right Window Switch Auto Up
-	DDP Rear Right Window Switch Down
-	DDP Rear Right Window Switch Up
-	DDP Trunk Release Switch Pressed
+	Convenience Ata Confirm On
+	Ddp Front Driver Window Switch Auto Down
+	Ddp Front Driver Window Switch Auto Up
+	Ddp Front Driver Window Switch Down
+	Ddp Front Driver Window Switch Up
+	Ddp Front Passenger Window Switch Auto Down
+	Ddp Front Passenger Window Switch Auto Up
+	Ddp Front Passenger Window Switch Down
+	Ddp Front Passenger Window Switch Up
+	Ddp Rear Left Window Lock Off
+	Ddp Rear Left Window Switch Auto Down
+	Ddp Rear Left Window Switch Auto Up
+	Ddp Rear Left Window Switch Down
+	Ddp Rear Left Window Switch Up
+	Ddp Rear Right Window Lock Off
+	Ddp Rear Right Window Switch Auto Down
+	Ddp Rear Right Window Switch Auto Up
+	Ddp Rear Right Window Switch Down
+	Ddp Rear Right Window Switch Up
+	Ddp Trunk Release Switch Pressed
 	Door Front Driver Lock Switch Pressed
 	Door Front Driver Locked
 	Door Front Driver Open
@@ -33,14 +33,14 @@ Signal Descriptions:
 	Door Front Passenger Door Unlock Switch Pressed
 	Door Front Passenger Open
 	Gearbox Shifter Interlock Engaged
-	HVAC Fan Speed
-	HVAC Function Current
 	Headlights High Beam Active
 	Headlights Low Beam Active
 	Headlights Mode Auto
 	Headlights Park Lights Active
 	Headlights Side Lights Active
 	Horn Active
+	Hvac Fan Speed
+	Hvac Function Current
 	Key Fob Command
 	Language Selected
 	Lights Hazard
@@ -82,10 +82,10 @@ Signal Descriptions:
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
-	VIN Characters 1 To 3
-	VIN Characters 11 To 17
-	VIN Characters 4 To 10
-	VIN Index
+	Vin Characters 1 To 3
+	Vin Characters 11 To 17
+	Vin Characters 4 To 10
+	Vin Index
 	Window Front Driver Fully Closed
 	Window Front Driver Moving Down
 	Window Front Driver Moving Up
@@ -127,23 +127,23 @@ Signal Descriptions:
 	Wiper Front Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Diagnostics Mode Active
-	ABS Tell Tale Active
-	AC Compressor Active
-	ADAS Button Cancel Pressed
-	ADAS Button Minus Pressed
-	ADAS Button On Off Pressed
-	ADAS Button Plus Pressed
-	ADAS Button Res Pressed
-	ADAS Button Set Pressed
-	ADAS Cross Traffic Rear Sensors Active
-	ADAS Cruise Control Fault
-	ADAS Cruise Control Speed Set
-	ADAS Speed Limiter Active
-	ADAS Speed Limiter Standby
+	Abs Diagnostics Mode Active
+	Abs Tell Tale Active
+	Ac Compressor Active
 	Acceleration Lateral Timer Tic
 	Acceleration Longitudinal
 	Actuators Combination Test Active
+	Adas Button Cancel Pressed
+	Adas Button Minus Pressed
+	Adas Button On Off Pressed
+	Adas Button Plus Pressed
+	Adas Button Res Pressed
+	Adas Button Set Pressed
+	Adas Cross Traffic Rear Sensors Active
+	Adas Cruise Control Fault
+	Adas Cruise Control Speed Set
+	Adas Speed Limiter Active
+	Adas Speed Limiter Standby
 	Airbag Actuator Test Active
 	Airbag Diagnostics Mode Active
 	Airbag Disabled
@@ -157,11 +157,11 @@ Signal Descriptions:
 	Brake Boost Active
 	Brake Function Active
 	Brake Intervention Release Active
-	Brake Light ECD Active
+	Brake Light Ecd Active
 	Brake Message Time Out
 	Brake Pressure
 	Brake Pressure Invalid
-	Brake Request ESP System
+	Brake Request Esp System
 	Brake Switch Active
 	Brake Tell Tale Active
 	Brake Temperature Warning Active
@@ -181,8 +181,6 @@ Signal Descriptions:
 	Distance Impulses Front Axle
 	Driver Door Open
 	Driving Resistance Index
-	EPC Tell Tale Active
-	ESP Tell Tale Active
 	Engine Acceleration
 	Engine Acceleration Positive
 	Engine Coolant Level Low Tell Tale Active
@@ -207,6 +205,8 @@ Signal Descriptions:
 	Engine Torque Net
 	Engine Torque Reference
 	Engine Torque Request Driver
+	Epc Tell Tale Active
+	Esp Tell Tale Active
 	Fuel Cap Tell Tale Active
 	Fuel Consumption
 	Fuel Consumption Overflow
@@ -219,14 +219,11 @@ Signal Descriptions:
 	Gear Reverse Engaged
 	Gear Torque Instant
 	Gear Torque Target
-	Gearbox EGS Request
+	Gearbox Egs Request
 	Gearbox Gear Engaged
 	Gearbox Shift Active
 	Gearbox Shift Interlock Tell Tale Active
 	Glow Plug Active
-	HVAC Compressor Off
-	HVAC Compressor Off Request Transmission
-	HVAC Compressor Power Reduction Active
 	Headlights High Beam Active
 	Headlights High Temperature Warning Active
 	Headlights Low Beam Active
@@ -237,10 +234,13 @@ Signal Descriptions:
 	Heated Window Rear Off
 	Hood Open
 	Hour
+	Hvac Compressor Off
+	Hvac Compressor Off Request Transmission
+	Hvac Compressor Power Reduction Active
 	Idle Speed Target
 	Idle Speed Target Increase
 	Idle Target Set To Max
-	Ignition ACC
+	Ignition Acc
 	Ignition Active
 	Ignition Cranking
 	Intake Air Temperature
@@ -250,12 +250,11 @@ Signal Descriptions:
 	Lights Brake Active
 	Lights Fog Active
 	Lights Hazards Active
-	MIL Tell Tale Active
-	MKB Safe
+	Mil Tell Tale Active
 	Minute
+	Mkb Safe
 	Month
 	Odometer
-	PRNDL Position
 	Parking Brake Engaged
 	Passenger Door Open
 	Pedal Accelerator Kickdown Switch Active
@@ -270,6 +269,7 @@ Signal Descriptions:
 	Power Steering Fluid Level
 	Power Steering Tell Tale Active
 	Power Steering Temperature
+	Prndl Position
 	Rear Driver Door Open
 	Rear Passenger Door Open
 	Seatbelt Front Driver Buckled Alt
@@ -289,23 +289,23 @@ Signal Descriptions:
 	Steering Wheel Angle Rate
 	Steering Wheel Torque
 	Steering Wheel Turn Clockwise
-	TPMS Tell Tale Active
 	Throttle Angle Value Inaccurate
 	Throttle Position
 	Torque Converter Loss
+	Tpms Tell Tale Active
 	Traction Control Off Tell Tale Active
 	Traction Control System Initialization Active
 	Trailer Tell Tale Active
 	Transmission Prompt Overheat Stop See Owners Manual
 	Transmission Torque Error
 	Turbo Boost Pressure
-	VIN Part 1
-	VIN Part 2
 	Vehicle Acceleration
 	Vehicle Speed
 	Vehicle Speed
 	Vehicle Speed Displayed
 	Vehicle Speed Signal Source Active
+	Vin Part 1
+	Vin Part 2
 	Water In Fuel Filter
 	Wheel Front Left Free
 	Wheel Front Right Free
@@ -329,7 +329,7 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Prompt Button For Driver Assistant System Defective
+	Adas Prompt Button For Driver Assistant System Defective
 	Door Trunk Open Displayed
 	Fob Buttons Released
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -355,8 +355,8 @@ Signal Descriptions:
 	Trailer Indicator Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Blind Spot Side Left Active
-	ADAS Blind Spot Side Right Active
-	ADAS Blind Spot System Active
-	ADAS Blind Spot System Standby
-	ADAS Cross Traffic Warn Status
+	Adas Blind Spot Side Left Active
+	Adas Blind Spot Side Right Active
+	Adas Blind Spot System Active
+	Adas Blind Spot System Standby
+	Adas Cross Traffic Warn Status

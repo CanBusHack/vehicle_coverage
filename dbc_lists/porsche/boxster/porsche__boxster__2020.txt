@@ -1,11 +1,11 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Porsche 'Boxster' (2020)
 Signal Descriptions:
-	AAG Trailer Recognized
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
-	ACC Key Position Active
+	Aag Trailer Recognized
+	Abs Active
+	Abs Lamp Active
+	Acc Display Active
+	Acc Key Position Active
 	Accelerator Pedal
 	Accelerator Pedal Not Pressed
 	Accelerator Pedal Release In Progress
@@ -19,9 +19,9 @@ Signal Descriptions:
 	Airbag Tell Tale Active
 	Automatic Off Active
 	Automatic Off Deactivate
-	BRAKE Lamp Active
 	Backup Camera Angel
 	Belt Tensioner Active
+	Brake Lamp Active
 	Car Wakeup
 	Clutch Switch Active
 	Crank Key Position Active
@@ -41,16 +41,16 @@ Signal Descriptions:
 	Driving Mode
 	Driving Mode Change In Progress
 	Driving Mode Changing
-	ESC System
-	ESP Lamp Active
-	ESP Timeout
-	ESP Voltage Request
 	Emergency Break Tell Tale Active
 	Engine Coolant Temperature
 	Engine Speed
+	Esc System
+	Esp Lamp Active
+	Esp Timeout
+	Esp Voltage Request
 	Fron Washer Active
 	Front Driver Door Open
-	Front HVAC Blower Active
+	Front Hvac Blower Active
 	Front Left Wheel Speed
 	Front Passenger Door Open
 	Front Right Wheel Speed
@@ -97,8 +97,8 @@ Signal Descriptions:
 	Ready To Drive
 	Rear Crash
 	Rear Driver Door Open
-	Rear HVAC Blower Active
-	Rear HVAC Blower Level
+	Rear Hvac Blower Active
+	Rear Hvac Blower Level
 	Rear Left Wheel Speed
 	Rear Passenger Door Open
 	Rear Right Wheel Speed
@@ -112,32 +112,32 @@ Signal Descriptions:
 	Seconds
 	Set Idle Speed
 	Set Point Limit
-	Settings Speed MPH
+	Settings Speed Mph
 	Shift Interlock Active
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
 	Speed Warning Active
 	Standby Request Active
-	Start Stop LED Active
+	Start Stop Led Active
 	Start Stop Reset
 	Start Stop Status
 	Start Stop Stop Motor
 	Steering Mode
 	Steering Wheel Lamp Active
 	Stop Confirmation
-	Stopping Process ACC Active
+	Stopping Process Acc Active
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
 	Throttle Wide Open Active
 	Transmission Over Temperature Warning
 	Upper Engine Speed Limit
-	VIN Part 1
 	Vehical Speed Limitation Active
 	Vehicle Speed 1
 	Vehicle Speed 2
 	Vehicle Speed Max Limitation Active
 	Vehicle Weight
+	Vin Part 1
 	Voltage Request
 	Wheel Direction Front Left
 	Wheel Direction Front Right
@@ -148,13 +148,12 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AAG Trailer Recognized
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
-	ASR Active
+	Aag Trailer Recognized
+	Abs Active
+	Abs Lamp Active
 	Absolute Load Value
 	Absolute Throttle Position
+	Acc Display Active
 	Accelerator Pedal
 	Accelerator Pedal Gradient
 	Accelerator Pedal Gradient Not Reported
@@ -166,10 +165,11 @@ Signal Descriptions:
 	Airbag Lamp Active
 	Airbag System Error
 	Airbag Tell Tale Active
+	Asr Active
 	Autohold Active
 	Autohold In Standby
-	BRAKE Lamp Active
 	Blower Voltage
+	Brake Lamp Active
 	Brake Pressure
 	Brake Switch
 	Brake Switch 1 Active
@@ -186,7 +186,6 @@ Signal Descriptions:
 	Cruise Control T Position Active
 	Current Gear
 	Cylinder Deactivation
-	DPF Installed
 	Dash Prompt Add Engine Oil
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Battery Almost Drained Limited Vehicle Performance
@@ -210,20 +209,15 @@ Signal Descriptions:
 	Dash Prompt Please Reduce Oil Level See Manual
 	Dash Prompt Restart Not Possible Do Not Open Hood
 	Dash Prompt Unable To Start Please Remove Charging Connector
-	Dash Tell Tale EPC
-	Dash Tell Tale MIL
+	Dash Tell Tale Epc
+	Dash Tell Tale Mil
 	Delay Electronic Parking Brake Active
 	Delay Electronic Parking Brake Available
 	Door Lock Status
+	Dpf Installed
 	Driver Seatbelt Buckled
 	Driving Cycle Active
-	ECD Not Available
-	ESC
-	ESP Anti Skid Active
-	ESP Intervention Active
-	ESP Lamp Active
-	ESP System Not Active
-	ESP Timeout
+	Ecd Not Available
 	Electronic Brake Force Distribution Active
 	Electronic Differential Lock Active
 	Emergency Braking Active
@@ -241,8 +235,14 @@ Signal Descriptions:
 	Engine Torque Limitation Dynamic
 	Engine Torque Limitation Static
 	Error Electrical System Stop
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Esc
+	Esp Anti Skid Active
+	Esp Intervention Active
+	Esp Lamp Active
+	Esp System Not Active
+	Esp Timeout
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Fron Washer Active
 	Front Driver Door Open
 	Front Left Wheel Speed
@@ -277,7 +277,7 @@ Signal Descriptions:
 	Horn Pressed Alt
 	Hydraulic Brake Assist Active
 	Intake Air Temperature
-	Key Position ACC
+	Key Position Acc
 	Key Position Crank
 	Key Position Ignition
 	Lateral Acceleration
@@ -303,12 +303,12 @@ Signal Descriptions:
 	Oil Temperature
 	Outside Air Temperature
 	Overrun Cutoff Active
-	PRNDL
 	Parking Brake Changing States
 	Parking Brake Disengaging
 	Parking Brake Engaged
 	Please Reduce Oil Level
 	Positive Paddle Shifter Pressed
+	Prndl
 	Ready To Drive
 	Rear Crash
 	Rear Driver Door Open
@@ -323,7 +323,7 @@ Signal Descriptions:
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
 	Set Idle Speed
-	Settings Speed MPH
+	Settings Speed Mph
 	Shift Interlock Active
 	Standby Request Active
 	Start Assist Active
@@ -333,13 +333,13 @@ Signal Descriptions:
 	Steering Angle
 	Steering Angle Negative
 	Steering Assist Button Pressed
-	Steering Intervention By ADAS
+	Steering Intervention By Adas
 	Steering Wheel Adjustment Being Made
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
 	Steering Wheel Sensor Fault
 	Stop Confirmation
-	Stopping Process ACC Active
+	Stopping Process Acc Active
 	Target Gear
 	Tell Tale Seatbelt For Driver Icon Active
 	Tell Tale Seatbelt For Passenger Icon Active
@@ -354,14 +354,14 @@ Signal Descriptions:
 	Transmission Speed
 	Transmission Warning Active
 	Trunk Open
-	USA Variant
-	VIN Part1
-	VIN Part2
-	VIN Part3
+	Usa Variant
 	Vehicle Coasting Active
 	Vehicle Speed
 	Vehicle Speed
 	Vehicle Speed Limitation Active
+	Vin Part1
+	Vin Part2
+	Vin Part3
 	Voice Command Button On Left Sto
 	Voltage Request
 	Warm Up Cycle Active
@@ -373,13 +373,13 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ACC Desired Speed Achieved
-	ACC Display Time Gap
-	ACC Optical Driver Notice
-	ACC Relevant Object
-	ACC Set Time Gap
-	ACC Status Display
-	ACC Volume Level
+	Acc Desired Speed Achieved
+	Acc Display Time Gap
+	Acc Optical Driver Notice
+	Acc Relevant Object
+	Acc Set Time Gap
+	Acc Status Display
+	Acc Volume Level
 	Advance Warning Setting
 	Consumption Units
 	Dates Units

@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Bmw '4 Series' (2022)
 Signal Descriptions:
 	Ambient Air Pressure
@@ -34,7 +34,7 @@ Signal Descriptions:
 	Drive Mode
 	Driver Seatbelt Buckled
 	Engine Cranking
-	Engine Load ALT
+	Engine Load Alt
 	Engine Running
 	Engine Speed
 	Engine Speed Displayed
@@ -43,28 +43,28 @@ Signal Descriptions:
 	Front End Collision System Enabled
 	Fuel Level In Liters
 	Fuel Range
-	HVAC AC Active
-	HVAC Auto Recirculation
-	HVAC Driver Air Mode
-	HVAC Driver Cabin Fan Speed Set
-	HVAC Driver Climate Zone Auto Active
-	HVAC Driver Climate Zone Temperature Set
-	HVAC Driver Dash Baffle Open
-	HVAC Driver Floor Baffle Open
-	HVAC Driver Windscreen Baffle Open
-	HVAC Max AC Active
-	HVAC Recirculation
 	Hill Assist Active
 	Horn Active
-	IC Backlight Level
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Recirculation
+	Ic Backlight Level
 	Ignition Button Pressed
 	Language Selected
 	Left Steering Wheel Cruise Button Pressed
 	Left Steering Wheel Follow Distance Less Pressed
 	Left Steering Wheel Follow More Button Pressed
-	Left Steering Wheel LIM Button Pressed
+	Left Steering Wheel Lim Button Pressed
 	Left Steering Wheel Up Down Switch
-	Light Stock BC Button State
+	Light Stock Bc Button State
 	Light Stock Position High Beam Momentary State
 	Light Stock Position High Beam State
 	Light Stock Position Lane Chang Left Signal State
@@ -81,23 +81,23 @@ Signal Descriptions:
 	Lock Button Pressed
 	Lock State Not Changing
 	Locking Command
-	MIL Tell Tale Active
+	Mil Tell Tale Active
 	Odometer
 	Oil Temperature
-	PRNDL And Gear
-	PRNDL And Gear Alt
 	Paddle Shifter Status
 	Parking Brake Disengaged
 	Parking Brake Engaged
 	Passenger Seatbelt Buckled
 	Pedal Accelerator
+	Prndl And Gear
+	Prndl And Gear Alt
 	Shifter Solenoid Voltage
 	Speed Limiter Enabled
 	Steering Wheel Angle
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Rate Alt
-	Steering Wheel Button AC Pressed
+	Steering Wheel Button Ac Pressed
 	Steering Wheel Button Arrow Down Pressed
 	Steering Wheel Button Arrow Up Pressed
 	Steering Wheel Button Disc Change Pressed
@@ -107,7 +107,7 @@ Signal Descriptions:
 	Steering Wheel Button Volume Up Pressed
 	Temperature Units Selected Celsius
 	Temperature Units Selected Fahrenheit
-	Throttle Position ALT
+	Throttle Position Alt
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
@@ -133,7 +133,7 @@ Signal Descriptions:
 	Wiper Rear Washer Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
+	Abs Active
 	Brake Pressure
 	Coasting Mode Not Active
 	Cruise Control Set Speed
@@ -169,7 +169,7 @@ Signal Descriptions:
 	Pedal Brake Pressed
 	Sport Mode
 	Stalk Lights Auto Headlight Position
-	Stalk Lights BC Button
+	Stalk Lights Bc Button
 	Stalk Lights High Beam Flash Position
 	Stalk Lights High Beam Position
 	Stalk Lights Lane Change Left Signal Position
@@ -179,7 +179,7 @@ Signal Descriptions:
 	Steering Controls Disc Change Button Pressed
 	Steering Controls Down Button Pressed
 	Steering Controls End Call Button Pressed
-	Steering Controls HVAC System Active Button Pressed
+	Steering Controls Hvac System Active Button Pressed
 	Steering Controls Pick Up Call Button Pressed
 	Steering Controls Up Button Pressed
 	Steering Controls Volume Down Pressed
@@ -198,17 +198,17 @@ Signal Descriptions:
 	Ambient Air Temperature
 	Ambient Lighting Setting On
 	Auto Start Stop Off
-	Automatic PDC Activation On
-	Average MPG
-	Average MPH
+	Automatic Pdc Activation On
+	Average Mpg
+	Average Mph
 	Back Button Touched
 	Band Button Pressed
-	COM Button Pressed
-	COM Button Touched
 	Car Moving Forward
 	Car Moving In Reverse
 	Climate Control Starts When Car Is Remote Started Setting Active
 	Climate Control Starts When Car Is Remote Started Setting Inactive
+	Com Button Pressed
+	Com Button Touched
 	Comfort Access Setting Lock When Walking Away
 	Comfort Access Setting Unlock When Approaching Active
 	Consumption Units Setting
@@ -245,7 +245,7 @@ Signal Descriptions:
 	Driving Dynamics Steering Sport
 	Driving Dynamics Transmission Comfort
 	Driving Dynamics Transmission Sport
-	ECO Pro Functions Coasting Active
+	Eco Pro Functions Coasting Active
 	Eco Pro Individual Driver Dynamic Steering Comfort Active
 	Eco Pro Individual Driver Dynamic Steering Sport Active
 	Eco Pro Individual Eco Pro Speed Active
@@ -263,30 +263,30 @@ Signal Descriptions:
 	Fuel Used Average
 	Global Button Pressed
 	Global Button Touched
-	HVAC AC Active
-	HVAC Auto Recirculation
-	HVAC Climate Control Sync Active
-	HVAC Driver Air Mode
-	HVAC Driver Cabin Fan Speed Setting
-	HVAC Driver Climate Zone Auto Active
-	HVAC Driver Climate Zone Set Temperature
-	HVAC Driver Dash Baffle Open Percentage
-	HVAC Driver Floor Baffle Open Percentage
-	HVAC Driver Temperature Adjust Setting Neg Cold Pos Hot
-	HVAC Driver Windscreen Baffle Open Percentage
-	HVAC Front Defrost Active
-	HVAC Max AC Active
-	HVAC Passenger Climate Zone Auto Active
-	HVAC Passenger Climate Zone Set Temperature
-	HVAC Passenger Temperature Adjustment Set Neg Cold Pos Hot
-	HVAC Rear Seat Temperature
-	HVAC Rear Set To Automatic Active
-	HVAC Rear Set To Disable Controller Active
-	HVAC Recirculation
-	HVAC Recirculation Button Pressed
-	HVAC SYNC Active
-	HVAC System Active
 	Heated Cooling Rear Seats Active
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Climate Control Sync Active
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Setting
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Set Temperature
+	Hvac Driver Dash Baffle Open Percentage
+	Hvac Driver Floor Baffle Open Percentage
+	Hvac Driver Temperature Adjust Setting Neg Cold Pos Hot
+	Hvac Driver Windscreen Baffle Open Percentage
+	Hvac Front Defrost Active
+	Hvac Max Ac Active
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Set Temperature
+	Hvac Passenger Temperature Adjustment Set Neg Cold Pos Hot
+	Hvac Rear Seat Temperature
+	Hvac Rear Set To Automatic Active
+	Hvac Rear Set To Disable Controller Active
+	Hvac Recirculation
+	Hvac Recirculation Button Pressed
+	Hvac Sync Active
+	Hvac System Active
 	Idrive Button Pressed
 	Idrive Wheel Button Pressed
 	Instrument Panel Additional Information Active
@@ -303,14 +303,14 @@ Signal Descriptions:
 	Language
 	Lighting Color Setting
 	Locked Button Pressed
-	MAP Button Pressed
-	MAP Button Touched
+	Map Button Pressed
+	Map Button Touched
 	Media Button Pressed
 	Media Button Touched
-	Menu AC Button Pressed
+	Menu Ac Button Pressed
 	Mode Button Pressed
-	NAV Button Pressed
-	NAV Button Touched
+	Nav Button Pressed
+	Nav Button Touched
 	Odometer
 	Option Button Pressed
 	Option Button Touched
@@ -355,10 +355,6 @@ Signal Descriptions:
 	Sunroof Button Pushed Frw Half
 	Sunroof Button Pushed Full
 	Sunroof Button Pushed Up
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Tire Pressure
 	Tailgate Setting Open With Foot Movement Active
 	Temperature Unit Set To C
 	Temperature Unit Set To F
@@ -368,10 +364,14 @@ Signal Descriptions:
 	Time In 12H Format
 	Time In 24H Format
 	Torque Unit Setting
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
 	Transmission Torque
 	Unlock Button Pressed
-	VIN Part 3
 	Vehicle Speed
+	Vin Part 3
 	Volume Knob Button Pressed
 	Volume Knob Clockwise
 	Window Driver Fully Open

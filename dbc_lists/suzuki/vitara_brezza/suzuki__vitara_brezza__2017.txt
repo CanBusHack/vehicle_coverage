@@ -1,12 +1,12 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Suzuki 'Vitara Brezza' (2017)
 Signal Descriptions:
-	ABS Active
-	ABS Tell Tale Active
-	AC Active
-	AC Compressor Active
-	AC Control Signal Active
+	Abs Active
+	Abs Tell Tale Active
 	Absolute Throttle Position B
+	Ac Active
+	Ac Compressor Active
+	Ac Control Signal Active
 	Acceleration Sensor Value Learned Data
 	Accelerator Pedal Not Pressed
 	Accelerator Pedal Position
@@ -18,55 +18,55 @@ Signal Descriptions:
 	Ambient Air Temperature
 	Any Other Door Open
 	Axle Torque Driver Requested
-	BMC Requirement EV Permission
-	BSM And RCTA ON OFF System Set To
-	BSM And RCTA ON OFF System Setting Changing To
 	Barometric Pressure
 	Battery Current
 	Battery Tell Tale Active
 	Battery Voltage
 	Blinker Left Side Active
 	Blinker Right Side Active
+	Bmc Requirement Ev Permission
 	Brake Booster Pressure
 	Brake Pressure
 	Brake Switch Active
 	Brake Tell Tale Active
+	Bsm And Rcta On Off System Set To
+	Bsm And Rcta On Off System Setting Changing To
 	Calculated Engine Load
 	Car In Park
 	Car Wake Time Not Engine Run Time
 	Commanded Throttle Actuator Control
-	Crash OFF Blinking Tell Tale Active
-	Crash OFF Tell Tale Active
+	Crash Off Blinking Tell Tale Active
 	Crash Off Button Pressed
+	Crash Off Tell Tale Active
 	Crash Tell Tale Active
 	Crash Tell Tale Blinking Active
 	Cruise Control Speed
 	Cruise Control States
 	Cruise Control System Can Not Be Set Due Too
 	Current Gear
-	Dash Prompt 4WD Mode Unselectable Auto Mode On
+	Dash Prompt 4Wd Mode Unselectable Auto Mode On
 	Dash Prompt Accelerator Lock Activated
-	Dash Prompt BSM System Function Paused
-	Dash Prompt BSM System Test Required
+	Dash Prompt Bsm System Function Paused
+	Dash Prompt Bsm System Test Required
 	Dash Prompt Crash Off
 	Dash Prompt Crash Tell Tale
 	Dash Prompt Drive Batt Power Drop Drive In D Range
 	Dash Prompt Drive Batt Power Drop Hybrid Drive Restricted
-	Dash Prompt ESP Hill Hold Disable
-	Dash Prompt ESP Maintenance Mode Active
-	Dash Prompt ESP Service ESP System Active
+	Dash Prompt Esp Hill Hold Disable
+	Dash Prompt Esp Maintenance Mode Active
+	Dash Prompt Esp Service Esp System Active
 	Dash Prompt Function Temporarily Disabled
-	Dash Prompt Function Temporarily Disabled CAM TEMPERATURE
-	Dash Prompt Function Temporarily Disabled Cam VIS
+	Dash Prompt Function Temporarily Disabled Cam Temperature
+	Dash Prompt Function Temporarily Disabled Cam Vis
 	Dash Prompt Hold The Steering Wheel
 	Dash Prompt Hybrid Drive Unavailable
 	Dash Prompt Hybrid Drive Unavailable Hood
 	Dash Prompt Hybrid Sys High Temperature Hybrid Drive Restricted
 	Dash Prompt Key Fob Detected
 	Dash Prompt Key Fob Low Battery
-	Dash Prompt LDP System Requires Inspection
 	Dash Prompt Lane Departure Off
 	Dash Prompt Lane Departure Warning
+	Dash Prompt Ldp System Requires Inspection
 	Dash Prompt Lock Mode Cannot Be Set
 	Dash Prompt Low Tire Pressure
 	Dash Prompt Low Tire Pressure With Tell Tale Icon
@@ -77,18 +77,18 @@ Signal Descriptions:
 	Dash Prompt Push Start Switch
 	Dash Prompt Service Start System
 	Dash Prompt Service Steering Lock System
-	Dash Prompt Service TPMS
-	Dash Prompt Service TPMS With Tell Tale Icon
+	Dash Prompt Service Tpms
+	Dash Prompt Service Tpms With Tell Tale Icon
 	Dash Prompt System Warning
-	Dash Prompt TURN Steering Wheel To Release Lock
+	Dash Prompt Turn Steering Wheel To Release Lock
 	Dash Prompt Vehicle Swaying Detected
-	Dash Prompt Warning 4WD Mode Switch
+	Dash Prompt Warning 4Wd Mode Switch
 	Dash Prompt Warning Hybrid Sys
 	Dash Prompt Warning Hybrid Sys
 	Dash Prompt Warning Hybrid Sys Driving Unavailable
 	Dash Prompt Warning Hybrid Sys Parts
 	Dash Prompt Warning Hybrid Sys Stop Vehicle In Safe Spot
-	Display PDRNL
+	Display Pdrnl
 	Distance From Oil Change Request Lamp Reset
 	Down Paddle Pressed
 	Driver Door Open
@@ -119,7 +119,6 @@ Signal Descriptions:
 	Fuel System Status
 	G Sensor Lateral
 	G Sensor Longitudinal
-	HVAC Fan Speed
 	Handbrake Active
 	Hands On Steering Wheel Icon Active
 	Hazards Command Active
@@ -127,15 +126,16 @@ Signal Descriptions:
 	High Beam Tell Tale Active
 	Hill Descent Tell Tale Active
 	Hill Descent Tell Tale Blinking Active
+	Hvac Fan Speed
 	Hybrid Battery Charging Tell Tale Active
 	Hybrid System Error Tell Tale Active
-	IC Chime Active
-	IC Night Mode Active
-	IS A C System Setting
-	IS A C System Setting Changing To
+	Ic Chime Active
+	Ic Night Mode Active
 	Ignition Time Advance
 	Intake Air Temperature
 	Intake Manifold Absolute Pressure
+	Is A C System Setting
+	Is A C System Setting Changing To
 	Key Fob Lock And Unlock
 	Key Tell Tale Active
 	Lane Departure Tell Tale Active
@@ -152,17 +152,17 @@ Signal Descriptions:
 	Low Tire Pressure Front Right
 	Low Tire Pressure Rear Left
 	Low Tire Pressure Rear Right
-	MIL Active
 	Manual Mode Active
+	Mil Active
 	Odometer
 	Passenger Door Open
 	Pedal Brake Stroke Sensor
 	Power Steering Tell Tale Active
-	RCTA Off Tell Tale Active
 	Radar Alert Chime Active
 	Radar Off Tell Tale Active
 	Radar Rear Left Side Alert
 	Radar Rear Right Side Alert
+	Rcta Off Tell Tale Active
 	Ready Tell Tale Active
 	Rear Camera Active
 	Rear Center Not Buckled Tell Tale Active
@@ -180,7 +180,6 @@ Signal Descriptions:
 	Relative Throttle Position
 	Requested Gear
 	Right Side Of Steering Wheel Buttons
-	SMR Off Request 1 True With Desorption 0 No Request
 	Seat Belt Tell Tale Active
 	Seatbelt Tell Tale Active
 	Shift Down Icon Active
@@ -195,6 +194,7 @@ Signal Descriptions:
 	Sign Recognition System Setting Changing To On
 	Sign Recognition System Setting Off
 	Sign Recognition System Setting On
+	Smr Off Request 1 True With Desorption 0 No Request
 	Speed Limiter Active
 	Speed Limiter On Standby
 	Speed Limiter Speed
@@ -214,9 +214,6 @@ Signal Descriptions:
 	System Settings Door Unlock All Doors
 	System Settings Door Unlock Driver Door
 	System Units Set To Miles
-	TPMS Mode System Setting Changing To
-	TPMS System Active
-	TPMS System Setting Load Mode 1 Comfort Mode 0
 	Tell Tale Instrument Cluster Oil Level Low
 	Tell Tale Instrument Cluster Seatbelt Fastened
 	Temperature Units Set To F
@@ -228,6 +225,9 @@ Signal Descriptions:
 	Tire Pressure Rear Right
 	Tire Pressure Tell Tale Active
 	Tire Pressure Tell Tale Active
+	Tpms Mode System Setting Changing To
+	Tpms System Active
+	Tpms System Setting Load Mode 1 Comfort Mode 0
 	Traction Control Off Tell Tale Active
 	Traction Control Tell Tale Active
 	Traction Control Tell Tale Blinking Active
@@ -252,11 +252,11 @@ Signal Descriptions:
 	Yaw Rate Sensor
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	EV Drive Sound Active
-	EV Drive Sound Active Level 1
-	EV Drive Sound Active Level 2
-	EV Drive Sound Active Level 3
-	EV Drive Sound Off Tell Tale Active
+	Ev Drive Sound Active
+	Ev Drive Sound Active Level 1
+	Ev Drive Sound Active Level 2
+	Ev Drive Sound Active Level 3
+	Ev Drive Sound Off Tell Tale Active
 	Field Current Limit
 	Li Battery High Temperature Status
 	Li Battery Internal Resistor Detecting Control Active Request 1 True With Desorption 0 No Request

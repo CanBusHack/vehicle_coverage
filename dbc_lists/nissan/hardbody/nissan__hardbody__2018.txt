@@ -1,8 +1,8 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Nissan 'Hardbody' (2018)
 Signal Descriptions:
-	ABS W L Active
-	AC Relay
+	Abs W L Active
+	Ac Relay
 	Accelerator Pedal Position
 	Accelerator Pedal Position Nega
 	Accelerator Pedal Position Posi
@@ -42,7 +42,6 @@ Signal Descriptions:
 	Driver Seat Belt Unfastened
 	Driving Aid Emergency Braking Of
 	Driving Aid Emergency Braking On
-	ENGINE Torque
 	Eco Button Pressed
 	Eco Mode Active
 	Engine Coolant Temperature Displayed
@@ -50,6 +49,7 @@ Signal Descriptions:
 	Engine Fan Low
 	Engine Speed
 	Engine Speed Displayed
+	Engine Torque
 	Exterior Light Level
 	Fob Unlock
 	Fob Unlock All Doors
@@ -77,7 +77,7 @@ Signal Descriptions:
 	Hood Open
 	Horn Chirp Answer Back Alarm A
 	Horn Chirp Answer Back Door Lo
-	KPH For Fuel Economy Calculation
+	Kph For Fuel Economy Calculation
 	Lane Departure Malfunction Acti
 	Lane Departure Unavailable Clean
 	Lane Departure Unavailable High 1
@@ -87,19 +87,19 @@ Signal Descriptions:
 	Left Turn Tell Tale
 	Loose Fuel Cap Message And Cauti
 	Low Beam Headlights Active
-	M Mode SW Active
-	MIL Tell Tale Active
+	M Mode Sw Active
+	Mil Tell Tale Active
 	Night Running Lights Rear Active
 	Odometer Units Dependent
 	Overdrive Disable Off Command
 	Overdrive Off
 	Overdrive Shift Button
-	PRNDL State
 	Park Brake Tell Tale
 	Parking Lights Active
 	Power Mode
 	Power Steering Tell Tale Active
 	Primary Torque
+	Prndl State
 	Range
 	Rear Defroster Status
 	Rear Left Door Open Message And
@@ -127,11 +127,11 @@ Signal Descriptions:
 	Steering Wheel Angle Validity
 	Steering Wheel Speed
 	Switch Except M Mode
-	TPMS Error See Owners Manual
 	Throttle Position A Sensor
 	Throttle Position B Sensor
 	Tire Pressure Registered
 	Tire Pressure Tell Tale Warning L
+	Tpms Error See Owners Manual
 	Traction Control Active
 	Traction Control Tell Tale Active
 	Trunk Door Open Message And Caut

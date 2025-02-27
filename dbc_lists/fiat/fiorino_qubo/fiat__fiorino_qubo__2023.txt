@@ -1,16 +1,16 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Fiat 'Fiorino Qubo' (2023)
 Signal Descriptions:
-	ABS In Action
-	AC Active
-	ADAS Cruise Control On
-	ADAS Cruise Control On And Active
-	ADAS Cruise Control Speed Set Kph
-	ADAS Cruise Control State
+	Abs In Action
+	Ac Active
 	Accelerator Application Rate
 	Accelerator Pedal Pressed
+	Adas Cruise Control On
+	Adas Cruise Control On And Active
+	Adas Cruise Control Speed Set Kph
+	Adas Cruise Control State
 	Alarm Status
-	BMS Error Detected
+	Bms Error Detected
 	Brake Pressure Pad Left
 	Brake Pressure Pad Right
 	Brake Switch Pressed
@@ -23,10 +23,10 @@ Signal Descriptions:
 	Crankshaft Torque Actual
 	Crankshaft Torque Actual
 	Current Gear
-	Dash Prompt ABS Unavailable
+	Dash Prompt Abs Unavailable
 	Dash Prompt Brake Fluid Low
 	Dash Prompt Change Engine Oil
-	Dash Prompt Check AEB Control 2
+	Dash Prompt Check Aeb Control 2
 	Dash Prompt Check Brakes
 	Dash Prompt Check Diesel Fuel Filter
 	Dash Prompt Check Keyless Entry System
@@ -34,9 +34,9 @@ Signal Descriptions:
 	Dash Prompt Check Tire Pressure Level Reset Required Front Right
 	Dash Prompt Check Tire Pressure Level Reset Required Rear Left
 	Dash Prompt Check Tire Pressure Level Reset Required Rear Right
-	Dash Prompt ESC Unavailable
+	Dash Prompt Esc Unavailable
 	Dash Prompt Hill Hold Control Unavailable
-	Dash Prompt Key FOB Battery Low
+	Dash Prompt Key Fob Battery Low
 	Dash Prompt Key Not In Car
 	Dash Prompt Low Tire Unavailable
 	Dash Prompt Oil Change Done
@@ -53,9 +53,9 @@ Signal Descriptions:
 	Door Side Sliding Open
 	Door Trunk Open
 	Driver Seatbelt Unbuckled
-	ESC Off
 	Engine Speed
 	Engine Torque Actual
+	Esc Off
 	Fuel Level
 	Fuel Rate Instantaneous
 	Gear Displayed Number
@@ -87,9 +87,6 @@ Signal Descriptions:
 	Oil Temperature Display Level
 	Outside Air Temperature
 	Outside Air Temperature Sensor Voltage
-	PRNDL Position
-	PRNDL Position P
-	PRNDL Position P Or N
 	Parking Brake Button Pressed Down
 	Parking Brake Button Pulled Up
 	Parking Brake Changing Status
@@ -102,6 +99,9 @@ Signal Descriptions:
 	Pedal Clutch Position
 	Power Mode Status
 	Power Mode Status
+	Prndl Position
+	Prndl Position P
+	Prndl Position P Or N
 	Rear Defrost Active
 	Remote Start Active
 	Reversing Active
@@ -109,13 +109,13 @@ Signal Descriptions:
 	Right Side Rear Spin Direction
 	Seatbelt Front Left Status
 	Seatbelt Front Right Status
-	Settings Security Passenger AIRBAG Off In Progress
-	Settings Security Passenger AIRBAG On In Progress
-	Settings Unite Speed Set To MPH
+	Settings Security Passenger Airbag Off In Progress
+	Settings Security Passenger Airbag On In Progress
+	Settings Unite Speed Set To Mph
 	Settings Units Distance Set To Mi
 	Steering Column Left Stock Button Pressed
-	Steering Wheel ACC Button Pressed
-	Steering Wheel ACC Follow Distance Button Pressed
+	Steering Wheel Acc Button Pressed
+	Steering Wheel Acc Follow Distance Button Pressed
 	Steering Wheel Angle
 	Steering Wheel Cruise Control Button Pressed
 	Steering Wheel Cruise Control Cancel Button Pressed
@@ -131,11 +131,11 @@ Signal Descriptions:
 	Traction Control Tell Tale Blinking Active
 	Transmission Gear Manual
 	Transmission Manual Out Of Gear
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

@@ -1,9 +1,9 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Nissan 'Navara Stealth' (2020)
 Signal Descriptions:
-	ABS W L Active
-	AC
-	ACC Follow Distance
+	Abs W L Active
+	Ac
+	Acc Follow Distance
 	Acc Pedal Not Pressed
 	Accelerator Pedal Position
 	Accelerator Pedal Position
@@ -15,8 +15,8 @@ Signal Descriptions:
 	Accessory Mode
 	Alarm Active
 	Ambient Temperature
-	BCI Unavailable High Accelerator Temperature Message
-	BCI Unavailable Side Radar Obstruction Message
+	Bci Unavailable High Accelerator Temperature Message
+	Bci Unavailable Side Radar Obstruction Message
 	Blind Spot
 	Blind Spot Monitoring
 	Blind Spot Unavailable High Cabin Temperature Massage
@@ -43,8 +43,8 @@ Signal Descriptions:
 	Cruise Units
 	Current Gear
 	Current Gear Alt
-	DCA Unavailable High Accelerator Temperature Message
 	Dash Menu Options
+	Dca Unavailable High Accelerator Temperature Message
 	Driver Seat Belt Unbuckled
 	Eco Button Pressed
 	Eco Mode Active
@@ -54,8 +54,8 @@ Signal Descriptions:
 	Engine Speed
 	Engine Speed
 	Engine Speed Displayed
-	Engine TORQUE Alt
 	Engine Torque
+	Engine Torque Alt
 	Exterior Light Level Voltage
 	Fob Not Detected
 	Fob Unlock 1
@@ -76,21 +76,21 @@ Signal Descriptions:
 	Front Right Tire Pressure Low Add Air
 	Front Right Tire Registered
 	Front Right Wheel Speed
-	Fuel Level 1 LSB Add 2 For Voltage
-	Fuel Level 2 MSB
+	Fuel Level 1 Lsb Add 2 For Voltage
+	Fuel Level 2 Msb
 	Gear Position Indicator
 	Gear Ratio
-	HVAC
 	Hazards Active
 	Heater On
 	High Beam Lights Turn On
 	Hood Open
+	Hvac
 	Ignition Status
-	LDP Unavailable High Cabin Temperature Massage
 	Lane Departure On Off
 	Lane Departure Tell Tale Flash
 	Lane Departure Warning Unavailable High Cabin Temperature Massage
 	Lane Keep Active
+	Ldp Unavailable High Cabin Temperature Massage
 	Left Turn Indicator Lever Status
 	Left Turn Tell Tale
 	Lock All Doors
@@ -98,19 +98,19 @@ Signal Descriptions:
 	Loose Fuel Cap Message And Caution Tell Tale
 	Low Beam Head Lights Turn On
 	Low Oil Pressure
-	M Mode SW Active
-	MIL Tell Tale Active
+	M Mode Sw Active
+	Mil Tell Tale Active
 	Night Running Lights Rear Turn On
-	O D OFF Command
 	O D Off
+	O D Off Command
 	Object In Reverse Camera View On Off
 	Odometer
 	Overdrive Shift Button
-	PRI TORQUE Alt
-	PRI Torque
 	Park Brake Tell Tale
 	Parking Lights Not Active
 	Power Gear
+	Pri Torque
+	Pri Torque Alt
 	Range
 	Rear Defroster
 	Rear Defroster Status
@@ -137,7 +137,7 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Speed
 	Switch Except M Mode
-	TPMS Error See Owners Manual
+	Tpms Error See Owners Manual
 	Traction Control
 	Traction Control Active
 	Traction Control Tell Tale Active

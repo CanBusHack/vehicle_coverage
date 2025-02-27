@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Renault 'Scenic' (2012)
 Signal Descriptions:
 	Audio Displayed Minute
@@ -30,15 +30,15 @@ Signal Descriptions:
 	Wheel Speed Rear Right
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Not Available
-	ABS Warning Fault
-	ADAS Cruise Control Active
-	ADAS Speed Limiter Active
-	ADAS Speed Limiter On Not Active
-	ADAS Speed Set
-	ADAS Speed Set Exceeded
+	Abs Active
+	Abs Not Available
+	Abs Warning Fault
 	Acceleration Lateral
+	Adas Cruise Control Active
+	Adas Speed Limiter Active
+	Adas Speed Limiter On Not Active
+	Adas Speed Set
+	Adas Speed Set Exceeded
 	Airbag Left On
 	Airbag Right Off
 	Alternator Load
@@ -76,7 +76,7 @@ Signal Descriptions:
 	Dash Door Open Rear Left
 	Dash Door Open Rear Right
 	Dash Door Open Trunk
-	Dash Indication ECO
+	Dash Indication Eco
 	Dash Lights Antifog Front
 	Dash Lights Antifog Rear
 	Dash Lights High Beam
@@ -110,8 +110,8 @@ Signal Descriptions:
 	Dash Warning Check Brake Lights
 	Dash Warning Check Braking System
 	Dash Warning Check Child Safety Device
-	Dash Warning Check ESP
-	Dash Warning Check ESP 0 True
+	Dash Warning Check Esp
+	Dash Warning Check Esp 0 True
 	Dash Warning Check Hill Start Assist
 	Dash Warning Check Injection System
 	Dash Warning Check Steering Lock
@@ -125,7 +125,6 @@ Signal Descriptions:
 	Door Front Right Open
 	Door Hood Closed
 	Door Hood Open
-	ESP Traction Control Status
 	Engine Cranking 0 True
 	Engine Running
 	Engine Running
@@ -137,24 +136,25 @@ Signal Descriptions:
 	Engine Torque Requested By Driver
 	Engine Turning Off
 	Engine Turning On
+	Esp Traction Control Status
 	Fan Assembly Speed Required By Injection
-	Flow Rate Function Status LOW
-	Flow Rate Function Status OK
+	Flow Rate Function Status Low
+	Flow Rate Function Status Ok
 	Fuel Level Displayed
 	Gear Reverse Disengaged
 	Gear Reverse Engaged
 	Gearbox Position Neutral
 	Gearbox Position Not Neutral
-	HVAC A C Allowed By Inject Comp
-	HVAC A C Compressor Active
-	HVAC A C Compressor High Pressure
-	HVAC A C Compressor Load
-	HVAC Fan Active
-	Hazards Commanded From UDS
-	Hazards Not Commanded From UDS
+	Hazards Commanded From Uds
+	Hazards Not Commanded From Uds
 	Headlights Active
 	Headlights Inactive
 	Heater Water Pump Command On
+	Hvac A C Allowed By Inject Comp
+	Hvac A C Compressor Active
+	Hvac A C Compressor High Pressure
+	Hvac A C Compressor Load
+	Hvac Fan Active
 	Immobilizer Active
 	Immobilizer Injection Code Allocated
 	Immobilizer Injection Code Blank
@@ -230,18 +230,18 @@ Signal Descriptions:
 	Sun Sensor Level Center
 	Sun Sensor Level Left
 	Sun Sensor Level Right
-	TPMS Resetting Values
-	TPMS Service Required
-	TPMS Tell Tale On
-	Tell Tale ABS
-	Tell Tale ABS Flashing Fast
-	Tell Tale ABS Flashing Low
+	Tell Tale Abs
+	Tell Tale Abs Flashing Fast
+	Tell Tale Abs Flashing Low
 	Tell Tale Airbag Left Fault
 	Tell Tale Airbag Right Fault
 	Tell Tale Airbag Right Green
 	Tell Tale Service Required
 	Tell Tale Traction Control
 	Tell Tale Traction Control Flashing
+	Tpms Resetting Values
+	Tpms Service Required
+	Tpms Tell Tale On
 	Unlock Command Active
 	Vehicle Acceleration
 	Vehicle Speed
@@ -253,8 +253,8 @@ Signal Descriptions:
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
-	Window FL And Side Mirrors Stationary
-	Window FL Or Side Mirrors Moving
+	Window Fl And Side Mirrors Stationary
+	Window Fl Or Side Mirrors Moving
 	Window Front Right Auto Down
 	Window Front Right Auto Up
 	Window Front Right Manual Down

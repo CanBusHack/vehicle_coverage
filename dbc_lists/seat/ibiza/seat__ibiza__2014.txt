@@ -1,11 +1,11 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Seat 'Ibiza' (2014)
 Signal Descriptions:
-	ABS Active
-	ACC Key Position Active
-	ACC Pedal Position Pressed Speed
-	ACC Selected
+	Abs Active
+	Acc Key Position Active
 	Acc Pedal Position
+	Acc Pedal Position Pressed Speed
+	Acc Selected
 	Ambient Air Temperature Sensor
 	Brake And Acc Pressed Simultaneously
 	Crank Key Position Active
@@ -34,40 +34,40 @@ Signal Descriptions:
 	Month
 	Odometer
 	Oil Temperature
-	PHC Selected
 	Parking Brake Engaged
 	Passenger Seatbelt Buckled
+	Phc Selected
 	Rear Left Wheel Speed
 	Rear Right Wheel Speed
 	Seconds
 	Shift Lever Position
 	Sport Mode Active
-	TORQUE Apply
-	TORQUE Req
 	Throttle Position Degrees
+	Torque Apply
 	Torque Less External Interval
 	Torque Less Mechanical Looses
 	Torque Loss
 	Torque Max
+	Torque Req
 	Traction Control Active
 	Traction Control Off
 	Transmission Over Temperature Warning
-	VIN Index Number
 	Vehicle Speed High Resolution
+	Vin Index Number
 	Voltage Request
 	Yaw Rate
 	Yaw Value Is Negative
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ACC Key Position Active
-	ACC Selected
+	Acc Key Position Active
+	Acc Selected
 	Ambient Air Temperature Sensor
 	Audio Reduction For Radio Started
 	Child Lock Fault Message
 	Crank Key Position Active
-	DPF Installed
 	Day
+	Dpf Installed
 	Driver Adjusting Passenger Seat Active
 	Driver Control Driver Rear Window Auto Down Button Selected
 	Driver Control Driver Rear Window Auto Up Button Selected
@@ -124,8 +124,8 @@ Signal Descriptions:
 	Emergency Flashers Active 2
 	Engine Coolant Temperature
 	Engine Liters
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Fog Lights Selected
 	Fold Mirrors Button Pressed
 	Front Drive Window Safety Retraction Active
@@ -169,7 +169,7 @@ Signal Descriptions:
 	Ignition Key Position Active
 	Intake Air Temperature
 	Intermittent Wiper Speed Setting
-	LCA Not Available Service Necessary
+	Lca Not Available Service Necessary
 	Left Child Lock Active
 	Left Child Lock Button
 	Left Mirror Selected
@@ -192,7 +192,6 @@ Signal Descriptions:
 	Obstacle Detected Rear Active
 	Odometer
 	Oil Temperature
-	PHC Selected
 	Parking Assist Active
 	Parking Assist Active Front
 	Parking Assist Active Rear
@@ -209,6 +208,7 @@ Signal Descriptions:
 	Passenger Seat Heating Balance Setting
 	Passenger Seat Ventilation Balance Setting
 	Passenger Seat Warmer Level
+	Phc Selected
 	Rainsensor Active
 	Rear Left Door Locked
 	Rear Left Door Open
@@ -268,25 +268,25 @@ Signal Descriptions:
 	Trigger Image Activation
 	Turn Signal Momentary Active
 	Upper Fog Light Button Active
-	VIN Part 1
+	Vin Part 1
 	Voltage Request
 	Window Lock Active
 	Wiper 1X Signal Stock Position Active
 	Wiper High Signal Stock Position Active
-	Wiper INT Signal Stock Position Active
-	Wiper LOW Signal Stock Position Active
+	Wiper Int Signal Stock Position Active
+	Wiper Low Signal Stock Position Active
 	Wiper Mister Pull Toward Driver Signal Stock Position Active
 	Wiper Service Position State On
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
-	ACC Key Position Active
-	ACC Pedal Position Pressed Speed
-	ACC Selected
+	Abs Active
+	Abs Lamp Active
+	Acc Display Active
+	Acc Key Position Active
 	Acc Pedal Position
+	Acc Pedal Position Pressed Speed
+	Acc Selected
 	Accelerator Pedal Position
 	Actuator Test Active
 	Air Compressor Active
@@ -300,8 +300,8 @@ Signal Descriptions:
 	Automatic Off Active
 	Automatic Off Deactivate
 	Automatic Stop Start System Off
-	BRAKE Lamp Active
 	Brake And Acc Pressed Simultaneously
+	Brake Lamp Active
 	Calculated Engine Load
 	Clock Hours
 	Clock Minutes
@@ -322,12 +322,12 @@ Signal Descriptions:
 	Display Engine Speed
 	Distance Units Km0 Mi1
 	Driving Cycle
-	ESP Lamp Active
 	Engine Coolant Temperature 1
 	Engine Coolant Temperature 2
 	Engine Idle
 	Engine Not Idle
 	Engine Speed
+	Esp Lamp Active
 	Front Left Wheel Speed
 	Front Passenger Air Bag Off
 	Front Right Wheel Speed
@@ -358,7 +358,7 @@ Signal Descriptions:
 	Oil Pressure Switch
 	Oil Pressure Warning Active
 	Oil Temperature
-	PHC Selected
+	Phc Selected
 	Pressure Units
 	Raising Vehicle
 	Rear Crash
@@ -367,7 +367,7 @@ Signal Descriptions:
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
 	Seconds
-	Settings Speed MPH
+	Settings Speed Mph
 	Shift Interlock
 	Shift Lever Position
 	Speed Units 0Kmh 1Mph
@@ -378,28 +378,28 @@ Signal Descriptions:
 	Steering Wheel In Motion To Right
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
-	TORQUE Apply
-	TORQUE Req
 	Tell Tale Seatbelt Icon For Drive Active
 	Tell Tale Seatbelt Icon For Passenger Active
 	Temperature Units C0 F1
 	Throttle Position
 	Throttle Position Degrees
 	Time Units 24Hour0 12Hour1
+	Torque Apply
 	Torque Less External Interval
 	Torque Less Mechanical Looses
 	Torque Loss
 	Torque Max
+	Torque Req
 	Traction Control Active
 	Traction Control Off
 	Transmission Over Temperature Warning
 	Upper Engine Speed Limit
-	VIN Part3
 	Vehicle Front Left Being Adjusted
 	Vehicle Front Right Being Adjusted
 	Vehicle Rear Left Being Adjusted
 	Vehicle Rear Right Being Adjusted
 	Vehicle Speed High Resolution
+	Vin Part3
 	Voltage Request
 	Volume Units
 	Warm Up Cycle
@@ -408,10 +408,10 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
-	ACC Key Position Active
+	Abs Active
+	Abs Lamp Active
+	Acc Display Active
+	Acc Key Position Active
 	Acc Pedal Position
 	Actuator Test Active
 	Airbag Actuator Test
@@ -420,13 +420,13 @@ Signal Descriptions:
 	Airbag Lamp Active
 	Airbag System Error
 	Airbag Tell Tale Active
-	BRAKE Lamp Active
 	Blind Spot Warning Active
 	Blind Spot Warning Left Light Active
 	Blind Spot Warning Light Brightness Level
 	Blind Spot Warning Ready
 	Blind Spot Warning Right Light Active
 	Brake And Acc Pressed Simultaneously
+	Brake Lamp Active
 	Crank Key Position Active
 	Cruise Engaged
 	Dash Prompt Error Pedestrian Monitoring
@@ -434,8 +434,8 @@ Signal Descriptions:
 	Dash Prompt Please Check The Starter System
 	Day
 	Driver Seatbelt Buckled
-	ESP Lamp Active
 	Engine Speed
+	Esp Lamp Active
 	Front Left Wheel Speed
 	Front Passenger Air Bag Off
 	Front Right Wheel Speed
@@ -463,7 +463,7 @@ Signal Descriptions:
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
 	Seconds
-	Settings Speed MPH
+	Settings Speed Mph
 	Steering Angle
 	Steering Wheel In Motion To Right
 	Steering Wheel Lamp Active
@@ -478,18 +478,18 @@ Signal Descriptions:
 	Turn Signal Stalk Position Forward Change High Be
 	Turn Signal Stalk Position Up
 	Turn Signals Not Active
-	VIN Part1
 	Vehicle Speed High Resolution
+	Vin Part1
 	Yaw Rate
 	Yaw Value Is Negative
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	ABS Lamp Active
-	ACC Display Active
+	Abs Active
+	Abs Lamp Active
 	Absolute Load Value
 	Absolute Throttle Position
+	Acc Display Active
 	Accelerator Pedal Position
 	Actuator Test Active
 	Air Compressor Active
@@ -501,8 +501,8 @@ Signal Descriptions:
 	Auto Off Button Not Active
 	Autohold Active
 	Autohold In Standby
-	BRAKE Lamp Active
 	Brake And Acc Pressed Simultaneously
+	Brake Lamp Active
 	Brake Pressure
 	Brake Switch
 	Calculated Load Value
@@ -516,7 +516,6 @@ Signal Descriptions:
 	Cruise Control Stalk Pull Back
 	Cruise Control Stalk Up
 	Current Gear
-	DPF Installed
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Error Pedestrian Monitoring
 	Dash Prompt Pedestrian Monitoring Please Open And Close Hood
@@ -530,10 +529,9 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Door Rear Driver Open
 	Door Rear Passenger Open
+	Dpf Installed
 	Driving Cycle Active
-	ECD Not Available
-	ESP Lamp Active
-	ESP Voltage Request
+	Ecd Not Available
 	Emergency Break Tell Tale Active
 	Emergency Flashers Active 1
 	Emergency Flashers Active 2
@@ -543,8 +541,10 @@ Signal Descriptions:
 	Engine Speed
 	Engine Torque Actual
 	Engine Torque Request
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Esp Lamp Active
+	Esp Voltage Request
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Front Passenger Air Bag Off
 	Fuel Auto Compensation Control Active
 	Fuel Consumption
@@ -565,7 +565,7 @@ Signal Descriptions:
 	Instrument Cluster Ambient Lighting
 	Instrument Cluster Backlight Level
 	Intake Air Temperature
-	Key Position ACC
+	Key Position Acc
 	Key Position Crank
 	Key Position Ignition
 	Kickdown Trigger
@@ -585,10 +585,10 @@ Signal Descriptions:
 	Oil Pressure Warning Active
 	Oil Temperature
 	Outside Air Temperature
-	PRNDL
 	Parking Brake Engaged
 	Passenger Seat Occupied
 	Pressure Units
+	Prndl
 	Raising Vehicle
 	Rear Crash
 	Right Turn Signal Active
@@ -602,12 +602,12 @@ Signal Descriptions:
 	Seatbelt Rear Middle Buckled
 	Seatbelt Rear Passenger Buckled
 	Set Point Limit
-	Settings Speed MPH
+	Settings Speed Mph
 	Speed Units 0Kmh 1Mph
 	Start Assist Active
 	Steering Angle
 	Steering Angle Negative
-	Steering Intervention By ADAS
+	Steering Intervention By Adas
 	Steering Wheel Lamp Active
 	Steering Wheel Rate Of Change
 	Steering Wheel Sensor Fault
@@ -630,9 +630,6 @@ Signal Descriptions:
 	Traction Control Off
 	Transmission Over Temperature Warning
 	Turn Signal Momentary Active
-	VIN Part1
-	VIN Part2
-	VIN Part3
 	Vehicle Front Left Being Adjusted
 	Vehicle Front Right Being Adjusted
 	Vehicle Rear Left Being Adjusted
@@ -640,6 +637,9 @@ Signal Descriptions:
 	Vehicle Speed
 	Vehicle Speed High Resolution
 	Vehicle Speed Max Limitation Active
+	Vin Part1
+	Vin Part2
+	Vin Part3
 	Voltage Request
 	Volume Units
 	Warm Up Cycle Active

@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Honda 'City' (2013)
 Signal Descriptions:
 	A C Off
@@ -15,7 +15,7 @@ Signal Descriptions:
 	Cabin Fan Speed Auto Active
 	Change Keyless Remote Battery Dash Prompt
 	Check Blind Spot System Dash Prompt
-	Check DRL System Dash Prompt
+	Check Drl System Dash Prompt
 	Check Keyless Access System Dash Prompt
 	Check Left Sliding Door Dash Prompt
 	Check Parking System Dash Prompt
@@ -28,14 +28,14 @@ Signal Descriptions:
 	Compass Direction Deg Off N
 	Dash Dim Active
 	Dash Dimming Being Displayed On Infotainment System Active
-	Door Open Warn On MID Active
+	Door Open Warn On Mid Active
 	Drive Active
 	Driver Climate Zone Temperature
 	Driver Climate Zone Temperature Set Hi
 	Driver Climate Zone Temperature Set Lo
 	Driver Door Button 1 Pressed
 	Driver Door Button 2 Pressed
-	Driver Door Button SET Pressed
+	Driver Door Button Set Pressed
 	Driver Door Locked
 	Driver Door Open Switch Active
 	Driver Door Unlocked
@@ -61,11 +61,11 @@ Signal Descriptions:
 	Front Right Warning Yellow Approaching Object Dash Prompt
 	Front Wiper In Motion
 	Fuel Door Open
-	HVAC SYNC
 	Hazard Lights Active
 	High Beams Active Command
 	High Beams Position Active
 	Hood Open
+	Hvac Sync
 	Immobilizer Active
 	Infotainment Brightness
 	Infotainment Brightness Set To Max
@@ -138,12 +138,12 @@ Signal Descriptions:
 	Sliding Door Keyless Open Mode When Unlocked Set
 	Sport Mode Active
 	Start Stop Mode
-	Trip A Average MPG
+	Trip A Average Mpg
 	Trip A Average Speed
 	Trip A Driven Distance
 	Trip A Selected
 	Trip A Timer
-	Trip B Average MPG
+	Trip B Average Mpg
 	Trip B Average Speed
 	Trip B Driven Distance
 	Trip B Selected
@@ -167,8 +167,8 @@ Signal Descriptions:
 	Write Setting Power Slide Door Keyless Open Mode When Unlocked
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Compressor Active
-	ACC Active
+	Ac Compressor Active
+	Acc Active
 	Accelerator Pedal Applied
 	Accelerator Pedal Position
 	Accelerator Pedal Position
@@ -192,10 +192,10 @@ Signal Descriptions:
 	Cruise Control On
 	Cruise Control Set Speed
 	Current Gear
-	Displayed Vehicle Speed In KPH
-	Displayed Vehicle Speed In KPH Alt
-	Displayed Vehicle Speed In MPH
-	Displayed Vehicle Speed In MPH Alt
+	Displayed Vehicle Speed In Kph
+	Displayed Vehicle Speed In Kph Alt
+	Displayed Vehicle Speed In Mph
+	Displayed Vehicle Speed In Mph Alt
 	Door Open Front Left
 	Door Open Front Right
 	Door Open Rear Left
@@ -204,12 +204,12 @@ Signal Descriptions:
 	Driver Seatbelt Buckled
 	Driver Seatbelt Not Buckled
 	Driver Seatbelt Unbuckled
-	ESP Disabled
 	Engine Speed
 	Engine Speed Alt
-	Engine Speed From ECM
+	Engine Speed From Ecm
 	Engine Torque
 	Engine Torque Request
+	Esp Disabled
 	Forward Collision Warning Distance
 	Fuel Gauge 1
 	Fuel Gauge 2
@@ -222,13 +222,6 @@ Signal Descriptions:
 	Manifold Pressure Sensor
 	Mass Air Flow
 	Odometer
-	PRNDL Position 1
-	PRNDL Position 2
-	PRNDL Position D
-	PRNDL Position D3
-	PRNDL Position N
-	PRNDL Position P
-	PRNDL Position R
 	Park Brake Active
 	Parking Brake Active
 	Passenger Airbag Off
@@ -236,8 +229,15 @@ Signal Descriptions:
 	Passenger Seat Belt Tell Tale
 	Passenger Seatbelt Buckled
 	Passenger Seatbelt Unbuckled
+	Prndl Position 1
+	Prndl Position 2
+	Prndl Position D
+	Prndl Position D3
+	Prndl Position N
+	Prndl Position P
+	Prndl Position R
 	Relative Throttle Opening Sensor
-	Relative Throttle Opening Sensor ALT
+	Relative Throttle Opening Sensor Alt
 	Request For Additional Voltage Active
 	Reverse Active
 	Right Blinker
@@ -248,18 +248,18 @@ Signal Descriptions:
 	Slip Control Off Button Depressed
 	Steering Wheel Angel From Start
 	Steering Wheel Cruise Control Buttons
-	TPMS Reset Comand
-	TPMS Tell Tale
 	Target Gear
+	Tpms Reset Comand
+	Tpms Tell Tale
 	Traction Control Button Pressed
 	Traction Control System Change Bit
 	Transmission Speed
 	Trip Fuel Used
 	Trunk Open
-	VIN Part 1 01
-	VIN Part 2 02
-	VIN Part 3 03
 	Vehicle Menu Active
+	Vin Part 1 01
+	Vin Part 2 02
+	Vin Part 3 03
 	Water Temperature
 	Wheel Speed Front Left
 	Wheel Speed Front Right

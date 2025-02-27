@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Lexus 'Es' (2024)
 Signal Descriptions:
 No qualifying signals found on this network
@@ -214,24 +214,24 @@ Signal Descriptions:
 	Yaw Rate Value
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
+	Abs Active
 	Adjusting Forward Camera Mess
 	Adjusting Front Radar Be 0000
 	Adjusting Front Radar Beam M
 	Adjusting Front Radar Beam V
 	Ambient Air Temperature
 	Auto Headlights
-	BSM State Change In Progress
 	Blind Spot Monitor On Off 1
 	Blind Spot Monitor On Off 2
 	Brake Alert 1
 	Brake Alert 2
+	Bsm State Change In Progress
 	Current Display Units Kilomet
 	Current Display Units Miles
 	Current Key Cycle Elapsed Time
-	DRL Beam Headlights Command
 	Dash Telltales
 	Driver Door Ajar
+	Drl Beam Headlights Command
 	Electric Load Signal 3 Active
 	Error Adjusting Front Radar
 	Front Camera Low Visibility
@@ -240,7 +240,7 @@ Signal Descriptions:
 	Grill Shutter Inoperative Mes
 	Grill Shutter Not Initialized
 	High Beam Headlights Command
-	IC Dimmed Active
+	Ic Dimmed Active
 	Ignition Cycle Count
 	Intelligent Clearance Status
 	L A D Unavailable Message
@@ -285,10 +285,10 @@ Signal Descriptions:
 	Pre Collision System Tell Tale 2
 	Pre Collision System Una 0000
 	Pre Collision System Unavaila
-	RSA Displayed State
 	Rear Left Door Ajar
 	Rear Right Door Ajar
 	Roll Gradient Left To Right
+	Rsa Displayed State
 	Shifter Position
 	Steering Control Indicator Ac
 	Steering Select Button Status

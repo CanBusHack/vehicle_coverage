@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Toyota 'Avalon' (2015)
 Signal Descriptions:
 	4 Requested Engine Torque
@@ -12,8 +12,7 @@ Signal Descriptions:
 	A C Command
 	A C Room Temperature
 	A C Status Active
-	ABS Tell Tale
-	AT OIL Temperature Tell Tale
+	Abs Tell Tale
 	Accelerator And Brake Pedals
 	Accelerator Pedal
 	Accelerator Pedal Not Pressed
@@ -25,23 +24,19 @@ Signal Descriptions:
 	Air Priority
 	Ambient Air Temperature
 	Any Fob Button Being Pressed
+	At Oil Temperature Tell Tale
 	Auto A C Mode On 0 Read
 	Auto A C Mode On 0 Write
 	Auto A C Status Active
-	Auto Adjust By GPS
+	Auto Adjust By Gps
 	Auto Lights
 	Automatic Door Lock Read
 	Automatic Door Lock Write
 	Automatic Door Unlock Read
 	Automatic Door Unlock Write
-	Average MPG Tank 00
-	Average MPG Total 00
+	Average Mpg Tank 00
+	Average Mpg Total 00
 	Average Vehicle Speed
-	BSM Brightness Set To Brigh
-	BSM Brightness Setting Chan
-	BSM Option Changed Active
-	BSM Sensitivity
-	BSM Sensitivity Setting Cha
 	Blind Spot Monitor On 1
 	Blind Spot Monitor On 2
 	Blower Position
@@ -52,6 +47,11 @@ Signal Descriptions:
 	Brake Switch Pressed
 	Brake System Warning Active
 	Brake Warning Tell Tale Active
+	Bsm Brightness Set To Brigh
+	Bsm Brightness Setting Chan
+	Bsm Option Changed Active
+	Bsm Sensitivity
+	Bsm Sensitivity Setting Cha
 	Cabin Air Mode Command
 	Cabin Fan Speed Down Command
 	Cabin Fan Speed Up Command
@@ -76,7 +76,6 @@ Signal Descriptions:
 	Cruise Set Button Pressed
 	Current Key Cycle Elapsed Ti
 	D Pad Left Side Of Steering
-	DRCC RSA Option Change
 	Dash Telltales
 	Day 1
 	Day 2
@@ -85,6 +84,7 @@ Signal Descriptions:
 	Display Brightness Change Active
 	Display Messages
 	Downhill Assist Control Warning Level
+	Drcc Rsa Option Change
 	Drive Mode
 	Drive Start Control Malfuncti
 	Drive Start Control Malfuntio
@@ -95,13 +95,13 @@ Signal Descriptions:
 	Driver Side Sun Sensor
 	Driver Window Position Changing
 	Driver Window State
-	ECO Mode Button Pressed
-	ECO Tell Tale
-	EPS Tell Tale
+	Eco Mode Button Pressed
+	Eco Tell Tale
 	Electric Load Signal 3 Active
 	Electric Power Steering Syste
 	Engine Coolant Temperature
 	Engine Speed Displayed
+	Eps Tell Tale
 	Error Adjusting Front Radar
 	Fan Speed
 	Flat Tire Notification 5Th Tire
@@ -135,10 +135,6 @@ Signal Descriptions:
 	Gear Number Displayed
 	Green Cruise Control Tell Tale
 	Grill Shutter Malfunction Mes
-	HVAC Auto Command
-	HVAC OFF Command
-	HVAC Set Temperature Driver Side
-	HVAC Set Temperature Passenger Side
 	Hazard Button Enabled
 	Headlight State
 	High Beams
@@ -153,9 +149,13 @@ Signal Descriptions:
 	Hour Format 24 Hour Clock In
 	Hours Negative Pressed Active
 	Hours Plus Pressed Active
-	IC Dimmed Active
-	IC Illumination
-	IC Illumination Dimmer Max
+	Hvac Auto Command
+	Hvac Off Command
+	Hvac Set Temperature Driver Side
+	Hvac Set Temperature Passenger Side
+	Ic Dimmed Active
+	Ic Illumination
+	Ic Illumination Dimmer Max
 	Idle Up Signal Active
 	Ignition Button Pressed State
 	Ignition Cycle Count
@@ -164,19 +164,7 @@ Signal Descriptions:
 	Intake Manifold Absolute Pressure
 	Key Fob Warning Prompts
 	Key In Ignition
-	LAD Unavailable Message
-	LDA Hold Steering Wheel
-	LDA Hold Steering Wheel Me
-	LDA Left Line
-	LDA Malfunction Message
-	LDA Right Line
-	LDA Steering Assist Active
-	LDA Steering Assist Inactiv
-	LDA Steering Assist Unavail
-	LDA Turned ON Steering As
-	LDA Unavailable At Current
-	LDW Sensitivity High
-	LDW Sensitivity Low
+	Lad Unavailable Message
 	Lane Center Option Changed
 	Lane Departure Alert Green T
 	Lane Departure Alert Turned
@@ -187,6 +175,18 @@ Signal Descriptions:
 	Latitude Hour
 	Latitude Minute
 	Latitude Second
+	Lda Hold Steering Wheel
+	Lda Hold Steering Wheel Me
+	Lda Left Line
+	Lda Malfunction Message
+	Lda Right Line
+	Lda Steering Assist Active
+	Lda Steering Assist Inactiv
+	Lda Steering Assist Unavail
+	Lda Turned On Steering As
+	Lda Unavailable At Current
+	Ldw Sensitivity High
+	Ldw Sensitivity Low
 	Left Turn Signal
 	Left Turn Signal 3 Blink
 	Left Turn Signal Not Enabled
@@ -197,9 +197,9 @@ Signal Descriptions:
 	Low Beams
 	Low Beams Enabled
 	Low Fuel Level Warning Light
-	MIL Tell Tale
 	Main Sun Sensor
 	Max Blower Active
+	Mil Tell Tale
 	Minute 1
 	Minute 2
 	Minutes Negative Pressed Active
@@ -213,8 +213,6 @@ Signal Descriptions:
 	Oil Pressure Low Message
 	Ok Button Steering Wheel
 	Ok Button Steering Wheel Long
-	PRNDL
-	PRNDL Background Color
 	Parking Brake Enabled
 	Parking Lights
 	Pass Lights
@@ -240,20 +238,18 @@ Signal Descriptions:
 	Pre Collision System Tell Tale 2
 	Pre Collision System Una 0000
 	Pre Collision System Unavaila
-	RCD Active
-	RCD Option Change Active
-	RCTA Active
-	RCTA Change Active
-	RCTA Volume
-	RCTA Volume Setting Change
-	RSA Above Speed Limit Noti
-	RSA Enabled
-	RSA Notification Level
-	RSA Others Notification Met
+	Prndl
+	Prndl Background Color
 	Radio Clock Hour
 	Radio Clock Minutes
 	Radio Clock Seconds
 	Range 10
+	Rcd Active
+	Rcd Option Change Active
+	Rcta Active
+	Rcta Change Active
+	Rcta Volume
+	Rcta Volume Setting Change
 	Real Engine Torque
 	Rear Camera Detection Setting
 	Rear Defroster
@@ -271,27 +267,31 @@ Signal Descriptions:
 	Recirculation Command
 	Recirculation Not Active
 	Recirculation Status Active
-	Relay Fan NO1 IG B Active
+	Relay Fan No1 Ig B Active
 	Release Accelerator Message
 	Requested Engine Torque
 	Return Arrow Pressed
 	Right Turn Signal
 	Right Turn Signal 3 Blink
 	Right Turn Signal Not Enable
-	SRS Airbag System Malfunction
+	Rsa Above Speed Limit Noti
+	Rsa Enabled
+	Rsa Notification Level
+	Rsa Others Notification Met
 	Seatbelt Tell Tale Active
 	Second
 	Sensitivity High Change Activ
 	Sensitivity Standard Change A
 	Service Menu Active
-	Set HVCA Temperature
+	Set Hvca Temperature
 	Side Lights Enabled
 	Sidelights
-	Small Letter On LCD Display
+	Small Letter On Lcd Display
 	Speed Limit Displayed
 	Speed Limit Displayed On Clus
 	Speed Reduction Option Change
 	Spot Mode Tell Tale Active
+	Srs Airbag System Malfunction
 	Steering Angle Gradient
 	Steering Assist Off Change A
 	Steering Assist On Change Ac
@@ -307,7 +307,7 @@ Signal Descriptions:
 	Throttle Position
 	Throttle Wide Open
 	Time Format 24 Hour Pressed
-	Time Zone GMT Offset
+	Time Zone Gmt Offset
 	Tire Pressure 5Th Tire
 	Tire Pressure Left Front
 	Tire Pressure Left Rear
@@ -318,21 +318,21 @@ Signal Descriptions:
 	Trip Button Pressed
 	Trip Reset
 	Trip Timer
-	Trip Timer On IC 10
+	Trip Timer On Ic 10
 	Truck Button Pressed
 	Trunk Open Active
 	Trunk Release
-	Units In Imperial US 20
+	Units In Imperial Us 20
 	Units In Kilometers Active
 	Units In Metric 20
 	Units In Miles Active
 	Units Of Measurement
 	Units Setting 00
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
 	Valet Mode Unlocking Active
 	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 	Warning Cross Traffic Prompt
 	Wide Angel Camera View Activ
 	Windshield Washer Command
@@ -341,7 +341,7 @@ Signal Descriptions:
 	Windshield Wiper Int Volume
 	Windshield Wiper Lo
 	Windshield Wiper Mist
-	Windshield Wiper OFF
+	Windshield Wiper Off
 	Wiper Speed
 	Wipers Not Active
 	Yaw Rate Value

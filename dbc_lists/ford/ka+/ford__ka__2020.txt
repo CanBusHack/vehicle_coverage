@@ -1,30 +1,30 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Ford 'Ka+' (2020)
 Signal Descriptions:
-	ACC Braking Active
-	ACC Braking Temperature Warm
-	ACC Disengage From Brake
-	ACC Distance Decrease Button Pressed
-	ACC Distance Increase Button Pressed
-	ACC Pre Fill Brake
-	ADAS Cruise Control Mode
-	ADAS Cruise Control Mode
-	ADAS Cruise Control Override
-	ADAS Cruise Control Speed Set
-	ADAS Cruise Control Status
-	ADAS Cruise Engine
-	ADAS Cruise Stop Mode
-	ADAS SP Button CAN RES Pressed
-	ADAS SP Button Decrease Speed Pressed
-	ADAS SP Button Increase Speed Pressed
-	ADAS SP Button LIM Or OFF Pressed
-	ADAS Speed Limiter On And Active
-	ADAS Speed Limiter On And Not Active
-	ADAS Speed Limiter Warning Chime
-	ADAS Speed Set
-	ADAS Speed Set Display
+	Acc Braking Active
+	Acc Braking Temperature Warm
+	Acc Disengage From Brake
+	Acc Distance Decrease Button Pressed
+	Acc Distance Increase Button Pressed
+	Acc Pre Fill Brake
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Cruise Control Mode
+	Adas Cruise Control Mode
+	Adas Cruise Control Override
+	Adas Cruise Control Speed Set
+	Adas Cruise Control Status
+	Adas Cruise Engine
+	Adas Cruise Stop Mode
+	Adas Sp Button Can Res Pressed
+	Adas Sp Button Decrease Speed Pressed
+	Adas Sp Button Increase Speed Pressed
+	Adas Sp Button Lim Or Off Pressed
+	Adas Speed Limiter On And Active
+	Adas Speed Limiter On And Not Active
+	Adas Speed Limiter Warning Chime
+	Adas Speed Set
+	Adas Speed Set Display
 	Air Conditioning Compressor Commanded State
 	Airbag Curtain Front Left
 	Airbag Curtain Front Right
@@ -41,7 +41,7 @@ Signal Descriptions:
 	Battery Charge Voltage
 	Battery State Of Charge
 	Battery State Of Charge Very Low
-	Battery Temperature SCALING
+	Battery Temperature Scaling
 	Battery Voltage
 	Blower Motor Rear
 	Body Systems Service Required
@@ -61,8 +61,8 @@ Signal Descriptions:
 	Compass Calibration Icon On
 	Compass Direction
 	Compass Display On
-	Compass Segment LSD
-	Compass Segment MSD
+	Compass Segment Lsd
+	Compass Segment Msd
 	Compass Zone Change
 	Compass Zone Icon On
 	Compass Zone Preferred
@@ -76,8 +76,8 @@ Signal Descriptions:
 	Dash Indication Shift Down
 	Dash Indication Shift Up
 	Dash Tachometer Indication
-	Dash Tell Tale MIL Flashing
-	Dash Tell Tale MIL On
+	Dash Tell Tale Mil Flashing
+	Dash Tell Tale Mil On
 	Dash Tell Tale Parking Brake On
 	Dash Tell Tale Service Required
 	Day Dimming Level
@@ -106,19 +106,8 @@ Signal Descriptions:
 	Driver Alert System On
 	Driver Door Status
 	Driver Profile Info
-	Driving ECO Mode Request
+	Driving Eco Mode Request
 	Driving Mode
-	ESP ABS Active
-	ESP ABS Fault
-	ESP ABS Tell Tale Flashing
-	ESP ABS Tell Tale On
-	ESP ABS Tell Tale Status
-	ESP TC System Off
-	ESP TC Tell Tale
-	ESP Traction Control Active
-	ESP Traction Control Active
-	ESP Traction Control Tell Tale Flashing
-	ESP Traction Control Tell Tale On
 	Emergency Assistant
 	Emergency Call Notification
 	Engine Acceleration
@@ -133,21 +122,25 @@ Signal Descriptions:
 	Engine Speed
 	Engine Status
 	Engine Torque Output
-	Engine Torque Which Not In ST
+	Engine Torque Which Not In St
 	Engine Turning Off
+	Esp Abs Active
+	Esp Abs Fault
+	Esp Abs Tell Tale Flashing
+	Esp Abs Tell Tale On
+	Esp Abs Tell Tale Status
+	Esp Tc System Off
+	Esp Tc Tell Tale
+	Esp Traction Control Active
+	Esp Traction Control Active
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
 	Fob Passive Entry State
-	Fuel Level SCALE
+	Fuel Level Scale
 	Fuel Pump Enabled
 	Fuel Pump State
 	Gear Manual Position
 	Guard Alarm Reduced
-	HVAC A C Enabled
-	HVAC A C Pressure Sensor
-	HVAC Evaporator Temperature
-	HVAC Fan Active
-	HVAC Max A C Active
-	HVAC Max A C Not Active
-	HVAC Recirculation Air Percentage
 	Headlights Switch
 	Hill Descent Info Lamp
 	Hill Descent Mode
@@ -155,6 +148,13 @@ Signal Descriptions:
 	Hill Descent System State
 	Hill Descent Tell Tale
 	Hill Descent Tell Tale Control Msg
+	Hvac A C Enabled
+	Hvac A C Pressure Sensor
+	Hvac Evaporator Temperature
+	Hvac Fan Active
+	Hvac Max A C Active
+	Hvac Max A C Not Active
+	Hvac Recirculation Air Percentage
 	Intake Air Temperature
 	Key In Accessory Position
 	Key Type
@@ -246,7 +246,7 @@ Signal Descriptions:
 	Seatbelt Third Row Right
 	Shift Interlock
 	Shift Interlock Control Message
-	Ss RELATED CHECK
+	Ss Related Check
 	Stability Control Braking Available
 	Start Remote Request
 	Start Remote Request Cancel
@@ -293,9 +293,9 @@ Signal Descriptions:
 	Trans And Steering Interlock
 	Trans Shifter Interlock Shift Active
 	Transmission Input Shaft Torque
-	VIN Part 1
 	Vehicle Not Moving
 	Vehicle Speed
+	Vin Part 1
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

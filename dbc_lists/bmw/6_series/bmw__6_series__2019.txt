@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Bmw '6 Series' (2019)
 Signal Descriptions:
 	Door Front Driver Locked
@@ -15,28 +15,27 @@ Signal Descriptions:
 	Door Rear Passenger Unlocked
 	Driver Heated Seat Button Pressed
 	Driver Heated Seat Level
-	HVAC AC Active
-	HVAC Auto Recirculation
-	HVAC Cabin Fan Load Percentage
-	HVAC Driver Air Mode
-	HVAC Driver Cabin Fan Speed Set
-	HVAC Driver Climate Zone Auto Active
-	HVAC Driver Climate Zone Temperature Set
-	HVAC Driver Dash Baffle Open
-	HVAC Driver Floor Baffle Open
-	HVAC Driver Windscreen Baffle Open
-	HVAC Max AC Active
-	HVAC Passenger Air Mode
-	HVAC Passenger Cabin Fan Speed Set
-	HVAC Passenger Climate Zone Auto Active
-	HVAC Passenger Climate Zone Temperature Set
-	HVAC Recirculation
-	HVAC SYNC Active
+	Hvac Ac Active
+	Hvac Auto Recirculation
+	Hvac Cabin Fan Load Percentage
+	Hvac Driver Air Mode
+	Hvac Driver Cabin Fan Speed Set
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac Max Ac Active
+	Hvac Passenger Air Mode
+	Hvac Passenger Cabin Fan Speed Set
+	Hvac Passenger Climate Zone Auto Active
+	Hvac Passenger Climate Zone Temperature Set
+	Hvac Recirculation
+	Hvac Sync Active
 	Left Arrow Being Pressed
 	Passenger Heated Seat Button Pressed
 	Passenger Heated Seat Level
 	Radio Eject Button Active
-	Radio FM AM Button Active
 	Radio Favorites Button 1 Press
 	Radio Favorites Button 1 Touch
 	Radio Favorites Button 2 Press
@@ -53,6 +52,7 @@ Signal Descriptions:
 	Radio Favorites Button 7 Touch
 	Radio Favorites Button 8 Press
 	Radio Favorites Button 8 Touch
+	Radio Fm Am Button Active
 	Radio Mode Button Active
 	Radio Power Button Active
 	Radio Volume Knob Turn Clockwise
@@ -102,7 +102,7 @@ Signal Descriptions:
 	Write Parking Obstacle Detection Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ACC Active
+	Acc Active
 	Car Moving
 	Crank Active
 	Idrive Button Being Pressed
@@ -126,8 +126,8 @@ Signal Descriptions:
 	Read Coasting Setting Active
 	Read Daytime Running Lamps Active
 	Read Daytime Running Lamps Inactive
-	Read ECO PRO Climate Ctrl Active
-	Read ECO PRO Speed Warning Active
+	Read Eco Pro Climate Ctrl Active
+	Read Eco Pro Speed Warning Active
 	Read Flash For Lock And Unlock Active
 	Read Flash For Lock And Unlock Inactive
 	Read Interior Light Brightness
@@ -150,8 +150,8 @@ Signal Descriptions:
 	Write Ambient Light Set To Classic
 	Write Ambient Light Set To Modern
 	Write Coasting Setting Active
-	Write ECO PRO Climate Ctrl Active
-	Write ECO PRO Speed Warning Active
+	Write Eco Pro Climate Ctrl Active
+	Write Eco Pro Speed Warning Active
 	Write Flash For Lock And Unlock Active
 	Write Flash For Lock And Unlock Inactive
 	Write Interior Light Brightness
@@ -185,24 +185,21 @@ Signal Descriptions:
 	Doors Locked
 	Doors Unlocked
 	Driver Seatbelt Buckled
-	Engine Load ALT
+	Engine Load Alt
 	Engine Speed
 	Engine Torque
 	Fuel Level In Liters
 	Fuel Range
 	Hill Assist Active
-	IC Backlight Level
+	Ic Backlight Level
 	Ignition Button Pressed
 	Left Steering Wheel Up Down Switch
 	Lock Button Pressed
 	Lock State Not Changing
 	Locking Command
-	MIL Tell Tale Active
+	Mil Tell Tale Active
 	Odometer
 	Oil Temperature
-	PRNDL And Gear
-	PRNDL And Gear Alt
-	PRNDL And Gear Alt
 	Paddle Shifter Status
 	Parking Brake Disengaging
 	Parking Brake Engaged
@@ -210,9 +207,12 @@ Signal Descriptions:
 	Passenger Seatbelt Buckled
 	Pedal Accelerator
 	Powermode
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate Alt
-	Throttle Position ALT
+	Throttle Position Alt
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
@@ -223,8 +223,8 @@ Signal Descriptions:
 	Turn Signal Right Active
 	Unlock Button Pressed
 	Unlocking Command
-	VIN Part 3
 	Vehicle Speed
+	Vin Part 3
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

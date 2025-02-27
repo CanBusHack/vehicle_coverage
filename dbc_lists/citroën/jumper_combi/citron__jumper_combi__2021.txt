@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Citroën 'Jumper Combi' (2021)
 Signal Descriptions:
 	Ambient Air Temperature
@@ -8,36 +8,36 @@ Signal Descriptions:
 	Door Hood Open
 	Door Rear Cargo Open
 	Door Rear Sliding Right Open
-	ESC Lamp On
-	ESC Off
 	Engine Coolant Temperature
 	Engine Oil Lamp On
-	FOB Button Lock Pressed
-	FOB Button Unlock Cargo Pressed
-	FOB Button Unlock Cargo Pressed Twice
-	FOB Button Unlock Pressed
+	Esc Lamp On
+	Esc Off
+	Fob Button Lock Pressed
+	Fob Button Unlock Cargo Pressed
+	Fob Button Unlock Cargo Pressed Twice
+	Fob Button Unlock Pressed
 	Fuel Cut Off Trig Message
 	Fuel Low Lamp Flashing
 	Fuel Low Lamp On
 	Gear Displayed
 	Gear Engaged
-	HVAC Defrost Front Active
 	Headlight High Beam On
 	Headlights Prompt Backup Light Out
 	Headlights Prompt Marker Lights Out
 	Headlights Sidelight Active
 	Headlights Status On
+	Hvac Defrost Front Active
 	Lights Fog Front Active
 	Lights Indicator Left Active
 	Lights Indicator Right Active
 	Odometer Flashing
-	PRNDL Position Displayed
 	Parking Brake Engaged
 	Pedal Brake Position
 	Pedal Brake Pressed
 	Power Mode
+	Prndl Position Displayed
 	Radio Button Memory Pressed
-	Radio FM Selection
+	Radio Fm Selection
 	Seatbelt Front Driver Fastened
 	Steering Wheel Button Mute Pressed
 	Steering Wheel Button Phone Connect Pressed
@@ -49,18 +49,18 @@ Signal Descriptions:
 	Steering Wheel Button Volume Up Pressed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Button On Released
-	ADAS Cruise Control Ready
-	ADAS Cruise Control Set
-	ADAS Cruise Control Switch Decrease Pressed
-	ADAS Cruise Control Switch Decrease Released
-	ADAS Cruise Control Switch Increase Pressed
-	ADAS Cruise Control Switch Increase Released
-	ADAS Cruise Control Switch On Pressed
-	ADAS Cruise Control Switch RES Pressed
-	ADAS Cruise Control Switch RES Released
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Cruise Control Button On Released
+	Adas Cruise Control Ready
+	Adas Cruise Control Set
+	Adas Cruise Control Switch Decrease Pressed
+	Adas Cruise Control Switch Decrease Released
+	Adas Cruise Control Switch Increase Pressed
+	Adas Cruise Control Switch Increase Released
+	Adas Cruise Control Switch On Pressed
+	Adas Cruise Control Switch Res Pressed
+	Adas Cruise Control Switch Res Released
 	Ambient Barometric Pressure
 	Ambient Temperature
 	Battery Voltage
@@ -74,9 +74,6 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Door Rear Cargo Open
 	Door Rear Sliding Right Open
-	ESC System Off
-	ETC Lamp Flashing
-	ETC Warning Service Required
 	Engine Coolant Temperature
 	Engine Coolant Temperature High
 	Engine Coolant Temperature Low
@@ -90,7 +87,10 @@ Signal Descriptions:
 	Engine Torque Net
 	Engine Torque Requested By Driver
 	Engine Warning Check Oil Level
-	Engine Warning Max Engine RPM
+	Engine Warning Max Engine Rpm
+	Esc System Off
+	Etc Lamp Flashing
+	Etc Warning Service Required
 	Fuel Consumption Instantaneous
 	Fuel Level
 	Fuel Prompt Check Fuel Cap
@@ -100,11 +100,11 @@ Signal Descriptions:
 	Gearbox Manual Shift Up Request
 	Gearbox Shift In Progress
 	Gearbox Shift Interlock Active
-	HVAC AC Active
-	HVAC AC Compressor Active
-	HVAC AC Pressure
-	HVAC Heater Active
 	Horn Active
+	Hvac Ac Active
+	Hvac Ac Compressor Active
+	Hvac Ac Pressure
+	Hvac Heater Active
 	Ignition Off
 	Ignition On
 	Instrument Panel Brightness Level
@@ -117,12 +117,12 @@ Signal Descriptions:
 	Lights Indicator Right Active
 	Lights Low Beam Active
 	Odometer
-	PRNDL Position
 	Parking Brake Engaged
 	Parking Brake Tell Tale On
 	Pedal Accelerator Position
 	Pedal Brake Position
 	Pedal Brake Pressed
+	Prndl Position
 	Reverse Camera Active
 	Seatbelt Front Driver Unfastened
 	Seatbelt Front Passenger Violation
@@ -135,11 +135,11 @@ Signal Descriptions:
 	Tow Haul Status
 	Transmission Oil Temperature High
 	Trip A Travel Time
-	VIN Characters 1 To 7
-	VIN Characters 15 To 17
-	VIN Characters 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
@@ -149,9 +149,9 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Tell Tale On
 	Acceleration Deceleration Lateral
 	Acceleration Lateral
+	Adas Cruise Control Tell Tale On
 	Ambient Air Temperature
 	Brake Pedal Position
 	Brake Prompt Change Pads One
@@ -162,8 +162,6 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Door Rear Cargo Open
 	Door Rear Sliding Right Open
-	ESC Lamp On
-	ESC Off
 	Electronic Throttle Control Warning On
 	Engine Coolant Temperature Displayed
 	Engine Coolant Temperature High Lamp On
@@ -171,10 +169,12 @@ Signal Descriptions:
 	Engine Oil Lamp On
 	Engine Speed
 	Engine Speed Max Prompt On
-	FOB Button Lock Pressed
-	FOB Button Unlock Cargo Pressed
-	FOB Button Unlock Cargo Pressed Twice
-	FOB Button Unlock Pressed
+	Esc Lamp On
+	Esc Off
+	Fob Button Lock Pressed
+	Fob Button Unlock Cargo Pressed
+	Fob Button Unlock Cargo Pressed Twice
+	Fob Button Unlock Pressed
 	Fuel Consumption Instantaneous Displayed
 	Fuel Level
 	Fuel Low Lamp Flashing
@@ -185,26 +185,26 @@ Signal Descriptions:
 	Gear Engaged
 	Gearbox Shift In Progress
 	Gearbox Shift Interlock Active
-	HVAC AC Compressor Status
-	HVAC Defrost Front Active
 	Headlight High Beam On
 	Headlights Prompt Backup Light Out
 	Headlights Prompt Marker Lights Out
 	Headlights Sidelight Active
 	Headlights Status On
 	Hood Status
+	Hvac Ac Compressor Status
+	Hvac Defrost Front Active
 	Lights Fog Front Active
 	Lights Indicator Left Active
 	Lights Indicator Right Active
 	Odometer Flashing
 	Odometer Trip
-	PRNDL Position Displayed
 	Parking Brake Engaged
 	Pedal Brake Pressed
 	Pitch Rate
 	Power Mode
+	Prndl Position Displayed
 	Radio Button Memory Pressed
-	Radio FM Selection
+	Radio Fm Selection
 	Seatbelt Front Driver Fastened
 	Steering Wheel Button Mute Pressed
 	Steering Wheel Button Phone Connect Pressed
@@ -230,13 +230,13 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Active
-	ADAS Cruise Control Button On Off Pressed
-	ADAS Cruise Control Button RES Check Active
-	ADAS Cruise Control Button RES Pressed
-	ADAS Cruise Control Speed Switch Check Status
-	ADAS Cruise Control Speed Switch Status
-	ADAS Cruise Control Tell Tale On
+	Adas Cruise Control Active
+	Adas Cruise Control Button On Off Pressed
+	Adas Cruise Control Button Res Check Active
+	Adas Cruise Control Button Res Pressed
+	Adas Cruise Control Speed Switch Check Status
+	Adas Cruise Control Speed Switch Status
+	Adas Cruise Control Tell Tale On
 	Ambient Barometric Pressure
 	Ambient Temperature Air
 	Date Current Day
@@ -260,14 +260,14 @@ Signal Descriptions:
 	Gear Engaged
 	Gearbox Shift In Progress
 	Gearbox Shift Interlock Active
-	HVAC AC Compressor Active
-	HVAC AC Pressure
+	Hvac Ac Compressor Active
+	Hvac Ac Pressure
 	Instrument Panel Brightness Level
 	Odometer Trip
-	PRNDL Position
 	Parking Brake Engaged
 	Pedal Accelerator Position
 	Pedal Brake Position
+	Prndl Position
 	Steering Wheel Angle
 	Steering Wheel Paddle Shifter Down Request
 	Steering Wheel Paddle Shifter Up Request

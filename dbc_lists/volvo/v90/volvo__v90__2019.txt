@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volvo 'V90' (2019)
 Signal Descriptions:
 	Acceleration Data Raw Safe Validity
@@ -292,9 +292,9 @@ Signal Descriptions:
 	Front Wind Shield Wipers In Motion
 	Front Wiper Motion Request
 	Front Wiper Speed State
-	HVAC AC Active
-	HVAC Blower
-	HVAC Fan Speed
+	Hvac Ac Active
+	Hvac Blower
+	Hvac Fan Speed
 	Left Rear Door Lock Button Pressed
 	Left Rear Door Locked
 	Left Rear Door Unlocked
@@ -311,7 +311,7 @@ Signal Descriptions:
 	Passenger Door Unlocked
 	Passenger Lock Control Button Lock Pressed
 	Passenger Lock Control Button Unlock Pressed
-	Passenger Mirror XY Change Request
+	Passenger Mirror Xy Change Request
 	Passenger Seat Back Rest Backward
 	Passenger Seat Back Rest Forward
 	Passenger Seat Heat Level 1
@@ -343,7 +343,7 @@ Signal Descriptions:
 	Trunk Open
 	Trunk Open Request
 	Trunk Static
-	VIN 1Of3
+	Vin 1Of3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Left Turn Signal Active
@@ -354,17 +354,12 @@ Signal Descriptions:
 	Rear Camera Active Standard View
 	Rear Camera Active Zoomed View
 	Rearview Camera Lines Active
-	Rearview Camera PAS Active
+	Rearview Camera Pas Active
 	Right Turn Signal Active
 	Trunk Ajar
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Off
-	ADAS Cruise Control On
-	AWD Actuator To Transmission
-	AWD Actuator To Transmission Validity
-	AWD Integrated Starter Generator Torque
 	Acceleration Data Raw Safe Validity
 	Acceleration Lateral
 	Acceleration Lateral Quality Flag
@@ -372,6 +367,8 @@ Signal Descriptions:
 	Acceleration Longitudinal Quality Flag
 	Acceleration Vertical
 	Acceleration Vertical Quality Flag
+	Adas Cruise Control Off
+	Adas Cruise Control On
 	Air Mass
 	Ambient Temperature
 	Ambient Temperature Displayed
@@ -380,6 +377,9 @@ Signal Descriptions:
 	Ambient Temperature Unit
 	Ambient Temperature Unit Validity
 	Ambient Temperature Validity
+	Awd Actuator To Transmission
+	Awd Actuator To Transmission Validity
+	Awd Integrated Starter Generator Torque
 	Axle Rear Slip Relative
 	Axle Rear Slip Relative Validity
 	Battery Charge Request
@@ -423,8 +423,6 @@ Signal Descriptions:
 	Differential Torque Front Group Quality Flag
 	Differential Torque Wheel Front Left
 	Differential Torque Wheel Front Right
-	ESP Traction Control Active Front Max
-	ESP Traction Control Active Front Max Validity
 	Electronic Park Brake Status Validity
 	Electronic Parking Brake Status
 	Engine Load Calculated
@@ -446,12 +444,13 @@ Signal Descriptions:
 	Engine Torque Limit Delay Validity
 	Engine Torque Reference
 	Engine Torque Reference Validity
+	Esp Traction Control Active Front Max
+	Esp Traction Control Active Front Max Validity
 	High Voltage Request
 	High Voltage Request Validity
 	Integrated Starter Generator Engine Speed Of Active Dampening
 	Odometer
 	Odometer Validity
-	PRNDL Position
 	Pedal Accelerator Position S1
 	Pedal Accelerator Position S1 Validity
 	Pedal Accelerator Position S2
@@ -470,6 +469,7 @@ Signal Descriptions:
 	Powertrain Torque At Rear Axle Max Request Validity
 	Powertrain Torque At Rear Axle Min Request
 	Powertrain Torque At Rear Axle Min Request Validity
+	Prndl Position
 	Propulsion Activation Request
 	Propulsion Activation Request Validity
 	Roll Rate
@@ -566,7 +566,7 @@ Signal Descriptions:
 	Yaw Stability Control Active Validity
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
+	Abs Active
 	Acc Pedal Not Pressed
 	Allwheel Drive Reduced Performance Front Wheel Drive Only Dash Prompt
 	Driver Seatbelt Fastened
@@ -581,7 +581,7 @@ Signal Descriptions:
 	Manual Mode Gear Displayed
 	Passenger Door Ajar
 	Passenger Door Closed
-	Propulsion System Harsh Behavior At Low Speed Vehicle OK To Use Dash Prompt
+	Propulsion System Harsh Behavior At Low Speed Vehicle Ok To Use Dash Prompt
 	Propulsion System Reduced Performance Dash Prompt
 	Propulsion System Service Urgent Drive To Workshop Dash Prompt
 	Purpolsion System Service Urgent Isolation Resistance Low Dash Prompt
@@ -593,7 +593,7 @@ Signal Descriptions:
 	Shift Lever Position Displayed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AWD Prompt Reduced Performance FORWARD Only
+	Awd Prompt Reduced Performance Forward Only
 	Dashboard Illumination Level
 	Date Displayed Day
 	Date Displayed Month
@@ -626,27 +626,27 @@ Signal Descriptions:
 	Engine Prompt Reduced Performance Max Speed Limited
 	Fuel Level Volume
 	Fuel Tank Ready For Refueling
-	HVAC AC Active
-	HVAC Blower Direction
-	HVAC Defroster Front Off
-	HVAC Defroster Front On
-	HVAC Fan Speed
-	HVAC Heated Seat Active
-	HVAC Heated Seat Front Driver Level
-	HVAC Heated Seat Front Passenger Level
-	HVAC Recirculation Off
-	HVAC Recirculation On
-	HVAC Temperature Selected
-	HVAC Temperature Selected Front Driver
-	HVAC Temperature Selected Front Driver High
-	HVAC Temperature Selected Front Driver Low
-	HVAC Temperature Selected Front Passenger
-	HVAC Temperature Selected Front Passenger High
-	HVAC Temperature Selected Front Passenger Low
 	Headlights Off
 	Headlights Parking Lights On
 	Hood Closed
 	Hood Open
+	Hvac Ac Active
+	Hvac Blower Direction
+	Hvac Defroster Front Off
+	Hvac Defroster Front On
+	Hvac Fan Speed
+	Hvac Heated Seat Active
+	Hvac Heated Seat Front Driver Level
+	Hvac Heated Seat Front Passenger Level
+	Hvac Recirculation Off
+	Hvac Recirculation On
+	Hvac Temperature Selected
+	Hvac Temperature Selected Front Driver
+	Hvac Temperature Selected Front Driver High
+	Hvac Temperature Selected Front Driver Low
+	Hvac Temperature Selected Front Passenger
+	Hvac Temperature Selected Front Passenger High
+	Hvac Temperature Selected Front Passenger Low
 	Lights Hazards On
 	Lights Turn Signal Left On
 	Lights Turn Signal Right On
@@ -656,10 +656,10 @@ Signal Descriptions:
 	Lock Control Passenger Unlock Button Pressed
 	Lock Control Rear Right Lock Button Pressed
 	Low Tire Pressure Tell Tale
-	Mirror Passenger XY Change Request
+	Mirror Passenger Xy Change Request
 	Odometer
 	Passenger Window Open Level
-	Propulsion Prompt Harsh Behavior At Low Speed Vehicle OK To Use
+	Propulsion Prompt Harsh Behavior At Low Speed Vehicle Ok To Use
 	Propulsion Prompt Reduced Performance Acceleration Performance Reduced
 	Propulsion Prompt Service Urgent Isolation Resistance Low
 	Propulsion Prompt System Reduced Performance
@@ -682,12 +682,12 @@ Signal Descriptions:
 	Time Displayed Hours
 	Time Displayed Minutes
 	Time Displayed Seconds
-	Time Engine Running Since Start CHECK
-	VIN Characters 1 To 7
-	VIN Characters 15 To 17
-	VIN Characters 8 To 14
-	VIN Index
+	Time Engine Running Since Start Check
 	Vehicle Speed
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
 	Window Front Driver Open Level
 	Window Front Passenger Driver Request
 	Window Rear Left Open Level

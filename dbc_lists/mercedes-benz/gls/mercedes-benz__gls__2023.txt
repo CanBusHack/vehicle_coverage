@@ -1,77 +1,5 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mercedes-Benz 'Gls' (2023)
-Signal Descriptions:
-	AC Active
-	Accelerator Pedal Position
-	Air Pressure Outside
-	Air Temperature Outside
-	Battery Voltage
-	Brake Pressure1
-	Brake Pressure2
-	Brake Switch Active
-	Calculated ICE Engine Load
-	Cruise Set Speed
-	Cruise Stock Down Decel
-	Cruise Stock Pull Resume
-	Cruise Stock Push Cancel
-	Cruise Stock Up Accel
-	Current Fuel Consumption
-	Current Gear
-	Drive Mode
-	Engine Coolant Temperature
-	Engine Off Timer
-	Engine Starting After Auto Start
-	Front Driver Window Closed
-	Front Driver Window Completely Open
-	Front Driver Window Open Length
-	Front Left Wheel Speed
-	Front Passenger Window Closed
-	Front Passenger Window Completely Open
-	Front Passenger Window Open Length
-	Fuel Level
-	Fuel Pressure
-	Fuel Pump Duty Cycle
-	Fuel System MIL Tell Tale Request
-	Hazard Lights Active
-	ICE Engine Speed
-	ICE Engine Torque
-	Ignition Button Pressed
-	Ignition Power Mode
-	Intake Air Temperature
-	Left Rear Wheel Speed
-	Manual Gear Shifting Not Selected
-	Master Brake Pressure
-	Odometer
-	PRNDL
-	Paddle Shifter Down Pressed
-	Paddle Shifter Up Pressed
-	Park Brake Disengage Request
-	Park Brake Disengaged
-	Park Brake Engage Request
-	Park Brake Engaged
-	Park Button Pressed
-	Rear Driver Window Completely Open
-	Rear Driver Window Open Length
-	Rear Driver Window Window Closed
-	Rear Left Wheel Speed
-	Rear Passenger Window Closed
-	Rear Passenger Window Completely Open
-	Rear Passenger Window Open Length
-	Right Rear Wheel Speed
-	Sport Mode Active
-	Steering Wheel Angle
-	Steering Wheel Angle Acceleration
-	Traction Control Active
-	Traction Control Off
-	Trunk Open
-	Vehicle Speed
-	Vehicle Speed Units
-	Vin Part 1
-	Vin Part 2
-	Vin Part 3
-	Wheel Moving In Reverse
-	Wheel Moving In Reverse
-========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Driver Seatbelt Unlatched
 	Front Seatbelt Status Not Changed
@@ -101,7 +29,7 @@ Signal Descriptions:
 	Front Passenger Window Open Length
 	Fuel Pressure
 	Fuel Pump Duty Cycle
-	Fuel System MIL Tell Tale Request
+	Fuel System Mil Tell Tale Request
 	Fuel Tank Level
 	Fuel Temperature
 	Ignition Power Mode
@@ -124,9 +52,9 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Acceleration
 	Up Paddle Shifter Pressed
-	VIN Part 1
 	Vehicle Speed
 	Vehicle Speed Units
+	Vin Part 1
 	Wheel Moving In Reverse
 	Wheel Moving In Reverse
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
@@ -170,14 +98,14 @@ Signal Descriptions:
 	Rear Right Center Bumper Parking Sensor Level
 	Rear Right Quarter Panel Parking Sensor Level
 	Right Front Quarter Panel Parking Sensor Level
-	TPMS Tier Pressure Front Left
-	TPMS Tier Pressure Front Right
-	TPMS Tier Pressure Rear Left
-	TPMS Tier Pressure Rear Right
 	Tel Button Pressed
 	Throttle Pedal Position Percentage
 	Time Since Start In Minutes
 	Time Since Trip Reset In Minutes
+	Tpms Tier Pressure Front Left
+	Tpms Tier Pressure Front Right
+	Tpms Tier Pressure Rear Left
+	Tpms Tier Pressure Rear Right
 	Traction Control Button Pressed
 	Volume Button Pressed
 	Volume Scroll Up Active
@@ -207,7 +135,7 @@ Signal Descriptions:
 	High Beam
 	Hood Closed
 	Hood Open
-	INT Wiper Active
+	Int Wiper Active
 	Left Turn Signal Active
 	Low Beams Active
 	Parking Light Left Switch Position Active
@@ -215,7 +143,7 @@ Signal Descriptions:
 	Parking Lights Switch Position Active
 	Passenger Reading Light Active
 	Passenger Seat Buckled
-	Rear INT Wiper Active
+	Rear Int Wiper Active
 	Rear Reading Lights Active
 	Rear Wiper In Motion
 	Rear Wiper On
@@ -242,7 +170,7 @@ Signal Descriptions:
 	Wipers In Motion
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Active
+	Ac Active
 	Acoustic Lock Setting Active
 	Back Button Button Pressed
 	Back Button Touch Active
@@ -250,7 +178,7 @@ Signal Descriptions:
 	Brake Switch Pressed
 	Center Touch Pad Active
 	Center Touch Pad Button Pressed
-	Climate SYNC Active
+	Climate Sync Active
 	Driver Door Lock Button Pressed
 	Driver Door State Change
 	Driver Door Unlock Button Pressed
@@ -289,13 +217,13 @@ Signal Descriptions:
 	Forward Back Play Touch Active
 	Front Driver Door Open
 	Front Passenger Door Open
-	HVAC Blower Position Driver Side
-	HVAC Blower Position Passenger Side
-	HVAC Max Active
 	Hazard Lights Active
 	Hazards Active
 	Home Button Button Pressed
 	Home Button Touch Active
+	Hvac Blower Position Driver Side
+	Hvac Blower Position Passenger Side
+	Hvac Max Active
 	Infotainment System Active
 	Infotainment System Inactive
 	Infotainment User Engagement In Progress
@@ -350,3 +278,75 @@ Signal Descriptions:
 	Trunk Close Request
 	Trunk Open Request
 	Windows Child Lock Not Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Active
+	Accelerator Pedal Position
+	Air Pressure Outside
+	Air Temperature Outside
+	Battery Voltage
+	Brake Pressure1
+	Brake Pressure2
+	Brake Switch Active
+	Calculated Ice Engine Load
+	Cruise Set Speed
+	Cruise Stock Down Decel
+	Cruise Stock Pull Resume
+	Cruise Stock Push Cancel
+	Cruise Stock Up Accel
+	Current Fuel Consumption
+	Current Gear
+	Drive Mode
+	Engine Coolant Temperature
+	Engine Off Timer
+	Engine Starting After Auto Start
+	Front Driver Window Closed
+	Front Driver Window Completely Open
+	Front Driver Window Open Length
+	Front Left Wheel Speed
+	Front Passenger Window Closed
+	Front Passenger Window Completely Open
+	Front Passenger Window Open Length
+	Fuel Level
+	Fuel Pressure
+	Fuel Pump Duty Cycle
+	Fuel System Mil Tell Tale Request
+	Hazard Lights Active
+	Ice Engine Speed
+	Ice Engine Torque
+	Ignition Button Pressed
+	Ignition Power Mode
+	Intake Air Temperature
+	Left Rear Wheel Speed
+	Manual Gear Shifting Not Selected
+	Master Brake Pressure
+	Odometer
+	Paddle Shifter Down Pressed
+	Paddle Shifter Up Pressed
+	Park Brake Disengage Request
+	Park Brake Disengaged
+	Park Brake Engage Request
+	Park Brake Engaged
+	Park Button Pressed
+	Prndl
+	Rear Driver Window Completely Open
+	Rear Driver Window Open Length
+	Rear Driver Window Window Closed
+	Rear Left Wheel Speed
+	Rear Passenger Window Closed
+	Rear Passenger Window Completely Open
+	Rear Passenger Window Open Length
+	Right Rear Wheel Speed
+	Sport Mode Active
+	Steering Wheel Angle
+	Steering Wheel Angle Acceleration
+	Traction Control Active
+	Traction Control Off
+	Trunk Open
+	Vehicle Speed
+	Vehicle Speed Units
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
+	Wheel Moving In Reverse
+	Wheel Moving In Reverse

@@ -1,22 +1,22 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Mirage' (2021)
 Signal Descriptions:
-	ADAS Cruise Control Active
-	ADAS Cruise Control Speed Set
-	APS Main Voltage
-	APS Relative
-	APS Sub Voltage
 	Actual Gear
+	Adas Cruise Control Active
+	Adas Cruise Control Speed Set
 	Alternator Use Rate Target
 	Ambient Temperature Displayed
 	Ambient Temperature Exterior
 	Ambient Temperature Sensor
+	Aps Main Voltage
+	Aps Relative
+	Aps Sub Voltage
 	Auto High Beams On
 	Auto Stop And Go System Fault
 	Auto Stop And Go System Last Duration Active
 	Brake Fluid Sensor Error
-	CVT Pulley Ratio
 	Coolant Temperature
+	Cvt Pulley Ratio
 	Dash Prompt Padlock Flashing
 	Dash Prompt Padlock On
 	Dash Shift Indicator Down
@@ -29,19 +29,14 @@ Signal Descriptions:
 	Dashboard Chime Style 4
 	Dashboard Chime Style 5
 	Dashboard Dimmed
-	Dashboard ECO Rate Indication
-	Dashboard Prompt ETACS On
+	Dashboard Eco Rate Indication
+	Dashboard Prompt Etacs On
 	Door Any Open
 	Door Front Left Locked
 	Door Front Left Open
 	Door Front Left Unlocked
 	Door Hood Open
-	ECO Button Pressed
-	ESP ABS Active
-	ESP ABS Disconnected
-	ESP Disabled
-	ESP Traction Control Active
-	ESS Test Mode
+	Eco Button Pressed
 	Engine Cranking
 	Engine Running
 	Engine Speed
@@ -49,9 +44,14 @@ Signal Descriptions:
 	Engine Torque Net
 	Engine Torque Reference
 	Engine Torque Requested
+	Esp Abs Active
+	Esp Abs Disconnected
+	Esp Disabled
+	Esp Traction Control Active
+	Ess Test Mode
 	Forward Collision Warning Distance
-	Fuel Consumption AVG Trip A
-	Fuel Consumption AVG Trip B
+	Fuel Consumption Avg Trip A
+	Fuel Consumption Avg Trip B
 	Fuel Consumption Instant
 	Fuel Gauge Resistance
 	Fuel Level
@@ -59,17 +59,17 @@ Signal Descriptions:
 	Fuel Range
 	G Sensor Lateral
 	G Sensor Longitudinal
-	GR ST
-	HVAC A C Active
-	HVAC A C Compressor Active
-	HVAC A C Relay Active
-	HVAC A C Thermo Sensor Temperature
-	HVAC Confirmation Sound X1
-	HVAC Confirmation Sound X2
-	HVAC Radiator Fan Speed Low
-	HVAC Rear Deicer Switch Pressed
-	HVAC Refrigerant Pressure
-	HVAC Refrigerant Valve Disconnected
+	Gr St
+	Hvac A C Active
+	Hvac A C Compressor Active
+	Hvac A C Relay Active
+	Hvac A C Thermo Sensor Temperature
+	Hvac Confirmation Sound X1
+	Hvac Confirmation Sound X2
+	Hvac Radiator Fan Speed Low
+	Hvac Rear Deicer Switch Pressed
+	Hvac Refrigerant Pressure
+	Hvac Refrigerant Valve Disconnected
 	Index Byte
 	Instrument Panel Backlight Level
 	Intake Air Temperature
@@ -86,7 +86,6 @@ Signal Descriptions:
 	Master Cylinder Pressure
 	Odometer
 	Oil Change Automatic Indicator
-	PRNDL
 	Parking Brake Switch On
 	Passenger Occupied
 	Passenger Seat Belt Unbuckled
@@ -99,6 +98,7 @@ Signal Descriptions:
 	Power Steering Motor Current 1
 	Power Steering Motor Current 2
 	Power Steering Torque Sensor Voltage
+	Prndl
 	Radio Relay Closed
 	Revers Lights Active
 	Seatbelt Front Left Fault
@@ -107,18 +107,14 @@ Signal Descriptions:
 	Settings Language
 	Settings Unit Instrument Cluster
 	Settings Unit Temperature
-	Speed AVG Trip A
-	Speed AVG Trip B
+	Speed Avg Trip A
+	Speed Avg Trip B
 	Starter Motor Running
 	Steering Angle Sensor Calibrating
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	TPMS Tell Tale Active
-	TPS Main Voltage
-	TPS Relative
-	TPS Sub Voltage
 	Target Gear
-	Tell Tale ABS
+	Tell Tale Abs
 	Tell Tale Airbag
 	Tell Tale Auto Stop And Go System Active
 	Tell Tale Auto Stop And Go System Off
@@ -141,11 +137,15 @@ Signal Descriptions:
 	Tell Tale Traction Control Off
 	Tell Tale Transmission Temperature
 	Tire Circumference
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
+	Tpms Tell Tale Active
+	Tps Main Voltage
+	Tps Relative
+	Tps Sub Voltage
 	Vehicle On
 	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

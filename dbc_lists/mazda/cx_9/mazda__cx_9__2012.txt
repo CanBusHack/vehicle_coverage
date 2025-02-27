@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mazda 'Cx 9' (2012)
 Signal Descriptions:
 	Car In Reverse
@@ -11,13 +11,13 @@ Signal Descriptions:
 	Clock Minute Button
 	Clock Second Button
 	Current Displayed Fuel Consumption
-	HVAC Compressor Active
 	Head Lights Set To On
+	Hvac Compressor Active
 	Info Button Pressed
 	Info Button Pressed
-	LCD Display Test
-	LCD Trip Info Reset
-	LCD Units Displayed In Miles
+	Lcd Display Test
+	Lcd Trip Info Reset
+	Lcd Units Displayed In Miles
 	Left Blind Spot Active
 	Left Indicator Active
 	Outdoor Temperature
@@ -29,17 +29,17 @@ Signal Descriptions:
 	Vehicle Speed
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Blinking Tell Tale Active
-	ABS Event Alert Active
-	ABS Fail 01 Alert Active
-	ABS Tell Tale Active
-	AT Tell Tale Active
+	Abs Blinking Tell Tale Active
+	Abs Event Alert Active
+	Abs Fail 01 Alert Active
+	Abs Tell Tale Active
 	Accelerator Not Pedal Pressed 1
 	Accelerator Not Pedal Pressed 2
 	Accelerator Pedal Position
 	Accelerator Pedal Position Sensor 1
 	Accelerator Pedal Position Sensor 2 Voltage
 	Airbag Tell Tale Active
+	At Tell Tale Active
 	Auto Hold System Temporarily Unavailable Dash Prompt Active
 	Battery Tell Tale Active
 	Battery Voltage
@@ -85,21 +85,21 @@ Signal Descriptions:
 	Lights Auto
 	Lights Low Beams
 	Longitudinal Acceleration
-	MIL Light Active
-	MIL Light Active
 	Manual Active
+	Mil Light Active
+	Mil Light Active
 	Oil Level Tell Tale Active
 	Oil Tell Tale Active
 	Oil Tell Tale Active
 	Outdoor Temperature
 	Outside Temperature
-	PRNDL
 	Parking Brake Active
 	Parking Brake Active
 	Parking Brake Not Active
 	Parking Brake Now Activated Press Accelerator Pedal To Release Dash Prompt Active
 	Passenger Door Open
 	Passenger Seatbelt Buckled
+	Prndl
 	Raw Fuel Level Sensor
 	Rear Door Open Tell Tale Active 2 Either Door Activates
 	Rear Door Open Tell Tale Active Either Door Activates
@@ -127,9 +127,9 @@ Signal Descriptions:
 	Transmission Temperature
 	Trunk Locked
 	Trunk Open
-	VIN Part 1
-	Wheel Speed FL
-	Wheel Speed FR
-	Wheel Speed RL
-	Wheel Speed RR
+	Vin Part 1
+	Wheel Speed Fl
+	Wheel Speed Fr
+	Wheel Speed Rl
+	Wheel Speed Rr
 	Yaw Rate

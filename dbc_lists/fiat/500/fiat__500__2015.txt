@@ -1,13 +1,13 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Fiat '500' (2015)
 Signal Descriptions:
-	ABS Tell Tale Active
-	ADAS Cruise Control Set Tell Tale Active
-	ADAS Cruise Control Tell Tale Active
+	Abs Tell Tale Active
 	Accessory Delay Active
 	Accessory Delay Smart Active
 	Active Token Received X40A
 	Active Token Received X40B
+	Adas Cruise Control Set Tell Tale Active
+	Adas Cruise Control Tell Tale Active
 	Airbag Lamp Active
 	Airbag Passenger Disabled Lamp Active
 	All Wheel Drive Differential Lock Front Tell Tale Active
@@ -20,34 +20,34 @@ Signal Descriptions:
 	Ambient Air Temperature Average
 	Anti Theft Tell Tale Blinking
 	Anti Theft Tell Tale On
-	Audio Player AMP Muted
-	Audio Player AMP Not Muted
-	Audio Player AMP Voltage
+	Audio Player Amp Muted
+	Audio Player Amp Not Muted
+	Audio Player Amp Voltage
 	Audio Player Bass Setting
-	Audio Player CD Eject
-	Audio Player CD In Player
+	Audio Player Cd Eject
+	Audio Player Cd In Player
 	Audio Player Fade Balance Front Rear
 	Audio Player Fade Balance Right Left
 	Audio Player Mids Setting
 	Audio Player Radio On
 	Audio Player Radio Preset Number
-	Audio Player Radio SAT Text Displayed Characters 1 To 7
-	Audio Player Radio SAT Text Displayed Characters 8 To 14
-	Audio Player Radio SAT Text Displayed Index
+	Audio Player Radio Sat Text Displayed Characters 1 To 7
+	Audio Player Radio Sat Text Displayed Characters 8 To 14
+	Audio Player Radio Sat Text Displayed Index
 	Audio Player Radio Scanning Stations
 	Audio Player Radio Station Or Track Number
 	Audio Player Source
-	Audio Player TV 1 Preset Number
-	Audio Player TV 1 Radio Station
-	Audio Player TV 1 Source
-	Audio Player TV 2 Preset Number
-	Audio Player TV 2 Radio Station
-	Audio Player TV 2 Source
 	Audio Player Track Progress Hours
 	Audio Player Track Progress Minutes
 	Audio Player Track Progress Seconds
 	Audio Player Treble Setting
-	Audio Player USB Input Status
+	Audio Player Tv 1 Preset Number
+	Audio Player Tv 1 Radio Station
+	Audio Player Tv 1 Source
+	Audio Player Tv 2 Preset Number
+	Audio Player Tv 2 Radio Station
+	Audio Player Tv 2 Source
+	Audio Player Usb Input Status
 	Audio Player Volume
 	Auto Unlock On Exit
 	Battery Tell Tale Active
@@ -69,7 +69,7 @@ Signal Descriptions:
 	Device Paired Prompt Cancel Active
 	Device Paired Prompt No Phone Available Active
 	Device Paired Prompt To Mute And End Call Now Active
-	Device Paired ROAM Indication Active
+	Device Paired Roam Indication Active
 	Device Paired Signal Detected
 	Device Paired Signal Strength
 	Device Paired Voice Assistant Status
@@ -103,7 +103,6 @@ Signal Descriptions:
 	Doors Sliding Flashers On
 	Drive Configuration Left Hand
 	Drive Configuration Right Hand
-	ESC Off Tell Tale Active
 	Electronic Throttle Control Active
 	Electronic Throttle Control Fault Tell Tale Status
 	Engine Coolant Prompt Temperature Low
@@ -112,15 +111,10 @@ Signal Descriptions:
 	Engine Oil Low Tell Tale Flashing
 	Engine Oil Prompt Oil Temperature High Speed May Be Limited Active
 	Engine Speed
+	Esc Off Tell Tale Active
 	Flash Lamp With Lock
 	Fuse Ignition Off Draw Active
 	Glow Plug Warning Tell Tale Active
-	HVAC AC Active
-	HVAC AC Status Light Active
-	HVAC Blower Position Floor
-	HVAC Blower Position Mixed
-	HVAC Blower Position Panel
-	HVAC Defroster Front Active
 	Headlamp Off Delay
 	Headlamp With Wipers
 	Headlight Switch Status
@@ -130,9 +124,15 @@ Signal Descriptions:
 	Headlights Low Beam On
 	Headlights On
 	Hill Descent Control Button Pressed
-	Hill Descent ON Below 20 MPH
+	Hill Descent On Below 20 Mph
 	Hill Start Assist Active
 	Horn Active
+	Hvac Ac Active
+	Hvac Ac Status Light Active
+	Hvac Blower Position Floor
+	Hvac Blower Position Mixed
+	Hvac Blower Position Panel
+	Hvac Defroster Front Active
 	Infotainment Display Brightness Level
 	Infotainment Display On
 	Key Fob Active
@@ -160,7 +160,7 @@ Signal Descriptions:
 	Lights Indicator Right Tell Tale Active
 	Lock All Doors Command
 	Lock Driver Door Button Engaged
-	MIL Tell Tale Active
+	Mil Tell Tale Active
 	Navigation Directions Displayed On Dashboard
 	Navigation Directions Distance To Next Turn
 	Navigation Directions Distance Unit In Km
@@ -168,20 +168,19 @@ Signal Descriptions:
 	Navigation Directions Text Displayed Index
 	Navigation Maps Active
 	Night Mode Active
-	Node ID X40A
-	Node ID X40B
+	Node Id X40A
+	Node Id X40B
 	Odometer
-	PRNDL Position
 	Panic Mode Active
 	Parking Brake Engaged
 	Passenger Window Button Engaged
 	Pedal Brake Pressed
 	Pedal Brake Pressed Status
 	Power Mode
-	RKE Complex Function Request
+	Prndl Position
 	Remote Unlock Active
 	Right Rear Window Button Engaged
-	SKREEM Chime Request
+	Rke Complex Function Request
 	Seat Front Driver Heater High
 	Seat Front Driver Heater Low
 	Seat Front Passenger Heater High
@@ -191,6 +190,7 @@ Signal Descriptions:
 	Seatbelt Front Passenger Unfastened
 	Seatbelt General Tell Tale Suppress
 	Shift Autostick Manual Active
+	Skreem Chime Request
 	Sliding Door Window Button
 	Sound Horn With Lock
 	Start Remote Present
@@ -202,27 +202,27 @@ Signal Descriptions:
 	Steering Wheel Panel Right Button Center Pressed
 	Steering Wheel Panel Right Button Down Pressed
 	Steering Wheel Panel Right Button Up Pressed
-	TPM 1 Battery Low
-	TPM 2 Battery Low
-	TPM 3 Battery Low
-	TPM Horn Chirp
-	TPM Low Tire Pressure Tell Tale
-	TPM System Localization
-	TPM Tire 1 Location
-	TPM Tire 1 Pressure
-	TPM Tire 1 Pressure Status High
-	TPM Tire 1 Pressure Status Low
-	TPM Tire 2 Location
-	TPM Tire 2 Pressure
-	TPM Tire 2 Pressure Status High
-	TPM Tire 2 Pressure Status Low
-	TPM Tire 3 Location
-	TPM Tire 3 Pressure
-	TPM Tire 3 Pressure Status High
-	TPM Tire 3 Pressure Status Low
 	Time Current Minutes
 	Time Current Seconds
 	Time Format Set 24 Hour
+	Tpm 1 Battery Low
+	Tpm 2 Battery Low
+	Tpm 3 Battery Low
+	Tpm Horn Chirp
+	Tpm Low Tire Pressure Tell Tale
+	Tpm System Localization
+	Tpm Tire 1 Location
+	Tpm Tire 1 Pressure
+	Tpm Tire 1 Pressure Status High
+	Tpm Tire 1 Pressure Status Low
+	Tpm Tire 2 Location
+	Tpm Tire 2 Pressure
+	Tpm Tire 2 Pressure Status High
+	Tpm Tire 2 Pressure Status Low
+	Tpm Tire 3 Location
+	Tpm Tire 3 Pressure
+	Tpm Tire 3 Pressure Status High
+	Tpm Tire 3 Pressure Status Low
 	Traction Control Button Pressed
 	Traction Control Fault
 	Traction Control Suppressed
@@ -231,7 +231,7 @@ Signal Descriptions:
 	Transmission Type Manual
 	Units Format Selected
 	Unlock All Doors Command
-	Valid Key SKIM
+	Valid Key Skim
 	Voice Recorder Text Displayed Characters 1 To 7
 	Voice Recorder Text Displayed Characters 8 To 14
 	Voice Recorder Text Displayed Index
@@ -245,12 +245,12 @@ Signal Descriptions:
 	Wiper Washer Tell Tale Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Cruise Control Set Tell Tale Active
-	ADAS Cruise Control Tell Tale Active
+	Adas Cruise Control Set Tell Tale Active
+	Adas Cruise Control Tell Tale Active
 	Airbag Tell Tale Status
-	All Wheel Drive 4WD Tell Tale Active
+	All Wheel Drive 4Wd Tell Tale Active
 	All Wheel Drive State
-	Allow ESP Torque Request Set
+	Allow Esp Torque Request Set
 	Anti Theft Tell Tale Active
 	Anti Theft Tell Tale Fast Blinking
 	Autostick Manual Mode Active
@@ -272,12 +272,6 @@ Signal Descriptions:
 	Door Rear Right Ajar
 	Door Trunk Ajar
 	Drive Configuration
-	ESP ABS Chime Active
-	ESP ABS Tell Tale Active
-	ESP Feature Completely Disabled
-	ESP Traction Control Off Tell Tale Active
-	ESP Traction Control Tell Tale Active
-	ESP Traction Control Tell Tale And Chime Active
 	Eco Mode Status
 	Engine Coolant Temperature
 	Engine Displacement
@@ -287,76 +281,64 @@ Signal Descriptions:
 	Engine Overheat Fan Low
 	Engine Overheat Fan Speed High
 	Engine Speed
+	Esp Abs Chime Active
+	Esp Abs Tell Tale Active
+	Esp Feature Completely Disabled
+	Esp Traction Control Off Tell Tale Active
+	Esp Traction Control Tell Tale Active
+	Esp Traction Control Tell Tale And Chime Active
 	Fuel Level
 	Fuel Type
 	Gear Current
 	Gear Displayed
 	Glow Plug Tell Tale On
-	HVAC AC Active
-	HVAC AC Clutch Active
 	Headlights Flash To Pass Active
 	Headlights High Beam Active
 	Headlights Low Beam Active
 	Hill Descent Button Pressed
-	Hill Descent ON Below 20 MPH
+	Hill Descent On Below 20 Mph
+	Hvac Ac Active
+	Hvac Ac Clutch Active
 	Idle Speed Target
 	Ignition Off
-	Ignition Off Active For CAN C
+	Ignition Off Active For Can C
 	Immobilizer Active
-	Immobilizer Valid Key SKIM
+	Immobilizer Valid Key Skim
 	Key All Door Lock
 	Key Fob Active
 	Key Ignition Position
 	Key In
-	MIL Tell Tale Blinking
+	Mil Tell Tale Blinking
 	Night Mode Active
 	Occupancy Passenger Detected
 	Odometer
-	PRNDL Illumination Active
-	PRNDL Position
-	PRNDL Position Park Or Neutral
-	PRNDL Status
-	PTC Relay 1 Status Active
-	PTC Relay 2 Status Active
-	PTC Relay 3 Status Active
 	Panic Mode Active
 	Parking Brake Applied
 	Pedal Accelerator Pressed
 	Power Mode
 	Power Mode Run Position
 	Power Mode Run Start Position
-	RKE Complex Function Request
+	Prndl Illumination Active
+	Prndl Position
+	Prndl Position Park Or Neutral
+	Prndl Status
+	Ptc Relay 1 Status Active
+	Ptc Relay 2 Status Active
+	Ptc Relay 3 Status Active
 	Radiator Fan 1 Duty Cycle
 	Radiator Fan 2 Duty Cycle
 	Request Oil Level Oil Pressure I
 	Request Tachometer To Freeze On
-	SAS Initialization Not Complete
-	SKREEM Chime Request
-	SRS Indicator Lamp Request
+	Rke Complex Function Request
+	Sas Initialization Not Complete
 	Seat Front Passenger Occupant Classification
 	Seatbelt Driver Engaged
 	Seatbelt Passenger Disengaged
+	Skreem Chime Request
+	Srs Indicator Lamp Request
 	Start Stop Feature Present
 	Starter Motor Running
 	System Voltage
-	TPM 1 Battery Low
-	TPM 2 Battery Low
-	TPM 3 Battery Low
-	TPM Horn Chirp Active
-	TPM Low Pressure Tell Tale Active
-	TPM System Localization
-	TPM Tire 1 Location
-	TPM Tire 1 Pressure
-	TPM Tire 1 Pressure Status High
-	TPM Tire 1 Pressure Status Low
-	TPM Tire 2 Location
-	TPM Tire 2 Pressure
-	TPM Tire 2 Pressure Status High
-	TPM Tire 2 Pressure Status Low
-	TPM Tire 3 Location
-	TPM Tire 3 Pressure
-	TPM Tire 3 Pressure Status High
-	TPM Tire 3 Pressure Status Low
 	Throttle Control Tell Tale Active
 	Throttle Position
 	Throttle Position Logical
@@ -367,16 +349,34 @@ Signal Descriptions:
 	Time Vehicle Set
 	Time Vehicle Set Hours
 	Time Vehicle Set Minutes
+	Tpm 1 Battery Low
+	Tpm 2 Battery Low
+	Tpm 3 Battery Low
+	Tpm Horn Chirp Active
+	Tpm Low Pressure Tell Tale Active
+	Tpm System Localization
+	Tpm Tire 1 Location
+	Tpm Tire 1 Pressure
+	Tpm Tire 1 Pressure Status High
+	Tpm Tire 1 Pressure Status Low
+	Tpm Tire 2 Location
+	Tpm Tire 2 Pressure
+	Tpm Tire 2 Pressure Status High
+	Tpm Tire 2 Pressure Status Low
+	Tpm Tire 3 Location
+	Tpm Tire 3 Pressure
+	Tpm Tire 3 Pressure Status High
+	Tpm Tire 3 Pressure Status Low
 	Traction Control Button Pressed
 	Transmission Protection Ack From
 	Transmission Temperature Overheat
 	Transmission Temperature Tell Tale And Chime Active
 	Units Metric Active
-	VIN Characters 1 To 7
-	VIN Characters 15 To 17
-	VIN Characters 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
 	Water In Fuel Tell Tale On
 	Wheel Speed Front Left
 	Wheel Speed Front Right
@@ -387,23 +387,22 @@ Signal Descriptions:
 	Wiper Front Speed Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Control Unit Active
-	ABS Tell Tale On
-	ABS Tell Tale On
-	ADAS Adaptive Cruise Control Follow Distance Level
-	ADAS Adaptive Cruise Control Follow Distance Level Verification
-	ADAS Cruise Control Active
-	ADAS Park Aid Rear Left Detection Not Active
-	ADAS Park Aid Rear Left Object Detected
-	ADAS Park Aid Rear Right Detection Not Active
-	ADAS Park Aid Rear Right Object Detected
-	ADAS Speed Limiter Active
-	ADAS Speed Set
-	ADAS Switch ON OFF Pressed
-	ADAS Switch Speed Down Pressed
-	ADAS Switch Speed Up Pressed
-	ASR System Deactivated
+	Abs Control Unit Active
+	Abs Tell Tale On
+	Abs Tell Tale On
 	Accessory Switch Active
+	Adas Adaptive Cruise Control Follow Distance Level
+	Adas Adaptive Cruise Control Follow Distance Level Verification
+	Adas Cruise Control Active
+	Adas Park Aid Rear Left Detection Not Active
+	Adas Park Aid Rear Left Object Detected
+	Adas Park Aid Rear Right Detection Not Active
+	Adas Park Aid Rear Right Object Detected
+	Adas Speed Limiter Active
+	Adas Speed Set
+	Adas Switch On Off Pressed
+	Adas Switch Speed Down Pressed
+	Adas Switch Speed Up Pressed
 	Airbag Control Unit Active
 	Airbag Driver Deactivated Tell Tale Flashing
 	Airbag Driver Deactivated Tell Tale On
@@ -411,6 +410,7 @@ Signal Descriptions:
 	Airbag Passenger Deactivated Tell Tale On
 	Airbag Passenger Exclusion Tell Tale On
 	Airbag Passenger Setting Changing
+	Asr System Deactivated
 	Auto Tell Tale Active
 	Battery Low Charge Tell Tale On
 	Battery Voltage
@@ -421,7 +421,7 @@ Signal Descriptions:
 	Dash Prompt Manual Method Unavailable Active
 	Dash Prompt Press Clutch Fully
 	Dashboard Back Lighting Active
-	Dashboard FPS On Indication On
+	Dashboard Fps On Indication On
 	Dashboard Fuel Level Indication
 	Date Current Day
 	Date Current Month
@@ -430,10 +430,7 @@ Signal Descriptions:
 	Door Front Driver Open
 	Door Front Passenger Open
 	Door Trunk Open
-	ECO Tell Tale Active
-	EPS Active
-	EPS Deactivated
-	EPS Fault
+	Eco Tell Tale Active
 	Emergency Braking System Lamp On
 	Engine Control Module Active
 	Engine Coolant High Temperature Warning Light On
@@ -444,6 +441,9 @@ Signal Descriptions:
 	Engine Oil Low Pressure Tell Tale On
 	Engine Speed Displayed
 	Engine Stalling
+	Eps Active
+	Eps Deactivated
+	Eps Fault
 	Fuel Consumption Instantaneous Last Registered
 	Fuel Level Indication
 	Fuel Level Low Chime On
@@ -454,14 +454,14 @@ Signal Descriptions:
 	Gear Displayed Flashing
 	Gear Reverse Engaged
 	Glow Plug Tell Tale On
-	HVAC AC Status
-	HVAC Defroster Rear On
-	HVAC Defroster Rear Tell Tale On
 	Headlight Sensitivity Level
 	Headlights High Beam Tell Tale On
 	Headlights Low Beam Regulation Displayed
 	Headlights Sidelights Tell Tale On
 	Hill Assist System Unavailable
+	Hvac Ac Status
+	Hvac Defroster Rear On
+	Hvac Defroster Rear Tell Tale On
 	Ignition Switch Active
 	Instrument Panel Active
 	Key Fob Lock Button Hold Released
@@ -473,7 +473,7 @@ Signal Descriptions:
 	Key Fob Unlock Button Hold Released
 	Key Fob Unlock Button Holding
 	Key Fob Unlock Button Pressed
-	Key In Position STOP
+	Key In Position Stop
 	Key Position
 	Lights Fog Front Tell Tale On
 	Lights Fog Rear Tell Tale On
@@ -510,10 +510,10 @@ Signal Descriptions:
 	Steering Wheel Button Pickup Call Pressed
 	Steering Wheel Button Volume Down Pressed
 	Steering Wheel Button Volume Up Pressed
-	TPMS Configuration Reset
 	Time Current Hours
 	Time Current Minutes
 	Time Format 12H
+	Tpms Configuration Reset
 	Traction Control Tell Tale Flashing
 	Trip A Duration Hours
 	Trip A Duration Minutes
@@ -537,8 +537,8 @@ Signal Descriptions:
 	Wiper Front Automatic Rain Sensitivity Level
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS In Action
-	ASR Deactivated
+	Abs In Action
+	Asr Deactivated
 	Auto Tell Tale Active
 	Brake Pressure
 	City Mode Active
@@ -552,11 +552,11 @@ Signal Descriptions:
 	Dash Warning Chime
 	Dashboard Coolant Temperature Fault Active
 	Dashboard Coolant Temperature Warning Light On
-	Dashboard Display FPS On Indication
+	Dashboard Display Fps On Indication
 	Dashboard Fuel Range Not Displayed
 	Dashboard Generic Failure Indication On
 	Dashboard Prompt Change Engine Oil
-	Dashboard Tell Tale ABS Fault On
+	Dashboard Tell Tale Abs Fault On
 	Dashboard Tell Tale Electric Power Steering Fault On
 	Dashboard Tell Tale Engine Oil Low Level On
 	Dashboard Tell Tale Engine Oil Low Pressure On
@@ -573,28 +573,28 @@ Signal Descriptions:
 	Door Front Passenger Open
 	Doors Closed When Ignition On
 	Driving Mode Automatic
-	ECO Tell Tale Active
-	EPS System Deactivated
+	Eco Tell Tale Active
 	Emergency Braking System Safety Lamp On
 	Engine Load
 	Engine Speed
 	Engine Speed Displayed
 	Engine Speed Nominal Target
 	Engine Stalling
+	Eps System Deactivated
 	Fuel Injection Timing
 	Fuel Level
 	Gear Reverse Engaged
 	Gear Shifting
-	HVAC AC Compressor Active
-	HVAC AC Status
+	Hvac Ac Compressor Active
+	Hvac Ac Status
 	Longitudinal Acceleration
-	PRNDL Position
 	Parking Brake Engaged
 	Pedal Accelerator Position
 	Pedal Accelerator Range
 	Pedal Accelerator Released When Gear Engaged
 	Pedal Clutch And Accelerator Status
 	Power Mode Engine Running
+	Prndl Position
 	Rear Defrost Active
 	Seatbelt Driver Buckled
 	Shift Down Indication Active
@@ -603,9 +603,9 @@ Signal Descriptions:
 	Start Stop System Operating
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	TPMS Configuration Reset
 	Time Current Hours
 	Time Current Minutes
+	Tpms Configuration Reset
 	Traction Control Tell Tale Blinking
 	Vehicle In Motion
 	Vehicle Speed

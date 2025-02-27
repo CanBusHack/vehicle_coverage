@@ -1,13 +1,8 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Toyota 'Sienna' (2022)
 Signal Descriptions:
-	ABS Warning Tell Tale
-	AC Active
-	AWD Power Delivery Active State
-	AWD Power Delivery Front Left Current Value Max Value 5
-	AWD Power Delivery Front Right Current Value Max Value 5
-	AWD Power Delivery Rear Left Current Value Max Value 5
-	AWD Power Delivery Rear Right Current Value Max Value 5
+	Abs Warning Tell Tale
+	Ac Active
 	Accelerator Pedal Position
 	Actual Engine Torque
 	Adaptive Cruise Control Following
@@ -20,14 +15,19 @@ Signal Descriptions:
 	Auto High Beams Active
 	Auto Lights
 	Average Vehicle Speed
-	BSM Brightness Setting Change
-	BSM Sensitivity Setting Change
+	Awd Power Delivery Active State
+	Awd Power Delivery Front Left Current Value Max Value 5
+	Awd Power Delivery Front Right Current Value Max Value 5
+	Awd Power Delivery Rear Left Current Value Max Value 5
+	Awd Power Delivery Rear Right Current Value Max Value 5
 	Brake Message 1
 	Brake Message 2
 	Brake Pedal Pressed
 	Brake Reaction Force Pressure
 	Brake System Warning Active
 	Brake Warning Tell Tale Active
+	Bsm Brightness Setting Change
+	Bsm Sensitivity Setting Change
 	Cabin Fan Speed
 	Car Not On
 	Car On
@@ -37,7 +37,6 @@ Signal Descriptions:
 	Cruise Set Speed
 	Current Key Cycle Elapsed Time
 	D Pad Left Side Of Steering Wheel Any Button Being Pressed
-	DRCC RSA Option Change Active
 	Dash Alert Sound
 	Day
 	Day Time Running Lights Active
@@ -50,6 +49,7 @@ Signal Descriptions:
 	Double Beep 1
 	Double Beep 2
 	Downhill Assist Control Warning Level
+	Drcc Rsa Option Change Active
 	Drive Mode Eco Mode Selected
 	Drive Mode Sport Mode Selected
 	Driver Door Lock State Unlocked
@@ -59,11 +59,11 @@ Signal Descriptions:
 	Driver Side Sun Sensor
 	Driver Window Position Changing Active
 	Driver Window State
-	EPS Tell Tale
 	Electric Load Signal 3 Active
 	Engine Coolant Temperature
 	Engine Fuel Rate
 	Engine Speed
+	Eps Tell Tale
 	Error Adjusting Front Radar Beam
 	Flash To Pass
 	Flat Tire Notification Left Front Active
@@ -98,17 +98,11 @@ Signal Descriptions:
 	Key Fob Warning Prompts
 	Key In Cylinder
 	Kilometers Display Units
-	LDA Amber Indicator 1
-	LDA Amber Indicator 2
-	LDA Steering Assist Active
-	LDA Steering Assist Unavailable
-	LDW Sensitivity High
-	LDW Sensitivity Low
 	Lane Departure Alert Hold Steer 1
 	Lane Departure Alert Hold Steer 2
 	Lane Departure Alert Malfunction
-	Lane Departure Alert Turned ON 1
-	Lane Departure Alert Turned ON 2
+	Lane Departure Alert Turned On 1
+	Lane Departure Alert Turned On 2
 	Lane Departure Alert Unavailable 1
 	Lane Departure Alert Unavailable 2
 	Lane Departure Alert Unavailable 3
@@ -116,6 +110,12 @@ Signal Descriptions:
 	Latitude Hour
 	Latitude Minute
 	Latitude Second
+	Lda Amber Indicator 1
+	Lda Amber Indicator 2
+	Lda Steering Assist Active
+	Lda Steering Assist Unavailable
+	Ldw Sensitivity High
+	Ldw Sensitivity Low
 	Left Blind Spot Monitor
 	Left Blinker Not Active
 	Left Sliding Door Close Button Pressed
@@ -131,17 +131,16 @@ Signal Descriptions:
 	Low Beams
 	Low Beams Active
 	Low Fuel Level Warning Light
-	MIL On
 	Main Sun Sensor
 	Menu Theme Color
+	Mil On
 	Miles Display Units
 	Minute
 	Month
-	OK Button Steering Wheel Short Press
 	Odometer
 	Ok Button Steering Wheel Long Press
+	Ok Button Steering Wheel Short Press
 	Outside Temperature
-	PRNDL
 	Panic Alarm Active
 	Park Brake
 	Parking Brake Activating
@@ -158,7 +157,7 @@ Signal Descriptions:
 	Please Take A Break Message
 	Power Management System Display State
 	Power Mode
-	Power Mode ACC Active
+	Power Mode Acc Active
 	Power Mode Ign Active
 	Power Steering Alert Long Beep
 	Power Steering Alert Long Dinging
@@ -167,16 +166,16 @@ Signal Descriptions:
 	Pre Collision System Indicator
 	Pre Collision System Indicator B
 	Pre Collision System Malfunction
-	Pre Collision System OFF Message
+	Pre Collision System Off Message
 	Pre Collision System Unavailable
 	Pre Collision System Unavailable 1
 	Pre Collision System Unavailable 2S
-	RCD Option Change Active
-	RCTA Volume Setting Change
-	RSA Displayed State
+	Prndl
 	Radio Clock Hour
 	Radio Clock Minutes
 	Radio Clock Seconds
+	Rcd Option Change Active
+	Rcta Volume Setting Change
 	Rear Deicer
 	Rear Door Drive Side Unlocked
 	Rear Door Passenger Side Unlocked
@@ -186,8 +185,8 @@ Signal Descriptions:
 	Rear Passenger Window State
 	Rear Right Door Switch
 	Rear Right Wheel Speed
-	Rear Wiper Set To INT
-	Rear Wiper Set To ON
+	Rear Wiper Set To Int
+	Rear Wiper Set To On
 	Regen Active State
 	Resolver Prompts
 	Right Blind Spot Monitor
@@ -196,12 +195,12 @@ Signal Descriptions:
 	Right Sliding Door Open Button Pressed
 	Right Turn Signal
 	Right Turn Signal 3 Blink
-	SRS Airbag System Malfunction Active
+	Rsa Displayed State
 	Second
 	Selected Gear
 	Service Menu Active
-	Set HVCA Temperature
-	Setting Auto AC Mode Set On
+	Set Hvca Temperature
+	Setting Auto Ac Mode Set On
 	Setting Auto Relock Timer Setting
 	Setting Automatic Door Lock By Shift From P
 	Setting Automatic Door Lock By Speed
@@ -221,15 +220,15 @@ Signal Descriptions:
 	Side Lights Active
 	Sidelights
 	Slip Indicator Tell Tale
-	Speed And MPG Units
+	Speed And Mpg Units
 	Speed Reduction Option Change
+	Srs Airbag System Malfunction Active
 	Stability Control System
 	State Of Cruise Control
 	Steering Rate
 	Steering Wheel Angle
 	Sun Sensor
 	Sway Warning Sensitivity
-	TPMS Initialization Complete Prompt Not Active
 	Temperature Unit
 	Time Hours
 	Time Minutes
@@ -238,6 +237,7 @@ Signal Descriptions:
 	Tire Pressure Left Rear
 	Tire Pressure Right Front
 	Tire Pressure Right Rear
+	Tpms Initialization Complete Prompt Not Active
 	Trac Off Tell Tale
 	Trip B Odometer
 	Trip Button Long Press
@@ -249,11 +249,11 @@ Signal Descriptions:
 	Trunk Release
 	Units
 	Units Of Distance
-	VIN 2 Of 3
-	VIN 3 Of 3
 	Valet Mode Unlocking Active
 	Vehicle Speed
 	Vin 1 Of 3
+	Vin 2 Of 3
+	Vin 3 Of 3
 	Warning Cross Traffic Prompt
 	Windshield Washer Command
 	Windshield Wiper Hi
@@ -261,7 +261,7 @@ Signal Descriptions:
 	Windshield Wiper Int Volume
 	Windshield Wiper Lo
 	Windshield Wiper Mist
-	Windshield Wiper OFF
+	Windshield Wiper Off
 	Would You Like To Take A Break
 	Write Setting Convenience Services
 	Write Setting Set Automatic Door Lock By Shift From P
@@ -276,12 +276,12 @@ Signal Descriptions:
 	Charging Connection Status Active
 	Cruise Control On Off Prompt
 	Daytime Running Lights
-	EPS Tell Tale
 	Engine Load
 	Engine Run Time Hours
 	Engine Run Time Minutes
 	Engine Run Time Seconds
 	Engine Torque
+	Eps Tell Tale
 	Fob Lock
 	Fob Panic Button
 	Fob Trunk Open
@@ -302,8 +302,8 @@ Signal Descriptions:
 	Power Steering Alert Long Dinging
 	Power Steering Malfunction Tell Tale
 	Power Steering Malfunctions
-	Rear Wiper Set To INT
-	Rear Wiper Set To ON
+	Rear Wiper Set To Int
+	Rear Wiper Set To On
 	Regen Active State
 	Restoring Engine Oil Conditions Please Wait Until Engine Stops Message
 	Right Blind Spot Monitor
@@ -325,15 +325,15 @@ Signal Descriptions:
 	Windshield Wiper Int Volume
 	Windshield Wiper Lo
 	Windshield Wiper Mist
-	Windshield Wiper OFF
+	Windshield Wiper Off
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 No qualifying signals found on this network
 
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Warning Tell Tale
-	AC Active
+	Abs Warning Tell Tale
+	Ac Active
 	Adaptive Cruise Control Following
 	Adjusting Forward Camera Message
 	Adjusting Front Beam Radar Vert
@@ -342,13 +342,13 @@ Signal Descriptions:
 	Auto High Beams Active
 	Auto Hold System On
 	Average Vehicle Speed
-	BSM Brightness Setting Change
-	BSM Sensitivity Setting Change
 	Brake Message 1
 	Brake Message 2
 	Brake Switch Active
 	Brake System Warning Active
 	Brake Warning Tell Tale Active
+	Bsm Brightness Setting Change
+	Bsm Sensitivity Setting Change
 	Car Not On
 	Change Bit
 	Change Bit
@@ -386,21 +386,21 @@ Signal Descriptions:
 	Instrument Cluster Backlight Level
 	Key In Cylinder
 	Kilometers Display Units
-	LDA Amber Indicator 1
-	LDA Amber Indicator 2
-	LDA Steering Assist Active
-	LDA Steering Assist Unavailable
-	LDW Sensitivity High
-	LDW Sensitivity Low
 	Lane Departure Alert Hold Steer 1
 	Lane Departure Alert Hold Steer 2
 	Lane Departure Alert Malfunction
-	Lane Departure Alert Turned ON 1
-	Lane Departure Alert Turned ON 2
+	Lane Departure Alert Turned On 1
+	Lane Departure Alert Turned On 2
 	Lane Departure Alert Unavailable 1
 	Lane Departure Alert Unavailable 2
 	Lane Departure Alert Unavailable 3
 	Language
+	Lda Amber Indicator 1
+	Lda Amber Indicator 2
+	Lda Steering Assist Active
+	Lda Steering Assist Unavailable
+	Ldw Sensitivity High
+	Ldw Sensitivity Low
 	Left Blinker Not Active
 	Left Sliding Door Close Button Pressed
 	Left Sliding Door Open Button Pressed
@@ -415,7 +415,6 @@ Signal Descriptions:
 	Odometer
 	Oil Pressure
 	Outside Temperature
-	PRNDL
 	Park Brake
 	Passenger Door Switch
 	Passenger Side Sun Sensor
@@ -424,13 +423,13 @@ Signal Descriptions:
 	Pre Collision System Indicator
 	Pre Collision System Indicator B
 	Pre Collision System Malfunction
-	Pre Collision System OFF Message
+	Pre Collision System Off Message
 	Pre Collision System Unavailable
 	Pre Collision System Unavailable 1
 	Pre Collision System Unavailable 2S
-	RCD Option Change Active
-	RCTA Volume Setting Change
-	RSA Displayed State
+	Prndl
+	Rcd Option Change Active
+	Rcta Volume Setting Change
 	Rear Deicer
 	Rear Left Door Switch
 	Rear Left Wheel Speed
@@ -439,13 +438,14 @@ Signal Descriptions:
 	Right Blinker Not Active
 	Right Sliding Door Close Button Pressed
 	Right Sliding Door Open Button Pressed
-	SRS Airbag System Malfunction Active
+	Rsa Displayed State
 	Second
 	Shift Is In N Release Accelerator Before Shifting
 	Side Lights Active
 	Slip Indicator Tell Tale
-	Speed And MPG Units
+	Speed And Mpg Units
 	Speed Reduction Option Change
+	Srs Airbag System Malfunction Active
 	Stability Control System
 	State Of Cruise Control
 	Steering Rate
@@ -465,19 +465,19 @@ Signal Descriptions:
 	Year
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AWD Power Delivery Active State
-	AWD Power Delivery Front Left Current Value Max Value 5
-	AWD Power Delivery Front Right Current Value Max Value 5
-	AWD Power Delivery Rear Left Current Value Max Value 5
-	AWD Power Delivery Rear Right Current Value Max Value 5
 	Auto Head Lights
+	Awd Power Delivery Active State
+	Awd Power Delivery Front Left Current Value Max Value 5
+	Awd Power Delivery Front Right Current Value Max Value 5
+	Awd Power Delivery Rear Left Current Value Max Value 5
+	Awd Power Delivery Rear Right Current Value Max Value 5
 	Cabin Fan Speed
 	Car On
 	D Pad Left Side Of Steering Wheel Any Button Being Pressed
-	DRCC RSA Option Change Active
 	Display Brightness Change Active
 	Display Language
 	Door Lock States
+	Drcc Rsa Option Change Active
 	Drive Mode Eco Mode Selected
 	Drive Mode Sport Mode Selected
 	Driver Door Lock State Unlocked
@@ -503,8 +503,8 @@ Signal Descriptions:
 	Low Beam Headlights
 	Low Fuel Level Warning Light
 	Menu Theme Color
-	OK Button Steering Wheel Short Press
 	Ok Button Steering Wheel Long Press
+	Ok Button Steering Wheel Short Press
 	Panic Alarm Active
 	Parking Brake Activating
 	Parking Brake Deactivating
@@ -523,8 +523,8 @@ Signal Descriptions:
 	Rear Passenger Window State
 	Resolver Prompts
 	Service Menu Active
-	Set HVCA Temperature
-	Setting Auto AC Mode Set On
+	Set Hvca Temperature
+	Setting Auto Ac Mode Set On
 	Setting Auto Relock Timer Setting
 	Setting Automatic Door Lock By Shift From P
 	Setting Automatic Door Lock By Speed
@@ -541,20 +541,20 @@ Signal Descriptions:
 	Setting Wireless Lock When Door Opened Set On
 	Shift System Malfunction Apply Parking Brake Securely While Parking Message
 	Shift System Malfunction Stop In A Safe Place
-	TPMS Initialization Complete Prompt Not Active
 	Tire Pressure Left Front
 	Tire Pressure Left Rear
 	Tire Pressure Right Front
 	Tire Pressure Right Rear
+	Tpms Initialization Complete Prompt Not Active
 	Trip Button Long Press
 	Trip Button Pressed
 	Trunk Ajar
 	Trunk Open Button Pressed
 	Trunk Release
 	Units Of Distance
-	VIN 2 Of 3
-	VIN 3 Of 3
 	Vin 1 Of 3
+	Vin 2 Of 3
+	Vin 3 Of 3
 	Write Setting Convenience Services
 	Write Setting Set Automatic Door Lock By Shift From P
 	Write Setting Set Automatic Door Lock By Speed
@@ -565,5 +565,5 @@ Signal Descriptions:
 	Yaw Rate Value
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	HVAC Fan Speed
+	Hvac Fan Speed
 	Recirculation Not Active

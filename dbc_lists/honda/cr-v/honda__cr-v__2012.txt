@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Honda 'Cr-V' (2012)
 Signal Descriptions:
 	A C Off
@@ -41,10 +41,10 @@ Signal Descriptions:
 	Front Passenger Door Unlocked
 	Front Passenger Lock Button State Pressed
 	Front Passengerunlock Button State Pressed
-	HVAC SYNC
 	Hazard Lights Active
 	High Beams Position Active
 	High Beams Tell Tale Active
+	Hvac Sync
 	Ignition Warning Tell Tale Active
 	Immobilizer Active
 	Infotainment Brightness
@@ -104,12 +104,12 @@ Signal Descriptions:
 	To Turn To Accessory Push Start Stop Button Prompt
 	To Unlock Wheel Push Plus Rotate Prompt
 	Top Display Change Active
-	Trip A Average MPG
+	Trip A Average Mpg
 	Trip A Average Speed
 	Trip A Driven Distance
 	Trip A Selected
 	Trip A Timer
-	Trip B Average MPG
+	Trip B Average Mpg
 	Trip B Average Speed
 	Trip B Driven Distance
 	Trip B Selected
@@ -127,7 +127,6 @@ Signal Descriptions:
 	Write Setting Keyless Access Beep Off
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AWD Tell Tale Active
 	Accelerator Pedal Applied
 	Accelerator Pedal Position
 	Air Intake Temperature
@@ -135,6 +134,7 @@ Signal Descriptions:
 	Average Battery Voltage
 	Average Front Wheel Speed
 	Average Rear Wheel Speed
+	Awd Tell Tale Active
 	Brake Hold Active
 	Brake Hold System On
 	Brake Pressed
@@ -144,13 +144,13 @@ Signal Descriptions:
 	Controlled Standstill
 	Cruise Control On
 	Cruise Control Set Speed
-	Displayed Vehicle Speed In KPH
-	Displayed Vehicle Speed In MPH
+	Displayed Vehicle Speed In Kph
+	Displayed Vehicle Speed In Mph
 	Drive Active
 	Drive Lamp Seatbelt
 	Driver Seatbelt Buckled
 	Driver Seatbelt Unbuckled
-	ECO Mode Active
+	Eco Mode Active
 	Engine Drive Torque
 	Engine Speed
 	Engine Torque
@@ -163,14 +163,14 @@ Signal Descriptions:
 	Low Display Active
 	Metric Units Active
 	Neutral Display Active
-	PRNDL
 	Park Brake Active
 	Park Display Active
 	Passenger Airbag Off
 	Passenger Airbag On
 	Passenger Seatbelt Buckled
 	Passenger Seatbelt Unbuckled
-	RADAR STATE
+	Prndl
+	Radar State
 	Reverse Active
 	Reverse Display Active
 	Right Blinker
@@ -183,9 +183,9 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
 	Steering Wheel Cruise Control Buttons
-	TPMS Reset Button Pressed
-	TPMS Reset Comand
-	TPMS Tell Tale
+	Tpms Reset Button Pressed
+	Tpms Reset Comand
+	Tpms Tell Tale
 	Traction Control System Change Bit
 	Traction Control System Off
 	Transmission Speed

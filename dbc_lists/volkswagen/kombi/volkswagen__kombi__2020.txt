@@ -1,7 +1,7 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volkswagen 'Kombi' (2020)
 Signal Descriptions:
-	AAG Trailer Recognized
+	Aag Trailer Recognized
 	Accelerator Pedal
 	Accelerator Pedal Let Off Sig
 	Accelerator Pedal Not Pressed
@@ -61,11 +61,11 @@ Signal Descriptions:
 	Yaw Value Is Negative
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	AC Switch Active
-	ACC Button Pressed
-	ACC Key Position Active
-	ACC Selected
+	Abs Active
+	Ac Switch Active
+	Acc Button Pressed
+	Acc Key Position Active
+	Acc Selected
 	Active Safe Enabled
 	Adaptive Cruise Control Follow Distance
 	Adaptive Cruise Control System On
@@ -98,11 +98,9 @@ Signal Descriptions:
 	Cruise Control Set Speed
 	Current Gear
 	Cylinder Deactivation
-	DPF Installed
-	DRL On
 	Dahs Prompt Please Depress The Brake Pedal
-	Dash Prompt ACC Predictive Control Is Currently Unavailable
-	Dash Prompt ACC Predictive Control Is Unavailable In This Country
+	Dash Prompt Acc Predictive Control Is Currently Unavailable
+	Dash Prompt Acc Predictive Control Is Unavailable In This Country
 	Dash Prompt Add Engine Oil
 	Dash Prompt Airbag Seatbelt Tensioner Deactivated
 	Dash Prompt Battery Almost Drained Limited Vehicle Performance
@@ -138,24 +136,26 @@ Signal Descriptions:
 	Dash Prompt Steering Wheel Heating Off
 	Dash Prompt Steering Wheel Heating On
 	Dash Prompt Unable To Start Please Remove Charging Connector
-	Dash Tell Tale CEL
-	Dash Tell Tale EPC
+	Dash Tell Tale Cel
+	Dash Tell Tale Epc
 	Dates Units
 	Default Console Lighting Group 1 Light Level
 	Distance Units Km0 Mi1
+	Dpf Installed
 	Driver Detected In Driver Seat
 	Driver Heated Seat Level
 	Driver Seat Heating Balance Setting
 	Driver Seat Ventilation Balance Setting
 	Driver Seatbelt Buckled
-	ESC
+	Drl On
 	Emergency Call Gray Active
 	Emergency Call Yellow Active
 	Engine Coolant Temperature
 	Engine Liters
 	Error Electrical System Stop
-	Exhaust Type System Set To EOBD
-	Exhaust Type System Set To OBD
+	Esc
+	Exhaust Type System Set To Eobd
+	Exhaust Type System Set To Obd
 	Fog Light
 	Fog Lights
 	Front Left Door Child Lock State
@@ -206,8 +206,8 @@ Signal Descriptions:
 	Instrument Cluster Ambient Lighting
 	Instrument Cluster Backlight Level
 	Intake Air Temperature
-	LCA Not Available Service Necessary
 	Language Units
+	Lca Not Available Service Necessary
 	Left Brake Light Faulty Message
 	Left Brake Light Turn Signal Faulty Message
 	Left Brake Tail Lights Faulty Message
@@ -235,22 +235,21 @@ Signal Descriptions:
 	Odometer
 	Oil Level
 	Oil Temperature
-	PHC Selected
-	PRNDL
 	Parking Brake Disengaging
 	Parking Brake Engaged
 	Parking Brake Engaging
 	Passenger Door Front Mirror Folded In
-	Passenger HVAC Fan Speed
 	Passenger Heated Seat Level
+	Passenger Hvac Fan Speed
 	Passenger Seat Heating Balance Setting
 	Passenger Seat Ventilation Balance Setting
 	Passenger Seatbelt Buckled
+	Phc Selected
 	Please Reduce Oil Level
 	Poor Weather Lights Active
 	Pressure Units
+	Prndl
 	Pulse Button Pressed
-	RES Button Pressed
 	Range
 	Ready To Drive
 	Rear Crash
@@ -263,6 +262,7 @@ Signal Descriptions:
 	Recirculation Button Active
 	Release The Parking Brake
 	Remote Start Active
+	Res Button Pressed
 	Reverse Active
 	Reverse Active
 	Reversing Light Fault Message
@@ -277,13 +277,13 @@ Signal Descriptions:
 	Right Turn Signal Brake Tail Lights Faulty Message
 	Rollover Crash
 	Rolls Front Windows Up To 90 Percent
-	SET Button Pressed
+	Set Button Pressed
 	Shift Interlock Active
 	Side Lights
 	Side Mirror Adjustment Switch Down
 	Side Mirror Adjustment Switch Left
 	Side Mirror Adjustment Switch Right
-	Side Mirror Adjustment Switch UP
+	Side Mirror Adjustment Switch Up
 	Side Mirrors Folded In Selected
 	Side Mirrors Folding In
 	Side Mirrors Folding Out
@@ -295,12 +295,9 @@ Signal Descriptions:
 	Steering Wheel Adjustment Being Made
 	Steering Wheel Buttons
 	Stop Confirmation
-	Stopping Process ACC Active
+	Stopping Process Acc Active
 	Sun Roof Cover Button State
 	Sun Roof Open Close Button State
-	TKS Qbit Slope
-	TKS Slope
-	TKS Vehicle Mass
 	Tell Tale Seatbelt Icon For Drive Active
 	Tell Tale Seatbelt Icon For Passenger Active
 	Temperature Units C0 F1
@@ -310,13 +307,16 @@ Signal Descriptions:
 	Time Minutes
 	Time Seconds
 	Time Units 24Hour0 12Hour1
+	Tks Qbit Slope
 	Tks Qbit Vehicle Mass
+	Tks Slope
+	Tks Vehicle Mass
 	Transmission Over Temperature Warning
 	Trunk Button Being Pulled Up
 	Trunk Open
 	Upper Engine Speed Limit
-	VIN Part1
 	Vehicle Speed
+	Vin Part1
 	Voltage Request
 	Volume Units
 	Wheel Direction Front Left
@@ -325,7 +325,7 @@ Signal Descriptions:
 	Wheel Direction Rear Right
 	Wiper Right Stock Position 1X
 	Wiper Right Stock Position High
-	Wiper Right Stock Position INT
+	Wiper Right Stock Position Int
 	Wiper Right Stock Position Low
 	Wiper Speed Level
 	Year

@@ -1,7 +1,7 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Land Rover 'Lr2' (2011)
 Signal Descriptions:
-	Audio System Button CD Eject Status
+	Audio System Button Cd Eject Status
 	Brake Fluid Low 0 True
 	Car Clock Date Day
 	Car Clock Date Month
@@ -10,14 +10,14 @@ Signal Descriptions:
 	Car Clock Time Minutes
 	Car Clock Time Seconds
 	Central Lock Applied
-	DDP Side Mirrors Controls Active
-	DDP Window Front Right Button
-	DDP Window Rear Right Button
 	Dashboard Display Language
 	Dashboard Prompt Displaying
 	Dashboard Prompt Not Displaying
 	Dashboard Tell Tale High Beam On
 	Dashboard Tell Tale Low Beam On
+	Ddp Side Mirrors Controls Active
+	Ddp Window Front Right Button
+	Ddp Window Rear Right Button
 	Door Driver Panel Switch Active
 	Drive Away Locking Activated
 	Drive Away Locking Switch
@@ -28,38 +28,38 @@ Signal Descriptions:
 	Engine Coolant Temperature
 	Front Panel Ambient Light Sensor
 	Front Panel Button Audio Off Pressed
-	Front Panel Button HOME MENU Hold
-	Front Panel Button HOME MENU Pressed
-	Front Panel Button MODE Hold
-	Front Panel Button MODE Pressed
+	Front Panel Button Home Menu Hold
+	Front Panel Button Home Menu Pressed
+	Front Panel Button Mode Hold
+	Front Panel Button Mode Pressed
 	Front Panel Button Music Hold
 	Front Panel Button Music Pressed
 	Front Panel Button Next Hold
 	Front Panel Button Next Pressed
 	Front Panel Button Previous Hold
 	Front Panel Button Previous Pressed
-	Front Panel Wheel MODE Changing
+	Front Panel Wheel Mode Changing
 	Front Panel Wheel Volume Changing
 	Fuel Range
 	Fuel Warning Level Low
-	HVAC AC Clutch Engaged
-	HVAC Blower Direction Down
-	HVAC Blower Direction Front
-	HVAC Blower Direction Up
-	HVAC Blower Speed
-	HVAC Defroster Rear
-	HVAC Defroster Rear Relay Active
-	HVAC Recirculation
-	HVAC Recirculation AUTO
-	HVAC Recirculation Status
-	HVAC System Active
-	HVAC Temperature Set Front Left
-	HVAC Temperature Set Front Left HI
-	HVAC Temperature Set Front Right
-	HVAC Temperature Set Front Right HI
 	Headlight Delay
 	Headlights Status Off
 	Headlights Status On
+	Hvac Ac Clutch Engaged
+	Hvac Blower Direction Down
+	Hvac Blower Direction Front
+	Hvac Blower Direction Up
+	Hvac Blower Speed
+	Hvac Defroster Rear
+	Hvac Defroster Rear Relay Active
+	Hvac Recirculation
+	Hvac Recirculation Auto
+	Hvac Recirculation Status
+	Hvac System Active
+	Hvac Temperature Set Front Left
+	Hvac Temperature Set Front Left Hi
+	Hvac Temperature Set Front Right
+	Hvac Temperature Set Front Right Hi
 	Indicator Tell Tale Left
 	Indicator Tell Tale Left Trailer
 	Indicator Tell Tale Right
@@ -105,17 +105,17 @@ Signal Descriptions:
 	Window Rear Right Position Sensor
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Buzz On
-	ABS Fault
-	ABS In Action
-	ADAS CC Button CAN Pressed
-	ADAS CC Button Decrease Pressed
-	ADAS CC Button Increase Pressed
-	ADAS CC Button RES Pressed
-	ADAS Status
+	Abs Buzz On
+	Abs Fault
+	Abs In Action
 	Acceleration Lateral
 	Acceleration Longitudinal Sensor Input
 	Acceleration Longitudinal Value
+	Adas Cc Button Can Pressed
+	Adas Cc Button Decrease Pressed
+	Adas Cc Button Increase Pressed
+	Adas Cc Button Res Pressed
+	Adas Status
 	Alternator Load
 	Alternator Voltage Output
 	Battery Charging System Fault
@@ -128,7 +128,6 @@ Signal Descriptions:
 	Corner High Rear Left
 	Corner High Rear Right
 	Crash Event
-	DPF Warning Status
 	Dash Prompt Service Required
 	Dash Prompt Smart Key Recognized
 	Dash Prompt Valet Mode
@@ -149,6 +148,7 @@ Signal Descriptions:
 	Door Rear Left Closed
 	Door Rear Right Closed
 	Door Trunk Closed
+	Dpf Warning Status
 	Dynamic Stability Control Not Available
 	Dynamic Stability Control Status
 	Electronic Traction Control In Action
@@ -165,10 +165,10 @@ Signal Descriptions:
 	Gearbox Automatic Position
 	Gearbox Manual Shift Down Request
 	Gearbox Manual Shift Up Request
-	HVAC AC System Pressure
-	HVAC Compressor Motor Current
 	Hill Descent Control System Status
 	Hill Descent System Prompt Status
+	Hvac Ac System Pressure
+	Hvac Compressor Motor Current
 	Intake Air Temperature
 	Lights Brake Lamps On
 	Lights High Beam
@@ -223,7 +223,7 @@ Signal Descriptions:
 	Stalk Left Pressed Down
 	Stalk Left Pressed Up
 	Steering Angle Sensor Status Calibrated
-	Steering Angle Sensor Status OK
+	Steering Angle Sensor Status Ok
 	Steering Angle Sensor Status Trimmed
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Sensor 1
@@ -233,7 +233,7 @@ Signal Descriptions:
 	Tell Tale Brakes Fault
 	Terrain Program Changing
 	Terrain Program Current
-	Terrain Program Rock Crawl NA Select Low Range
+	Terrain Program Rock Crawl Na Select Low Range
 	Terrain Program Set
 	Terrain Program Target
 	Traction Control Lamp Flashing
@@ -272,15 +272,15 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Fault Message Active
-	ABS Tell Tale Not Active
-	ASPC Message
+	Abs Fault Message Active
+	Abs Tell Tale Not Active
 	Accelerator Pedal Position
 	Airbag Tell Tale Active
 	Airbag Tell Tale Blinking Active
 	Alarm Sensor System Setting Changing
 	Alarm Sensor System Setting Set To Off
 	Ambient Air Temperature
+	Aspc Message
 	Auto High Beam Sensitivity Setting Changing
 	Auto High Beam Sensitivity Setting Set To Test Mode
 	Auto High Beam Setting Driving On The Right System Setting Active
@@ -307,9 +307,9 @@ Signal Descriptions:
 	Drive Away Locking System Setting Changing
 	Drive Away Locking System Setting Set To
 	Driver Door Closed
-	EBD Fault Active
-	ECO Mode Off
-	ECO Mode On
+	Ebd Fault Active
+	Eco Mode Off
+	Eco Mode On
 	Emergency Brake Assist Not Available Message Active
 	Engine Coolant Temperature
 	Engine Net Torque
@@ -318,7 +318,7 @@ Signal Descriptions:
 	Engine Reference Torque
 	Engine System Fault Message Active
 	Engine Torque Limit
-	Exhaust Filter Nearly Full Driving Above 40 MPH For 20 Min Will Clean Filter Message Active
+	Exhaust Filter Nearly Full Driving Above 40 Mph For 20 Min Will Clean Filter Message Active
 	Fog Lights Active
 	Front Left Low Tire Pressure Message Active
 	Front Left Tire Pressure
@@ -330,31 +330,27 @@ Signal Descriptions:
 	Gear Shift Paddles System Setting Set To S Only
 	Gearbox Error Messages
 	Gearbox Not In Park Message Active
-	HDC Fault Messages
-	HDC On
 	Hazards Commanded On
+	Hdc Fault Messages
+	Hdc On
 	Headlamp Adjustment Blinking Tell Tale Active
 	Headlamp Adjustment Tell Tale Active
 	Headlight Delay System Setting Changed
 	Headlight Delay System Setting Set To
 	Hood Closed
-	INT Wiper Setting
 	Ignition Is On Message Active
 	Incorrect Diesel Exhaust Fluid Quality Detected Message Active
 	Instrument Cluster Backlight Level
 	Instrument Cluster Warning Chime Active
+	Int Wiper Setting
 	Interior Lights Off Message Active
 	Left Turn Signal Active
-	Low Speed AEB Disabled Message Active
-	Low Speed AEB System Was Activated Message Active
+	Low Speed Aeb Disabled Message Active
+	Low Speed Aeb System Was Activated Message Active
 	Lowbeam Tell Tale Active
 	Manual Gear
 	No Engine Restarts Possible In 32000Km Message Active
 	Odometer
-	PRNDL D
-	PRNDL N
-	PRNDL R
-	PRNDL S
 	Parking Brake Button State
 	Parking Brake Engaged
 	Parking Brake Engaging Or Disengaging
@@ -366,6 +362,10 @@ Signal Descriptions:
 	Power Mode
 	Press Brake When Starting Grey Ring Message Active
 	Press Brake When Starting White Ring Message Active
+	Prndl D
+	Prndl N
+	Prndl R
+	Prndl S
 	Progress Control Blinking Tell Tale Active
 	Progress Control Tell Tale Active
 	Rear Driver Door Closed
@@ -392,11 +392,11 @@ Signal Descriptions:
 	Smart Key Not Recognised Reposition And Press Start Button Message Active
 	Start Stop Switch Fault Message Active
 	Sump Oil Temperature
-	System Units Set To Mile MPH And MPG
-	TPM Load Setting Set To Heavy
-	TPM Load Setting Set To Normal
-	TPMS Tell Tale Active
+	System Units Set To Mile Mph And Mpg
 	Torque Request Acknowledge
+	Tpm Load Setting Set To Heavy
+	Tpm Load Setting Set To Normal
+	Tpms Tell Tale Active
 	Transmission Oil Temperature
 	Transmission Output Shaft Speed
 	Transmission Turbine Speed
@@ -415,19 +415,19 @@ Signal Descriptions:
 	Wipers Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Active
+	Ac Active
 	Engine Oil Level Critically Low Dash Prompt
 	Engine Oil Level Low Add 1 L Dash Prompt
-	HVAC Auto Active
-	HVAC Blower Position Driver Side
-	HVAC Blower Position Passenger Side
-	HVAC Driver Recirculation Active
-	HVAC Driver Temperature
-	HVAC Fan Speed
-	HVAC Passenger Recirculation Active
-	HVAC Passenger Temperature
-	HVAC SYNC Active
-	HVAC System Active
+	Hvac Auto Active
+	Hvac Blower Position Driver Side
+	Hvac Blower Position Passenger Side
+	Hvac Driver Recirculation Active
+	Hvac Driver Temperature
+	Hvac Fan Speed
+	Hvac Passenger Recirculation Active
+	Hvac Passenger Temperature
+	Hvac Sync Active
+	Hvac System Active
 	Please Wait Cold Start In Progress
 	Rear Defrost Active
 	Temperature Units Set To Fahrenheit
@@ -469,8 +469,8 @@ Signal Descriptions:
 	Trunk Unlatching
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
-	AEB System Set To Off
+	Abs Active
+	Aeb System Set To Off
 	Auto Start Stop Button Pressed
 	Clock Day
 	Clock Hours 24 Hour Format

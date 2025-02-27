@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Jeep 'Wagoneer S' (2023)
 Signal Descriptions:
 	Stalk Lights Headlight Position
@@ -14,8 +14,8 @@ Signal Descriptions:
 	Wiper Rear Status
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Adaptive Cruise Control Front Distance Setting
-	ADAS Lane Assist Active
+	Adas Adaptive Cruise Control Front Distance Setting
+	Adas Lane Assist Active
 	Door Driver Closed
 	Door Passenger Closed
 	Door Rear Left Closed
@@ -37,22 +37,22 @@ Signal Descriptions:
 	Seatbelt Front Driver Unfastened
 	Seatbelt Front Passenger Unfastened
 	Steering Wheel Angle
-	TPMS Front Left Low Pressure Warning
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Low Pressure Warning
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Low Pressure Warning
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Low Pressure Warning
-	TPMS Rear Right Tire Pressure
 	Terrain Mode
 	Throttle Wide Open
-	Transfer Case 4WD Button Down Pressed
-	Transfer Case 4WD Button LOW Pressed
-	Transfer Case 4WD Button Up Pressed
+	Tpms Front Left Low Pressure Warning
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Low Pressure Warning
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Low Pressure Warning
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Low Pressure Warning
+	Tpms Rear Right Tire Pressure
+	Transfer Case 4Wd Button Down Pressed
+	Transfer Case 4Wd Button Low Pressed
+	Transfer Case 4Wd Button Up Pressed
 	Units Imperial
 	Units Metric
-	VIN
+	Vin
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Door Driver Button 1 Pressed
@@ -79,8 +79,8 @@ Signal Descriptions:
 	Display Infotainment Button Auto Pressed
 	Display Infotainment Button Defrost Front Pressed
 	Display Infotainment Button Defrost Rear Pressed
-	Display Infotainment Button MAX AC Pressed
-	Display Infotainment Button MAX Vent Pressed
+	Display Infotainment Button Max Ac Pressed
+	Display Infotainment Button Max Vent Pressed
 	Display Infotainment Button Mute Pressed
 	Display Infotainment Button Off Pressed
 	Display Infotainment Button Recirculation Pressed
@@ -102,42 +102,42 @@ Signal Descriptions:
 	Door Trunk Open
 	Doors Locked
 	Famcam Active
-	HVAC Button AC Pressed
-	HVAC Button Auto Pressed
-	HVAC Button Auto Rear Pressed
-	HVAC Button Climate Mode Rear Pressed
-	HVAC Button Fan Side Driver Pressed
-	HVAC Button Fan Side Passenger Pressed
-	HVAC Button Fan Speed Down Pressed
-	HVAC Button Fan Speed Rear Decrease Pressed
-	HVAC Button Fan Speed Rear Increase Pressed
-	HVAC Button Fan Speed Up Pressed
-	HVAC Button Max Climate Pressed
-	HVAC Button Off Rear Pressed
-	HVAC Button Recirculation Pressed
-	HVAC Button Temperature Decrease Front Driver Pressed
-	HVAC Button Temperature Decrease Front Passenger Pressed
-	HVAC Button Temperature Decrease Rear Left Pressed
-	HVAC Button Temperature Decrease Rear Right Pressed
-	HVAC Button Temperature Increase Front Driver Pressed
-	HVAC Button Temperature Increase Front Passenger Pressed
-	HVAC Button Temperature Increase Rear Left Pressed
-	HVAC Button Temperature Increase Rear Right Pressed
-	HVAC Climate Control Button Off Pressed
-	HVAC Climate Control Front Driver Temperature
-	HVAC Climate Control Front Passenger Temperature
-	HVAC Climate Control Rear Left Temperature
-	HVAC Climate Control Rear Right Temperature
-	HVAC Defrost Rear Button Pressed
-	HVAC Fan Speed
-	HVAC Front Vent Direction Front
-	HVAC Front Vent Direction Lower
-	HVAC Front Vent Direction Upper
-	HVAC Rear Climate Control Unlock Active
-	HVAC Rear Fan Speed
-	HVAC Rear Vent Direction Lower
-	HVAC Rear Vent Direction Upper
-	HVAC Recirculation Enabled
+	Hvac Button Ac Pressed
+	Hvac Button Auto Pressed
+	Hvac Button Auto Rear Pressed
+	Hvac Button Climate Mode Rear Pressed
+	Hvac Button Fan Side Driver Pressed
+	Hvac Button Fan Side Passenger Pressed
+	Hvac Button Fan Speed Down Pressed
+	Hvac Button Fan Speed Rear Decrease Pressed
+	Hvac Button Fan Speed Rear Increase Pressed
+	Hvac Button Fan Speed Up Pressed
+	Hvac Button Max Climate Pressed
+	Hvac Button Off Rear Pressed
+	Hvac Button Recirculation Pressed
+	Hvac Button Temperature Decrease Front Driver Pressed
+	Hvac Button Temperature Decrease Front Passenger Pressed
+	Hvac Button Temperature Decrease Rear Left Pressed
+	Hvac Button Temperature Decrease Rear Right Pressed
+	Hvac Button Temperature Increase Front Driver Pressed
+	Hvac Button Temperature Increase Front Passenger Pressed
+	Hvac Button Temperature Increase Rear Left Pressed
+	Hvac Button Temperature Increase Rear Right Pressed
+	Hvac Climate Control Button Off Pressed
+	Hvac Climate Control Front Driver Temperature
+	Hvac Climate Control Front Passenger Temperature
+	Hvac Climate Control Rear Left Temperature
+	Hvac Climate Control Rear Right Temperature
+	Hvac Defrost Rear Button Pressed
+	Hvac Fan Speed
+	Hvac Front Vent Direction Front
+	Hvac Front Vent Direction Lower
+	Hvac Front Vent Direction Upper
+	Hvac Rear Climate Control Unlock Active
+	Hvac Rear Fan Speed
+	Hvac Rear Vent Direction Lower
+	Hvac Rear Vent Direction Upper
+	Hvac Recirculation Enabled
 	Infotainment Adjustment Volume Speed
 	Infotainment Balance Fade Front To Back
 	Infotainment Balance Fade Right To Left
@@ -159,11 +159,11 @@ Signal Descriptions:
 	Mirrors Folding In Active
 	Mirrors Folding Out Active
 	Odometer
-	PRNDL
 	Parking Brake Engaged
 	Parksense Front Volume
 	Parksense Rear Volume
 	Pedal Accelerator Pressed
+	Prndl
 	Seat 3Rd Row Headrest Fold Active
 	Seat Driver Button Massage Pressed
 	Seat Heater Driver Button Pressed
@@ -185,7 +185,7 @@ Signal Descriptions:
 	Steering Wheel Button End Call Pressed
 	Steering Wheel Button Left Arrow Pressed
 	Steering Wheel Button Menu Pressed
-	Steering Wheel Button OK Pressed
+	Steering Wheel Button Ok Pressed
 	Steering Wheel Button Phone Pressed
 	Steering Wheel Button Right Arrow Pressed
 	Steering Wheel Button Up Arrow Pressed
@@ -193,10 +193,10 @@ Signal Descriptions:
 	Sync Active
 	Time Current Hour
 	Time Current Minute
-	VIN Characters 1 To 7
-	VIN Characters 15 To 17
-	VIN Characters 8 To 14
-	VIN Index
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
 	Window Child Lock Active
 	Window Front Driver Open
 	Window Front Passenger Auto Active
@@ -221,4 +221,4 @@ No qualifying signals found on this network
 
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	VIN
+	Vin

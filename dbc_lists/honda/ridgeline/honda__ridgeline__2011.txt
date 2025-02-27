@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Honda 'Ridgeline' (2011)
 Signal Descriptions:
 	Drive Active
@@ -10,7 +10,7 @@ Signal Descriptions:
 	Low Active
 	Neutral Active
 	Park Active
-	Partial VIN
+	Partial Vin
 	Passenger Door Open Switch Active
 	Rear Driver Side Door Open Switch Active
 	Rear Passenger Door Open Switch Active
@@ -18,15 +18,15 @@ Signal Descriptions:
 	Sport Mode Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	AC Compressor Fan Active
-	AC Compressor Status
+	Ac Compressor Fan Active
+	Ac Compressor Status
 	Accelerator Pedal Position
 	Brake Swith Applied
 	Current Gear
-	DOOR OPEN Front Left
-	DOOR OPEN Front Right
-	DOOR OPEN Rear Left
-	DOOR OPEN Rear Right
+	Door Open Front Left
+	Door Open Front Right
+	Door Open Rear Left
+	Door Open Rear Right
 	Drive Lamp Seatbelt
 	Driver Seatbelt Buckled
 	Driver Seatbelt Unbuckled
@@ -34,24 +34,24 @@ Signal Descriptions:
 	Engine Speed 2
 	Gears Shifting
 	Odometer
-	PRNDL Position 1
-	PRNDL Position 2
-	PRNDL Position D
-	PRNDL Position D3
-	PRNDL Position N
-	PRNDL Position P
-	PRNDL Position R
 	Parking Brake Active
 	Passenger Airbag Off
 	Passenger Airbag On
 	Passenger Seatbelt Buckled
 	Passenger Seatbelt Unbuckled
+	Prndl Position 1
+	Prndl Position 2
+	Prndl Position D
+	Prndl Position D3
+	Prndl Position N
+	Prndl Position P
+	Prndl Position R
 	Relative Throttle Position
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	TRUNK OPEN
 	Target Gear
 	Throttle Position
+	Trunk Open
 	Vehicle Speed
 	Wheel Speed Front Left
 	Wheel Speed Front Right

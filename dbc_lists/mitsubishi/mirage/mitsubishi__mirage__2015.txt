@@ -1,15 +1,15 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Mirage' (2015)
 Signal Descriptions:
-	ADAS Cruise Control Active
-	ADAS Cruise Control Speed Set
-	APS Main Voltage
-	APS Relative
-	APS Sub Voltage
+	Adas Cruise Control Active
+	Adas Cruise Control Speed Set
 	Alternator Use Rate Target
 	Ambient Temperature Displayed
 	Ambient Temperature Exterior
 	Ambient Temperature Sensor
+	Aps Main Voltage
+	Aps Relative
+	Aps Sub Voltage
 	Auto Stop And Go System Fault
 	Auto Stop And Go System Last Duration Active
 	Brake Fluid Sensor Error
@@ -26,19 +26,14 @@ Signal Descriptions:
 	Dashboard Chime Style 4
 	Dashboard Chime Style 5
 	Dashboard Dimmed
-	Dashboard ECO Rate Indication
-	Dashboard Prompt ETACS On
+	Dashboard Eco Rate Indication
+	Dashboard Prompt Etacs On
 	Door Any Open
 	Door Front Left Locked
 	Door Front Left Open
 	Door Front Left Unlocked
 	Door Hood Open
-	ECO Button Pressed
-	ESP ABS Active
-	ESP ABS Disconnected
-	ESP Disabled
-	ESP Traction Control Active
-	ESS Test Mode
+	Eco Button Pressed
 	Engine Cranking
 	Engine Load Absolute
 	Engine Load Calculated
@@ -48,8 +43,13 @@ Signal Descriptions:
 	Engine Torque Net
 	Engine Torque Reference
 	Engine Torque Requested
-	Fuel Consumption AVG Trip A
-	Fuel Consumption AVG Trip B
+	Esp Abs Active
+	Esp Abs Disconnected
+	Esp Disabled
+	Esp Traction Control Active
+	Ess Test Mode
+	Fuel Consumption Avg Trip A
+	Fuel Consumption Avg Trip B
 	Fuel Consumption Instant
 	Fuel Gauge Resistance
 	Fuel Level
@@ -57,13 +57,13 @@ Signal Descriptions:
 	Fuel Range
 	G Sensor Lateral
 	G Sensor Longitudinal
-	HVAC A C Active
-	HVAC A C Compressor Active
-	HVAC A C Relay Active
-	HVAC A C Thermo Sensor Temperature
-	HVAC Radiator Fan Speed Low
-	HVAC Refrigerant Pressure
-	HVAC Refrigerant Valve Disconnected
+	Hvac A C Active
+	Hvac A C Compressor Active
+	Hvac A C Relay Active
+	Hvac A C Thermo Sensor Temperature
+	Hvac Radiator Fan Speed Low
+	Hvac Refrigerant Pressure
+	Hvac Refrigerant Valve Disconnected
 	Index Byte
 	Intake Air Temperature
 	Lights Antifog Front
@@ -95,16 +95,13 @@ Signal Descriptions:
 	Settings Language
 	Settings Unit Instrument Cluster
 	Settings Unit Temperature
-	Speed AVG Trip A
-	Speed AVG Trip B
+	Speed Avg Trip A
+	Speed Avg Trip B
 	Starter Motor Running
 	Steering Angle Sensor Calibrating
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	TPS Main Voltage
-	TPS Relative
-	TPS Sub Voltage
-	Tell Tale ABS
+	Tell Tale Abs
 	Tell Tale Airbag
 	Tell Tale Auto Stop And Go System Active
 	Tell Tale Auto Stop And Go System Off
@@ -127,9 +124,12 @@ Signal Descriptions:
 	Tell Tale Traction Control Off
 	Tell Tale Transmission Temperature
 	Tire Circumference
-	VIN Part 1
+	Tps Main Voltage
+	Tps Relative
+	Tps Sub Voltage
 	Vehicle On
 	Vehicle Speed
+	Vin Part 1
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left

@@ -1,10 +1,10 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Dacia 'Duster' (2021)
 Signal Descriptions:
-	ABS Tell Tale Active
-	ABS Tell Tale Blinking Active
-	AC Compressor Active
+	Abs Tell Tale Active
+	Abs Tell Tale Blinking Active
 	Absolute Time Since First Ingnition
+	Ac Compressor Active
 	Accelerator Pedal Position Before Kickdown
 	Accelerator Pedal Position To Kickdown
 	Addtional Voltage Not Required
@@ -54,18 +54,18 @@ Signal Descriptions:
 	Engine Coolant Temperature
 	Engine Speed
 	Engine Torque
-	HVAC Air Recirculation Off
-	HVAC Air Recirculation On
-	HVAC Cabin Temperature
-	HVAC Fan Speed
-	HVAC System On
-	HVAC Temperature Driver Side Setting
-	HVAC Temperature Passenger Side Setting
 	Hazards Active
 	Head Light Level
 	High Beams Active
 	Hood Closed
 	Hood Open
+	Hvac Air Recirculation Off
+	Hvac Air Recirculation On
+	Hvac Cabin Temperature
+	Hvac Fan Speed
+	Hvac System On
+	Hvac Temperature Driver Side Setting
+	Hvac Temperature Passenger Side Setting
 	Intake Air Tempature
 	Key Fob Commands
 	Lateral Acceleration 1
@@ -74,8 +74,8 @@ Signal Descriptions:
 	Longitudinal Acceleration 1
 	Longitudinal Acceleration 2
 	Low Beams Active
-	MAX AC Active
 	Manifold Pressure 1
+	Max Ac Active
 	Not Torque Applied To The Steering Wheel
 	Odometer
 	Oil Change Range
@@ -106,13 +106,13 @@ Signal Descriptions:
 	System Setting For Active Braking Set To On
 	System Setting For Auto Door Lock When Driving Set To On
 	System Setting Walk Away Closing Set To On
-	TPMS Tell Tale Active
 	Time Days
 	Time Hours
 	Time Minutes
 	Time Month
 	Time Seconds
 	Time Year
+	Tpms Tell Tale Active
 	Traction Control Off Tellale Active
 	Traction Control Tell Tale Active
 	Traction Control Tell Tale Blinking Active

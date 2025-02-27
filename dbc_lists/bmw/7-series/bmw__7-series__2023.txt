@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Bmw '7-Series' (2023)
 Signal Descriptions:
 	Brake Pressure
@@ -9,7 +9,7 @@ Signal Descriptions:
 	Steering Wheel Cruise Control Following Distance Button Active
 	Steering Wheel Cruise Speed Toggle Switch State
 	Steering Wheel Lane Keep Assist Button Active
-	Steering Wheel RES CNCL Button Active
+	Steering Wheel Res Cncl Button Active
 	Steering Wheel Set Button Active
 	Vehicle Speed
 	Wheel Speed Front Left
@@ -19,8 +19,8 @@ Signal Descriptions:
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Ambient Air Temperature
-	Config ECO PRO Individual Driving Dynamic Steering Comfort On
-	Config ECO PRO Individual Driving Dynamic Steering Sport On
+	Config Eco Pro Individual Driving Dynamic Steering Comfort On
+	Config Eco Pro Individual Driving Dynamic Steering Sport On
 	Config Sport Individual Driving Dynamic Engine
 	Config Sport Individual Driving Dynamic Steering Comfort On
 	Config Sport Individual Driving Dynamic Steering Sport On
@@ -42,31 +42,13 @@ Signal Descriptions:
 	Driver Attention Control
 	Driver Heated Seat Button Active
 	Dynamic Stability Control Off
-	ECO PRO Speed Warning On
-	ECO PRO Speed Warning Speed Set
+	Eco Pro Speed Warning On
+	Eco Pro Speed Warning Speed Set
 	Fuel Level
 	Fuel Range
 	Gesture Control On
 	Gesture Count
 	Gesture Input
-	HVAC AC Active
-	HVAC Button Menu Pressed
-	HVAC Climate Zone Temperature Driver
-	HVAC Climate Zone Temperature Passenger
-	HVAC Deicer Rear Active
-	HVAC Driver Auto Setting Active
-	HVAC Driver Blower Position
-	HVAC Driver Fan Speed Set
-	HVAC Driver Temperature Adjust Upper
-	HVAC Max AC Active
-	HVAC Max Deicer Active
-	HVAC Off
-	HVAC Passenger Auto Set Active
-	HVAC Passenger Fan Speed Set
-	HVAC Passenger Temperature Adjust Upper
-	HVAC Recirculation Auto Off
-	HVAC Recirculation Auto On
-	HVAC Recirculation Cabin Air Active
 	Hand Tracking X Axis
 	Hand Tracking Y Axis
 	Hand Tracking Z Axis
@@ -80,6 +62,24 @@ Signal Descriptions:
 	Head Up Display On
 	Head Up Display Rotation
 	Head Up Display Setting
+	Hvac Ac Active
+	Hvac Button Menu Pressed
+	Hvac Climate Zone Temperature Driver
+	Hvac Climate Zone Temperature Passenger
+	Hvac Deicer Rear Active
+	Hvac Driver Auto Setting Active
+	Hvac Driver Blower Position
+	Hvac Driver Fan Speed Set
+	Hvac Driver Temperature Adjust Upper
+	Hvac Max Ac Active
+	Hvac Max Deicer Active
+	Hvac Off
+	Hvac Passenger Auto Set Active
+	Hvac Passenger Fan Speed Set
+	Hvac Passenger Temperature Adjust Upper
+	Hvac Recirculation Auto Off
+	Hvac Recirculation Auto On
+	Hvac Recirculation Cabin Air Active
 	Idrive Button Back Active
 	Idrive Button Com Active
 	Idrive Button Map Active
@@ -187,13 +187,13 @@ Signal Descriptions:
 	Seat Passenger Upper Backrest Forward Switch Active
 	Seatbelt Driver Buckled
 	Seatbelt Passenger Buckled
-	Settings Auto PDC Activation On
+	Settings Auto Pdc Activation On
 	Settings Blind Spot Detection
 	Settings Blind Spot Detection On
-	Settings Config ECO PRO Climate Control On
-	Settings Config ECO PRO Individual Functions Coasting On
-	Settings Config ECO PRO Light And Sight On
-	Settings Config ECO PRO Seat Climate Control On
+	Settings Config Eco Pro Climate Control On
+	Settings Config Eco Pro Individual Functions Coasting On
+	Settings Config Eco Pro Light And Sight On
+	Settings Config Eco Pro Seat Climate Control On
 	Settings Cross Traffic Alert Activate Function On
 	Settings Door Key Acoustic Signal For Lock Unlock Off
 	Settings Door Key Acoustic Signal For Lock Unlock On
@@ -246,13 +246,13 @@ Signal Descriptions:
 	Steering Wheel Button Volume Up Active
 	Steering Wheel Right Scroll Wheel Pressed
 	Steering Wheel Right Scroll Wheel Up
-	TPMS Front Left Tire Pressure
-	TPMS Front Right Tire Pressure
-	TPMS Rear Left Tire Pressure
-	TPMS Rear Right Tire Pressure
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
+	Tpms Front Left Tire Pressure
+	Tpms Front Right Tire Pressure
+	Tpms Rear Left Tire Pressure
+	Tpms Rear Right Tire Pressure
 	Traction Control Off
 	Unit Consumption Setting
 	Unit Distance Set To Km
@@ -316,23 +316,20 @@ Signal Descriptions:
 	Doors Locked
 	Doors Unlocked
 	Driver Seatbelt Buckled
-	Engine Load ALT
+	Engine Load Alt
 	Engine Speed
 	Engine Torque
 	Fuel Level In Liters
 	Fuel Range
-	IC Backlight Level
+	Ic Backlight Level
 	Ignition Button Pressed
 	Left Steering Wheel Up Down Switch
 	Lock Button Pressed
 	Lock State Not Changing
 	Locking Command
-	MIL Tell Tale Active
+	Mil Tell Tale Active
 	Odometer
 	Oil Temperature
-	PRNDL And Gear
-	PRNDL And Gear Alt
-	PRNDL And Gear Alt
 	Paddle Shifter Status
 	Parking Brake Disengaging
 	Parking Brake Engaged
@@ -340,9 +337,12 @@ Signal Descriptions:
 	Passenger Seatbelt Buckled
 	Pedal Accelerator
 	Powermode Engine
+	Prndl And Gear
+	Prndl And Gear Alt
+	Prndl And Gear Alt
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate Alt
-	Throttle Position ALT
+	Throttle Position Alt
 	Time Current Hours
 	Time Current Minutes
 	Time Current Seconds
@@ -403,7 +403,7 @@ Signal Descriptions:
 	Door Trunk Open
 	Doors Locked
 	Doors Unlocked
-	Drive Modes NEED TO FIX Or Delete
+	Drive Modes Need To Fix Or Delete
 	Driver Heated Seat Level
 	Driver Seatbelt Buckled
 	Driving Dynamics Steering Comfort
@@ -415,12 +415,6 @@ Signal Descriptions:
 	Excess Speed Display
 	Fuel Level In Liters
 	Fuel Range
-	HVAC Driver Climate Zone Auto Active
-	HVAC Driver Climate Zone Temperature Set
-	HVAC Driver Dash Baffle Open
-	HVAC Driver Floor Baffle Open
-	HVAC Driver Windscreen Baffle Open
-	HVAC System Active
 	Head Up Display Brightness
 	Head Up Display Height
 	Head Up Display Individual Setting Check Control Messages On
@@ -429,7 +423,13 @@ Signal Descriptions:
 	Head Up Display On
 	Head Up Display Rotation
 	Head Up Display Setting
-	IC Backlight Level
+	Hvac Driver Climate Zone Auto Active
+	Hvac Driver Climate Zone Temperature Set
+	Hvac Driver Dash Baffle Open
+	Hvac Driver Floor Baffle Open
+	Hvac Driver Windscreen Baffle Open
+	Hvac System Active
+	Ic Backlight Level
 	Ignition Button Pressed
 	Instrument Panel Additional Information Active
 	Instrument Panel Converted Speed Active
@@ -441,7 +441,7 @@ Signal Descriptions:
 	Lane Departure Steering Intervention Active
 	Language Selected
 	Left Steering Wheel Up Down Switch
-	Light Stock BC Button State
+	Light Stock Bc Button State
 	Light Stock Position High Beam Momentary State
 	Light Stock Position High Beam State
 	Light Stock Position Lane Chang Left Signal State
@@ -463,7 +463,6 @@ Signal Descriptions:
 	Locking Command
 	Odometer
 	Oil Temperature
-	PRNDL And Gear
 	Paddle Shifter Status
 	Parking Brake Disengaging
 	Parking Brake Engaged
@@ -473,6 +472,7 @@ Signal Descriptions:
 	Pedal Brake Not Pressed
 	Pedal Brake Pressed
 	Powermode Engine
+	Prndl And Gear
 	Read Ambient Light Set To Classic
 	Read Ambient Light Set To Modern
 	Read Interior Light Brightness
@@ -483,7 +483,7 @@ Signal Descriptions:
 	Steering Wheel Angle Alt
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Rate Alt
-	Steering Wheel Button AC Pressed
+	Steering Wheel Button Ac Pressed
 	Steering Wheel Button Arrow Down Pressed
 	Steering Wheel Button Arrow Up Pressed
 	Steering Wheel Button Disc Change Pressed

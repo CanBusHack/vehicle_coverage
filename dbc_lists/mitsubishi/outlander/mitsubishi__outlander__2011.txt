@@ -1,16 +1,16 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Outlander' (2011)
 Signal Descriptions:
-	ABS Tell Tale Active
-	AC Clutch
-	AC Relay Active
-	ASC System Service Required Dash Prompt Active
-	AYC Brake Off Dash Prompt Active
+	Abs Tell Tale Active
 	Absolute Load Value
+	Ac Clutch
+	Ac Relay Active
 	Accelerator Pedal Not Pressed
 	Alternator Use Rate Target
+	Asc System Service Required Dash Prompt Active
 	Autokick Manual Mode Active
 	Automatic Oil Change Indicator Active
+	Ayc Brake Off Dash Prompt Active
 	Brake Fluid Low Active
 	Brake Fluid Sensor Error Active
 	Brake Pressure
@@ -18,9 +18,6 @@ Signal Descriptions:
 	Brake Switch 2
 	Brake System Service Required Dash Prompt Active
 	Brake Tell Tale Active
-	CVT Target Line Pressure
-	CVT Target Line Pressure 1
-	CVT Target Line Pressure 2
 	Charging System Failure
 	Charging System Voltage Low
 	Check Engine Tell Tale On
@@ -33,22 +30,25 @@ Signal Descriptions:
 	Cruise Control Set Tell Tale Active
 	Current Gear
 	Cut Fuel Active
+	Cvt Target Line Pressure
+	Cvt Target Line Pressure 1
+	Cvt Target Line Pressure 2
 	Driver Door Open
 	Driver Door Window Motor Active
 	Driver Seatbelt Not Buckled
-	ECO Active
-	ESP BAS Tell Tale Active
-	ESP Feature Is Completely Disabled
-	ESS Test Mode Active
+	Eco Active
 	Engine Coolant Temperature
 	Engine Cranking
 	Engine Overheat Fan High
 	Engine Overheat Fan Low
 	Engine Running
 	Engine Speed
-	Engine TCL Drive Active
+	Engine Tcl Drive Active
 	Engine Torque
 	Engine Torque Request
+	Esp Bas Tell Tale Active
+	Esp Feature Is Completely Disabled
+	Ess Test Mode Active
 	Front Left Wheel Speed
 	Front Right Wheel Speed
 	Front Wiper
@@ -57,10 +57,10 @@ Signal Descriptions:
 	Fuel Level Gauge Resistance
 	Gas Pedal Not Pressed
 	Glow Plug Tell Tale On
-	HVAC Pressure Sensor
 	Hazards Active
 	High Beams Active
-	Hill Descent ON Below 20 MPH To
+	Hill Descent On Below 20 Mph To
+	Hvac Pressure Sensor
 	Ignition Switch State
 	Intake Air Temperature
 	Inter Cooler Spray Indicator Active
@@ -73,23 +73,23 @@ Signal Descriptions:
 	Low Beams Active
 	Low Beams Stock Position Active
 	Low Fuel Tell Tale Active
-	MAP Sensor
-	MIL Tell Tale Blinking
+	Map Sensor
 	Mass Air Flow Sensor Active
 	Maximum Hard Breaking
+	Mil Tell Tale Blinking
 	Odometer
-	PRNDL
-	PTC Relay 1 Status Active
-	PTC Relay 2 Status Active
-	PTC Relay 3 Status Active
 	Park Neutral Active
 	Parking Brake Active
+	Prndl
+	Ptc Relay 1 Status Active
+	Ptc Relay 2 Status Active
+	Ptc Relay 3 Status Active
 	Radiator Fan 1 Duty Cycle
 	Radiator Fan 2 Duty Cycle
 	Rear Wiper
 	Request Tachometer To Freeze On
 	Right Turn Signal Active
-	SAS Initialization Complete Not
+	Sas Initialization Complete Not
 	Shift In Progress
 	Side Lights Stock Position Active
 	Starter Motor Running
@@ -116,29 +116,29 @@ Signal Descriptions:
 	Water In Fuel Tell Tale On
 	Wheel Speed Rear Left
 	Wheel Speed Rear Right
-	Wheel TCL Drive ABS Active
+	Wheel Tcl Drive Abs Active
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Tell Tale Active
-	AC Condenser Fan
-	AC Condenser Fan Active
-	AFS OFF Tell Tale Active
-	AS G Active
-	AS G Off Active
-	AT Lock Open Active
-	AVG A A Selected At 0 M Is Selected
-	AVG Fuel Trip A
-	AVG Fuel Trip B
-	AVG Speed Trip A
-	AVG Speed Trip B
+	Abs Tell Tale Active
+	Ac Condenser Fan
+	Ac Condenser Fan Active
 	Accelerator Pedal Position
 	Adaptive Front Lighting Service Required Dash Prompt Active
+	Afs Off Tell Tale Active
 	Airbag System Service Required Dash Prompt Active
 	Airbag System Service Required Dash Prompt Active
 	Airbag System Service Required Dash Prompt Active
 	Alarm Activating Dash Prompt Active
 	Alternator Use Rate
+	As G Active
+	As G Off Active
+	At Lock Open Active
+	Avg A A Selected At 0 M Is Selected
+	Avg Fuel Trip A
+	Avg Fuel Trip B
+	Avg Speed Trip A
+	Avg Speed Trip B
 	Battery Voltage
 	Blower Position
 	Brake Switch 1
@@ -152,11 +152,11 @@ Signal Descriptions:
 	Driver Door Open
 	Driver Seatbelt Buckled
 	Driver Seatbelt Not Buckled
-	ESS Service Required Dash Prompt Active
-	ETACS System Error Dash Prompt Active
 	Engine Coolant Temperature
 	Engine Speed
 	Engine System Service Required Dash Prompt Active
+	Ess Service Required Dash Prompt Active
+	Etacs System Error Dash Prompt Active
 	Exterior Lights Tell Tale
 	Fog Lights Tell Tale Active
 	Front Center Radar Active
@@ -166,14 +166,14 @@ Signal Descriptions:
 	Fuel Level Sensor 1
 	Fuel Level Sensor 2
 	Fuel Range
-	HVAC AC Clutch Engaged
-	HVAC AC On
-	HVAC Change Bit
-	HVAC Fan Speed
-	HVAC Pressure
-	HVAC Recirculation Active
-	HVAC Recirculation Not Active
 	High Beam Tell Tale Active
+	Hvac Ac Clutch Engaged
+	Hvac Ac On
+	Hvac Change Bit
+	Hvac Fan Speed
+	Hvac Pressure
+	Hvac Recirculation Active
+	Hvac Recirculation Not Active
 	Immobilizer Active
 	Instant Fuel Usage
 	Instrument Cluster Unit
@@ -184,10 +184,10 @@ Signal Descriptions:
 	Language Setting
 	Left Turn Indicator Active
 	Low Tire Pressure Dash Prompt Active
-	MAP Sensor
-	MIL Tell Tale Active
+	Map Sensor
 	Mass Air Flow Sensor Active
 	Max Compressor Power Active
+	Mil Tell Tale Active
 	Odometer
 	Outside Air Temperature 2
 	Parking Brake Active

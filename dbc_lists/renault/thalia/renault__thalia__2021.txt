@@ -1,8 +1,8 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Renault 'Thalia' (2021)
 Signal Descriptions:
-	ABS Active
-	ABS Computer Current Mileage
+	Abs Active
+	Abs Computer Current Mileage
 	Airbag Front Right Passenger Off
 	Alternator Duty Cycle
 	Ambient Temperature
@@ -13,7 +13,7 @@ Signal Descriptions:
 	Car Lifetime
 	Car Put In Reverse Sound
 	Center Display On
-	Central Lock System Locked By Key FOB
+	Central Lock System Locked By Key Fob
 	Check Auto Lighting
 	Command Unlock Doors
 	Command Unlock Doors And Turn On Hazards
@@ -31,7 +31,7 @@ Signal Descriptions:
 	Dash Prompt Rearelectric Windows Locked
 	Dash Prompt Select Neutral
 	Dash Prompt Steering Wheel Not Locked
-	Dashboard Display Indication CRUISE On
+	Dashboard Display Indication Cruise On
 	Dashboard Speedometer Indication
 	Dashboard Tell Tale Airbag Left On
 	Dashboard Tell Tale Oil Pressure Warning On
@@ -48,8 +48,8 @@ Signal Descriptions:
 	Door Rear Right Open
 	Door Trunk Closed
 	Door Trunk Open
-	ECO Mode On
 	Eco Mode Off
+	Eco Mode On
 	Engine Coolant Temperature
 	Engine Immobiliser Active
 	Engine Off
@@ -60,7 +60,7 @@ Signal Descriptions:
 	Engine Torque Net
 	Engine Torque Reference
 	Flow Rate Function Status Low
-	Flow Rate Function Status OK
+	Flow Rate Function Status Ok
 	Flywheel Signal Detected Qq
 	Flywheel Signal Not Detected Qq
 	Fuel Level
@@ -70,17 +70,17 @@ Signal Descriptions:
 	Gear Reverse Engaged 0 True When Car Off
 	Gear Reverse Not Engaged
 	Gearbox Manual Position Not Neutral
-	HVAC A C Authorisation Yes
-	HVAC Cabin Fan Speed
-	HVAC Change States
-	HVAC Fan Active
-	HVAC Lower Vents Active
-	HVAC Mid Vents Active
-	HVAC Motor Driven Fan Unit Request Active
-	HVAC Recirculation Off
-	HVAC Recirculation On
-	HVAC Upper Vents Active
 	Hazards On
+	Hvac A C Authorisation Yes
+	Hvac Cabin Fan Speed
+	Hvac Change States
+	Hvac Fan Active
+	Hvac Lower Vents Active
+	Hvac Mid Vents Active
+	Hvac Motor Driven Fan Unit Request Active
+	Hvac Recirculation Off
+	Hvac Recirculation On
+	Hvac Upper Vents Active
 	Injection Protection Inactive
 	Inlet Air Temperature
 	Instrument Cluster Dashboard Chime On
@@ -88,7 +88,7 @@ Signal Descriptions:
 	Instrument Cluster Door Front Right Open Alarm
 	Instrument Cluster Door Rear Left Open Alarm
 	Instrument Cluster Door Rear Right Open Alarm
-	Instrument Cluster Warning ABS Chime
+	Instrument Cluster Warning Abs Chime
 	Key Button Unlock Held
 	Key Locking Or Unlocking
 	Key Unlocking Or Button Lock Held
@@ -155,22 +155,22 @@ Signal Descriptions:
 	Start Stop System Activated
 	Start Stop System Deactivated
 	Steering Wheel Angle
-	TPMS Light On
-	TPMS Resetting Values
-	TPMS Service
 	Tell Tale Exhaust Particulate Filter
-	Tell Tale Instrument Cluster ABS Flashing
-	Tell Tale Instrument Cluster ABS On
+	Tell Tale Instrument Cluster Abs Flashing
+	Tell Tale Instrument Cluster Abs On
 	Tell Tale Instrument Cluster Airbag Warning On
 	Tell Tale Instrument Cluster Door Front Left Open
 	Tell Tale Instrument Cluster Door Front Right Open
 	Tell Tale Instrument Cluster Door Rear Left Open
 	Tell Tale Instrument Cluster Door Rear Right Open
-	Tell Tale Instrument Cluster ECO Mode On
+	Tell Tale Instrument Cluster Eco Mode On
 	Tell Tale Instrument Cluster Orange Engine Malfunction Light On
 	Tell Tale Instrument Cluster Traction Control Flashing
 	Tell Tale Instrument Cluster Traction Control On
 	Tell Tale Seatbelt Front Right Passenger Active
+	Tpms Light On
+	Tpms Resetting Values
+	Tpms Service
 	Traction Control System Status
 	Traction Mode
 	Vacuum Sensor Circuit

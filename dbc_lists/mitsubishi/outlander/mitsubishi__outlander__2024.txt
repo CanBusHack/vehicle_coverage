@@ -1,13 +1,13 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Mitsubishi 'Outlander' (2024)
 Signal Descriptions:
-	ADAS Cruise Control Speed Set
-	ADAS Cruise Control Status
-	ADAS Follow Distance Level
-	ASC Traction Control Off
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Cruise Control Speed Set
+	Adas Cruise Control Status
+	Adas Follow Distance Level
 	Ambient Temperature
+	Asc Traction Control Off
 	Brake Emergency Rear Changing To Off
 	Brake Emergency Rear Changing To On
 	Central Lock Active
@@ -43,15 +43,15 @@ Signal Descriptions:
 	Fuel Level
 	Fuel Rate
 	Gear Manual Engaged
-	HUD Brightness Changing To Level
-	HVAC AC Off
-	HVAC AC On
-	HVAC Fan Duty
-	HVAC Window Heater Front Active
-	HVAC Window Heater Rear Active
 	Headlights Active
 	Headlights High Beam Active
 	Headlights Low Beam Active
+	Hud Brightness Changing To Level
+	Hvac Ac Off
+	Hvac Ac On
+	Hvac Fan Duty
+	Hvac Window Heater Front Active
+	Hvac Window Heater Rear Active
 	Ignition On
 	Ignition On
 	Intake Air Temperature
@@ -62,11 +62,6 @@ Signal Descriptions:
 	Malfunction Lamp Flashing
 	Manifold Absolute Pressure Sensor Voltage
 	Odometer
-	PRNDL Position
-	PRNDL Position 1
-	PRNDL Position 2
-	PRNDL Position Not In Park
-	PRNDL Position Park
 	Parking Brake Button Pressed Down
 	Parking Brake Button Pulled Up
 	Parking Brake Engaged
@@ -78,6 +73,11 @@ Signal Descriptions:
 	Pedal Brake Position
 	Pedal Brake Pressed
 	Power Mode Status
+	Prndl Position
+	Prndl Position 1
+	Prndl Position 2
+	Prndl Position Not In Park
+	Prndl Position Park
 	Seat Driver Adjust Backrest Backward Pressed
 	Seat Driver Adjust Backrest Forward Pressed
 	Seat Driver Adjust Height Button Down Pressed
@@ -90,8 +90,8 @@ Signal Descriptions:
 	Seatbelt Front Passenger No Violation
 	Seatbelt Front Passenger Unfastened
 	Seatbelt Front Passenger Violation
-	Settings ASC Traction Control Changing To Off
-	Settings ASC Traction Control Changing To On
+	Settings Asc Traction Control Changing To Off
+	Settings Asc Traction Control Changing To On
 	Settings Unit Distance Metric
 	Settings Unit Distance Miles
 	Speed Adjust By Route Setting Changing To Off
@@ -108,10 +108,10 @@ Signal Descriptions:
 	Starter Motor Active
 	Starter Motor Active
 	Starter Motor Not Active
-	Steering Wheel ADAS Panel Button Pressed
+	Steering Wheel Adas Panel Button Pressed
 	Steering Wheel Angle
 	Steering Wheel Motor Rotation Speed
-	TELL TALE
+	Tell Tale
 	Throttle Position Closed
 	Tire Pressure Front Left
 	Tire Pressure Front Right
@@ -174,16 +174,16 @@ Signal Descriptions:
 	Driver Seat Back Recline Active
 	Driver Seat Seat Moving Back
 	Driver Seat Seat Moving Forward
-	Driver Side HVAC Blower Position
-	Driver Side HVAC Percentage Of Heat
+	Driver Side Hvac Blower Position
+	Driver Side Hvac Percentage Of Heat
 	Driving Position Exit Seat Slide Off
 	Driving Position Exit Seat Slide On
 	Engine Speed
-	Front HVAC Fan Speed
+	Front Hvac Fan Speed
 	Front Max Defrost Active
 	Front Windshield Heater Active
 	Fuel Level Voltage
-	Head Up Display TEL SMS Setting Off
+	Head Up Display Tel Sms Setting Off
 	Heads Up Display Audio Setting Off
 	Heads Up Display Audio Setting On
 	Heads Up Display Driving Assist Setting Off
@@ -199,10 +199,10 @@ Signal Descriptions:
 	Max Speed Sign In Yellow
 	Maximum Speed 1
 	Maximum Speed 2
-	Passenger Side HVAC Blower Position
-	Passenger Side HVAC Percentage Of Heat
+	Passenger Side Hvac Blower Position
+	Passenger Side Hvac Percentage Of Heat
 	Rear Defrost Active
-	Rear HVAC Percentage Of Heat
+	Rear Hvac Percentage Of Heat
 	Rear Seat Alert Changing Setting
 	Seat Memory Buttons
 	Traffic Sign Icon Display 1
@@ -213,7 +213,7 @@ Signal Descriptions:
 	Wipers Speed Sensing Changing To On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ASC Off
+	Asc Off
 	Brake Switch Not Pressed
 	Brake Switch Pressed
 	Car In Motion
@@ -223,12 +223,12 @@ Signal Descriptions:
 	Left Indicator Active
 	Left Indicator Status Active
 	Manual Active
-	PRNDL
-	PRNDL
-	PRNDL At Rest
-	PRNDL Pulled Back
-	PRNDL Pushed Forward
 	Park Button Pressed
+	Prndl
+	Prndl
+	Prndl At Rest
+	Prndl Pulled Back
+	Prndl Pushed Forward
 	Rate Of Steering Wheel Change Or Steering Wheel Torque
 	Request Driving Mode
 	Right Indicator Active

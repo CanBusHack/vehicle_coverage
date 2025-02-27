@@ -1,7 +1,7 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Jeep 'Compass' (2021)
 Signal Descriptions:
-	ADAS Lane Assist Alert Active
+	Adas Lane Assist Alert Active
 	Alarm Status
 	Alternator Fault
 	Ambient Relative Humidity
@@ -10,16 +10,16 @@ Signal Descriptions:
 	Ambient Temperature Outside
 	Ambient Temperature Outside C
 	Ambient Temperature Outside F
-	Amp CAN Error State
-	BCM CAN Error State
+	Amp Can Error State
 	Battery State Extremely Low
+	Bcm Can Error State
 	Brake Light Status
-	CAN Bus Error Centerstack
-	CAN Bus Error Climate
-	CAN Bus Error Telematic
+	Can Bus Error Centerstack
+	Can Bus Error Climate
+	Can Bus Error Telematic
 	Chime Rear Volume
 	Chime Volume
-	Current Fail Status AMP
+	Current Fail Status Amp
 	Current Fail Status Centerstack
 	Current Fail Status Climate
 	Current Fail Status Telematic
@@ -35,58 +35,58 @@ Signal Descriptions:
 	Door Trunk Handsfree Active
 	Door Trunk Hatch Closed
 	Door Trunk Open
-	EOL Programming
-	EOL Programming Active
-	EOL Programming Centerstack
-	EOL Programming Climate
-	EOL Programming Telematic
 	Engine Coolant Temperature
 	Engine Off Timer
 	Engine Speed
 	Engine Status
-	FOB Function Requested
-	FOB Memory Request
-	FOB Memory Request Index
-	FOB RF Index
-	FOB Request
-	FOB Trunk Button Active
+	Eol Programming
+	Eol Programming Active
+	Eol Programming Centerstack
+	Eol Programming Climate
+	Eol Programming Telematic
+	Fob Function Requested
+	Fob Memory Request
+	Fob Memory Request Index
+	Fob Request
+	Fob Rf Index
+	Fob Trunk Button Active
 	Fuel Level
 	Fuel Level Low Tell Tale On
-	Generic Failure Status AMP
-	Generic Failure Status BCM
+	Generic Failure Status Amp
+	Generic Failure Status Bcm
 	Generic Failure Status Centersta
 	Generic Failure Status Climate
 	Generic Failure Status Telematic
-	HVAC AC Compressor Request
-	HVAC AC Current Output
-	HVAC AC Pressure
-	HVAC AC Request
-	HVAC AC Tell Tale Status
-	HVAC Auto Tell Tale Status
-	HVAC Blower Control Status
-	HVAC Blower Direction Mode
-	HVAC Blower Speed
-	HVAC Button Defrost Pressed
-	HVAC Button Max AC Pressed
-	HVAC Compressor Status
-	HVAC Defrost Window Rear Active
-	HVAC Defrost Window Rear Request
-	HVAC Function Request
-	HVAC Jump Value
-	HVAC Max AC Request
-	HVAC Max AC Tell Tale Status
-	HVAC Max Defrost Active
-	HVAC Mode Auto Request
-	HVAC Mode Floor Request
-	HVAC Mode Panel Request
-	HVAC Power On
-	HVAC Recirculation Request
-	HVAC Recirculation Status
-	HVAC Start Stop Climate Data
-	HVAC Synchronize Status
-	HVAC Synchronize Temperature Request
-	HVAC Temperature Driver
-	HVAC Temperature Passenger
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Pressure
+	Hvac Ac Request
+	Hvac Ac Tell Tale Status
+	Hvac Auto Tell Tale Status
+	Hvac Blower Control Status
+	Hvac Blower Direction Mode
+	Hvac Blower Speed
+	Hvac Button Defrost Pressed
+	Hvac Button Max Ac Pressed
+	Hvac Compressor Status
+	Hvac Defrost Window Rear Active
+	Hvac Defrost Window Rear Request
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Ac Request
+	Hvac Max Ac Tell Tale Status
+	Hvac Max Defrost Active
+	Hvac Mode Auto Request
+	Hvac Mode Floor Request
+	Hvac Mode Panel Request
+	Hvac Power On
+	Hvac Recirculation Request
+	Hvac Recirculation Status
+	Hvac Start Stop Climate Data
+	Hvac Synchronize Status
+	Hvac Synchronize Temperature Request
+	Hvac Temperature Driver
+	Hvac Temperature Passenger
 	Infotainment Audio Amp Muted
 	Infotainment Audio Amp Status
 	Infotainment Sound Surround Available
@@ -104,12 +104,12 @@ Signal Descriptions:
 	Lighting Cabin Level
 	Load Active In Master
 	Odometer
-	PRNDL Position
 	Panic Mode
 	Parking Brake Engaged
 	Power Distribution Mode
 	Power Mode Status
 	Power Mode Status Centerstack
+	Prndl Position
 	Radio Button 0 Pressed
 	Radio Button 1 Pressed
 	Radio Button 2 Pressed
@@ -138,7 +138,7 @@ Signal Descriptions:
 	Seat Heated W Command
 	Seat Heater W Fault
 	Seat Heater W Status
-	Slave Load Active AMP
+	Slave Load Active Amp
 	Slave Load Active Centerstack
 	Slave Load Active Climate
 	Slave Load Active Telematic
@@ -146,7 +146,7 @@ Signal Descriptions:
 	Start Remote Active
 	Start Stop System Engine Status
 	Start Stop System Switch Status
-	System Status AMP
+	System Status Amp
 	System Status Centerstack
 	System Status Climate
 	System Status Telematic
@@ -156,21 +156,21 @@ Signal Descriptions:
 	Telematics Power Status
 	Time Hour Ones
 	Time Hour Tens
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Warning Indication Mode
 	Wheel Front Left Sensor Fault
 	Wheel Front Right Sensor Fault
 	Wheel Rear Left Sensor Fault
 	Wheel Rear Right Sensor Fault
-	Windows FOB Control Active
+	Windows Fob Control Active
 	Wiper Front Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Lane Keep Alert On
+	Adas Lane Keep Alert On
 	Alternator Fault
 	Ambient Relative Humidity
 	Ambient Temperature Dew Point
@@ -192,13 +192,13 @@ Signal Descriptions:
 	Audio Player Surround Sound Active
 	Audio Player Treble Setting
 	Audio Player Volume
-	BCM CAN Error State
 	Battery State Extremely Low
+	Bcm Can Error State
 	Brake Light Active
-	CAN Bus Error Centerstack
-	CAN Bus Error Climate
-	CAN Bus Error Telematic
 	Cabin Light Level
+	Can Bus Error Centerstack
+	Can Bus Error Climate
+	Can Bus Error Telematic
 	Chime Rear Volume
 	Chime Volume
 	Current Fail Status Centerstack
@@ -215,56 +215,56 @@ Signal Descriptions:
 	Door Trunk Hatch Open
 	Door Trunk Open
 	Driver Easy Exit On
-	EOL Programming
-	EOL Programming Centerstack
-	EOL Programming Climate
-	EOL Programming Telematic
 	Engine Coolant Temperature
 	Engine Off Timer
 	Engine Running Status
 	Engine Speed
 	Engine Status
-	FOB Windows Control Active
+	Eol Programming
+	Eol Programming Centerstack
+	Eol Programming Climate
+	Eol Programming Telematic
+	Fob Windows Control Active
 	Front Wiper Active
 	Fuel Level
 	Fuel Low Tell Tale Status
 	Fuel Rate Displayed
-	Generic Failure Status BCM
+	Generic Failure Status Bcm
 	Generic Failure Status Centersta
 	Generic Failure Status Climate
 	Generic Failure Status Telematic
-	HVAC AC Active
-	HVAC AC Compressor Request
-	HVAC AC Current Output
-	HVAC AC Max Active
-	HVAC AC Pressure
-	HVAC AC Tell Tale Status
-	HVAC Auto Tell Tale Status
-	HVAC Blower Control Status
-	HVAC Blower Direction Mode
-	HVAC Blower Speed
-	HVAC Compressor Status
-	HVAC Defrost Front Active
-	HVAC Defrost Rear Active
-	HVAC Defroster Rear Request
-	HVAC Evaporator Temperature
-	HVAC Function Request
-	HVAC Jump Value
-	HVAC Max AC Tell Tale Status
-	HVAC Max Defrost Active
-	HVAC Max Defrost Status
-	HVAC Mode Auto Active
-	HVAC Mode Floor
-	HVAC Mode Panel
-	HVAC Power On
-	HVAC Recirculation Active
-	HVAC Recirculation Status
-	HVAC Sync Temperature Request
-	HVAC Synchronize Status
-	HVAC Temperature Driver
-	HVAC Temperature Passenger
 	Handsfree Liftgate
 	Heater Wheel Command
+	Hvac Ac Active
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Max Active
+	Hvac Ac Pressure
+	Hvac Ac Tell Tale Status
+	Hvac Auto Tell Tale Status
+	Hvac Blower Control Status
+	Hvac Blower Direction Mode
+	Hvac Blower Speed
+	Hvac Compressor Status
+	Hvac Defrost Front Active
+	Hvac Defrost Rear Active
+	Hvac Defroster Rear Request
+	Hvac Evaporator Temperature
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Ac Tell Tale Status
+	Hvac Max Defrost Active
+	Hvac Max Defrost Status
+	Hvac Mode Auto Active
+	Hvac Mode Floor
+	Hvac Mode Panel
+	Hvac Power On
+	Hvac Recirculation Active
+	Hvac Recirculation Status
+	Hvac Sync Temperature Request
+	Hvac Synchronize Status
+	Hvac Temperature Driver
+	Hvac Temperature Passenger
 	Ignition Off Time
 	Key Position Status
 	Language Selection
@@ -277,10 +277,10 @@ Signal Descriptions:
 	Outside Air Temperature
 	Outside Air Temperature In Deg C
 	Outside Air Temperature In Deg F
-	PRNDL Position
 	Panic Mode Active
 	Parking Brake Engaged
 	Precondition Cabin Status
+	Prndl Position
 	Rear Fog Light Active
 	Right Side Parking Lamp Active
 	Right Side Turn Signal Active
@@ -303,11 +303,11 @@ Signal Descriptions:
 	System Wake Status
 	Time Hour Ones
 	Time Hour Tens
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Warnings Delivery Mode
 	Wheel Front Left Sensor Fault
 	Wheel Front Right Sensor Fault
@@ -315,31 +315,31 @@ Signal Descriptions:
 	Wheel Rear Right Sensor Fault
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Blind Spot Chime Front Left Active
-	ADAS Blind Spot Chime Front Right Active
-	ADAS Blind Spot Chime Rear Left Active
-	ADAS Blind Spot Chime Rear Right Active
-	ADAS Blind Spot Sensor Active
-	ADAS Blind Spot Sensor Request
-	ADAS Seat Vibration Level
+	Adas Blind Spot Chime Front Left Active
+	Adas Blind Spot Chime Front Right Active
+	Adas Blind Spot Chime Rear Left Active
+	Adas Blind Spot Chime Rear Right Active
+	Adas Blind Spot Sensor Active
+	Adas Blind Spot Sensor Request
+	Adas Seat Vibration Level
 	Chime Priority
 	Chime Repeat Rate
 	Chime Type
 	Lights Reverse Active
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Blind Spot Chime Front Left Active
-	ADAS Blind Spot Chime Front Right Active
-	ADAS Blind Spot Chime Rear Left Active
-	ADAS Blind Spot Chime Rear Right Active
-	ADAS Blind Spot Sensor Active
-	ADAS Blind Spot Sensor Request
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Blind Spot Chime Front Left Active
+	Adas Blind Spot Chime Front Right Active
+	Adas Blind Spot Chime Rear Left Active
+	Adas Blind Spot Chime Rear Right Active
+	Adas Blind Spot Sensor Active
+	Adas Blind Spot Sensor Request
 	Alarm Status
 	Ambient Temperature Outside
 	Ambient Temperature Outside Sensor Voltage
-	BMS Error Detected
+	Bms Error Detected
 	Chime Priority
 	Chime Repeat Rate
 	Chime Type
@@ -370,9 +370,9 @@ Signal Descriptions:
 	Lights Indicator Left Active
 	Lights Indicator Right Active
 	Odometer
-	PRNDL Position
 	Power Mode Status
 	Power Mode Status
+	Prndl Position
 	Seat Front Driver Button Memory Status
 	Seat Front Driver Heater Command
 	Seat Front Driver Memory Save Request
@@ -394,33 +394,14 @@ Signal Descriptions:
 	Time Hour Tens
 	Time Minute Ones
 	Time Minute Tens
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Acceleration Request
-	ADAS Brake Prefill Request
-	ADAS Chime Left Front Request
-	ADAS Chime Type
-	ADAS Cruise Control Button CANC Pressed
-	ADAS Cruise Control Button Decrease Pressed
-	ADAS Cruise Control Button Increase Pressed
-	ADAS Cruise Control Button On Pressed
-	ADAS Cruise Control Button RES Pressed
-	ADAS Cruise Control Cancel Request
-	ADAS Cruise Control On
-	ADAS Display Request
-	ADAS Engine Torque Request Enabled
-	ADAS Engine Torque Requested
-	ADAS Fault Status
-	ADAS Function Request
-	ADAS Right Front Chime Request S
-	ADAS Speed Limiter On
-	ADAS Speed Set
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Accessory Drive System Enabled
@@ -428,13 +409,32 @@ Signal Descriptions:
 	Accessory Drive System Fuel Cutoff Disabled
 	Accessory Drive System Request
 	Accessory Drive System Still Command
+	Adas Acceleration Request
+	Adas Brake Prefill Request
+	Adas Chime Left Front Request
+	Adas Chime Type
+	Adas Cruise Control Button Canc Pressed
+	Adas Cruise Control Button Decrease Pressed
+	Adas Cruise Control Button Increase Pressed
+	Adas Cruise Control Button On Pressed
+	Adas Cruise Control Button Res Pressed
+	Adas Cruise Control Cancel Request
+	Adas Cruise Control On
+	Adas Display Request
+	Adas Engine Torque Request Enabled
+	Adas Engine Torque Requested
+	Adas Fault Status
+	Adas Function Request
+	Adas Right Front Chime Request S
+	Adas Speed Limiter On
+	Adas Speed Set
 	Airbag System Fault
 	Airbag Tell Tale Flashing
 	Alarm Status
 	Alarm Status
 	All Doors Unlocked
 	Ambient Temperature Outside Sensor Voltage
-	BMS Error Detected
+	Bms Error Detected
 	Brake Jerk Requested
 	Brake Oil Pressure
 	Crank Enabled
@@ -462,16 +462,16 @@ Signal Descriptions:
 	Engine Torque Actual
 	Engine Torque Driver Request
 	Engine Torque Driver Request Valid
-	Engine Torque Enabled Request AD
+	Engine Torque Enabled Request Ad
 	Engine Torque Maximum
 	Engine Torque Maximum Valid
 	Engine Torque Minimum
-	Engine Torque Request TCM
-	Engine Torque Request TCM Slow
-	FOB Function Requested
-	FOB RF Index
-	FOB Request
-	FOB Trunk Button Active
+	Engine Torque Request Tcm
+	Engine Torque Request Tcm Slow
+	Fob Function Requested
+	Fob Request
+	Fob Rf Index
+	Fob Trunk Button Active
 	Fuel Level
 	Fuel Low Tell Tale Active
 	Fuel Rate Instantaneous
@@ -481,11 +481,11 @@ Signal Descriptions:
 	Gear Engaged
 	Gear Manual Engaged
 	Gear Target
-	HVAC Evaporator Temperature
 	Headlight High Beam Active
 	Headlights High Beam Active
 	Headlights Low Beam Active
 	Heater Wheel Command
+	Hvac Evaporator Temperature
 	Ignition Status
 	Impact Command Activate
 	Impact Verify Activate
@@ -498,15 +498,13 @@ Signal Descriptions:
 	Lights Fog Rear Active
 	Lights Indicator Left Active
 	Lights Indicator Right Active
-	MIL Tell Tale EOBD Error
 	Malfunction Lamp Active
 	Master Cylinder Pressure
 	Max Desired Torque
+	Mil Tell Tale Eobd Error
 	Neutral Safety Switch Status
 	Odometer
 	Outside Air Temperature
-	PRNDL Position Actual
-	PRNDL Position Target
 	Parking Brake Engaged
 	Parking Brake Released
 	Pedal Accelerator Position
@@ -515,6 +513,8 @@ Signal Descriptions:
 	Power Distribution Status
 	Power Mode Status
 	Precondition Cabin Status
+	Prndl Position Actual
+	Prndl Position Target
 	Safe Torque Off Torque Converter
 	Seat Front Driver Button Memory Status
 	Seat Front Driver Memory Save Request
@@ -530,8 +530,8 @@ Signal Descriptions:
 	Spin Direction Rear Right
 	Start Remote Active
 	Steering Wheel Angle
-	TCM Vehicle Hold Active Request
-	TCM Vehicle Hold Request Valid
+	Tcm Vehicle Hold Active Request
+	Tcm Vehicle Hold Request Valid
 	Throttle Position Sensor
 	Time Current Hour Ones
 	Time Current Hour Tens
@@ -556,12 +556,12 @@ Signal Descriptions:
 	Transmission Temperature
 	Transmission Temperature Fault
 	Turbine Speed
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
 	Vehicle Speed Displayed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Wheel Speed Front Left
 	Wheel Speed Front Right
 	Wheel Speed Rear Left
@@ -569,31 +569,31 @@ Signal Descriptions:
 	Yaw Rate
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ADAS Acceleration Request
-	ADAS Adaptive Cruise Control Follow Distance Decrease Request
-	ADAS Adaptive Cruise Control Follow Distance Increase Request
-	ADAS Adaptive Cruise Control On
-	ADAS Brake Prefill Request
-	ADAS Chime Left Front Request
-	ADAS Chime Type
-	ADAS Cruise Control Cancel Request
-	ADAS Cruise Control Fault
-	ADAS Cruise Control On
-	ADAS Cruise Control Resume Request
-	ADAS Display Request
-	ADAS Engine Torque Request Enabled
-	ADAS Engine Torque Requested
-	ADAS Fault Status
-	ADAS Function Request
-	ADAS Lane Keep Alert On
-	ADAS Right Front Chime Request S
-	ADAS Seat Vibration Request
-	ADAS Speed Limiter On
 	Accessory Drive System Enabled
 	Accessory Drive System Engaged
 	Accessory Drive System Fuel Cutoff Disabled
 	Accessory Drive System Request
 	Accessory Drive System Still Command
+	Adas Acceleration Request
+	Adas Adaptive Cruise Control Follow Distance Decrease Request
+	Adas Adaptive Cruise Control Follow Distance Increase Request
+	Adas Adaptive Cruise Control On
+	Adas Brake Prefill Request
+	Adas Chime Left Front Request
+	Adas Chime Type
+	Adas Cruise Control Cancel Request
+	Adas Cruise Control Fault
+	Adas Cruise Control On
+	Adas Cruise Control Resume Request
+	Adas Display Request
+	Adas Engine Torque Request Enabled
+	Adas Engine Torque Requested
+	Adas Fault Status
+	Adas Function Request
+	Adas Lane Keep Alert On
+	Adas Right Front Chime Request S
+	Adas Seat Vibration Request
+	Adas Speed Limiter On
 	Alarm Status
 	Alarm Status
 	Alternator Fault
@@ -619,22 +619,22 @@ Signal Descriptions:
 	Audio Player Surround Sound Active
 	Audio Player Treble Setting
 	Audio Player Volume
-	BMS Error Detected
-	BMS Lateral Acceleration
-	BMS Longitudinal Acceleration
-	BMS Yaw Rate
 	Battery State Extremely Low
-	Brake Booster Vacuum Voltage OBD
+	Bms Error Detected
+	Bms Lateral Acceleration
+	Bms Longitudinal Acceleration
+	Bms Yaw Rate
+	Brake Booster Vacuum Voltage Obd
 	Brake Jerk Requested
 	Brake Light Active
 	Brake Light Status
-	CAN Bus Error State OCM
 	Cabin Light Level
+	Can Bus Error State Ocm
 	Centerstack Display Status
 	Chime Rear Volume
 	Chime Volume
 	Crank Enabled
-	Current Fail Status OCM
+	Current Fail Status Ocm
 	Date Current Day Ones
 	Date Current Day Tens
 	Date Current Month Ones
@@ -653,7 +653,6 @@ Signal Descriptions:
 	Door Trunk Hatch Open
 	Door Trunk Open
 	Driver Easy Exit On
-	EOL Programming OCM
 	Engine Coolant Temperature
 	Engine Fan Status
 	Engine Limp Home Mode Active
@@ -666,15 +665,16 @@ Signal Descriptions:
 	Engine Status
 	Engine Torque Driver Request
 	Engine Torque Driver Request Valid
-	Engine Torque Enabled Request AD
+	Engine Torque Enabled Request Ad
 	Engine Torque Maximum
 	Engine Torque Maximum Valid
 	Engine Torque Minimum
-	Engine Torque Request TCM
-	Engine Torque Request TCM Slow
-	FOB Function Request
-	FOB Index
-	FOB Windows Control Active
+	Engine Torque Request Tcm
+	Engine Torque Request Tcm Slow
+	Eol Programming Ocm
+	Fob Function Request
+	Fob Index
+	Fob Windows Control Active
 	Front Wiper Active
 	Fuel Level
 	Fuel Level
@@ -684,32 +684,32 @@ Signal Descriptions:
 	Fuel Sensor 2 Voltage
 	Gear Current
 	Gear Target
-	Generic Failure Status OCM
-	HVAC AC Active
-	HVAC AC Compressor Request
-	HVAC AC Current Output
-	HVAC AC Max Active
-	HVAC AC Pressure
-	HVAC Compressor Status
-	HVAC Defrost Front Active
-	HVAC Defrost Rear Active
-	HVAC Defroster Rear Request
-	HVAC Evaporator Temperature
-	HVAC Function Request
-	HVAC Jump Value
-	HVAC Max Defrost Active
-	HVAC Max Defrost Status
-	HVAC Mode Auto Active
-	HVAC Mode Floor
-	HVAC Mode Panel
-	HVAC Power On
-	HVAC Recirculation Active
-	HVAC Sync Temperature Request
+	Generic Failure Status Ocm
 	Handsfree Liftgate
 	Heater Wheel Command
 	Heater Wheel Fault
 	Heater Wheel Status
 	High Beam Active
+	Hvac Ac Active
+	Hvac Ac Compressor Request
+	Hvac Ac Current Output
+	Hvac Ac Max Active
+	Hvac Ac Pressure
+	Hvac Compressor Status
+	Hvac Defrost Front Active
+	Hvac Defrost Rear Active
+	Hvac Defroster Rear Request
+	Hvac Evaporator Temperature
+	Hvac Function Request
+	Hvac Jump Value
+	Hvac Max Defrost Active
+	Hvac Max Defrost Status
+	Hvac Mode Auto Active
+	Hvac Mode Floor
+	Hvac Mode Panel
+	Hvac Power On
+	Hvac Recirculation Active
+	Hvac Sync Temperature Request
 	Ignition Off Time
 	Impact Command Activate
 	Impact Verify Activate
@@ -724,8 +724,8 @@ Signal Descriptions:
 	Left Turn Signal Status
 	Lighting Ambient Level
 	Low Beam Status
-	MIL Tell Tale EOBD Error
 	Max Desired Torque
+	Mil Tell Tale Eobd Error
 	Navigation Displayed On Instrument Cluster
 	Neutral Safety Switch Status
 	Odometer
@@ -735,7 +735,6 @@ Signal Descriptions:
 	Outside Air Temperature In Deg C
 	Outside Air Temperature In Deg F
 	Outside Air Temperature Sensor Voltage
-	PRNDL Position
 	Panic Mode Active
 	Parking Brake Engaged
 	Pedal Accelerator Position
@@ -744,6 +743,7 @@ Signal Descriptions:
 	Pedal Brake Pressed
 	Power Distribution Status
 	Precondition Cabin Status
+	Prndl Position
 	Radio Frequency Requestor
 	Rear Fog Light Active
 	Rear Fog Light Status
@@ -784,8 +784,8 @@ Signal Descriptions:
 	Start Stop Climate Data
 	Start Stop Engine Status
 	Start Stop Tell Tale Status
-	TCM Vehicle Hold Active Request
-	TCM Vehicle Hold Request Valid
+	Tcm Vehicle Hold Active Request
+	Tcm Vehicle Hold Request Valid
 	Time Current Hour Ones
 	Time Current Hour Tens
 	Time Current Minute Ones
@@ -806,12 +806,12 @@ Signal Descriptions:
 	Transmission Temperature Fault
 	Trunk Button Active
 	Turbine Speed
-	VIN Character 1 To 7
-	VIN Character 15 To 17
-	VIN Character 8 To 14
-	VIN Index
 	Vehicle Speed
 	Vehicle Speed
+	Vin Character 1 To 7
+	Vin Character 15 To 17
+	Vin Character 8 To 14
+	Vin Index
 	Warnings Delivery Mode
 	Wheel Front Left Sensor Fault
 	Wheel Front Right Sensor Fault

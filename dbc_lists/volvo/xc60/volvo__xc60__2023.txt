@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Volvo 'Xc60' (2023)
 Signal Descriptions:
 	Accelerator Pedal Position
@@ -14,9 +14,9 @@ Signal Descriptions:
 	Engine Coolant Temperature
 	Engine Speed
 	Front Axle Drive Torque
-	HV Charging State
-	HV Plug State
 	High Voltage System Current
+	Hv Charging State
+	Hv Plug State
 	Odometer
 	Off Road Mode Active
 	Passenger Door Closed
@@ -26,10 +26,10 @@ Signal Descriptions:
 	Steering Wheel Angle
 	Steering Wheel Rate
 	Temperature In F Active
-	VIN Part 1
-	VIN Part 2
-	VIN Part 3
 	Vehicle Speed
+	Vin Part 1
+	Vin Part 2
+	Vin Part 3
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
 	Accelerator Pedal Position
@@ -72,15 +72,15 @@ Signal Descriptions:
 	Fuel Level
 	Fuel Tank Ready For Refueling
 	Gas Range
-	HV Battery State Of Charge
-	HV Charger Plugged In
-	HVAC AC Active
-	HVAC Blower
-	HVAC Fan Speed
-	HVAC Heated Seat Front Driver Level
-	HVAC Heated Seat Front Passenger Level
 	Headlights Off
 	Headlights Parking Lights On
+	Hv Battery State Of Charge
+	Hv Charger Plugged In
+	Hvac Ac Active
+	Hvac Blower
+	Hvac Fan Speed
+	Hvac Heated Seat Front Driver Level
+	Hvac Heated Seat Front Passenger Level
 	Lights Hazards On
 	Lights Low Beams Active
 	Lights Set To Auto
@@ -91,7 +91,7 @@ Signal Descriptions:
 	Lock Control Driver Unlock Button Pressed
 	Max Front Defroster Active
 	Max Front Defroster Not Active
-	Mirror Passenger XY Change Request
+	Mirror Passenger Xy Change Request
 	Mirrors Folding
 	Moonroof Cover Open Percent
 	Moonroof Window Open Percent
@@ -127,11 +127,11 @@ Signal Descriptions:
 	Time Displayed Hours
 	Time Displayed Minutes
 	Time Displayed Seconds
-	VIN 1Of3
-	VIN 1Of3
-	VIN 1Of3
 	Vehicle Speed
 	Vehicle Speed
+	Vin 1Of3
+	Vin 1Of3
+	Vin 1Of3
 	Window Child Lock Active
 	Window Child Lock Inactive
 	Window Front Driver Open Percent

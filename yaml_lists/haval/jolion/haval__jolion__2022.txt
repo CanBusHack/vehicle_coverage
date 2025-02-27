@@ -1,26 +1,6 @@
 Version 0.3 Copyright CanBusHack 2024
 Platform: Haval 'Jolion' (2022)
 Signal Descriptions:
-	Automatic Parking Assist (Apa) System Status Information
-	Backlight Info - Pointer Brightness Level
-	Cruise Vehicle Speed Setting
-	Current Service Mileage
-	Diagnostic Information - Security Level
-	Diagnostic Information - Session Mode
-	Driving Time - Hours
-	Driving Time - Minutes
-	Kl30 Analog/Digital Conversion Value
-	Odometer (Total Mileage) Message - Odometer (Total Mileage) Kilometers
-	Sound Information - Sound Option
-	Sound Information - Sound Type
-	Warning Light Information-Front Fog Lamp
-	Warning Light Information-High Beam Indicator Light
-	Warning Light Information-Rear Fog Lamp
-	Warning Light Information-Turn Left Lamp
-	Water Temperature Segment Jump Point Retardation 1 (Except For 6Th Segment To 5Th Segment)
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
 	Diagnosis Active Dialog
 	Ecu Internal Measuring Voltage
 	Guidance Signal
@@ -84,30 +64,6 @@ Signal Descriptions:
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Hour
-	Operation Voltage
-	Speed
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Controller Temperature
-	Drive Motor Actual Speed
-	Life Cycle State Switching
-	Life Cycle Status Read
-	Mileage
-	Number Of Security Access Errors
-	Operation Voltage
-	Quick Horizontal Deviation Angle
-	Quick Vertical Deviation Angle
-	Radar Installation Position
-	Radar Pin Angle Position
-	Rev
-	Slow Horizontal Deviation Angle
-	Slow Vertical Deviation Angle
-	Speed
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
 	Current Aftershocks Of Left Rear Center Probe
 	Current Aftershocks Of The Left Front Center Probe
 	Current Aftershocks Of The Left Front Corner Probe
@@ -128,13 +84,18 @@ Signal Descriptions:
 	Left Rear Center Probe Residual Vibration Value
 	Left Rear Corner Probe Current Residual Vibration
 	Left Rear Corner Probe Residual Vibration Value
+	Left Rear Probe Current Residual Value
+	Left Rear Probe Current Residual Value
+	Left Rear Probe Current Residual Vibration
 	Left Rear Probe Residual Vibration Value
 	Low-Speed Emergency Braking (Meb) Current Working Status
 	Maneuver Emergency Brake (Meb) Current Working Status
 	Obstacle Distance Detected By Right Rear Center Probe
 	Obstacle Distance Detected By Right Rear Corner Probe
 	Obstacle Distance Detected By Right Rear Probe
+	Obstacle Distance Detected By Right Rear Probe
 	Rear Parking Auxiliary System (Rpas) Current Working Status
+	Rear Parking Auxiliary System (Rpas) Working Status
 	Residual Vibration Value Of Left Front Center Probe
 	Residual Vibration Value Of Left Front Corner Probe
 	Residual Vibration Value Of Left Front Side Probe
@@ -149,13 +110,6 @@ Signal Descriptions:
 	The Current Aftershocks Of The Left Rear Probe
 	The Distance At Which The Left Rear Corner Probe Detects Obstacles
 	The Distance At Which The Right Front Corner Probe Detects Obstacles
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Coil 1 Calibration Value
-	Coil 1 Digital Pin Strength
-	Coil 1 Temperature Ad Value
-	Smart Key Learning Status
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -223,12 +177,6 @@ Signal Descriptions:
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Steering Angle
-	Steering Wheel Angle Speed
-	Steering Wheel Angle Status
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
 	Child Safety Lock
 	Fuse Box Input Voltage
 	Hard Wire Input Status - Ignition Switch
@@ -250,51 +198,6 @@ Signal Descriptions:
 	Reverse Light
 	Trunk Lid Lock
 	Turn Left Lamp Output
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Child Safety Lock
-	Fuse Box Input Voltage
-	Hard Wire Input Status - Ignition Switch
-	Hard Wire Input Status - Left Brake Lamp Fault
-	Hard Wire Input Status - Left Child Lock Status Acquisition
-	Hard Wire Input Status - Left Position Lamp Fault
-	Hard Wire Input Status - Right Brake Lamp Fault
-	Hard Wire Input Status - Right Position Lamp Fault
-	Hard Wire Input Status - Trunk Lid
-	Hard Wire Input Status - Wiper Homing
-	Left Brake Light
-	Left Daytime Running Light
-	License Light
-	Luggage Compartment Lamp
-	Power Module
-	Rear Defrost
-	Rear Fog Light
-	Rear Wiper
-	Reverse Light
-	Trunk Lid Lock
-	Turn Left Lamp Output
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Aqs Sensor
-	Causes That Compressor Is Not Started
-	Compartment Temperature Sensor
-	Driver Mode Flap Status
-	Driver Temperature Flap Position
-	Evaporator Temperature Sensor
-	Exterior Temperature Sensor
-	Front Blower Control Percentage (Linear Control Unit)
-	Front Passenger Temperature Flap Position
-	Internal And External Circulation Damper Position
-	Left Chest Outlet Temperature Sensor
-	Left Foot Outlet Temperature Sensor
-	Left Solar Sensor
-	Operation Voltage
-	Right Chest Outlet Temperature Sensor
-	Right Foot Outlet Temperature Sensor
-	Right Solar Sensor
-	Stepper Motor 12 V Power Supply
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -320,40 +223,6 @@ Signal Descriptions:
 	Coil 1 Digital Pin Strength
 	Coil 1 Temperature Ad Value
 	Smart Key Learning Status
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Automatic Parking System Indicator
-	Brake Pedal Switch
-	Brake Pedal Switch
-	Central Locking Unlock/Lock Switch
-	Central Locking Unlock/Lock Switch
-	Current Arming Status
-	Current Lock Status
-	Door Lock Status Indicator
-	Driver Side Door Lock Status Switch
-	Driver Side Door Lock Status Switch
-	Driver Side Door Status Switch
-	Driver Side Door Status Switch
-	Electronic Parking Brake (Epb) Switch Indicator
-	Front Passenger Side Status Switch
-	Front Passenger Side Status Switch
-	Front Passenger Side Status Switch
-	Ignition 1 Relay Output
-	Immobilizer Indicator
-	Left Rear Blind Zone Indicator
-	Lock Under Thermal Protection Or Not
-	Passive Keyless Entry (Pke) Closes Window
-	Rear Left Door Status Switch
-	Remote Keyless Entry (Rke) Close Window
-	Remote Keyless Entry (Rke) Sk Status
-	Right Rear Blind Zone Indicator
-	Right Rear Door Status Switch
-	Right Rear Door Status Switch
-	Sunroof Anti-Pinch Warning
-	Tbox Close Window
-	Trunk Lid Status Switch
-	Trunk Lid Status Switch
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
@@ -543,61 +412,6 @@ Signal Descriptions:
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	Belt Pretensioner Resistance Lh 1
-	Belt Pretensioner Resistance Lh 2
-	Belt Pretensioner Resistance Rh 1
-	Belt Pretensioner Resistance Rh 2
-	Capacitor Voltage
-	Driver Airbag Resistance Value 1
-	Driver Airbag Resistance Value 2
-	Driver Dual-Stage Seatbelt Pretensioner Resistance Value 1
-	Driver Dual-Stage Seatbelt Pretensioner Resistance Value 2
-	Driver Knee Airbag Resistance 1
-	Driver Knee Airbag Resistance 2
-	Front Passenger Knee Airbag Resistance 1
-	Front Passenger Knee Airbag Resistance 2
-	Front Passenger Seatbelt Pretensioning Resistance (Level 2) 1
-	Front Passenger Seatbelt Pretensioning Resistance (Level 2) 2
-	Front Passenger Side Airbag Resistance 1
-	Front Passenger Side Airbag Resistance 2
-	Imu Calibration State
-	Left Rear Seatbelt Pretensioner Resistance Value 1
-	Left Rear Seatbelt Pretensioner Resistance Value 2
-	Left Side Airbag Resistance Value 1
-	Left Side Airbag Resistance Value 2
-	Lh Side Curtain Airbag 1
-	Lh Side Curtain Airbag 2
-	Mileage
-	Operation Time
-	Operation Voltage
-	Power On Times
-	Rev
-	Rh Side Curtain Airbag 1
-	Rh Side Curtain Airbag 2
-	Right Rear Seatbelt Pretensioner Resistance Value 1
-	Right Rear Seatbelt Pretensioner Resistance Value 2
-	Right Side Airbag Resistance Value 1
-	Right Side Airbag Resistance Value 2
-	Speed
-	System Configuration Parameter Lock-Up
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
-	Brake Fuse Signal Status
-	Brake Lamp
-	Brake Pedal Switch Status
-	High-Speed Can (250 Kps) Speed Selector Switch Status
-	Input Voltage
-	Left Position Lamp
-	Rear Fog Light
-	Reverse Light
-	Right Pos Lamp Output
-	Trailer 'Enable' Switch Status
-	Turn Left Lamp Output
-	Turn Right Lamp Output
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
 	Brake Fuse Signal Status
 	Brake Lamp
 	Brake Pedal Switch Status
@@ -681,19 +495,6 @@ Signal Descriptions:
 
 ========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	First Second Stage Calibration Data (Channel 1)
-	Gearbox Type
-	Left Rudder/Right Rudder
-	P Button Initial Value 1
-	P Button Initial Value 2
-	Park Button Status
-	Sensor 1 Data (Sensor 1 Value)
-	Sensor Status
-	Unlock Button Initial Value
-	Unlock Button Status
-
-========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
-Signal Descriptions:
 	Acceleration Value
 	Brake Switch Status
 	End-Of-Line Test Status
@@ -714,4 +515,353 @@ Signal Descriptions:
 	Vacuum Filling Status
 	Voltage Information
 	Vr Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Belt Pretensioner Resistance Lh
+	Belt Pretensioner Resistance Rh
+	Capacitor Voltage
+	Driver Airbag Resistance Value
+	Driver Dual-Stage Seatbelt Pretensioner Resistance Value
+	Driver Knee Airbag Resistance
+	Front Passenger Knee Airbag Resistance
+	Front Passenger Seatbelt Pretensioner Resistance (Level 2)
+	Front Passenger Side Airbag Resistance Value
+	Left Rear Seatbelt Pretensioner Resistance Value
+	Left Side Airbag Resistance Value
+	Lh Side Curtain Airbag
+	Mileage
+	Operation Time
+	Operation Voltage
+	Power On Times
+	Power On Times
+	Rev
+	Rh Side Curtain Airbag
+	Right Rear Seatbelt Pretensioner Resistance Value
+	Right Side Airbag Resistance Value
+	Speed
+	System Configuration Parameter
+	System Configuration Parameter Lock-Up
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Control Dtc Setting
+	Vehicle Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	1St Accelerator Pedal Sensor Voltage Value
+	2Nd Loop Water Temperature
+	A/C Pressure
+	A/C State
+	A/F Ratio Modulation Interval
+	Accumulative Fuel Corresponding To Ash Volume
+	Active Regeneration Lambda Request
+	Active Regeneration Request
+	Active Regeneration Request Total Times
+	Actual Feedback Lift Value
+	Actual Opening Of Supercharger
+	Air Flow
+	Air Inlet Temperature Calculated Value
+	Ambient Pressure
+	Ambient Pressure Substitute Value In Sensor Failure Mode
+	Ambient Temperature
+	Anti-Theft Verification Status
+	Ash Mass(Volume)
+	Ash Mass(Volume)
+	Ash Percentage
+	Ash Volume Based On Ccf
+	Automatic Start-Up
+	Base Ignition Angle
+	Battery Capacity
+	Battery Estimate Starting Voltage
+	Battery Estimate Starting Voltage State
+	Battery State Of Charge
+	Battery Voltage
+	Battery Voltage Sampling Value
+	Boosting Pressure Actuator Output Stage Duty Ratio
+	Brake Line 1
+	Brake Line 2
+	Brake Vacuum
+	Canister Shutoff Valve Status
+	Canister Solenoid Valve Output Duty Cycle
+	Catalyst Downstream Exhaust Gas Temperature
+	Ccf Value Corresponding To Ash Volume
+	Check Engine Temperature Signal Based On Model Reference Value Plausibility
+	Clutch Bottom Position
+	Clutch High
+	Clutch Stroke
+	Control Valve Quality Status
+	Coolant Temperature Calculated Value
+	Cooling Fan Status At High Speed
+	Cooling Fan Status At Low Speed
+	Crankcase Ventilation Hose Temperature Voltage Signal
+	Crankshaft And Camshaft Synchronization Status
+	Cruise Switch States
+	Current Ccf Value
+	Current Ccf Value Carbon Amount
+	Cylinder Oil Temperature
+	Demanded Target Lift Value (Cvvl Target Lift)
+	Desired Throttle Angle W.R.T. To Lower Mechanical Stop
+	Desorption Flow Diagnosis Differential Pressure
+	Diesel Particulate Filter (Dpf) Regeneration Success Count
+	Diesel Particulate Filter (Dpf) Upstream Temperature Sensor Temperature Signal
+	Diesel Particulate Filter (Dpf) Upstream Temperature Sensor Voltage Signal
+	Differential Pressure Sensor
+	Differential Pressure Sensor Learning Value
+	Differential Pressure Sensor Voltage Signal Transmission
+	Double Pwg Potentiometer 2 Voltage
+	Downstream 02 Sensor Internal Impedance
+	Drive Pressure Release Valve Output Stage Condition
+	Duty Ratio For Control Power And Exhaust Camshaft
+	Duty Ratio For Control Power And Intake Camshaft
+	Eccentric Shaft Sensor Voltage Output Value
+	Ekp Release Status
+	Engine Running Time Since Last Successful Regeneration
+	Engine Speed
+	Engine Temperature
+	Engine Temperature Alternative Value Used At Fault
+	Exhaust Valve Actual Downstream Exhaust Pressure
+	Exhaust Variable Valve Timing (Vvt) Actual Opening
+	Exhaust Variable Valve Timing (Vvt) Target Opening
+	Expect Idle
+	Expected Indication Torque
+	Expected Throttle Position
+	Filter Rail Pressure Value (Absolute Pressure)
+	Flow Valve
+	Fuel Consumption Since The Last Completely Successful Regeneration
+	Fuel Level
+	Fuel Level Signal
+	Fuel System Status
+	Fuel Tank Pressure
+	Gas Mixture Adjustment Addition Correction Factor
+	Gasoline Particulate Filter (Gpf) Regeneration Maximum Temperature
+	Gear
+	Gear N Status
+	High Pressure Desorption Pressure Sensor
+	Idle Controller Torque Correction Request (Pd Part)
+	Ignition Angle Request Delayed For Active Regeneration Gasoline Particulate Filter (Gpf) Heating
+	Intake Air Temperature
+	Intake Variable Valve Timing (Vvt) Actual Opening
+	Intake Variable Valve Timing (Vvt) Target Opening
+	Internal Resistance Values Of Front Oxygen Sensor
+	Interrupted Regeneration Times
+	Lambda Actual Value
+	Last Active Regeneration Duration
+	Last Learning Value Of Differential Pressure Sensor
+	Lsu Dynamic Value
+	Mass Air Flow
+	Mass Flow Load Signal Correction Factor
+	Max Limit Indicates The Engine Torque Standard
+	Max Rail Pressure Setting Value
+	Maximum Reachable Torque
+	Mechanism-Driven Current (Bldc Mechanism Drive Current)
+	Mileage From The Last Active Regeneration
+	Mileage Traveled After The Mil On
+	Misfire Rate
+	Mixed Gas Closed Loop Correction Value
+	Mixture Multiplication Self Learn Value
+	Model Manifold Exhaust Temperature
+	Modeled Carbon Cumulant
+	Number Of Clutch Switch Signal Changes
+	Number Of Misfire: Cylinder #1
+	Number Of Misfire: Cylinder #2
+	Number Of Misfire: Cylinder #3
+	Number Of Misfire: Cylinder #4
+	Number Of Vehicle Starts (From The Last Successful Regeneration To The Present)
+	Oxygen Sensor Status
+	Part Of Lrsshk
+	Physical Cylinder 1 Ignition Delay Angle
+	Physical Cylinder 1 Knock Sensor Reference Level
+	Physical Cylinder 2 Ignition Delay Angle
+	Physical Cylinder 2 Knock Sensor Reference Level
+	Physical Cylinder 3 Ignition Delay Angle
+	Physical Cylinder 3 Knock Sensor Reference Level
+	Physical Cylinder 4 Ignition Delay Angle
+	Physical Cylinder 4 Knock Sensor Reference Level
+	Pressure Relief Module Requests Intake Pressure Relief Valve Opening Flag Bit
+	Rear 02 Sensor Output Voltage
+	Regeneration Status
+	Relative Air Charge
+	Relative Large Quantity Of Fuel Storage (Service Tool)
+	Relative Load (Referring To J1979)
+	Running Time Corresponding To Ash Volume (Oil Method)
+	Set Point Rail Pressure
+	Signal Voltage, Ambient Pressure Sensor
+	Speed
+	Standardized Carbon Canister Flow
+	Start/Stop Status
+	Starting Range, Max Engine Speed
+	Starting Range, Max Engine Speed
+	Starting Range, Max Load
+	Starting Range, Min Engine Speed
+	Starting Range, Min Engine Speed
+	Status: Auxiliary Water Pump
+	Steady-State Idle Speed
+	Target Boost Pressure
+	Target Opening Of Supercharger
+	Tc - Actuator Relative Current Increased
+	Temperature At Engine Start
+	The Inlet Model Temperature Of The Pre-Catalyst
+	The Second Channel Accelerator Pedal Sensor Voltage Value
+	Throttle Body Control Signal Duty Ratio
+	Throttle Circuit Opening In Limp Mode
+	Throttle Valve Opening
+	Throttle Valve Position Signal 1
+	Throttle Valve Position Signal 2
+	Throttle Valve Signal Voltage 1
+	Throttle Valve Signal Voltage 2
+	Throttle Voltage Signal 1 In Limp Home Mode
+	Throttle Voltage Signal 1 Mechanical Bottom Dead Center
+	Time After Starting End
+	Tmm Actual Opening
+	Tmm Target Opening
+	Total Active Regeneration Time
+	Total Injection Pulse Width Of Each Cylinder
+	Transmission Chain Status
+	Upstream Sensor Voltage (Adc Value)
+	Upstream Throttle Valve Pressure
+	Upstream Throttle Valve Pressure Initial Value
+	Vehicle Accelerated Speed
+	Vehicle Or Engine Obd Model Approved Type
+	Vehicle Speed Output Value
+	Voltage Target For Power Generation
+	Volumetric Flow Of Fuel In L/S
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Hour
+	Operation Voltage
+	Speed
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	First Second Stage Calibration Data (Channel 1)
+	Gearbox Type
+	Left Rudder/Right Rudder
+	P Button Initial Value 1
+	P Button Initial Value 2
+	Park Button Status
+	Sensor 1 Data (Sensor 1 Value)
+	Sensor Status
+	Unlock Button Initial Value
+	Unlock Button Status
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Calculated Vehicle Speed
+	Calibration Switch
+	End Of Line (Eol) Status
+	Lane Departure Warning (Ldw) System Status
+	Platform Information In Application Layer
+	Platform Information In Calibration Files
+	Power Line Voltage
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Aqs Sensor
+	Causes That Compressor Is Not Started
+	Compartment Temperature Sensor
+	Driver Mode Flap Status
+	Driver Temperature Flap Position
+	Evaporator Temperature Sensor
+	Exterior Temperature Sensor
+	Front Blower Control Percentage (Linear Control Unit)
+	Front Passenger Temperature Flap Position
+	Internal And External Circulation Damper Position
+	Left Chest Outlet Temperature Sensor
+	Left Foot Outlet Temperature Sensor
+	Left Solar Sensor
+	Operation Voltage
+	Right Chest Outlet Temperature Sensor
+	Right Foot Outlet Temperature Sensor
+	Right Solar Sensor
+	Stepper Motor 12 V Power Supply
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	4/R Shift Fork Actual Position
+	4/R Shift Solenoid Valve Actual Current
+	5/1 Shift Fork Actual Position
+	5/1 Shift Solenoid Valve Actual Current
+	5V1 Power Supply Voltage Sensor
+	5V2 Power Supply Voltage Sensor
+	6/2 Shift Fork Actual Position
+	6/2 Shift Solenoid Valve Actual Current
+	7/3 Shift Fork Actual Position
+	7/3 Shift Solenoid Valve Actual Current
+	8V1 Power Supply Voltage Sensor
+	8V2 Power Supply Voltage Sensor
+	Accelerator Pedal Opening
+	Acs 1 Shift Solenoid Valve Flow Expectation Value
+	Acs 2 Shift Solenoid Valve Flow Expectation Value
+	Actual Electric Pump Revolution
+	Ambient Temperature
+	Barometric Pressure
+	Brake Pressure
+	Clutch 1 Pressure
+	Clutch 1 Transmission Torque
+	Clutch 2 Pressure
+	Clutch 2 Transmission Torque
+	Clutch Temperature
+	Current Gear Position
+	Driver Demand Torque
+	Electric Switch Actual Command Value Of Electric Pump
+	Electronic Unit Supply Voltage
+	Emission And Other Requests Of Transmission
+	Engine Coolant Temperature
+	Engine Speed
+	Engine Torque
+	Even Axle Revolution Count
+	Even Axle Shift Pressure Control Valve Actual Current
+	Even Clutch Expected Pressure
+	Even Clutch Expected Pressure
+	Even Clutch Solenoid Valve Actual Current
+	Expected Pressure Of Odd Clutch
+	Gear P Position Sensor Self-Learning Status Flag Bit
+	Gear P Position Sensor Self-Learning Value(S)
+	Gear Selector Position Sensor Duty Cycle
+	Hydraulic Pressure Parking Electromagnetic Actual Current
+	Hydraulic Pressure Parking Valve Actual Current
+	Hydraulic Pressure Parking Valve Expected Current
+	Left Front Wheel Speed
+	Left Rear Wheel Speed
+	Loss Torque
+	Lubricating Solenoid Valve Actual Current
+	Main Oil Pressure Solenoid Valve Actual Current
+	Odd Axle Rotation Count
+	Odd Axle Shift Pressure Control Valve Actual Current
+	Odd Clutch Solenoid Valve Actual Current
+	Oil Temperature
+	Parking Mechanism Position
+	Power Supply Voltage
+	Right Front Wheel Speed
+	Right Rear Wheel Speed
+	Shift Pressure Solenoid Valve Pressure Expected Value
+	Speed
+	System Power-On Voltage
+	Target Gear Position
+	Tip Down Switch
+	Transmission Input Revolution
+	Water Pump Pwm (Pulse Width Modulation) Duty Ratio
+
+========= OTHER NODE (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Automatic Parking Assist (Apa) System Status Information
+	Backlight Info - Pointer Brightness Level
+	Cruise Vehicle Speed Setting
+	Current Service Mileage
+	Diagnostic Information - Security Level
+	Diagnostic Information - Session Mode
+	Driving Time - Hours
+	Driving Time - Minutes
+	Kl30 Analog/Digital Conversion Value
+	Odometer (Total Mileage) Message - Odometer (Total Mileage) Kilometers
+	Sound Information - Sound Option
+	Sound Information - Sound Type
+	Warning Light Information-Front Fog Lamp
+	Warning Light Information-High Beam Indicator Light
+	Warning Light Information-Rear Fog Lamp
+	Warning Light Information-Turn Left Lamp
+	Water Temperature Segment Jump Point Retardation 1 (Except For 6Th Segment To 5Th Segment)
 

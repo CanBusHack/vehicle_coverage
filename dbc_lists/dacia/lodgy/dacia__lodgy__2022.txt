@@ -1,13 +1,13 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Dacia 'Lodgy' (2022)
 Signal Descriptions:
-	ABS Computer Current Mileage
-	ABS In Action
-	ADAS Speed Limiter Exceeded
-	ADAS Speed Set
-	ADAS Status
+	Abs Computer Current Mileage
+	Abs In Action
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Speed Limiter Exceeded
+	Adas Speed Set
+	Adas Status
 	Airbag Left On
 	Airbag Right Off
 	Alternator Duty Cycle
@@ -23,14 +23,14 @@ Signal Descriptions:
 	Dashboard Bright Mode
 	Dashboard Chime
 	Dashboard Speedometer Indication
-	Dashboard Tell Tale ABS Flashing
-	Dashboard Tell Tale ABS On
+	Dashboard Tell Tale Abs Flashing
+	Dashboard Tell Tale Abs On
 	Dashboard Tell Tale Airbag Left On
 	Dashboard Tell Tale Malfunction On Orange
 	Dashboard Tell Tale Oil Pressure Warning On
 	Dashboard Tell Tale Traction Control Flashing
 	Dashboard Tell Tale Traction Control On
-	Dashboard Warning ABS Chime
+	Dashboard Warning Abs Chime
 	Distance Remaining Until Refueling
 	Distance Remaining Until Service
 	Door Front Left Closed
@@ -47,8 +47,8 @@ Signal Descriptions:
 	Door Open Warning Rear Right
 	Door Rear All Closed
 	Door Rear Any Open
-	ECO Mode Active
-	ECO Mode Inactive
+	Eco Mode Active
+	Eco Mode Inactive
 	Engine Coolant Temperature
 	Engine Immobilizer Reading Code
 	Engine Immobilizeractive
@@ -61,7 +61,7 @@ Signal Descriptions:
 	Engine Torque Reference
 	Fan Speed Required By Injection
 	Flow Rate Function Status Low
-	Flow Rate Function Status OK
+	Flow Rate Function Status Ok
 	Flywheel Signal Detected
 	Flywheel Signal Not Detected
 	Fuel Level Displayed
@@ -73,11 +73,11 @@ Signal Descriptions:
 	Gear Reverse Engaged 0 True When Car Off
 	Gear Reverse Not Engaged
 	Gearbox Manual Position Not Neutral
-	HVAC A C Authorisation Yes
-	HVAC Fan Active
-	HVAC Motor Driven Fan Unit Request Active
 	Hazards Test Request In Progress
 	Hazards Test Request Inactive
+	Hvac A C Authorisation Yes
+	Hvac Fan Active
+	Hvac Motor Driven Fan Unit Request Active
 	Injection Protection Inactive
 	Inlet Air Temperature
 	Instrument Cluster Warning Trunk Open
@@ -93,7 +93,7 @@ Signal Descriptions:
 	Locking System Active
 	Locking System Automatic On
 	Locking System Locked By Key
-	MAP Sensor Not Available
+	Map Sensor Not Available
 	Odometer
 	Parking Brake Applied
 	Parking Brake Not Applied
@@ -143,7 +143,7 @@ Signal Descriptions:
 	Tell Tale Airbag Right Green On
 	Tell Tale Battery Flashing
 	Tell Tale Diesel Particulate Filter
-	Tell Tale ECO
+	Tell Tale Eco
 	Tell Tale Glow Plug On
 	Tell Tale Indicator Left
 	Tell Tale Indicator Right
@@ -157,7 +157,7 @@ Signal Descriptions:
 	Vehicle Speed
 	Vehicle Speed Units
 	Warning Check Brake Lights
-	Warning Check ESP System
+	Warning Check Esp System
 	Warning Engine Temperature
 	Warning Injection System Fault
 	Warning Injection System Fault

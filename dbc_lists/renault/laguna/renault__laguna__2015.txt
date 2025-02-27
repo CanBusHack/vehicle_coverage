@@ -1,11 +1,11 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Renault 'Laguna' (2015)
 Signal Descriptions:
-	ABS Active
-	ADAS System Cruise Control Limiter Setting
-	ADAS System Limiter Set Speed Exceeded
-	ADAS System Speed Setting
+	Abs Active
 	Acceleration Lateral
+	Adas System Cruise Control Limiter Setting
+	Adas System Limiter Set Speed Exceeded
+	Adas System Speed Setting
 	Alternator Load
 	Alternator Power Requested
 	Ambient Air Temperature
@@ -23,7 +23,7 @@ Signal Descriptions:
 	Door Front Right Passenger Open
 	Engine Coolant Temperature
 	Engine Immobiliser Active
-	Engine RPM Low Resolution
+	Engine Rpm Low Resolution
 	Engine Speed
 	Engine Speed Idling Reference
 	Engine Stalled
@@ -36,13 +36,13 @@ Signal Descriptions:
 	Fuel Rail Pressure Sensor Open Circuit Disconnected
 	Gear In Neutral Position
 	Gear Lever Position Indicator
-	HVAC System AC On
-	HVAC System Compressor Status
-	HVAC System Front And Rear Defroster On
-	HVAC System On
-	HVAC System Power Requested
-	HVAC System Rear Window Heater Active
 	Heater Pump Command On
+	Hvac System Ac On
+	Hvac System Compressor Status
+	Hvac System Front And Rear Defroster On
+	Hvac System On
+	Hvac System Power Requested
+	Hvac System Rear Window Heater Active
 	Instrument Cluster Brightness Setting
 	Instrument Cluster Primary Chime Active
 	Instrument Cluster Prompt Adjust Tyre Pressure Front Left
@@ -56,8 +56,8 @@ Signal Descriptions:
 	Instrument Cluster Prompt Check Braking System
 	Instrument Cluster Prompt Check Braking System
 	Instrument Cluster Prompt Check Child Safety Device
-	Instrument Cluster Prompt Check ESP
-	Instrument Cluster Prompt Check ESP
+	Instrument Cluster Prompt Check Esp
+	Instrument Cluster Prompt Check Esp
 	Instrument Cluster Prompt Check Injection System
 	Instrument Cluster Prompt Check Park Brake
 	Instrument Cluster Prompt Check Parking Sensor
@@ -70,9 +70,9 @@ Signal Descriptions:
 	Instrument Cluster Prompt Traction Control Indicator Active
 	Instrument Cluster Prompt Welcome Message
 	Instrument Cluster Secondary Chime Active
-	Instrument Cluster Tell Tale ABS On
-	Instrument Cluster Tell Tale ABS On Flashing 2 X Per Second
-	Instrument Cluster Tell Tale ABS On Flashing Every Second
+	Instrument Cluster Tell Tale Abs On
+	Instrument Cluster Tell Tale Abs On Flashing 2 X Per Second
+	Instrument Cluster Tell Tale Abs On Flashing Every Second
 	Instrument Cluster Tell Tale Diesel Particulate Filter Fault
 	Instrument Cluster Tell Tale Engine Malfunction
 	Instrument Cluster Tell Tale Engine Malfunction Indicator Flashing
@@ -102,7 +102,7 @@ Signal Descriptions:
 	Instrument Cluster Warning Risk Of Steering Locking
 	Instrument Cluster Warning Stop Vehicle
 	Instrument Cluster Warning Trunk Open
-	Key FOB Lock Request
+	Key Fob Lock Request
 	Lights Front Foglights On
 	Lights High Beams On
 	Lights Lowbeam On
@@ -161,10 +161,6 @@ Signal Descriptions:
 	Sun Sensor Centre
 	Sun Sensor Level Left Side
 	Sun Sensor Level Right Side
-	TPMS Front Left Tyre Pressure
-	TPMS Front Right Tyre Pressure
-	TPMS Rear Left Tyre Pressure
-	TPMS Rear Right Tyre Pressure
 	Tell Tale Instrument Cluster Check Auto Lighting
 	Tell Tale Instrument Cluster Door Driver Open
 	Tell Tale Instrument Cluster Door Front Right Open
@@ -174,6 +170,10 @@ Signal Descriptions:
 	Tell Tale Seatbelt Front Left Unfastened Intermittent Beeping
 	Tell Tale Seatbelt Front Right Unfastened
 	Tell Tale Seatbelt Front Right Unfastened Intermittent Beeping
+	Tpms Front Left Tyre Pressure
+	Tpms Front Right Tyre Pressure
+	Tpms Rear Left Tyre Pressure
+	Tpms Rear Right Tyre Pressure
 	Traction Control System Off
 	Traction Control System On
 	Vehicle Acceleration

@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Isuzu 'D-Max' (2024)
 Signal Descriptions:
 	Accumulator Set Point Fill
@@ -6,8 +6,8 @@ Signal Descriptions:
 	Adblue Tell Tale On
 	Adblue Warning Yellow Fill Up
 	Adblue Warning Yellow Level Low
-	Air Cooler Change Temperature CAC 1
-	Air Cooler Change Temperature CAC 2
+	Air Cooler Change Temperature Cac 1
+	Air Cooler Change Temperature Cac 2
 	Battery Voltage
 	Blind Spot Indicator Left On
 	Blind Spot Indicator Right On
@@ -16,10 +16,10 @@ Signal Descriptions:
 	Dew Point End Heat Qty Threshold S
 	Dew Point End Heat Qty Threshold S
 	Exhaust Gas Mass Flow
-	NH3 Current Load Estimated
+	Nh3 Current Load Estimated
 	Nox Downstream Secondary Catalyst
 	Nox Raw Emission
-	SCR Feed Forward Quantity
+	Scr Feed Forward Quantity
 	Soot Sensor Temperature
 	Stereo Camera Temperature
 	Stop Start Active Tell Tale Flash
@@ -35,38 +35,38 @@ Signal Descriptions:
 	Tell Tale Oil Deterioration On
 	Tell Tale Service Vehicle Flashin
 	Tell Tale Service Vehicle On
-	Tell Tale Urea SCR Failure On
+	Tell Tale Urea Scr Failure On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS In Action
-	ADAS Auto Brake Lamp Flashing
-	ADAS Auto Brake Lamp On
-	ADAS Button CANCEL Pressed
-	ADAS Button CC SL Pressed
-	ADAS Button LDP Pressed
-	ADAS Button Lane Assist Pressed
-	ADAS Button RES Pressed
-	ADAS Button SET Decrease Pressed
-	ADAS Button SET Increase Pressed
-	ADAS Car Displayed Center Display
-	ADAS Front Camera Available
-	ADAS Front Camera Unavailable
-	ADAS Lane Assist Green
-	ADAS Lane Assist Tell Tale Gray
-	ADAS Lane Indication Left
-	ADAS Lane Indication Right
-	ADAS Prompt CC Canceled
-	ADAS Speed Set
-	ADAS Tell Tale Status
-	ADAS Vehicle Distance Control St
-	ADAS Warning Red Acc Pedal Misapplied
-	ADAS Warning Red Auto Braking
-	ADAS Warning Red Brake
-	ADAS Warning Red Hold Steering Whee
-	ADAS Warning Yellow Hold Steering W
-	ADAS Warning Yellow Lane Support Ca
+	Abs In Action
 	Acceleration Lateral
 	Acceleration Longitudinal
+	Adas Auto Brake Lamp Flashing
+	Adas Auto Brake Lamp On
+	Adas Button Cancel Pressed
+	Adas Button Cc Sl Pressed
+	Adas Button Lane Assist Pressed
+	Adas Button Ldp Pressed
+	Adas Button Res Pressed
+	Adas Button Set Decrease Pressed
+	Adas Button Set Increase Pressed
+	Adas Car Displayed Center Display
+	Adas Front Camera Available
+	Adas Front Camera Unavailable
+	Adas Lane Assist Green
+	Adas Lane Assist Tell Tale Gray
+	Adas Lane Indication Left
+	Adas Lane Indication Right
+	Adas Prompt Cc Canceled
+	Adas Speed Set
+	Adas Tell Tale Status
+	Adas Vehicle Distance Control St
+	Adas Warning Red Acc Pedal Misapplied
+	Adas Warning Red Auto Braking
+	Adas Warning Red Brake
+	Adas Warning Red Hold Steering Whee
+	Adas Warning Yellow Hold Steering W
+	Adas Warning Yellow Lane Support Ca
 	Axle Motor Forward Connected To V
 	Axle Motor Reverse Connected To V
 	Barometric Pressure
@@ -92,11 +92,11 @@ Signal Descriptions:
 	Door Front Right Unlocked
 	Door Lock Unlock Switches
 	Door Trunk Open
-	ESP System Off
 	Engine Oil Life Resetting
 	Engine Speed
 	Engine Torque Actual
 	Engine Torque Reference
+	Esp System Off
 	Fuel Injection Interval Pilot
 	Fuel Injection Interval Pre
 	Fuel Rail Pressure
@@ -108,30 +108,24 @@ Signal Descriptions:
 	Gear Command Manual
 	Gear Command Output Gear Level
 	Gear Manual Control Active
-	Gear PRDL Status
 	Gear Position Neutral
 	Gear Position Out Of Drive
 	Gear Position Park
 	Gear Position Park Or Neutral
 	Gear Position Reverse
+	Gear Prdl Status
 	Gear Reverse Engaged
 	Gear Shift Request Denied
 	Gear Shift Request Down
 	Gear Shift Request Up
-	HVAC AC Compressor Active
 	Headlight Status Low Beam
 	Headlight Status Side Light
 	Headlights Status Auto
 	Headlights Status High Beam
+	Hvac Ac Compressor Active
 	Indicator Left Command
 	Indicator Right Command
 	Intake Air Temperature
-	LDW Request On
-	LDW Request Ready
-	LKAS Torque Corrected
-	LSS Assist Torque
-	LSS Request On
-	LSS Request Ready
 	Lamp Back Up On
 	Lamp Brake Left On
 	Lamp Brake Right On
@@ -149,10 +143,16 @@ Signal Descriptions:
 	Lamp Low Beam Right On
 	Lamp Side Left On
 	Lamp Side Right On
+	Ldw Request On
+	Ldw Request Ready
 	Light Fog Rear On
 	Light Fog Rear Switch On
 	Light High Beam Automatic Enable
 	Lights Fog Front On
+	Lkas Torque Corrected
+	Lss Assist Torque
+	Lss Request On
+	Lss Request Ready
 	Master Cylinder Pressure
 	Odometer
 	Outside Air Temperature
@@ -182,13 +182,13 @@ Signal Descriptions:
 	Pedal Brake Switch 2
 	Power Mode Ignition On
 	Prompt Yellow Sonar Unavailable
-	SOS Call
 	Seatbelt Front Left Unfastened
 	Seatbelt Front Right Unfastened
 	Seatbelt Rear Left Unfastened
 	Seatbelt Rear Right Unfastened
 	Setting Driving Support Body Menu
 	Settings Unit Speed
+	Sos Call
 	Stalk Right Outer Ring Position
 	Steering Wheel Angle Rate
 	Steering Wheel Angle Sensor 1
@@ -200,50 +200,50 @@ Signal Descriptions:
 	Switch Ignition On
 	T F 4L Indicator Flashing
 	T F 4L Indicator Flashing Buzzer
-	T F 4WD Indicator Flashing
-	T F 4WD Indicator Flashing Buzze
-	T F Lamp Check 4WD
+	T F 4Wd Indicator Flashing
+	T F 4Wd Indicator Flashing Buzze
+	T F Lamp Check 4Wd
 	T F Mode 4H
 	T F Mode 4L
-	TCCM Battery Voltage
-	TCS Off
-	TSR Display Speed Limit Display
-	TSR MID Display Left Aix Signs
-	TSR MID Display Left Speed Limit
-	TSR MID Display RES Ind Green
-	TSR MID Display RES Ind White
-	TSR MID Display Right Aix Signs
-	TSR MID Display Right Speed Limi
-	TSR Speed Limit Chime On
-	Tell Tale AEB Off Flashing
-	Tell Tale AEB Off On
+	Tccm Battery Voltage
+	Tcs Off
+	Tell Tale Aeb Off Flashing
+	Tell Tale Aeb Off On
 	Tell Tale Airbag Driver On
 	Tell Tale Airbag Flashing Fast
 	Tell Tale Airbag Flashing Slow
 	Tell Tale Airbag Passenger Off On
 	Tell Tale Automatic High Beam On
-	Tell Tale DPD Operator Regen On
-	Tell Tale ELK Off Flashing
-	Tell Tale ELK Off On
-	Tell Tale ESC Flashing
-	Tell Tale ESC Off Flashing
-	Tell Tale ESC Off On
-	Tell Tale ESC On
-	Tell Tale ESP On
+	Tell Tale Dpd Operator Regen On
+	Tell Tale Elk Off Flashing
+	Tell Tale Elk Off On
+	Tell Tale Esc Flashing
+	Tell Tale Esc Off Flashing
+	Tell Tale Esc Off On
+	Tell Tale Esc On
+	Tell Tale Esp On
 	Tell Tale Glow Plug On
 	Tell Tale Hill Hold Flashing
 	Tell Tale Hill Hold On
-	Tell Tale LDW Off Flashing
-	Tell Tale LDW Off On
+	Tell Tale Ldw Off Flashing
+	Tell Tale Ldw Off On
 	Tell Tale Park Aid Off On
 	Tell Tale Steering Syst Fail Flas
 	Tell Tale Steering Syst Fail On
-	Tell Tale TCS Off Flashing
-	Tell Tale TCS Off On
-	Transmission Oil Temperature OT1
-	Transmission Oil Temperature OT2
+	Tell Tale Tcs Off Flashing
+	Tell Tale Tcs Off On
+	Transmission Oil Temperature Ot1
+	Transmission Oil Temperature Ot2
 	Transmission Torque Converter Cl
 	Transmission Warning Lamp On
+	Tsr Display Speed Limit Display
+	Tsr Mid Display Left Aix Signs
+	Tsr Mid Display Left Speed Limit
+	Tsr Mid Display Res Ind Green
+	Tsr Mid Display Res Ind White
+	Tsr Mid Display Right Aix Signs
+	Tsr Mid Display Right Speed Limi
+	Tsr Speed Limit Chime On
 	Turbo Variable Geometry Position
 	Vacuum Sensor
 	Vehicle Speed

@@ -1,4 +1,4 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Pontiac 'Montana Sv6' (2010)
 Signal Descriptions:
 	Air Conditioning Compressor Displacement
@@ -212,7 +212,7 @@ Signal Descriptions:
 	Windshield Wiper Rain Sensor Control On
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS Active
+	Abs Active
 	Absolute Barometric Pressure
 	Absolute Barometric Pressure Val
 	Accelerator Actual Position
@@ -271,8 +271,8 @@ Signal Descriptions:
 	Engine Intake Air Boost Pressure
 	Engine Intake Temperature
 	Engine Intake Temperature Validity
-	Engine MIL
-	Engine Non Emission MIL
+	Engine Mil
+	Engine Non Emission Mil
 	Engine Oil Change Tell Tale
 	Engine Oil Level Low Tell Tale
 	Engine Oil Life Reset Performed
@@ -320,9 +320,9 @@ Signal Descriptions:
 	Hybrid Eco Mode Tell Tale
 	Instantaneous Fuel Flow Estimate
 	Key Status
-	LF Tire Pressure
-	LR Tire Pressure
+	Lf Tire Pressure
 	Longitudinal Acceleration
+	Lr Tire Pressure
 	Mass Air Flow
 	Panic Brake Assist Failed Tell Tale
 	Park Brake On
@@ -342,8 +342,6 @@ Signal Descriptions:
 	Powertrain Crank
 	Powertrain Exhaust Particle Filt
 	Powertrain Top Speed Limit Reduced
-	RF Tire Pressure
-	RR Tire Pressure
 	Rear Closure Ajar
 	Rear Differential
 	Rear Differential Malfunction Te
@@ -352,6 +350,8 @@ Signal Descriptions:
 	Rear Right Door Ajar
 	Reduced Power Tell Tale
 	Remote Vehicle Start Engine Running
+	Rf Tire Pressure
+	Rr Tire Pressure
 	Secondary Axle Engaged
 	Service Adaptive Cruise Control
 	Service Hybrid Tell Tale
@@ -386,9 +386,9 @@ Signal Descriptions:
 	Transfer Case Coupling
 	Transfer Case Coupling Type
 	Transfer Case Coupling Value
-	Transfer Case MIL
+	Transfer Case Mil
 	Transfer Case Mode
-	Transfer Case Non Emission MIL
+	Transfer Case Non Emission Mil
 	Transfer Case Overheated Tell Tale
 	Transfer Case Range
 	Transmission Change Oil Now Tell
@@ -396,8 +396,8 @@ Signal Descriptions:
 	Transmission Cruise Control Speed
 	Transmission Engaged State
 	Transmission Estimated Gear
-	Transmission MIL
-	Transmission MIL Non Emission
+	Transmission Mil
+	Transmission Mil Non Emission
 	Transmission Neutral Status
 	Transmission Oil Temperature
 	Transmission Oil Temperature Sen
@@ -415,8 +415,6 @@ Signal Descriptions:
 	Transmission Skip Shift Tell Tale
 	Transmission Tap Up Tap Down Mod
 	Turbine Speed
-	VIN Digits 10 17
-	VIN Digits 2 9
 	Vehicle Ahead Alert Sensitivity
 	Vehicle Ahead Alert Sensitivity 0000
 	Vehicle Ahead Alert Tell Tale Requ
@@ -429,6 +427,8 @@ Signal Descriptions:
 	Vehicle Top Speed Limit Arbitration
 	Vehicle Top Speed Limit Mode Active
 	Vehicle Yaw Rate
+	Vin Digits 10 17
+	Vin Digits 2 9
 	Wheel Sensor Rough Road Magnitude
 	Wheel Slip
 	Wheel Spin Sensor Front Left

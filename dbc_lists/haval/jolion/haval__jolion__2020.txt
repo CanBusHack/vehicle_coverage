@@ -1,24 +1,24 @@
-Version 0.2 Copyright CanBusHack 2024
+Version 0.3 Copyright CanBusHack 2024
 Platform: Haval 'Jolion' (2020)
 Signal Descriptions:
-	ABS Active
-	ADAS ACC Active
-	ADAS ACC Cancel
-	ADAS ACC Canceled By Brake
-	ADAS ACC Fault
-	ADAS ACC Ready
-	ADAS Auto Adjust Speed Yes SET Minus
-	ADAS Cannot Recognize Static Target
-	ADAS Cruise Control Speed Set
-	ADAS Front Vehicle Distance Level
-	ADAS ICC Active
-	ADAS ICC Fault
-	ADAS ICC Ready
-	ADAS Prompt High Speed Reduce
-	ADAS Prompt Please Brake
-	ADAS Prompt TJA Unable To Activate
-	Display Head Up ADAS Displayed Closing
-	Display Head Up ADAS Displayed Opening
+	Abs Active
+	Adas Acc Active
+	Adas Acc Cancel
+	Adas Acc Canceled By Brake
+	Adas Acc Fault
+	Adas Acc Ready
+	Adas Auto Adjust Speed Yes Set Minus
+	Adas Cannot Recognize Static Target
+	Adas Cruise Control Speed Set
+	Adas Front Vehicle Distance Level
+	Adas Icc Active
+	Adas Icc Fault
+	Adas Icc Ready
+	Adas Prompt High Speed Reduce
+	Adas Prompt Please Brake
+	Adas Prompt Tja Unable To Activate
+	Display Head Up Adas Displayed Closing
+	Display Head Up Adas Displayed Opening
 	Display Multimedia Illumination Level
 	Display Multimedia Off
 	Door Front Driver Open
@@ -32,17 +32,17 @@ Signal Descriptions:
 	Driving Mode
 	Driving Mode Actual
 	Driving Mode Target
-	ESP ABS In Action
-	ESP ABS Tell Tale On Amber
-	ESP Brake System Fault
-	ESP System Deactivated
-	ESP Traction Control Tell Tale Flashing
-	ESP Traction Control Tell Tale On
 	Engine Coolant Temperature
 	Engine Speed
 	Engine Speed Displayed
 	Engine Speed Not Displayed
 	Engine Temperature High
+	Esp Abs In Action
+	Esp Abs Tell Tale On Amber
+	Esp Brake System Fault
+	Esp System Deactivated
+	Esp Traction Control Tell Tale Flashing
+	Esp Traction Control Tell Tale On
 	Exterior Temperature
 	Exterior Temperature Displayed
 	Forward Assist Crash Safety System Active
@@ -50,28 +50,7 @@ Signal Descriptions:
 	Forward Assist Pedestrian Safety System Active
 	Fuel Low Tell Tale On
 	Fuel Tank Level
-	GPF Status
-	HVAC Air Direction
-	HVAC Auto Defrost Mode
-	HVAC Auto Defrost Setting
-	HVAC Auto Defrost Switch Pressed
-	HVAC Blower Relay On
-	HVAC Cabin Temperature Sensor
-	HVAC Clutch On Off Command
-	HVAC Command
-	HVAC Fan Speed
-	HVAC Fan Speed Decrease Switch Pressed
-	HVAC Fan Speed Increase Switch Pressed
-	HVAC Recirculation Off
-	HVAC Settings Dual Active
-	HVAC Switch AC Pressed
-	HVAC Switch Defrost Front Pressed
-	HVAC Switch Defrost Rear Pressed
-	HVAC Switch On Off Pressed
-	HVAC Switch Recirculation Pressed
-	HVAC Temperature Flap Position
-	HVAC Temperature Set Driver
-	HVAC Temperature Set Passenger
+	Gpf Status
 	Hazards Switch Pressed
 	Headlight High Beam Tell Tale Active
 	Headlight Low Beam Tell Tale On
@@ -79,9 +58,30 @@ Signal Descriptions:
 	Headlights Low Beam Active
 	Hill Assist On
 	Hill Assist Prompt Auto Hold Limited
-	Hill Assist Prompt HDC Limited
+	Hill Assist Prompt Hdc Limited
 	Honk Active
 	Honk Active
+	Hvac Air Direction
+	Hvac Auto Defrost Mode
+	Hvac Auto Defrost Setting
+	Hvac Auto Defrost Switch Pressed
+	Hvac Blower Relay On
+	Hvac Cabin Temperature Sensor
+	Hvac Clutch On Off Command
+	Hvac Command
+	Hvac Fan Speed
+	Hvac Fan Speed Decrease Switch Pressed
+	Hvac Fan Speed Increase Switch Pressed
+	Hvac Recirculation Off
+	Hvac Settings Dual Active
+	Hvac Switch Ac Pressed
+	Hvac Switch Defrost Front Pressed
+	Hvac Switch Defrost Rear Pressed
+	Hvac Switch On Off Pressed
+	Hvac Switch Recirculation Pressed
+	Hvac Temperature Flap Position
+	Hvac Temperature Set Driver
+	Hvac Temperature Set Passenger
 	Lamp Daytime Running Left Active
 	Lamp Daytime Running Right Active
 	Lamp Indicator Left On
@@ -145,11 +145,11 @@ Signal Descriptions:
 	Start Stop System Tell Tale On Orange
 	Steering Wheel Angle
 	Steering Wheel Angle Rate
-	Steering Wheel Panel ADAS Switch Cancel Pressed
-	Steering Wheel Panel ADAS Switch Distance Adj Pressed
-	Steering Wheel Panel ADAS Switch On Off Pressed
-	Steering Wheel Panel ADAS Switch RES Pressed
-	Steering Wheel Panel ADAS Switch SET Pressed
+	Steering Wheel Panel Adas Switch Cancel Pressed
+	Steering Wheel Panel Adas Switch Distance Adj Pressed
+	Steering Wheel Panel Adas Switch On Off Pressed
+	Steering Wheel Panel Adas Switch Res Pressed
+	Steering Wheel Panel Adas Switch Set Pressed
 	Steering Wheel Panel Audiovisual Control Switch Bluetooth Pressed
 	Steering Wheel Panel Audiovisual Control Switch M Pressed
 	Steering Wheel Panel Audiovisual Control Switch Pressed 1
@@ -157,7 +157,7 @@ Signal Descriptions:
 	Steering Wheel Panel Audiovisual Control Switch Voice Pressed
 	Steering Wheel Panel Instrument Adj Switch Back Pressed
 	Steering Wheel Panel Instrument Adj Switch Down Pressed
-	Steering Wheel Panel Instrument Adj Switch OK Pressed
+	Steering Wheel Panel Instrument Adj Switch Ok Pressed
 	Steering Wheel Panel Instrument Adj Switch Up Pressed
 	Steering Wheel Rotatin Clockwise
 	Take A Brake Alert Active
@@ -222,7 +222,7 @@ Signal Descriptions:
 	Wireless Charging Switch Status
 ========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
 Signal Descriptions:
-	ABS 01
+	Abs 01
 	Acceleration Lateral
 	Acceleration Longitudinal
 	Camera Front View Sensor In Calibration
@@ -230,7 +230,7 @@ Signal Descriptions:
 	Camera Front View Sensor Uncalibrated
 	Dashboard Color
 	Dashboard Theme
-	Display Head Up ADAS Not Displayed
+	Display Head Up Adas Not Displayed
 	Display Head Up Adjust Angle
 	Display Head Up Adjust Angle Negative
 	Display Head Up Adjust Angle Positive
@@ -250,8 +250,6 @@ Signal Descriptions:
 	Display Language English
 	Display Temperature Unit F
 	Driving Settings Turn Multimode Setting
-	ESP Forward Assist Off
-	ESP Forward Assist Trailer Mode Off
 	Emergency Braking Assist Active Pedestrian
 	Emergency Braking Assist Active Vehicle
 	Engine Load
@@ -259,6 +257,8 @@ Signal Descriptions:
 	Engine Speed In Dashboard 1
 	Engine Speed In Dashboard 2
 	Engine Speed Low Resolution
+	Esp Forward Assist Off
+	Esp Forward Assist Trailer Mode Off
 	Forward Assist Crash Safety System Active
 	Forward Assist Front Collide Sense
 	Forward Assist Road Cross Assist Active
@@ -273,7 +273,7 @@ Signal Descriptions:
 	Gearbox Warning Overheat
 	Gearbox Warning Overheat Stop Vehicle
 	Headlight On Tell Tale Active
-	IMMO Prompt Authentication Fail
+	Immo Prompt Authentication Fail
 	Lamp Backup Light Fault
 	Lamp Brake Center Fault
 	Lamp Brake Center On
@@ -289,7 +289,6 @@ Signal Descriptions:
 	Light Fog Rear Tell Tale On
 	Light Indicator Tell Tale Left On
 	Light Indicator Tell Tale Right On
-	PRNDL Indication Dashboard
 	Parking Brake Engaged
 	Parking Brake Fault
 	Parking Brake Prompt Press Brake
@@ -298,6 +297,7 @@ Signal Descriptions:
 	Parking Brake Switch Pulled Up
 	Parking Brake Tell Tale On
 	Pedal Brake Pressure
+	Prndl Indication Dashboard
 	Seatbelt Front Driver Unfastened 1
 	Seatbelt Front Driver Unfastened 2
 	Seatbelt Front Passenger Unfastened 1
@@ -312,8 +312,8 @@ Signal Descriptions:
 	Tire Temperature Front Right
 	Tire Temperature Rear Left
 	Tire Temperature Rear Right
-	VIN Characters 10 To 17
 	Vehicle Odometer
 	Vehicle Speed Displayed Dashboard
 	Vehicle Speed Displayed Head Up Display
+	Vin Characters 10 To 17
 	Yaw Rate

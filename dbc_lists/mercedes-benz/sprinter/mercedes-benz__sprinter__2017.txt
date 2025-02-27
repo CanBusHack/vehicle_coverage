@@ -1,0 +1,310 @@
+Version 0.3 Copyright CanBusHack 2024
+Platform: Mercedes-Benz 'Sprinter' (2017)
+Signal Descriptions:
+	Abs Diagnostics Mode Active
+	Abs Tell Tale Active
+	Acceleration Lateral
+	Adas Cruise Control Button Resume Pressed
+	Adas Cruise Control Button Speed Down Request
+	Adas Cruise Control Button Speed Up Request
+	Adas Cruise Control Off
+	Adas Cruise Control Speed Set
+	Adas Prompt Crosswind Assist Intervention
+	Adblue Level
+	Ambient Cabin Temperature
+	Ambient Outside Temperature
+	Asr Off Button Pressed
+	Battery Voltage
+	Blind Spot Detection Button Pressed
+	Brake Active By Esp
+	Brake Force Distribution Diagnosis Rig Test Message Active
+	Brake Pressure Sensor
+	Brake Pressure Wheel Front Left
+	Brake Pressure Wheel Front Right
+	Brake Tell Tale Active
+	Brake Tell Tale Active
+	Coding Body Variant N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Coding Wheelbase N73 Electronic Ignition Lock Ezs Control Unit Ok From Scan Tool
+	Coding Wheels And Tires N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Collision Prevention Assist Button Pressed
+	Coolant Temperature
+	Door Cargo Open
+	Door Front Driver Closed
+	Door Front Driver Open
+	Door Front Passenger Open
+	Door Sliding Right Open
+	Engine Oil Temperature
+	Engine On Time
+	Engine Speed
+	Engine Torque
+	Esp Prompt Deactivation Level Implausible
+	Fuel Level Volume
+	Fuel Prompt Change Filter
+	Fuel Prompt Water In Fuel
+	Fuel Rate
+	Gear Engaged Current
+	Gear Engaged Current
+	Gear Engaged Target
+	Gear Engaged Target
+	Glow Plug Tell Tale On
+	Headlight Stalk Position Turn Left
+	Headlight Stalk Position Turn Right
+	Headlights Active
+	Headlights High Beam Flash Active
+	Headlights Low Beam Active
+	Headlights Stalk Position Flash
+	Headlights Stalk Position High Beam
+	Horn Active
+	Hvac Refrigerant Pressure
+	Ignition Status On
+	Intake Air Temperature
+	Lane Keep Assist Button Pressed
+	Lights Fog Active
+	Lights Turn Indicator Left Active
+	Lights Turn Indicator Right Active
+	Lock Central Button Pressed
+	Lock Rear Button Pressed
+	Malfunction Lamp On
+	Mass Air Flow Calculated
+	Mass Air Flow Sensor Disconnected
+	Master Cylinder Pressure
+	Odometer Main Reading
+	Park Aid Off Button Pressed
+	Park Aid System Off
+	Parking Brake Engaged
+	Pedal Accelerator Kickdown Switch Active
+	Pedal Accelerator Position
+	Pedal Accelerator Released
+	Pedal Brake Switch 2 Active
+	Pedal Brake Switch Active
+	Prndl Park Or Neutral
+	Prndl Position
+	Prndl Position Displayed
+	Prompt Air Cleaner Dirty
+	Prompt Check Diesel Exhaust Fluid
+	Prompt Idle Mode
+	Prompt Start Engine Or System Will Shut Off
+	Sas Initialization Complete Not Set
+	Seatbelt Driver Unfastened
+	Service Tell Tale Flashing
+	Service Tell Tale On
+	Starter Active
+	Starter Motor Active
+	Steering Wheel Angle
+	Steering Wheel Angle Rate
+	Tachometer Request To Freeze
+	Throttle Wide Open
+	Time Current Hour
+	Time Current Minute
+	Time Current Second
+	Traction Control Tell Tale On
+	Transmission Turbine Speed
+	Vehicle Speed
+	Vin Characters 1 To 7
+	Vin Characters 15 To 17
+	Vin Characters 8 To 14
+	Vin Index
+	Wheel Moving Front Left
+	Wheel Moving Front Right
+	Wheel Moving Rear Left
+	Wheel Moving Rear Right
+	Wheel Speed Front Left
+	Wheel Speed Front Right
+	Wheel Speed Rear Left
+	Wheel Speed Rear Right
+	Window Front Driver Open
+	Wiper Front Single Wipe Button Pressed
+	Wiper Speed High
+	Wiper Speed Low
+	Wiper Speed Medium
+	Wiper Sprayer Active
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Abs Tell Tale Active
+	Ac Clutch
+	Adblue Level
+	Air Cleaner Dirty Message Active
+	Asb Diagnositic Mode Active
+	Asr Off Button Pressed Active
+	Battery Voltage
+	Blind Spot Detection System Status
+	Blind Spot Detection System Status Active Command
+	Brake Force Distribution Diagnosis Rig Test Message Active
+	Brake Pedal Active From Esp
+	Brake Tell Tale Active
+	Brake Torque
+	Cargo Door Open
+	Check Diesel Exhaust Fluid See Operators Manual Message On Ic Active
+	Check Engine Tell Tale On
+	Coding Body Variant N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Coding Wheelbase N73 Electronic Ignition Lock Ezs Control Unit Ok From Scan Tool
+	Coding Wheels And Tires N73 Electronic Ignition Lock Ezs Control Unit Not Ok From Scan Tool
+	Collision Prevention Assist Button Pressed
+	Crosswind Assist Intervention Message Active
+	Cruise Control Accel Stock Position Active
+	Cruise Control Decel Stock Position Active
+	Cruise Control Off Stock Position Active
+	Cruise Control Resume Stock Position Active
+	Curise Control Set Speed
+	Current Gear
+	Dash Prompt Esp Visit Workshop
+	Day
+	Driver Door Closed
+	Driver Door Open 1
+	Driver Door Open 2
+	Driver Seatbelt Activly Buckled
+	Engine Oil Temperature
+	Engine Speed
+	Esp Deactivation Level Implausible Message On Ic
+	Flash To Pass Active
+	Flash To Pass Command Active
+	Fog Lights Active
+	Fuel Filter Message Active
+	Fuel Quantity
+	Glow Plug Tell Tale Active
+	Headlights Active
+	High Beam Stock Position Active
+	Horn Command Active
+	Hour
+	Idle Mode Message On Ic Active
+	Kilometer Reading From Ki
+	Lane Keep Assit Active
+	Lane Keep Assit Button Pressed
+	Left Turn Signal Active
+	Left Turn Signal Stock Active
+	Light Switch In Neutral Position
+	Light Switch In On Position
+	Locking Solenoid Request
+	Logical Pedal Posistion
+	Minute
+	Month
+	Night Mode Active
+	Park Netrual Active
+	Passenger Door Open
+	Passenger Sliding Door Open
+	Request Tachometer To Freeze On
+	Right Turn Signal Active
+	Right Turn Signal Stock Active
+	S16 Out Of 6 Kickdown Switch Active
+	Sas Initialization Complete Not Set
+	Second
+	Selector Level Position
+	Starter Motor Running
+	Steering Wheel Angle
+	Steering Wheel Left D Pad Down Left Button Pressed
+	Steering Wheel Left D Pad Left Menu Button Pressed
+	Steering Wheel Left D Pad Right Menu Button Pressed
+	Steering Wheel Left D Pad Up Arrow Button Pressed
+	Steering Wheel Right D Pad Button Pressed 1
+	Steering Wheel Right D Pad Button Pressed 2
+	Steering Wheel Right D Pad Left Phone Hangup Button Pressed
+	Steering Wheel Right D Pad Right Phone Pickup Button Pressed
+	Target Gear
+	Throttle Wide Open
+	Transmission Oil Temperature In Selector Lever Position R Or D
+	Transmission Turbine Speed
+	Vin Index Byte
+	Vin Part 1
+	Water In Fuel Message Active
+	Wiper Button Pressed Single Wipe
+	Wiper Mister Button Pressed
+	Wiper Stock Position High
+	Wiper Stock Position Low
+	Wiper Stock Position Medium
+	Wipers Active
+	Year
+========= OTHER NETWORK (MAY CONTAIN DUPLICATES) ============
+Signal Descriptions:
+	Ac Inactive
+	Acc Active
+	Additional Ind Lamps Out Message On Ic Active
+	Auto Headlight Switch Position Active
+	Auto Headlights Active
+	Battery Alternator Vist Workshop Message On Ic Active
+	Blind Spot Assist Activated Message On Ic Active
+	Blind Spot Assist Deactivated Message On Ic Active
+	Blind Spot Dection System Status Active
+	Blind Spot Detection Button Pressed
+	Blind Spot Inoperative Message On Ic Active
+	Blind Spot Inoperative Message On Ic Not Active
+	Brake Lamp Left Out Message On Ic Active
+	Brake Lamp Right Out Message On Ic Active
+	Coolant Temperature
+	Crank Active
+	Display Prndl Active
+	Display Speed In Km H
+	Display Speed Or Temperature
+	Driver Seatbelt Not Buckled
+	Fog Headlight Switch Position Active
+	Fog Lights Active
+	Foglamp Front Left Out Message On Ic Active
+	Foglamp Front Right Out Message On Ic Active
+	Front End Blower Rate Of Air Flow
+	Hand Brake Active
+	Hazards Active 1
+	Hazards Active 2
+	Hazards Not Active
+	High Beam Left Out Message On Ic Active
+	High Beam Right Out Message On Ic Active
+	High Beams Active
+	High Beams Headlight Switch Position Active
+	Iginition Active
+	Key In
+	License Plate Lamp Out Message On Ic Active
+	Low Beam Left Out Message On Ic Active
+	Low Beam Right Out Message On Ic Active
+	Low Tire Pressure Tell Tale Active
+	Low Wipers Active
+	Maker Lamp Out Message On Ic Active
+	Mister Active
+	Node Id 1
+	Node Id 10
+	Node Id 11
+	Node Id 12
+	Node Id 13
+	Node Id 14
+	Node Id 2
+	Node Id 3
+	Node Id 4
+	Node Id 5
+	Node Id 6
+	Node Id 7
+	Node Id 8
+	Node Id 9
+	Odometer
+	Off Headlight Switch Position Active
+	Output Terminal 61 Active
+	Parking Lamp Front Left Out Message On Ic Active
+	Parking Lamp Front Right Out Message On Ic Active
+	Passenger Window Down Button Pressed All The Way Down On Driver Door
+	Passenger Window Down Button Pressed On Driver Door
+	Passenger Window Up Button Pressed On Driver Door
+	Please Start The Engine Otherwise The System Will Shut Off In 10 Seconds Message On Infortament System Active
+	Prndl
+	Prndl Active Position
+	Pwn Output Terminal 58D
+	Radio Frequency Text Part 1
+	Rear Foglamp Out Message On Ic Active
+	Recurculation Active
+	Reverse Lamp Out Message On Ic Active
+	Run Active
+	Running Headlight Switch Position Active
+	Running Lights Active
+	Seatbelt Tell Tale Not Active
+	Side Maker Lamps Out Message On Ic Active 1
+	Side Maker Lamps Out Message On Ic Active 2
+	Srs Restraint System Vist Workshop Message On Ic Active
+	Tail Lamp Left Out Message On Ic Active
+	Tail Lamp Right Out Message On Ic Active
+	Temperature Units In Metric Active
+	Third Brake Lamp Out Message On Ic Active
+	Throttle Pedal Not Being Pressed
+	Tire Pres Check Tire S Message On Ic Active
+	Trip Units Not In Metric
+	Turn Signal Left Out Message On Ic Active
+	Turn Signal Right Out Message On Ic Active
+	Turn Signals Hazards Head Lights Break Lights Active
+	Vehicle Processing Please Wait Message On Ic Active
+	Wiper Sensor
+	Wipers In Motion
+	Wipers Medium To High Active
